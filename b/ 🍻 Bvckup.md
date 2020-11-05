@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/bvckup-8576.png) Bvckup 2 Release 81.7.0 - Free Download
 
-```sh
-Bvckup is a small but very interesting tool for creating automatic backups of data stored on hard disks, allowing you to avoid losing important files as a result of mechanical damage to a data store or malware activities, such as viruses or encrypted ransomware.
-```
+> Bvckup is a small but very interesting tool for creating automatic backups of data stored on hard disks, allowing you to avoid losing important files as a result of mechanical damage to a data store or malware activities, such as viruses or encrypted ransomware.
+
 [![Bvckup](https://gallery.dpcdn.pl/imgc/Tools/59074/g_-_420x350_1.5_-_x20150526174325_0.jpg)](https://softexe.net/win/disks-files/data-recovery/bvckup:hegf.html)
 
 Application developers decided that it is better to be great in one element than the medium in many aspects and that's why their work does not have many unnecessary functions. We will not find any mechanisms to compress, encrypt or decrypt or copy files to an FTP server. Instead, Bvckup does one thing: it creates the perfect copy from place A in place B. And it does it really well. The operation of the program is simple thanks to the neatly designed user interface.

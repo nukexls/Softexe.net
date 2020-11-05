@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Undertale  - Free Download
 
-```sh
-Undertale is an RPG game, which was released in 2015, but due to the specific graphic setting evokes classic representatives of the mentioned genre.
-```
+> Undertale is an RPG game, which was released in 2015, but due to the specific graphic setting evokes classic representatives of the mentioned genre.
+
 [![Undertale](https://gallery.dpcdn.pl/imgc/Tools/89862/g_-_420x350_1.5_-_xf597dd94-8a13-458a-a61b-2c41f32a7dbb.jpg)](https://softexe.net/win/games-entertainment/rpg/undertale:aReh.html)
 
 During the game, we play as a man who found himself in an underground world inhabited by monsters. Obviously, the protagonist's task is to escape from this place, but it will not be an easy mission to accomplish. Especially that the fight in Undertale is not necessary, because the game offers unique mechanics allowing for negotiations with opponents.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/alcohol-120-459.png) Alcohol 120% 2.1.0.30316 - Free Download
 
-```sh
-Alcohol 120% is a popular CD / DVD emulator that creates a disk image with data, audio or video information on the user's PC’s hard drive, and then provides access to them as if the drive is in the drive. You can create up to 31 drives
-```
+> Alcohol 120% is a popular CD / DVD emulator that creates a disk image with data, audio or video information on the user's PC’s hard drive, and then provides access to them as if the drive is in the drive. You can create up to 31 drives
+
 [![Alcohol 120%](https://gallery.dpcdn.pl/imgc/Tools/125/g_-_420x350_1.5_-_xfd3de89e-43d3-4fa8-bc0f-384d2e2101df.png)](https://softexe.net/win/system/cd-dvd/alcohol-120:dea.html)
 
 Alcohol 120% is a powerful program for burning CD / DVD / Blu-ray discs, creating virtual drives on a computer and emulating data from an optical disc. This application can burn a disk image with data, audio or video information to a hard drive (hard drive, USB flash drive), and then provide access to this data to other programs as if the desired optical disc is actually in the drive. This is especially true for many computer games that run only from the disk.

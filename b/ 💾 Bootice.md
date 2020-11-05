@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/bootice-1183.png) Bootice 1.3.4.0 - Free Download
 
-```sh
-Bootice is a useful tool for creating boot and installation flash drives. The utility is necessary when restoring an MBR (Master Boot Record) or PBR (Partition Boot Record)
-```
+> Bootice is a useful tool for creating boot and installation flash drives. The utility is necessary when restoring an MBR (Master Boot Record) or PBR (Partition Boot Record)
+
 [![Bootice](https://gallery.dpcdn.pl/imgc/Tools/24869/g_-_420x350_1.5_-_x20130917023701_0.png)](https://softexe.net/win/system/boot-managers/bootice:pphc.html)
 
 Bootice is a useful tool for creating boot and installation flash drives. The utility is necessary when restoring an MBR (Master Boot Record) or PBR (Partition Boot Record).

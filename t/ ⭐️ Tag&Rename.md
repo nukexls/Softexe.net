@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/tag-rename-10102.png) Tag&Rename 3.9.15 - Free Download
 
-```sh
-Tag &amp; Rename is - according to what the name suggests - a program to change the name of music tracks and dress them with various tags.
-```
+> Tag &amp; Rename is - according to what the name suggests - a program to change the name of music tracks and dress them with various tags.
+
 [![Tag&Rename](https://gallery.dpcdn.pl/imgc/Tools/83143/g_-_420x350_1.5_-_x8fb0bf1e-9a36-40f8-bdb3-e31169b8f3f9.jpg)](https://softexe.net/win/multimedia/audio-utilities/tag-rename:pRpRb.html)
 
 Tags turn out to be salutary when the user has a substantial library of songs. Thanks to them, we can quickly locate songs that we want to review or listen to. That's why it's worth taking care of the order in the collection, making use of the Tag &amp; Rename tool that supports the most popular sound file formats.

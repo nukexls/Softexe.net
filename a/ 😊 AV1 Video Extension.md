@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/av1-video-extension-9637.png) AV1 Video Extension Beta - Free Download
 
-```sh
-The extension allows you to decode and view materials encoded with the AV1 codec.
-```
+> The extension allows you to decode and view materials encoded with the AV1 codec.
+
 [![AV1 Video Extension](https:aomedia.org/about/av1-roadmap/)](https://softexe.net/win/multimedia/codecs/av1-video-extension:afcg.html)
 
 AV1 is a codec developed especially for video published on the Internet by Alliance for Open Media . Members of the organization are such companies as Google, Microsoft, Netflix and many others.

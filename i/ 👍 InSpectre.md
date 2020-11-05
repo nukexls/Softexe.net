@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=InSpectre icon&w=40&h=40) InSpectre 8 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) InSpectre 8 - Free Download
 
-```sh
-InSpectre is a simple tool to check the vulnerability of Windows systems to the famous attacks Meltdown and Specter.
-```
+> InSpectre is a simple tool to check the vulnerability of Windows systems to the famous attacks Meltdown and Specter.
+
 [![InSpectre](https://gallery.dpcdn.pl/imgc/Tools/80088/g_-_420x350_1.5_-_x828bd250-dc4c-47ea-af29-168ad3e257c4.png)](https://softexe.net/win/security-privacy/other/inspectre:pRcad.html)
 
 The tool does not need installation or internet access. Once launched, it evaluates the security status at the microcode level of the processor and the operating system itself. It also shows the estimated impact of patches on Meltdown and Specter on computer performance.

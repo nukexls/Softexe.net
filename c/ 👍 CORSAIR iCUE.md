@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) CORSAIR iCUE 3.32.80 - Free Download
 
-```sh
-CORSAIR iCUE is software aimed at the owners of CORSAIR products.
-```
+> CORSAIR iCUE is software aimed at the owners of CORSAIR products.
+
 [![CORSAIR iCUE](https://gallery.dpcdn.pl/imgc/Tools/86566/g_-_420x350_1.5_-_x380d00c5-4cae-4d9f-851d-3c0b0bbef8f6.jpg)](https://softexe.net/win/system/other/corsair-icue:hhcp.html)
 
 Thanks to the described application, we will have access to the configuration options of various CORSAIR peripherals and peripherals from the level of one tool. Speech in this case mainly about the keyboards, mice and headphones of the said manufacturer, whose offer also includes washers, power supplies, fans, RAM memory and more.

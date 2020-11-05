@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Ferro+Backup+System icon&w=40&h=40) Ferro Backup System 5.7 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Ferro Backup System 5.7 - Free Download
 
-```sh
-Ferro Backup System is a network application designed to create data backup and archiving, which works on the basis of client / server architecture. It allows you to back up servers, workstations and portable computers running under Windows, Linux and macOS.
-```
+> Ferro Backup System is a network application designed to create data backup and archiving, which works on the basis of client / server architecture. It allows you to back up servers, workstations and portable computers running under Windows, Linux and macOS.
+
 [![Ferro Backup System](https://gallery.dpcdn.pl/imgc/Tools/69026/g_-_420x350_1.5_-_x20160628120723_0.png)](https://softexe.net/win/disks-files/data-recovery/ferro-backup-system:hhae.html)
 
 The program through the central management module allows easy and automatic backup for multiple computers simultaneously. Due to the use of differential backup and compression on the workstation side, it enables the archiving of data from all computers in the local network in a short time.

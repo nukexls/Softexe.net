@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Yandere Simulator  - Free Download
 
-```sh
-Yandere Simulator is a third-person stealth game with graphic design that will satisfy anime lovers. In terms of game mechanics, the game can be compared to the cult series Hitman allowing you to play the role of a killer on the job.
-```
+> Yandere Simulator is a third-person stealth game with graphic design that will satisfy anime lovers. In terms of game mechanics, the game can be compared to the cult series Hitman allowing you to play the role of a killer on the job.
+
 [![Yandere Simulator](https://gallery.dpcdn.pl/imgc/Tools/90232/g_-_420x350_1.5_-_xa17d525d-289b-453b-8040-97f5722c2244.jpg)](https://softexe.net/win/games-entertainment/shooters/yandere-simulator:hacc.html)
 
 During the game, we direct the title Yandere, which is a girl in love with a boy from the same school. A jealous teenager decides to get rid of anyone who, even for a moment, shows interest in her chosen heart, while not arousing suspicion among her peers and teachers.

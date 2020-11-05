@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/world-of-tanks-blitz-10838.png) World of Tanks Blitz 4.1.0 - Free Download
 
-```sh
-World of Tanks Blitz is a computer edition of the mobile version of the popular MMO World of Tanks game. Thanks to it, we can play our mobile account using the keyboard and mouse.
-```
+> World of Tanks Blitz is a computer edition of the mobile version of the popular MMO World of Tanks game. Thanks to it, we can play our mobile account using the keyboard and mouse.
+
 [![World of Tanks Blitz](https:https://tse2.mm.bing.net/th?id=OIP.KhMW9WCB19JPPoH6Cepy7gHaEo&pid=Api)](https://softexe.net/win/games-entertainment/shooters/world-of-tanks-blitz:pRhch.html)
 
 Although World of Tanks Blitz for mobile devices is an independent, separately developed production, the mechanisms of its gameplay do not differ much from those known from the version for PCs and consoles. World of Tanks gives a unique opportunity to empathize with the role of the commander of the armored combat vehicle. However, in order to be able to direct a real monster, we first have to pass an exam of our skills on one of four available light tanks: American, French, German or Soviet. In the initial phase of the game we can experience a slight frustration resulting from the small combat capabilities of our vehicle, but as time passes and with the experience gained, we can gradually change this state of affairs mainly by buying upgrades intended for our model. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/minecraft-9177.png) Minecraft 1.16.1 - Free Download
 
-```sh
-Minecraft is an extremely popular sandbox game in which the basic task is to cut and stack blocks so as to transform the generated virtual world without any restrictions.
-```
+> Minecraft is an extremely popular sandbox game in which the basic task is to cut and stack blocks so as to transform the generated virtual world without any restrictions.
+
 [![Minecraft](https://gallery.dpcdn.pl/imgc/Tools/15909/g_-_420x350_1.5_-_x20130505121454_04.png)](https://softexe.net/win/games-entertainment/shooters/minecraft:apgg.html)
 
 The world in Minecraft game consists of three-dimensional, textured blocks, and the player can determine its mode at the beginning of the game. Regardless, the game has no specific goal and can not be won, although there is an optional achievement system. The player determines the direction in which he will follow and develop the existing world. For this purpose, he may, among other things, extract raw materials and construct buildings from these blocks. Other activities available in the game include exploration of the world, creation of tools and new materials based on the collected raw materials and duels with encountered characters, animals or monsters, so-called. Mobs that are not always hostile to our hero. The virtual world, despite the fact that it consists of cubic blocks, resembles the real world in every respect - there is a circadian cycle and atmospheric phenomena, and the technically unlimited map consists of various landscapes. Life in the game can take place both on the surface and underground.

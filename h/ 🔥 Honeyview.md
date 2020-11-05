@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/honeyview-3337.png) Honeyview 5.35 - Free Download
 
-```sh
-Honeyview is a fast and convenient image viewer with support for many different formats.
-```
+> Honeyview is a fast and convenient image viewer with support for many different formats.
+
 [![Honeyview](https://gallery.dpcdn.pl/imgc/Tools/46163/g_-_420x350_1.5_-_x20140210151421_0.png)](https://softexe.net/win/multimedia/graphics-design/honeyview:cccg.html)
 
 Honeyview is a fast and convenient graphics viewer with support for many different formats. The program works with both the most popular file types and rare ones: BMP, JPG, GIF, PNG, PSD, DDS, JXR, WebP, J2K, JP2, TGA, TIFF, PCX, PNM, PPM and many others.

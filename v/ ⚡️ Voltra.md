@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Voltra icon&w=40&h=40) Voltra 3.3.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Voltra 3.3.0 - Free Download
 
-```sh
-Voltra is a free music player designed for Windows users. It is distinguished by a minimalist interface and providing the main functionality required from a music player in an exceptionally nice package.
-```
+> Voltra is a free music player designed for Windows users. It is distinguished by a minimalist interface and providing the main functionality required from a music player in an exceptionally nice package.
+
 [![Voltra](https:https://tse4.mm.bing.net/th?id=OIP.hElqtSgtSdwVTcRjQa-dsgHaEK&pid=Api)](https://softexe.net/win/multimedia/audio-video-players/voltra:pRgpa.html)
 
 The creators paid attention to the smallest details. Even such an activity as adding new songs was dressed in a nice graphic design. The application plays all popular file formats - MP3, MP4, ACC, OGG, also supports lossless FLAC and WAV formats.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Casper icon&w=40&h=40) Casper 10.1.7338 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Casper 10.1.7338 - Free Download
 
-```sh
-Casper is a tool that allows you to create a full Windows backup with installed applications, photos, music tracks, emails, documents, as well as settings.
-```
+> Casper is a tool that allows you to create a full Windows backup with installed applications, photos, music tracks, emails, documents, as well as settings.
+
 [![Casper](https://gallery.dpcdn.pl/imgc/Tools/76986/g_-_420x350_1.5_-_x20170730220727_0.jpg)](https://softexe.net/win/disks-files/data-recovery/casper:hhfe.html)
 
 The program should be used prophylactically, in the event of a hard disk failure (not only physical, but even when it is infected with a virus) you did not have to re-create the operating system, but use the previously prepared ISO disk image, where we placed earlier Windows with all our data. You can create it manually, or you can define a schedule according to which Casper will regularly create a backup.

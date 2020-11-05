@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Warface 1.13400.3968.17500 - Free Download
 
-```sh
-Warface is a free online shooter for years of experience. The company Crytek, known from the Crysis games series, as well as its own CryENGINE technology, has seriously approached the theme of multiplayer struggles in FPP mode, which results in an amazing graphically and great in terms of the game production. To vary the formula, players guide characters in one of several available classes of soldiers.
-```
+> Warface is a free online shooter for years of experience. The company Crytek, known from the Crysis games series, as well as its own CryENGINE technology, has seriously approached the theme of multiplayer struggles in FPP mode, which results in an amazing graphically and great in terms of the game production. To vary the formula, players guide characters in one of several available classes of soldiers.
+
 [![Warface](https://gallery.dpcdn.pl/imgc/Tools/64375/g_-_420x350_1.5_-_x20160922155046_0.png)](https://softexe.net/win/games-entertainment/shooters/warface:ppcec.html)
 
 So we have a specimen of rifles, field medic, engineer or sniper, who have their roles during the clashes. Only a good balance of strength can guarantee victory, and the better we go, the more experience points and the local currency we gain. We can choose a lot of weapons to choose from, and all are modeled on real models, modified, of course, for licensing reasons. It shoots great here.

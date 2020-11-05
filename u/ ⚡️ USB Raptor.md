@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/usb-raptor-9444.png) USB Raptor 0.14.77 - Free Download
 
-```sh
-USB Raptor is a small and relatively easy to use tool, enabling the use of a standard pendrive as a special key, which is required to unlock the computer, eg after the absence of the user.
-```
+> USB Raptor is a small and relatively easy to use tool, enabling the use of a standard pendrive as a special key, which is required to unlock the computer, eg after the absence of the user.
+
 [![USB Raptor](https://gallery.dpcdn.pl/imgc/Tools/77841/g_-_420x350_1.5_-_x20170926174905_0.png)](https://softexe.net/win/security-privacy/other/usb-raptor:addd.html)
 
 The program is addressed to both less and more experienced users. It offers two modes of operation - simplified and advanced, giving access to many useful options. In the default, simple mode, the user creates the mentioned USB key in three simple steps. All you have to do is set a password, select the USB stick that you want to use to protect your computer and activate the tool.

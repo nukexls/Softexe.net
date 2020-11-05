@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Norma+PRO icon&w=40&h=40) Norma PRO 4.69 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Norma PRO 4.69 - Free Download
 
-```sh
-Norma PRO is a professional and popular costing program created by one of the leading Polish companies that produce software for construction.
-```
+> Norma PRO is a professional and popular costing program created by one of the leading Polish companies that produce software for construction.
+
 [![Norma PRO](https://gallery.dpcdn.pl/imgc/Tools/68207/g_-_420x350_1.5_-_x20160524105941_0.png)](https://softexe.net/win/business/other/norma-pro:aRbh.html)
 
 The program makes it possible to create cost estimates using a detailed, simplified and mixed method. It has advanced features that allow you to make variant cost estimates, complex and comparative cost estimates and create integrated items. It allows you to download batches / measurements from PDF files and is able to cooperate with the Norma EXPERT, Norma STANDARD, Measure PRO and the Internet Database of Prices of Building Materials - Intercenbud.pl .

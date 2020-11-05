@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/gom-studio-9529.png) GOM Studio 1.7.0.4148 - Free Download
 
-```sh
-GOM Studio is a free tool for conducting live broadcasts via the Internet in maximum 1080p resolution.
-```
+> GOM Studio is a free tool for conducting live broadcasts via the Internet in maximum 1080p resolution.
+
 [![GOM Studio](https://gallery.dpcdn.pl/imgc/Tools/81943/g_-_420x350_1.5_-_x59bd725b-3fae-414b-a302-37e28dee32dd.jpg)](https://softexe.net/win/multimedia/other/gom-studio:aeba.html)
 
 The program is characterized by a very simple to use and clear user interface. GOM Studio supports both the most popular streaming services, such as YouTube, Twitch, Facebook and dailymotion, as well as lesser-known services: Connect Game, INSTAGIB, Ustream, Azubu.TV and hitbox. 

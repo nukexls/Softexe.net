@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/bitser-9849.png) Bitser 1.5 - Free Download
 
-```sh
-Bitser is a free software for managing archive files.
-```
+> Bitser is a free software for managing archive files.
+
 [![Bitser](https://gallery.dpcdn.pl/imgc/Tools/9781/g_-_420x350_1.5_-_x20120822112531_00.jpg)](https://softexe.net/win/disks-files/compression/bitser:ahda.html)
 
 The application offers an extremely convenient and functional user interface through which we can add and update archives by drag and drop. Bitser is fully compatible with Windows Explorer and thanks to this we also get quick access to the most important program functions from the context menu in Windows. 

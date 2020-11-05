@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/disktuna-dfr-9809.png) DiskTuna DFR  - Free Download
 
-```sh
-DiskTuna DFR (Deleted File Recovery) is a small but useful file recovery tool for computers running the Windows operating system.
-```
+> DiskTuna DFR (Deleted File Recovery) is a small but useful file recovery tool for computers running the Windows operating system.
+
 [![DiskTuna DFR](https://gallery.dpcdn.pl/imgc/Tools/84913/g_-_420x350_1.5_-_x83b8e2fe-bd51-4a94-b464-03b61be3a09a.jpg)](https://softexe.net/win/disks-files/data-recovery/disktuna-dfr:ahRa.html)
 
 The program is immediately ready for operation right after starting and is characterized by extreme simplicity of use. All we need to do is select a specific medium or partition, then click "scan". After doing this, DiskTuna DFR (Deleted File Recovery) will generate a list of files to be recovered.

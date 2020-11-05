@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Business Tour  - Free Download
 
-```sh
-Business Tour is a digital board game that evokes associations with iconic Monopoly because of the appearance of the board itself and the rules of the game.
-```
+> Business Tour is a digital board game that evokes associations with iconic Monopoly because of the appearance of the board itself and the rules of the game.
+
 [![Business Tour](https://gallery.dpcdn.pl/imgc/Tools/89857/g_-_420x350_1.5_-_x31495d6f-f89c-4fb8-8629-517d84a18126.jpg)](https://softexe.net/win/games-entertainment/strategies/business-tour:aRfp.html)
 
 The whole was designed in such a way as to allow simultaneous play for up to four players. Business Tour does not allow for lonely gameplay, but multiplayer is available both online and offline. We can invite family members, friends and acquaintances to the game, or search for people on the web.

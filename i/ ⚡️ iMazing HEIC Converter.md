@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/imazing-heic-converter-9793.png) iMazing HEIC Converter 1.0.10 - Free Download
 
-```sh
-iMazing HEIC Converter is a small tool designed to convert pictures from HEIC format to popular JPG or PNG.
-```
+> iMazing HEIC Converter is a small tool designed to convert pictures from HEIC format to popular JPG or PNG.
+
 [![iMazing HEIC Converter](https://gallery.dpcdn.pl/imgc/Tools/80387/g_-_420x350_1.5_-_xa922c3a8-b7d5-4bf8-82cc-dd04424e9216.png)](https://softexe.net/win/multimedia/other/imazing-heic-converter:agac.html)
 
 The mentioned HEIC format is a container developed by Apple for storing images in the device's memory. It debuted with the release of iOS 11 and is designed to save memory on iPhone smartphones while maintaining the highest quality of photography. Unfortunately, this format is supported only by mobile devices working at least under the control of iOS 11 or computers with OS 10.13. We will not open images with the .heic extension on a Windows computer, as well as Android mobile devices.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/pinterest-password-decryptor-10645.png) Pinterest Password Decryptor 5.0 - Free Download
 
-```sh
-Pinterest Password Decryptor is a small and free data recovery tool required to log in to Pinterest.
-```
+> Pinterest Password Decryptor is a small and free data recovery tool required to log in to Pinterest.
+
 [![Pinterest Password Decryptor](https://gallery.dpcdn.pl/imgc/Tools/80542/g_-_420x350_1.5_-_x1637bb39-0349-4214-869c-22ff083c50e5.png)](https://softexe.net/win/security-privacy/passwords/pinterest-password-decryptor:pRfde.html)
 
 The program allows you to recover your username and password to our profile on the Pinterest social network, which is stored in your web browser. It allows you to efficiently search and decrypt the data you need, if in the past, we have managed to log in to Pinterest on one occasion. Pinterest Password Decryptor automatically searches for supported applications on your computer, and instantly recovers all logins and passwords from the information collected by it and presents them in the form of a list.

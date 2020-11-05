@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/imtranslator-dla-google-chrome-8736.png) ImTranslator for Google Chrome 15.62 - Free Download
 
-```sh
-ImTranslator is an extension that extends the capabilities of the Google Chrome browser with the function of translating web content between different languages.
-```
+> ImTranslator is an extension that extends the capabilities of the Google Chrome browser with the function of translating web content between different languages.
+
 [![ImTranslator for Google Chrome](https://gallery.dpcdn.pl/imgc/Tools/76943/g_-_420x350_1.5_-_x20170727182318_0.jpg)](https://softexe.net/win/internet/browser-add-ons/imtranslator-for-google-chrome:hgcf.html)
 
 This plugin is a very good alternative to the service provided by Google, which is characterized by simplicity and ease of use. It enables instant translation of texts of up to 10,000 characters, supporting 91 languages ​​and 3 translation providers (including the most popular from Google or Microsoft). 

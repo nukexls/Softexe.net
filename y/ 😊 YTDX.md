@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/ytdx-8822.png) YTDX 1.0 - Free Download
 
-```sh
-YTDX (YouTube Downloader X) is a very easy to use and extremely useful tool, thanks to which we will download selected music from YouTube.
-```
+> YTDX (YouTube Downloader X) is a very easy to use and extremely useful tool, thanks to which we will download selected music from YouTube.
+
 [![YTDX](https://gallery.dpcdn.pl/imgc/Tools/90416/g_-_420x350_1.5_-_xb1488f98-843b-4917-ac42-1b95cbd9828d.jpg)](https://softexe.net/win/internet/file-downloader/ytdx:hhbb.html)
 
 Unlike many other applications of this type, YouTube Downloader X automatically extracts the soundtrack (it is not possible to download all video material) and saves it in a previously defined format by the user (MP3, FLAV, WAV, VORBIS). Before you start using YTDX, you must also specify the target track for saving the downloaded song.

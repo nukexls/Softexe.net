@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/wise-disk-cleaner.png) Wise Disk Cleaner 10.3.3 - Free Download
 
-```sh
-Wise Disk Cleaner is a tool for complete cleaning of hard drives from accumulated system debris. There is an opportunity to delete unnecessary files in automatic mode, defragment the hard disk, the definition of 50 types of junk files
-```
+> Wise Disk Cleaner is a tool for complete cleaning of hard drives from accumulated system debris. There is an opportunity to delete unnecessary files in automatic mode, defragment the hard disk, the definition of 50 types of junk files
+
 [![Wise Disk Cleaner](https://gallery.dpcdn.pl/imgc/Tools/352/g_-_420x350_1.5_-_x20120322145757_00.png)](https://softexe.net/win/disks-files/disk-cleanup/wise-disk-cleaner:ghee.html)
 
 Wise Disk Cleaner is a fast, convenient and easy-to-use utility for cleaning hard drives from unnecessary, temporary and unused files. Defines more than 50 types of junk files, and if you wish, you can add new formats yourself. After scanning the system for unwanted files, you can view detailed information about each one and decide for yourself what to delete. 

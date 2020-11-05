@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/magix-photo-manager-deluxe-10844.png) MAGIX Photo Manager Deluxe 13.1.1.4 - Free Download
 
-```sh
-MAGIX Photo Manager Deluxe is a program designed for cataloging photos and videos, in which you can easily manage a collection, group photos and prepare them for publication.
-```
+> MAGIX Photo Manager Deluxe is a program designed for cataloging photos and videos, in which you can easily manage a collection, group photos and prepare them for publication.
+
 [![MAGIX Photo Manager Deluxe](https:https://tse1.mm.bing.net/th?id=OIP.AT74HVrxu7wpp0FOcnNLwgHaEO&pid=Api)](https://softexe.net/win/multimedia/graphics-design/magix-photo-manager-deluxe:pRhdd.html)
 
 In addition to extensive photo cataloging functions, the program also offers tools for basic photo processing. MAGIX Photo Manager Deluxe has been equipped with, among others tools for removing red eye, adding texts, rotating and scaling graphics, sharpening or correcting colors. All tools are very intuitive.

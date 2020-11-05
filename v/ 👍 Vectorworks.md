@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/vectorworks-8639.png) Vectorworks 2020 - Free Download
 
-```sh
-Vectorworks is a comprehensive BIM software for designing architecture, landscapes and landscaping. The program allows you to carry out the entire process in one place, from sketching through models to documentation and customer renders.
-```
+> Vectorworks is a comprehensive BIM software for designing architecture, landscapes and landscaping. The program allows you to carry out the entire process in one place, from sketching through models to documentation and customer renders.
+
 [![Vectorworks](https://gallery.dpcdn.pl/imgc/Tools/72540/g_-_420x350_1.5_-_x46d1cab8-b7a3-4256-a40d-27f92bdc9ef7.png)](https://softexe.net/win/multimedia/cad/vectorworks:hfca.html)
 
 The program allows you to model and create sketches, but its heart is BIM (Building Information Modeling), Vectorworks will also be useful in modeling the environment (SIM, Site Information Modeling). The tools we find here allow us to prepare physical and functional models of buildings and the surrounding space, as well as plans and project documentation. Models can be edited and analyzed from many angles, including improved irrigation of the terrain (new in the 2017 version) or construction details.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/pc-navigator-9583.png) PC Navigator 19.1.4 Free - Free Download
 
-```sh
-PC Navigator Free is a free GPS navigation software created by Czechs for computers and mobile devices with Windows Mobile and Android. It is based on the OpenStreetMap maps created by the community of users and enthusiasts, which are available to everyone free of charge and are characterized by high accuracy and very frequent updates.
-```
+> PC Navigator Free is a free GPS navigation software created by Czechs for computers and mobile devices with Windows Mobile and Android. It is based on the OpenStreetMap maps created by the community of users and enthusiasts, which are available to everyone free of charge and are characterized by high accuracy and very frequent updates.
+
 [![PC Navigator](https://gallery.dpcdn.pl/imgc/Tools/20186/g_-_420x350_1.5_-_x20130804134351_0.png)](https://softexe.net/win/hobbies-lifestyle/navigation-gps/pc-navigator:aehc.html)
 
 The program itself has been equipped with a clear and legible graphical interface, which can be handled well not on the computer but also on the phone or tablet. It is characterized by fast and smooth operation, allowing comfortable application work even on older mobile devices. Importantly, the application uses OSM maps, very popular all over the world, which are created by their users, which ensures us that maps will always be up to date and using them we will not land in the "honest field".

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Five Nights at Freddy's 2  - Free Download
 
-```sh
-Five Nights at Freddy's 2 is a first-person horror film by an independent artist, Scott Cawthon. The previous part was not only appreciated by the media, but also won many awards.
-```
+> Five Nights at Freddy's 2 is a first-person horror film by an independent artist, Scott Cawthon. The previous part was not only appreciated by the media, but also won many awards.
+
 [![Five Nights at Freddy's 2](https://gallery.dpcdn.pl/imgc/Tools/90240/g_-_420x350_1.5_-_x48cc0565-e30b-4f75-8680-843e2f578fd9.jpg)](https://softexe.net/win/games-entertainment/adventure/five-nights-at-freddy-s-2:hacb.html)
 
 In Five Nights at Freddy's 2, we're again the guardian of Freddy Fazbear's Pizza, but this is not the same character we were controlling in the first installment. Our task is to monitor the cameras and guard the order, and then - as it turns out - survive the title five nights.

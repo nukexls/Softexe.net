@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=SimpleMind+Pro icon&w=40&h=40) SimpleMind Pro 1.20.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) SimpleMind Pro 1.20.2 - Free Download
 
-```sh
-SimpleMind is a tool for creating so-called maps of thoughts, that is special drawings and slogans, thanks to which we will quickly assimilate the issues visible on the screen. This technique is particularly often used by students during learning before an important test.
-```
+> SimpleMind is a tool for creating so-called maps of thoughts, that is special drawings and slogans, thanks to which we will quickly assimilate the issues visible on the screen. This technique is particularly often used by students during learning before an important test.
+
 [![SimpleMind Pro](https://gallery.dpcdn.pl/imgc/Tools/81483/g_-_420x350_1.5_-_x0a7dff2c-00b2-4e6e-9d4f-941cc65f8eec.jpg)](https://softexe.net/win/business/other/simplemind-pro:pRdeh.html)
 
 After launching SimpleMind, we see a default mind map, which we can freely modify by adding or removing selected clouds, changing their content, size or font color. Numerous graphic styles allow you to customize the appearance of the mind map to your preferences. We find here not only effective but also minimalistic templates.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/opera-4976.png) Opera 71.0.3770.148 - Free Download
 
-```sh
-Opera is the most popular browser, which is equipped with all the necessary features for convenient and safe work on the Internet. Allows you to comfortably surf the Web, maintaining a high download speed of web pages, even with a poor Internet connection
-```
+> Opera is the most popular browser, which is equipped with all the necessary features for convenient and safe work on the Internet. Allows you to comfortably surf the Web, maintaining a high download speed of web pages, even with a poor Internet connection
+
 [![Opera](https://gallery.dpcdn.pl/imgc/Tools/99/g_-_420x350_1.5_-_x73993846-e171-4266-8f10-7fb822775e7b.png)](https://softexe.net/win/internet/browsers/opera:dagf.html)
 
 Opera 58 is a completely new version of a convenient and multifunctional browser from the Norwegian developers, with all the necessary features for a convenient, productive and safe work on the Internet.

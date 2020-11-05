@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/sharepod-11318.png) SharePod 4.2.0.0 - Free Download
 
-```sh
-Sharepod is an application that lets you transfer music tracks and playlists from your iPhone, iPod or iPad to iTunes on a PC or Mac.
-```
+> Sharepod is an application that lets you transfer music tracks and playlists from your iPhone, iPod or iPad to iTunes on a PC or Mac.
+
 [![SharePod](https://gallery.dpcdn.pl/imgc/Tools/62857/g_-_420x350_1.5_-_x20151021205419_0.png)](https://softexe.net/win/hobbies-lifestyle/mobile/sharepod:ppcph.html)
 
 Thanks to Sharepod, we can easily copy not only songs, but also movies, podcasts, and many other, any content, transferring them from the aforementioned Apple mobile devices to the computer of this manufacturer or PC with the Windows operating system. It is necessary to have iTunes installed.

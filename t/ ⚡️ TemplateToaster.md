@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/templatetoaster-6826.png) TemplateToaster 7.0.0.18647 - Free Download
 
-```sh
-TemplateToaster - a program for creating design and generating website templates
-```
+> TemplateToaster - a program for creating design and generating website templates
+
 [![TemplateToaster](https:https://tse3.mm.bing.net/th?id=OIP.W_GitHpgJWw2h2bdcjAHZgHaE6&pid=Api)](https://softexe.net/win/development-it/scripts/templatetoaster:fhbf.html)
 
 TemplateToaster is a program for creating design and generating website templates. Supports HTML5 / CSS3, Joomla, WordPress, Drupal, the themes of online stores on CMS Magento and e107, compatible with popular e-commerce components - VirtueMart (for Joomla) and WooCommerce (for WordPress). Sites created using TemplateToaster are tested by W3C and are compatible with all major browsers. 

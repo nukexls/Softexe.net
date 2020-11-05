@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/security-eye-10143.png) Security Eye 4.6 - Free Download
 
-```sh
-Security Eye is a program that allows monitoring the image from external IP cameras or webcams (over 1200 models are supported).
-```
+> Security Eye is a program that allows monitoring the image from external IP cameras or webcams (over 1200 models are supported).
+
 [![Security Eye](https://gallery.dpcdn.pl/imgc/Tools/76239/g_-_420x350_1.5_-_x20170612145336_0.jpg)](https://softexe.net/win/multimedia/other/security-eye:pRpdc.html)
 
 The tool is ideal when you need to, for example, track the behavior of customers in the store or look after the order on the construction site. It is very important that the Security Eye allows you to view images from up to 64 cameras at the same time, and also offers the ability to record images (on a regular basis or in accordance with a fixed schedule), so that we can register the most important events that took place at home, office or any other place.

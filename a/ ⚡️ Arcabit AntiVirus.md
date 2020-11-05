@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/arcabit-antivirus-10375.png) Arcabit AntiVirus  - Free Download
 
-```sh
-Arcabit AntiVirus 2016 is the latest version of the program designed to protect your computer against all kinds of infections, viruses, Trojans.
-```
+> Arcabit AntiVirus 2016 is the latest version of the program designed to protect your computer against all kinds of infections, viruses, Trojans.
+
 [![Arcabit AntiVirus](https://gallery.dpcdn.pl/imgc/Tools/1399/g_-_420x350_1.5_-_x20160804101829_0.png)](https://softexe.net/win/security-privacy/antivirus/arcabit-antivirus:pRcge.html)
 
 The application has also been equipped with a module responsible for protection against theft of confidential data and allows you to safely use electronic banking. Thanks to the new antivirus engine, the program does not slow down the system. Scanning mechanisms are characterized by high efficiency and cover all computer resources as well as e-mail.

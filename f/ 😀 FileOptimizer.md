@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/fileoptimizer-8853.png) FileOptimizer 14.40.2577 - Free Download
 
-```sh
-FileOptimizer is a free application designed to reduce the size of various types of files thanks to the use of several data optimization techniques.
-```
+> FileOptimizer is a free application designed to reduce the size of various types of files thanks to the use of several data optimization techniques.
+
 [![FileOptimizer](https://gallery.dpcdn.pl/imgc/Tools/20206/g_-_420x350_1.5_-_x20130811145407_0.png)](https://softexe.net/win/disks-files/other/fileoptimizer:hhec.html)
 
 The program's default settings, apart from decompression and data optimization, also remove additional metadata and other often unused information stored in files. The original files will be moved to the trash. FileOptimizer is an overlay for tools like AdvanceCOMP, APNG Optimizer, DeflOpt, defluff, Document Press Version, Flasm, Gifsicle, Ghostcript, GNU Strip, ImageMagick, ImageWorsener, jpegoptim, jpegtran, MP3packer, OptiPNG, PngOptimizer, PETrim, PNGOUT, pngrewrite, pngwolf , rehuff :, ZLib and zRecompress.

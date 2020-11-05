@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Tactical Intervention  - Free Download
 
-```sh
-Tactical Intervention is a free shooting game, which should be primarily interested in Counter-Strike fans because the head of the project was Minh Le, co-creator of the network hit in 2000.
-```
+> Tactical Intervention is a free shooting game, which should be primarily interested in Counter-Strike fans because the head of the project was Minh Le, co-creator of the network hit in 2000.
+
 [![Tactical Intervention](https://gallery.dpcdn.pl/imgc/Tools/31865/g_-_420x350_1.5_-_x20131018160805_0.jpg)](https://softexe.net/win/games-entertainment/shooters/tactical-intervention:pbaRf.html)
 
 Terrorists and anti-terrorists are once again struggling with each other, but vehicles and even dogs join the game. Once again, the basis of the fun is not only the trained eye and fast hand, but also the selection of equipment. Graphically, the production can not match the modern hits because it works on the source engine used by Half-Life games, but carries a sweet breeze from the old school of creating FPS projects.

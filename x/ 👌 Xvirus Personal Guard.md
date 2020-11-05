@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/xvirus-personal-guard-10998.png) Xvirus Personal Guard 7.0.5.0 - Free Download
 
-```sh
-Xvirus Personal Guard is an easy-to-use and free antivirus software that helps protect your computer against infections, malware and other dangers.
-```
+> Xvirus Personal Guard is an easy-to-use and free antivirus software that helps protect your computer against infections, malware and other dangers.
+
 [![Xvirus Personal Guard](https:https://tse3.mm.bing.net/th?id=OIP.twm3tZOz15a3TmZRynWhbwHaFQ&pid=Api)](https://softexe.net/win/system/archive-programs/xvirus-personal-guard:pRaah.html)
 
 Antivirus is often the first line of defense against intruders of all kinds, also having a proven and reliable antivirus system is important for almost every computer user. Xvirus Personal Guard offers protection against all kinds of dangers lurking in the network or on USB devices connected to the computer. It protects against viruses, trojans, spyware, malware and other dangerous pests.

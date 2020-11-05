@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/inpixio-free-photo-editor-10813.png) InPixio Free Photo Editor 1.7.6278 - Free Download
 
-```sh
-InPixio Free Photo Editor is a free photo editor.
-```
+> InPixio Free Photo Editor is a free photo editor.
+
 [![InPixio Free Photo Editor](https:https://tse2.mm.bing.net/th?id=OIP.-XUgfia_MPInfLMzA7dInAHaFg&pid=Api)](https://softexe.net/win/multimedia/graphics-design/inpixio-free-photo-editor:pRhpc.html)
 
 By using the capabilities of InPixio Free Photo Editor, we will change the brightness and sharpness level of the selected photo or other graphic file, as well as modify shades or color saturation. The program also allows you to crop images, which allows you to quickly delete unwanted parts of the image.

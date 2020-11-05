@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/mattermost-9276.png) Mattermost 4.2.0 - Free Download
 
-```sh
-Mattermost is an open-source tool that can be an interesting alternative to the popular Slack (the application also plays the role of the client of the mentioned service).
-```
+> Mattermost is an open-source tool that can be an interesting alternative to the popular Slack (the application also plays the role of the client of the mentioned service).
+
 [![Mattermost](https://gallery.dpcdn.pl/imgc/Tools/89328/g_-_420x350_1.5_-_xa8cff052-c202-4e74-9c88-a9130e804fba.jpg)](https://softexe.net/win/internet/messenger/mattermost:abgf.html)
 
 We are dealing here with a program that facilitates communication in a group. For people working remotely, it turns out to be really useful, because Mattermost offers not only the ability to send messages (including attachments) to all users, but also to individual people in our team. Importantly, Mattermost offers full integration with a variety of social services and applications; in addition, it allows you to create and share your own programs.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/jthtml-12026.png) JTHTML 8.6 - Free Download
 
-```sh
-JTHTML is a small editor (X) HTML, CSS, JavaScript, PHP and SQL, XML by Janusz Tomczak, which is characterized by support for HTML 5 and CSS 3. It is dedicated mainly to novice webmasters, working on small websites and applications web.
-```
+> JTHTML is a small editor (X) HTML, CSS, JavaScript, PHP and SQL, XML by Janusz Tomczak, which is characterized by support for HTML 5 and CSS 3. It is dedicated mainly to novice webmasters, working on small websites and applications web.
+
 [![JTHTML](https://gallery.dpcdn.pl/imgc/Tools/9418/g_-_420x350_1.5_-_x20120725022010_00.png)](https://softexe.net/win/development-it/web-applications/jthtml:pbRbf.html)
 
 The program offers all necessary functions that allow you to conveniently create unbuilt websites. Among them was, among others card browsing mechanism, enabling work with multiple files at the same time, the function of quickly inserting HTML markers, automatic closing of tags, quotes and brackets. JTHTML also has the option of validating the entered code and its convenient editing through the built-in Tidy editor.

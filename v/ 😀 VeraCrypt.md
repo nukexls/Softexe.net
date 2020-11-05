@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/veracrypt-9436.png) VeraCrypt 1.24 Update 7 - Free Download
 
-```sh
-VeraCrypt has been developed for a long time, an advanced tool for data encryption, which was created by the French based on the popular TrueCrypta. There are not many changes to the original, but they are significant and increase the security level of the encrypted data.
-```
+> VeraCrypt has been developed for a long time, an advanced tool for data encryption, which was created by the French based on the popular TrueCrypta. There are not many changes to the original, but they are significant and increase the security level of the encrypted data.
+
 [![VeraCrypt](https://gallery.dpcdn.pl/imgc/Tools/51745/g_-_420x350_1.5_-_x20140604161145_0.png)](https://softexe.net/win/security-privacy/encryption/veracrypt:adcf.html)
 
 Like the progenitor, VeraCrypt allows both encryption of entire disks, their partitions and portable USB disks (pendrives), as well as the creation of virtual encrypted disks (also hidden) of a certain capacity - in both cases secured by a password against unauthorized access. Encryption is carried out using very strong encryption algorithms AES-256, Serpent and Twofish. It is also possible to cascade encryption, i.e. data encryption in turn with several algorithms.

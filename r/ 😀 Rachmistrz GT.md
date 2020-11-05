@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Rachmistrz+GT icon&w=40&h=40) Rachmistrz GT 1.56 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Rachmistrz GT 1.56 - Free Download
 
-```sh
-Rachmistrz GT is a system of simplified bookkeeping service.
-```
+> Rachmistrz GT is a system of simplified bookkeeping service.
+
 [![Rachmistrz GT](https://gallery.dpcdn.pl/imgc/Tools/1268/g_-_420x350_1.5_-_x20101220121118_00.png)](https://softexe.net/win/business/finance/rachmistrz-gt:apbd.html)
 
 This program is recommended for companies that keep books of revenues and expenditures and flat tax payers who settle in a lump sum form of registered income. Rachmistrz GT is an excellent tool for companies that independently document business and accounting offices.

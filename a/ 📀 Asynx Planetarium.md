@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Asynx+Planetarium icon&w=40&h=40) Asynx Planetarium 2.80 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Asynx Planetarium 2.80 - Free Download
 
-```sh
-Asynx Planetarium is a free application thanks to which the user has the opportunity to become acquainted with the location of planets in the Solar System. Space observation (the map shows not only planets but also the Moon and constellations) is available in a heliocentric and horizontal system.
-```
+> Asynx Planetarium is a free application thanks to which the user has the opportunity to become acquainted with the location of planets in the Solar System. Space observation (the map shows not only planets but also the Moon and constellations) is available in a heliocentric and horizontal system.
+
 [![Asynx Planetarium](https:https://tse3.mm.bing.net/th?id=OIP.GFodY9aBPXJrjWkKa33FRwHaD3&pid=Api)](https://softexe.net/win/education-science/physics/asynx-planetarium:pRhbb.html)
 
 The tool will certainly be appreciated by astronomy enthusiasts, but - as part of a curiosity - users may also be familiar with it, who are not interested in the cosmos on a daily basis. The interface contains a lot of interesting options, but it is intuitive - it allows you to display animations at any speed, to view the phases of the moon and the stars. We can choose any element of the Solar System that we want to observe, and even enter specific coordinates of the object with which we want to read.

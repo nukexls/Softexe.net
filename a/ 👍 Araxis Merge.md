@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Araxis+Merge icon&w=40&h=40) Araxis Merge 2018.4988 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Araxis Merge 2018.4988 - Free Download
 
-```sh
-Araxis Merge is an advanced tool for comparing and merging up to three files (not only text files but also graphics files) and folder synchronization.
-```
+> Araxis Merge is an advanced tool for comparing and merging up to three files (not only text files but also graphics files) and folder synchronization.
+
 [![Araxis Merge](https:logic.araxis.com/CustomerSupport/MergeEvaluationF.xml)](https://softexe.net/win/development-it/development-tools/araxis-merge:pReda.html)
 
 The program is ideal when working on a variety of projects, whether in the company, at school or at home. Instead of manually comparing the introduced modifications in source files, agreements or websites, we can launch Araxis Merge to quickly find differences between various documents, photos or any other files saved in almost every format.

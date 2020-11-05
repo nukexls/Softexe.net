@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/akvis-neon-8768.png) AKVIS Neon 4.0.527 - Free Download
 
-```sh
-AKVIS Neon is a program thanks to which we will add remarkable lighting effects to photos. Thanks to it, you can make animal fur shine, hair of the model will turn into flames, and night photos will look like fairy-tale landscapes. If we decide on other settings, the contours will take on a dark-comic character.
-```
+> AKVIS Neon is a program thanks to which we will add remarkable lighting effects to photos. Thanks to it, you can make animal fur shine, hair of the model will turn into flames, and night photos will look like fairy-tale landscapes. If we decide on other settings, the contours will take on a dark-comic character.
+
 [![AKVIS Neon](https://gallery.dpcdn.pl/imgc/Tools/55951/g_-_420x350_1.5_-_x20141211120448_0.png)](https://softexe.net/win/multimedia/graphics-editors/akvis-neon:hgfh.html)
 
 The main advantage of the program is the ability to quickly modify photos. It does not require any manual drawing of paths or sketching - the only thing a photographer has to do is to choose the effect and adjust the settings: detail visibility, light intensity, blur and darkness. You can also take advantage of the color reversal option. The program also has the option of applying text and your own image to the image, which does not work out well. You can also apply various textures, such as canvas or sketch paper, and color the image with the selected color. You can save your own settings to a collection of finished effects. 

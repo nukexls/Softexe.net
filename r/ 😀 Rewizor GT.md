@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Rewizor+GT icon&w=40&h=40) Rewizor GT 1.56 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Rewizor GT 1.56 - Free Download
 
-```sh
-Rewizor GT is a financial and accounting system for small and medium enterprises.
-```
+> Rewizor GT is a financial and accounting system for small and medium enterprises.
+
 [![Rewizor GT](https://gallery.dpcdn.pl/imgc/Tools/1269/g_-_420x350_1.5_-_x20101220121616_00.png)](https://softexe.net/win/business/finance/rewizor-gt:apbe.html)
 
 The program is based on the Accounting Act and adapted to the requirements of the European Union. Designed for both independent accountants and accounting offices. The GT revision has a full range of functions needed to efficiently keep a trading book: from managing account plans and settlements through decrement and booking to servicing fixed assets.

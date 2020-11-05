@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/video-downloadhelper-7328.png) Video DownloadHelper 7.3.6 - Free Download
 
-```sh
-Video DownloadHelper is a useful plugin for Mozilla Firefox that allows you to save videos and graphics from the page you are viewing. It supports various video formats, and also works with services such as YouTube, MySpace
-```
+> Video DownloadHelper is a useful plugin for Mozilla Firefox that allows you to save videos and graphics from the page you are viewing. It supports various video formats, and also works with services such as YouTube, MySpace
+
 [![Video DownloadHelper](https://gallery.dpcdn.pl/imgc/Tools/81243/g_-_420x350_1.5_-_xfd08d8cb-5178-4222-9e98-b8c0ca60c939.png)](https://softexe.net/win/multimedia/video/video-downloadhelper:gcbh.html)
 
 Video DownloadHelper is a useful plugin for Mozilla Firefox that allows you to save videos and graphics from the page you are viewing. It supports various video formats, and also works with services such as YouTube, MySpace, Google Video, and others. 

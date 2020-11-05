@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/maxidisk-11054.png) MaxiDisk 1.0.9.3 - Free Download
 
-```sh
-MaxiDisk is a comprehensive tool to help you clean up your hard drive. It consists of modules responsible for defragmenting disks and cleaning them from unnecessary files created temporarily by the operating system and software installed in it.
-```
+> MaxiDisk is a comprehensive tool to help you clean up your hard drive. It consists of modules responsible for defragmenting disks and cleaning them from unnecessary files created temporarily by the operating system and software installed in it.
+
 [![MaxiDisk](https://gallery.dpcdn.pl/imgc/Tools/17192/g_-_420x350_1.5_-_x20130619172451_00.png)](https://softexe.net/win/system/archive-programs/maxidisk:ppRed.html)
 
 The program, like other solutions of this manufacturer, offers a polished and very user-friendly graphical interface in which we can easily find individual functions. With its help, we can efficiently and in detail scan the entire contents of the disk and find out what percentage of the data is fragmented and whether there are unnecessary data among them that can be deleted to recover free disk space.

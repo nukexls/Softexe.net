@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=WINBUD+Kosztorys+Start icon&w=40&h=40) WINBUD Kosztorys Start 2020.10 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) WINBUD Kosztorys Start 2020.10 - Free Download
 
-```sh
-WINBUD Kosztorys Start is a basic version of the cost estimation program for construction works addressed to all types of companies in the construction industry. The application offers a set of tools for the valuation and verification of cost estimates, estimating the costs of repairs and renovations and calculating investments that are used in the cost estimation of construction, earthworks, installation, road, electrical and other works.
-```
+> WINBUD Kosztorys Start is a basic version of the cost estimation program for construction works addressed to all types of companies in the construction industry. The application offers a set of tools for the valuation and verification of cost estimates, estimating the costs of repairs and renovations and calculating investments that are used in the cost estimation of construction, earthworks, installation, road, electrical and other works.
+
 [![WINBUD Kosztorys Start](https://gallery.dpcdn.pl/imgc/Tools/82794/g_-_420x350_1.5_-_xb44012da-b066-4e9f-ba6b-aee3e7ad5123.png)](https://softexe.net/win/business/finance/winbud-kosztorys-start:pRpgg.html)
 
 Selected possibilities of the program

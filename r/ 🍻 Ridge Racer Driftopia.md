@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Ridge+Racer+Driftopia icon&w=40&h=40) Ridge Racer Driftopia  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Ridge Racer Driftopia  - Free Download
 
-```sh
-Free Ridge Racer Driftopia is nothing more than a variation on Ridge Racer Unbounded from 2012 by Namco Bandai. Studio Bugbear Entertainment, previously known from the pretty FlatOut series, looked at its work in terms of its ability to offer it in the Free-2-Play version.
-```
+> Free Ridge Racer Driftopia is nothing more than a variation on Ridge Racer Unbounded from 2012 by Namco Bandai. Studio Bugbear Entertainment, previously known from the pretty FlatOut series, looked at its work in terms of its ability to offer it in the Free-2-Play version.
+
 [![Ridge Racer Driftopia](https://gallery.dpcdn.pl/imgc/Tools/44743/g_-_420x350_1.5_-_x20140109175950_0.jpg)](https://softexe.net/win/system/archive-programs/ridge-racer-driftopia:pbhdg.html)
 
 The main rules of fun have not changed a bit. It is still about getting to the finish line as quickly as possible while discovering the shortcuts on the route, and on the way as long as possible sliding in the corners, which in turn loads valuable turbocharging. From such momentum you can also ram your rivals and elements of the environment for which we receive additional points.

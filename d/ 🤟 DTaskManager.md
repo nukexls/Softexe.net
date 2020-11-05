@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/dtaskmanager-8350.png) DTaskManager 1.57.03 - Free Download
 
-```sh
-DTaskManager is a free program that can replace the system's task manager and offers a bit more features than the default Windows application. It is a portable program that does not require installation - all you need to do is unpack it from the ZIP archive.
-```
+> DTaskManager is a free program that can replace the system's task manager and offers a bit more features than the default Windows application. It is a portable program that does not require installation - all you need to do is unpack it from the ZIP archive.
+
 [![DTaskManager](https://gallery.dpcdn.pl/imgc/Tools/59982/g_-_420x350_1.5_-_x20150712172453_0.png)](https://softexe.net/win/system/system-tools/dtaskmanager:hceR.html)
 
 At first glance, the application is very similar to the standard task manager. It has one main window in which individual data is presented in several tabs. We can display and influence active applications, running processes, and the program has built-in tools to check the performance or status of a specific network adapter.

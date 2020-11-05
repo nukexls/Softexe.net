@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=mpFirma icon&w=40&h=40) mpFirma 20.2.17 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) mpFirma 20.2.17 - Free Download
 
-```sh
-mPFirma is a versatile, multi-platform program that helps in running your business. During the installation you can choose the modules needed in the company, including warehouse management, orders, contractors, service and complaints, offers, sales, software or vehicle registers, settlements and payments. mPFirma can exchange data and integrate with other programs and services, such as calendars, courier service platforms, SMS gateways and other programs for running a company. In one database you can have several user accounts and run several companies or several branches, working in a program on Windows or macOS, using a local or network database.
-```
+> mPFirma is a versatile, multi-platform program that helps in running your business. During the installation you can choose the modules needed in the company, including warehouse management, orders, contractors, service and complaints, offers, sales, software or vehicle registers, settlements and payments. mPFirma can exchange data and integrate with other programs and services, such as calendars, courier service platforms, SMS gateways and other programs for running a company. In one database you can have several user accounts and run several companies or several branches, working in a program on Windows or macOS, using a local or network database.
+
 [![mpFirma](https://gallery.dpcdn.pl/imgc/Tools/54841/g_-_420x350_1.5_-_x20170519114930_0.png)](https://softexe.net/win/business/management/mpfirma:hapd.html)
 
 Attention! From January 1, 2018, the obligation to keep electronic VAT records and to submit them as a Uniform Control File (JPK) is introduced. The mpFirma program is prepared for these changes and allows you to generate JPK-VAT, JPK-FA and JPK-MAG files.

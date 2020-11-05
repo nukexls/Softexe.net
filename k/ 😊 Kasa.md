@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Kasa 4.5.6 - Free Download
 
-```sh
-Cash register is a small application to support cash registers operating within the company, which enables efficient registration of sales documents, gathering information about contractors or creating cash reports.
-```
+> Cash register is a small application to support cash registers operating within the company, which enables efficient registration of sales documents, gathering information about contractors or creating cash reports.
+
 [![Kasa](https://gallery.dpcdn.pl/imgc/Tools/14939/g_-_420x350_1.5_-_x20130318160948_00.png)](https://softexe.net/win/business/other/kasa:pppRd.html)
 
 The program allows for convenient creation of KP and KW documents, viewing them divided into the day of issue, month or year, monitoring the state of the cash register and revenues from a given day. The Kasa application has also been equipped with a module for storing contact details of contractors, creating cash reports and generating various combinations, taking into account the parameters defined by the user.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/winamp-tools-10569.png) Winamp Tools 10.2 - Free Download
 
-```sh
-Winamp Tools is a set of applications created to make it easier to use Winamp. They include a tool for collecting information about the current installation of the program, an application that allows you to manage translations (and create your own), a backup tool and an additional information program about the entire operating system. The whole is packed with a common launcher, which makes it easier to start individual modules.
-```
+> Winamp Tools is a set of applications created to make it easier to use Winamp. They include a tool for collecting information about the current installation of the program, an application that allows you to manage translations (and create your own), a backup tool and an additional information program about the entire operating system. The whole is packed with a common launcher, which makes it easier to start individual modules.
+
 [![Winamp Tools](https://gallery.dpcdn.pl/imgc/Tools/72704/g_-_420x350_1.5_-_x20170726151845_0.png)](https://softexe.net/win/system/extensions/winamp-tools:pRefa.html)
 
 All About Winamp

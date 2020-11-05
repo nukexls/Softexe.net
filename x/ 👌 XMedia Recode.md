@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/xmedia-recode-8344.png) XMedia Recode 3.5.1.6 - Free Download
 
-```sh
-XMedia Recode is a free tool for converting files saved in audio and video format. The application has all the most important functions for converting multimedia files and options supporting data processing for mobile devices such as iPhone, iPod, gaming consoles or mobile phones.
-```
+> XMedia Recode is a free tool for converting files saved in audio and video format. The application has all the most important functions for converting multimedia files and options supporting data processing for mobile devices such as iPhone, iPod, gaming consoles or mobile phones.
+
 [![XMedia Recode](https://gallery.dpcdn.pl/imgc/Tools/8702/g_-_420x350_1.5_-_x20171027160709_0.png)](https://softexe.net/win/hobbies-lifestyle/mobile/xmedia-recode:hcdd.html)
 
 The application offers a set of ready-made profiles containing settings of individual parameters, necessary when converting to a different format. The program also allows you to convert data stored on unprotected DVDs and Blu-ray discs, and automatically converts the bitrate to the current loaded media file (using the built-in bit calculator).

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/spyshelter-premium-8216.png) SpyShelter Premium 12.2 - Free Download
 
-```sh
-SpyShelter Premium is the next edition of the highly valued computer security program to capture data entered by the user, which is created and developed in Poland.
-```
+> SpyShelter Premium is the next edition of the highly valued computer security program to capture data entered by the user, which is created and developed in Poland.
+
 [![SpyShelter Premium](https://gallery.dpcdn.pl/imgc/Tools/3156/g_-_420x350_1.5_-_x20160217164413_0.png)](https://softexe.net/win/security-privacy/other/spyshelter-premium:hbpf.html)
 
 The program in this version has a free edition functionality , i.e. protection against interception of data entered via the keyboard, screen image and system clipboard content. In addition, SpyShelter Premium has been equipped with a set of modules that protect the computer against image capture from the webcam, sound and other data sent via the network connection. For 32-bit editions of Windows, the kernel is also protected. Individual modules can be deactivated in the program settings (however, it is not recommended).

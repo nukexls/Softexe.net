@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/flutter-9522.png) Flutter 1.0 - Free Download
 
-```sh
-Flutter is a free Google programming tool that allows you to create native applications for iOS and Android devices using a single code.
-```
+> Flutter is a free Google programming tool that allows you to create native applications for iOS and Android devices using a single code.
+
 [![Flutter](https:https://tse1.mm.bing.net/th?id=OIP.n3LAqxgxn35HF_FNrilCEgHaEK&pid=Api)](https://softexe.net/win/development-it/development-tools/flutter:aebb.html)
 
 This means that you no longer need to have separate tools, but you can use Flutter to make your work easier by creating applications both easier and faster. However, it should be remembered that Flutter is based on the Dart programming language, which may be an obstacle for some creators. The first applications using this tool may be slower, but once the experience is gained, the programmers will save a lot of time.   

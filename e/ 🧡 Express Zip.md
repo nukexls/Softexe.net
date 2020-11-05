@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/express-zip-9358.png) Express Zip 5.23 - Free Download
 
-```sh
-Express Zip is an application used to open, create, share and secure ZIP archives.
-```
+> Express Zip is an application used to open, create, share and secure ZIP archives.
+
 [![Express Zip](https://gallery.dpcdn.pl/imgc/Tools/88914/g_-_420x350_1.5_-_x6d9fce44-9e4b-4a5b-95ff-8bcde81d7771.jpg)](https://softexe.net/win/disks-files/compression/express-zip:aceh.html)
 
 After launching Express Zip, you can choose whether you want to open your ZIP archive or create a completely new one. If we decide on the second option, we will only have to add selected files that will automatically go to the MyZip archive located in the Windows Operating System documents (both the archive name and the save path can of course be changed).

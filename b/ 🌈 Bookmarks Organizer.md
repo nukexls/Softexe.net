@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/bookmarks-organizer-10547.png) Bookmarks Organizer 1.3.0 - Free Download
 
-```sh
-Bookmarks Organizer is an extension for Firefox, whose task is to find bookmarks that can cause problems, ie containing redirects, wrong addresses or duplicates in different folders with tabs. To do this, after starting the extension, you should initiate a bookmark check.
-```
+> Bookmarks Organizer is an extension for Firefox, whose task is to find bookmarks that can cause problems, ie containing redirects, wrong addresses or duplicates in different folders with tabs. To do this, after starting the extension, you should initiate a bookmark check.
+
 [![Bookmarks Organizer](https://gallery.dpcdn.pl/imgc/Tools/81125/g_-_420x350_1.5_-_x2dda60de-4196-4112-9d15-e2beb7d7fa78.png)](https://softexe.net/win/internet/browser-add-ons/bookmarks-organizer:pRedg.html)
 
 The extension will display the number of checked tabs broken down into those containing errors (marked in red) and generating warnings (yellow). The analysis results can be long, but you can search and filter them.

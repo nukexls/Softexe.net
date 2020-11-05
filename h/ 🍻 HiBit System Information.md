@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/hibit-system-information-9322.png) HiBit System Information 2.0.15 - Free Download
 
-```sh
-HiBit System Information is a very useful tool that displays detailed information about the various components of the computer and the software installed in it.
-```
+> HiBit System Information is a very useful tool that displays detailed information about the various components of the computer and the software installed in it.
+
 [![HiBit System Information](https://gallery.dpcdn.pl/imgc/Tools/85415/g_-_420x350_1.5_-_xb5d1fa69-6060-4244-bb9d-f3e5661f079b.jpg)](https://softexe.net/win/system/diagnostics-tests/hibit-system-information:acbb.html)
 
 The HiBit System Information user interface is extremely intuitive. It has been divided into three separate tabs, such as: summary, hardware and software. The first one contains basic information about your components and applications, while in the others you will find a lot of details about them.

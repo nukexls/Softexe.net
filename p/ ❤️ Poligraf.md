@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Poligraf icon&w=40&h=40) Poligraf 15.0.0.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Poligraf 15.0.0.0 - Free Download
 
-```sh
-Poligraf is an interesting and convenient program designed for printing, advertising and printing companies.
-```
+> Poligraf is an interesting and convenient program designed for printing, advertising and printing companies.
+
 [![Poligraf](https://gallery.dpcdn.pl/imgc/Tools/2591/g_-_420x350_1.5_-_x20110412140319_00.jpg)](https://softexe.net/win/business/finance/poligraf:aebc.html)
 
 The program supports the whole range of activities in this type of companies ranging from order management, orders and production process, ending with full servicing of contractors, issuing invoices, handling cash registers, or automatic servicing of the warehouse.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/gyazo-10527.png) Gyazo 3.3.5 - Free Download
 
-```sh
-Gyazo is a simple application for taking screenshots and simple animations and their convenient online sharing.
-```
+> Gyazo is a simple application for taking screenshots and simple animations and their convenient online sharing.
+
 [![Gyazo](https://gallery.dpcdn.pl/imgc/Tools/81250/g_-_420x350_1.5_-_x6a4e4c34-fe13-4c31-adb5-ec984f456c68.png)](https://softexe.net/win/multimedia/image-capture/gyazo:pRebg.html)
 
 The program allows the user to capture the image from the indicated area of ​​the screen, both in the static form as well as in the short animation. After performing any of the above-mentioned activities, the application automatically places the captured file on the manufacturer's external server, making it easy to share it with friends. It is enough to copy the appropriate link from the browser and send it, for example, via the messenger.

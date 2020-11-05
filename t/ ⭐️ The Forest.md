@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) The Forest  - Free Download
 
-```sh
-The Forest is a survival first-person survival created by the independent Endnight Games studio.
-```
+> The Forest is a survival first-person survival created by the independent Endnight Games studio.
+
 [![The Forest](https://gallery.dpcdn.pl/imgc/Tools/90249/g_-_420x350_1.5_-_x95ffdbf3-1f8f-4279-8f7c-c4fdfaba94bd.jpg)](https://softexe.net/win/games-entertainment/shooters/the-forest:habh.html)
 
 The character driven by the player was the only one who survived the plane crash, which crashed in a mysterious forest inhabited by a society of cannibal mutants. Obviously, the protagonist's task is to survive in these extremely unfavorable conditions. In the first place, he must find the means necessary to keep himself alive, and in time try to get a fire and build a shelter.

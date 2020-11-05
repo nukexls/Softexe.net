@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/waltr-9487.png) WALTR 2.7.19 - Free Download
 
-```sh
-WALTR is a remarkable tool designed for transferring data to Apple portable devices without using iTunes software. The application supports iPhones, iPads and iPods.
-```
+> WALTR is a remarkable tool designed for transferring data to Apple portable devices without using iTunes software. The application supports iPhones, iPads and iPods.
+
 [![WALTR](https://gallery.dpcdn.pl/imgc/Tools/77690/g_-_420x350_1.5_-_x20170918165326_0.jpg)](https://softexe.net/win/hobbies-lifestyle/mobile/waltr:adhg.html)
 
 The tool allows the user to transfer multimedia to said devices using a cable without the need to use or even install on the computer a combine harness for Apple products such as iTunes. All transferred audio or video materials are available directly in the Video and Music application.

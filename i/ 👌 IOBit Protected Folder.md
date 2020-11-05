@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/iobit-protected-folder-10548.png) IOBit Protected Folder 1.3 - Free Download
 
-```sh
-IOBit Protected Folder allows you to effectively protect confidential data from other computer users.
-```
+> IOBit Protected Folder allows you to effectively protect confidential data from other computer users.
+
 [![IOBit Protected Folder](https://gallery.dpcdn.pl/imgc/Tools/81111/g_-_420x350_1.5_-_x7bdb5b4d-b61b-4f3c-bbe3-32f5328a8caa.png)](https://softexe.net/win/security-privacy/data-protection/iobit-protected-folder:pRedh.html)
 
 The program was created mainly for beginning users who would like to prevent access to private files to unauthorized persons. It does not require almost any configuration, it is enough to run the program, define the main password and proceed to secure the data. This is also very simple and is limited to loading files and folders in the main program window that we would like to hide.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/avast-premier-8598.png) Avast Premier 19.6.2383 - Free Download
 
-```sh
-Avast Premier is the latest and most extensive security package in the offer of the Czech company AVAST Software. It combines a rich set of features that protect your computer against all kinds of threats and offers additional tools such as software update monitor, file shredder and many more.
-```
+> Avast Premier is the latest and most extensive security package in the offer of the Czech company AVAST Software. It combines a rich set of features that protect your computer against all kinds of threats and offers additional tools such as software update monitor, file shredder and many more.
+
 [![Avast Premier](https://gallery.dpcdn.pl/imgc/Tools/13027/g_-_420x350_1.5_-_x20170207192356_0.png)](https://softexe.net/win/security-privacy/antivirus/avast-premier:heah.html)
 
 The software has been equipped with the best solutions and technologies known from such products as Avast Antivirus and Avast Internet Security. Its foundation is an antivirus and antispyware engine operating in the cloud model, which has constant online access to current virus signature databases, a firewall and an anti-spam filter. Avast Premier also offers a file reputation system, a module that checks the status of updates of the most popular programs, as well as a sandbox component, giving the ability to run any applications in a virtual environment isolated from the system.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=VueMinder icon&w=40&h=40) VueMinder 2020.03 Lite - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) VueMinder 2020.03 Lite - Free Download
 
-```sh
-VueMinder Lite is a free application that is an interesting combination of calendar and schedule.
-```
+> VueMinder Lite is a free application that is an interesting combination of calendar and schedule.
+
 [![VueMinder](https://gallery.dpcdn.pl/imgc/Tools/7307/g_-_420x350_1.5_-_x20120130192810_00.png)](https://softexe.net/win/business/calendars/vueminder:aRfa.html)
 
 The program offers 2 display modes - full and mini. The first of these allows you to place a full calendar on the desktop, which can be managed without having to run the main program window. The second one, minimalist, only displays a calendar similar to that offered by other applications of this type. In both cases, the user can freely change the position and size of the calendar, as well as the level of its transparency.

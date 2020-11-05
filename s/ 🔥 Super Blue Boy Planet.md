@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Super+Blue+Boy+Planet icon&w=40&h=40) Super Blue Boy Planet 1.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Super Blue Boy Planet 1.2 - Free Download
 
-```sh
-Super Blue Boy Planet is a small, very nice and easy-to-learn 2D platformer maintained in the atmosphere of games from around three decades ago ;-). The square characters in the pixelated, colorless graphics and simple plot immediately restore memories of old times. The title also puts more on the skill than thinking, which allows you to focus entirely on breaking your fingers on the cursors. And only cursors.
-```
+> Super Blue Boy Planet is a small, very nice and easy-to-learn 2D platformer maintained in the atmosphere of games from around three decades ago ;-). The square characters in the pixelated, colorless graphics and simple plot immediately restore memories of old times. The title also puts more on the skill than thinking, which allows you to focus entirely on breaking your fingers on the cursors. And only cursors.
+
 [![Super Blue Boy Planet](https://gallery.dpcdn.pl/imgc/Tools/73690/g_-_420x350_1.5_-_x20170127161533_0.jpg)](https://softexe.net/win/games-entertainment/other/super-blue-boy-planet:ppbpR.html)
 
 The player's main task is to save his beloved aliens. Therefore, there is a lot of jumping on platforms, avoiding dangerous bullets, spikes and other ambushes. There will also be a fight with various opponents and, of course, fights with bosses.

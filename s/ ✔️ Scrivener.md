@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Scrivener icon&w=40&h=40) Scrivener 1.9.15 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Scrivener 1.9.15 - Free Download
 
-```sh
-Scrivener is a modern tool designed for writers. The application is characterized by simplicity in use, an advanced editor for writing texts and full control over the creation of books or other extensive articles.
-```
+> Scrivener is a modern tool designed for writers. The application is characterized by simplicity in use, an advanced editor for writing texts and full control over the creation of books or other extensive articles.
+
 [![Scrivener](https://gallery.dpcdn.pl/imgc/Tools/8792/g_-_420x350_1.5_-_x20120524143905_00.jpg)](https://softexe.net/win/business/documents/scrivener:agdh.html)
 
 The Scrivener program is an ideal solution not only for ordinary users, but also for professional writers, novelists, scriptwriters or editors. Using the application, we can fully concentrate on composing and creating a structure of extensive documents, articles, scenarios or novels.

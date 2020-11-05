@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/hippani-animator-11003.png) Hippani Animator 5.1.6360 - Free Download
 
-```sh
-Hippani Animator is a useful application for creating professional animations for websites.
-```
+> Hippani Animator is a useful application for creating professional animations for websites.
+
 [![Hippani Animator](https:https://tse4.mm.bing.net/th?id=OIP.M4N55HiG1CUpPEQoem2x-QHaFc&pid=Api)](https://softexe.net/win/multimedia/video/hippani-animator:ppRRc.html)
 
 The program is characterized by simplicity in use and rich functionality. All individual options have been arranged in such a way that they should not cause any problems to anyone while creating animations. 

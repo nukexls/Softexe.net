@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/product-key-explorer-5495.png) Product Key Explorer 4.2.6 - Free Download
 
-```sh
-Product Key Explorer is a useful program, thanks to which you will not be afraid of the loss of serial keys of installed licensed software products due to a computer crash. The utility scans the PC for installed applications and displays
-```
+> Product Key Explorer is a useful program, thanks to which you will not be afraid of the loss of serial keys of installed licensed software products due to a computer crash. The utility scans the PC for installed applications and displays
+
 [![Product Key Explorer](https://gallery.dpcdn.pl/imgc/Tools/81968/g_-_420x350_1.5_-_xb16b81d2-1028-4a52-9ed8-1038d4996e67.png)](https://softexe.net/win/system/extensions/product-key-explorer:edae.html)
 
 Product Key Explorer is a useful program, thanks to which you will not be afraid of the loss of serial keys of installed licensed software products due to a computer crash.

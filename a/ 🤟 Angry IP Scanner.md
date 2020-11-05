@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Angry+IP+Scanner icon&w=40&h=40) Angry IP Scanner 3.7.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Angry IP Scanner 3.7.2 - Free Download
 
-```sh
-Angry IP Scanner is a free (open-source) and multi-platform network scanner characterized by a clear interface and simplicity of use (it does not require installation and does not consume much computer resources).
-```
+> Angry IP Scanner is a free (open-source) and multi-platform network scanner characterized by a clear interface and simplicity of use (it does not require installation and does not consume much computer resources).
+
 [![Angry IP Scanner](https://gallery.dpcdn.pl/imgc/Tools/65215/g_-_420x350_1.5_-_x20160131201838_0.png)](https://softexe.net/win/internet/other/angry-ip-scanner:adbc.html)
 
 The tool was created mainly for the administrators of computer networks and mainly they use the Angry IP Scanner. The program allows very fast scanning of IP addresses, ports, and also offers other functions useful in everyday work (eg displays host data, response time and information about the current ping). Naturally, the app can also be used by home users for a variety of purposes.

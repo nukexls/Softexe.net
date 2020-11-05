@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/mpfaktura-8915.png) mpFaktura 20.2.17 - Free Download
 
-```sh
-mpFaktura is an integrated software allowing to display any sales and purchase documents, running warehouses, preparing offers, order processing, etc. Thanks to this application, we can run any store (has numerous mechanisms to improve the service of retail clients), a warehouse or a service company. However, despite its extensive features, it is also ideally suited as a solution for small, one-man companies, or so-called freelancers - to issue simple invoices for customers.
-```
+> mpFaktura is an integrated software allowing to display any sales and purchase documents, running warehouses, preparing offers, order processing, etc. Thanks to this application, we can run any store (has numerous mechanisms to improve the service of retail clients), a warehouse or a service company. However, despite its extensive features, it is also ideally suited as a solution for small, one-man companies, or so-called freelancers - to issue simple invoices for customers.
+
 [![mpFaktura](https://gallery.dpcdn.pl/imgc/Tools/54837/g_-_420x350_1.5_-_x20141017115602_0.png)](https://softexe.net/win/business/billing/mpfaktura:hape.html)
 
 Attention! From January 1, 2018, the obligation to keep electronic VAT records and to submit them as a Uniform Control File (JPK) is introduced. The mpFaktura program is prepared for these changes and allows you to generate JPK-VAT, JPK-FA and JPK-MAG files.

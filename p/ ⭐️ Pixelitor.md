@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/pixelitor-9776.png) Pixelitor 4.2.2 - Free Download
 
-```sh
-Pixelitor is a free software for modifying graphic files on your computer. The program was written in Java and is great for processing any photo stored on a hard disk or other storage medium.
-```
+> Pixelitor is a free software for modifying graphic files on your computer. The program was written in Java and is great for processing any photo stored on a hard disk or other storage medium.
+
 [![Pixelitor](https://gallery.dpcdn.pl/imgc/Tools/9264/g_-_420x350_1.5_-_x20120714183856_00.jpg)](https://softexe.net/win/multimedia/graphics-design/pixelitor:aggf.html)
 
 The program allows you to work on many layers, which to a certain extent facilitate the modification of the graphic file. In addition, it has almost all the most important tools for drawing and editing graphics on your computer. In this case, it can be a competitive competition for the most popular program, Adobe Photoshop. It is characterized by a convenient and transparent interface and an easy-to-use graphical editor.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/chief-architect-interiors-x9-11131.png) Chief Architect Interiors X9 19.1.0.47 - Free Download
 
-```sh
-Chief Architect Interiors is a professional tool for interior design of various types. It works best in home rooms, such as bathrooms, kitchens, bedrooms for children and adults, and lounges. The program allows you to design on 2D plans, as well as in a three-dimensional view, in which it shows the room from a selected perspective and gives the opportunity to "cut" the project. In the catalog of models we can find thousands of basins, bathtubs, cabinets, tables, couches, household appliances, trinkets to "position" on shelves and textures imitating finishing materials.
-```
+> Chief Architect Interiors is a professional tool for interior design of various types. It works best in home rooms, such as bathrooms, kitchens, bedrooms for children and adults, and lounges. The program allows you to design on 2D plans, as well as in a three-dimensional view, in which it shows the room from a selected perspective and gives the opportunity to "cut" the project. In the catalog of models we can find thousands of basins, bathtubs, cabinets, tables, couches, household appliances, trinkets to "position" on shelves and textures imitating finishing materials.
+
 [![Chief Architect Interiors X9](https://gallery.dpcdn.pl/imgc/Tools/68444/g_-_420x350_1.5_-_x20160602154352_0.png)](https://softexe.net/win/multimedia/graphics-design/chief-architect-interiors-x9:pppcp.html)
 
 Planning the space in the Chief Architect Interiors program involves redrawing the room plans, and then placing the objects in space and giving them dimensions. In the library you can find an assortment of specific producers, thanks to which the designs perfectly reflect the final appearance of the rooms. You can also create your own models or import them from other programs. 

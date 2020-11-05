@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/east-tec-eraser-10843.png) East-Tec Eraser 13.0.0.9000 - Free Download
 
-```sh
-East-Tec Eraser is an advanced privacy protection software that enables securing confidential user data both online and offline. With his help, we can also effectively clean up the computer from all kinds of data about our activity.
-```
+> East-Tec Eraser is an advanced privacy protection software that enables securing confidential user data both online and offline. With his help, we can also effectively clean up the computer from all kinds of data about our activity.
+
 [![East-Tec Eraser](https:https://tse4.mm.bing.net/th?id=OIP.OIzPwPfIMnvWg-jDhWHh1AHaFg&pid=Api)](https://softexe.net/win/security-privacy/data-protection/east-tec-eraser:pRhdc.html)
 
 The main module of the program is able to work in 2 modes (basic and advanced) tool for the protection of your personal data. It covers a series of activities aimed at preventing any kind of confidential information collected by the system and programs installed in it during everyday work from unauthorized access. By using east-tec Eraser, we can effectively clean Windows from private files, delete temporary files created by web browsers, various applications, P2P clients, e-mail clients, RSS readers and other applications, thus increasing the overall performance of the computer.

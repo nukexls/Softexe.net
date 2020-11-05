@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/start10-6548.png) Start10 1.95 - Free Download
 
-```sh
-Start10 is another implementation of the Start menu, adapted for the latest Windows 10 operating system.
-```
+> Start10 is another implementation of the Start menu, adapted for the latest Windows 10 operating system.
+
 [![Start10](https:https://tse3.mm.bing.net/th?id=OIP.EKcF1A3tKKjDcg3IwmLCMgHaFH&pid=Api)](https://softexe.net/win/system/desktop/start10:fedh.html)
 
 Start10 is another implementation of the Start menu, adapted for the latest Windows 10 operating system. Microsoft, on numerous requests from users, returned to Windows 10 its familiar and easy-to-use Start menu, but this integrated menu combines a kind of symbiosis from the classic Windows view. 7 and tiles from Windows 8, which does not suit everyone. In this case, you should pay attention to the application Start10.

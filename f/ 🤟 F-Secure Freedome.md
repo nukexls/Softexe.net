@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/f-secure-freedome-10515.png) F-Secure Freedome 2.30.6180.0 - Free Download
 
-```sh
-F-Secure Freedome is an interesting and effective tool targeted at users who value privacy while using the Internet. It is a recommendable addition to standard antivirus software.
-```
+> F-Secure Freedome is an interesting and effective tool targeted at users who value privacy while using the Internet. It is a recommendable addition to standard antivirus software.
+
 [![F-Secure Freedome](https://gallery.dpcdn.pl/imgc/Tools/76844/g_-_420x350_1.5_-_x20170720175048_0.jpg)](https://softexe.net/win/security-privacy/data-protection/f-secure-freedome:pRepe.html)
 
 The main function of the program is to hide the real IP number while using the global network resources, which allows you to hide our activity from all kinds of tracking components, advertisers or even an internet provider. With its help, we can easily define your virtual location, which in turn will allow you to access materials blocked in your region.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/symenu-6724.png) SyMenu 6.12.7517 - Free Download
 
-```sh
-SyMenu is a utility that allows you to quickly launch portable programs that are installed on a USB flash drive
-```
+> SyMenu is a utility that allows you to quickly launch portable programs that are installed on a USB flash drive
+
 [![SyMenu](https://gallery.dpcdn.pl/imgc/Tools/63745/g_-_420x350_1.5_-_x20151123163416_0.png)](https://softexe.net/win/system/desktop/symenu:fgbd.html)
 
 SyMenu is a utility that allows you to quickly launch portable programs that are installed on a USB flash drive. There is a special field for searching for the necessary program, which is similar to the search menu in Windows 7. In addition, this tool can automatically link any application on the PC to itself. You can customize SyMenu to quickly and easily add links to portable programs, documents, Windows commands, folders, and URLs.

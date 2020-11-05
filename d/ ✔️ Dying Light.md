@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Dying Light  - Free Download
 
-```sh
-Dying Light is another zombie game in the lead role of the Polish studio Techland, which has built its reputation on the series Dead Island. This time for Warner Bros. himself prepared a production with action in an open, sprawling city where a mysterious epidemic that changed people into undead broke out. The player is sent to him with a secret mission, but his priorities change quickly. He must survive here.
-```
+> Dying Light is another zombie game in the lead role of the Polish studio Techland, which has built its reputation on the series Dead Island. This time for Warner Bros. himself prepared a production with action in an open, sprawling city where a mysterious epidemic that changed people into undead broke out. The player is sent to him with a secret mission, but his priorities change quickly. He must survive here.
+
 [![Dying Light](https://gallery.dpcdn.pl/imgc/Tools/61270/g_-_420x350_1.5_-_x20150827092143_0.jpg)](https://softexe.net/win/games-entertainment/shooters/dying-light:pbcdg.html)
 
 The project, although derived directly from the past achievements of developers, is not just a copy of well-known solutions. The system of preparation of weapons from found parts has been considerably expanded, and the search for hidden plans of an increasingly powerful weapon effectively distracts from the tasks of the main plot. The game is also diversified by numerous non-obligatory missions, this time meaningfully laid out and interesting.

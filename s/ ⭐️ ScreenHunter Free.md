@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/screenhunter-free-9215.png) ScreenHunter Free 7.0.351 - Free Download
 
-```sh
-ScreenHunter Free is a program for taking screenshots with the possibility of copying to the clipboard, writing in BMP, JPG or GIF format, creating naming schemes and the option of delaying the execution of the screenshot.
-```
+> ScreenHunter Free is a program for taking screenshots with the possibility of copying to the clipboard, writing in BMP, JPG or GIF format, creating naming schemes and the option of delaying the execution of the screenshot.
+
 [![ScreenHunter Free](https://gallery.dpcdn.pl/imgc/Tools/73109/g_-_420x350_1.5_-_x20161229011123_0.png)](https://softexe.net/win/multimedia/image-capture/screenhunter-free:abpe.html)
 
 The options available in the free version of the program are the selection of the area from which the dump will be made (the entire screen, the active window or a manually selected area), the way of saving, including graphics format, file location and naming, and additional settings related to the behavior of the entire application. It is also possible to determine whether the mouse cursor symbol should be visible on the screenshot.

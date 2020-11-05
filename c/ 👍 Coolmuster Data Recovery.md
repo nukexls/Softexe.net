@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/coolmuster-data-recovery-9893.jpg) Coolmuster Data Recovery 2.1.15 - Free Download
 
-```sh
-Coolmuster Data Recovery is an easy-to-use data recovery tool that has been lost by accident, as a result of hardware failure, virus activity and more.
-```
+> Coolmuster Data Recovery is an easy-to-use data recovery tool that has been lost by accident, as a result of hardware failure, virus activity and more.
+
 [![Coolmuster Data Recovery](https://gallery.dpcdn.pl/imgc/Tools/84221/g_-_420x350_1.5_-_xd367b66e-e89c-4e05-90d5-7c546a789a80.jpg)](https://softexe.net/win/disks-files/data-recovery/coolmuster-data-recovery:ahac.html)
 
 The application offers up to four modes of operation: Deleted Recovery, Format Recovery, Raw Recovery and Partition Recovery. We can try to restore deleted files, formatted data or try to recover the lost partition. Scanning of the indicated area takes place automatically, and before the data recovery begins, the user can see the preview of files and directories that can be restored.

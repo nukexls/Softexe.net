@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/writemapper-8145.png) WriteMapper 2.10.0 - Free Download
 
-```sh
-WriteMapper is a comprehensive tool for creating mind maps.
-```
+> WriteMapper is a comprehensive tool for creating mind maps.
+
 [![WriteMapper](https://gallery.dpcdn.pl/imgc/Tools/86330/g_-_420x350_1.5_-_x227f2081-1489-405d-8eef-5682a5765c9a.jpg)](https://softexe.net/win/business/other/writemapper:hpde.html)
 
 Before we start working with the program for good, we will be able to familiarize ourselves with its various options in the tutorial. An exemplary mind map will then be generated, the authors of which will discuss the features offered by WriteMapper.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) WindowPadX 1.2.2 - Free Download
 
-```sh
-WindowPadX is an extended version of Window Pad, which allows you to customize the display of windows in the Windows operating system.
-```
+> WindowPadX is an extended version of Window Pad, which allows you to customize the display of windows in the Windows operating system.
+
 [![WindowPadX](https://gallery.dpcdn.pl/imgc/Tools/85149/g_-_420x350_1.5_-_x62d07d61-afdd-4373-bada-bd9fbe4aaf71.jpg)](https://softexe.net/win/system/desktop/windowpadx:aghp.html)
 
 Sometimes we can encounter a situation in which, after running a given program, each time we have to manually change the size and position of the window on the screen. With such users in mind, the WindowPadX tool has been created that can remember the location and size of the window, and then when we turn on the application, it will automatically adjust these parameters, saving you time.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/tor-browser-bundle-8847.png) Tor Browser Bundle 9.5.4 - Free Download
 
-```sh
-Tor Browser Bundle is a free application that provides user protection when using the Internet.
-```
+> Tor Browser Bundle is a free application that provides user protection when using the Internet.
+
 [![Tor Browser Bundle](https://gallery.dpcdn.pl/imgc/Tools/9245/g_-_420x350_1.5_-_x7c744a55-1c8d-429a-a462-90e28d533588.png)](https://softexe.net/win/security-privacy/other/tor-browser-bundle:hhdg.html)
 
 The program ensures full security when using the Internet network, and also protects the user's data and guarantees full anonymity. The Tor Browser Bundle is integrated with the Mozilla Firefox web browser, so when using the program, we do not need to install external programs for browsing the web. 

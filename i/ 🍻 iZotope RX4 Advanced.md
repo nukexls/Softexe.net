@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/izotope-rx4-advanced-12633.png) iZotope RX4 Advanced 4.00.435 - Free Download
 
-```sh
-iZotope RX Advanced is one of the most advanced toolkits for editing and repairing audio tracks. Using the program, we can, among others remove noise or selected frequency from audio, eliminate clicks and clicks as well as rebuild a distorted sound.
-```
+> iZotope RX Advanced is one of the most advanced toolkits for editing and repairing audio tracks. Using the program, we can, among others remove noise or selected frequency from audio, eliminate clicks and clicks as well as rebuild a distorted sound.
+
 [![iZotope RX4 Advanced](https://gallery.dpcdn.pl/imgc/Tools/17242/g_-_420x350_1.5_-_x20140918115216_0.png)](https://softexe.net/win/multimedia/audio-sound/izotope-rx4-advanced:pbfcc.html)
 
 The application offers a number of tools for marking the audio signal on the spectrogram. This allows users not only to edit audio based on the sounds they hear, but also using the sense of sight. Among the available options we find, among others such tools as marking the time and frequency of the sound, laso tool, magic wand and brush allowing precise marking of the audio signal on the amplitude spectrum chart.

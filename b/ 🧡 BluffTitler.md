@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=BluffTitler icon&w=40&h=40) BluffTitler 15.0.0.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) BluffTitler 15.0.0.2 - Free Download
 
-```sh
-BluffTitler is a powerful program designed to create 3D subtitles and add various effects to video materials. The application is also used to create professional scenes and titles.
-```
+> BluffTitler is a powerful program designed to create 3D subtitles and add various effects to video materials. The application is also used to create professional scenes and titles.
+
 [![BluffTitler](https://gallery.dpcdn.pl/imgc/Tools/10389/g_-_420x350_1.5_-_x20120926110433_00.jpg)](https://softexe.net/win/multimedia/video/blufftitler:hfbb.html)
 
 The program consists of an extensive toolbar and an advanced editor that also acts as a player. On the special bar you will find all the most important tools and options, through which we will create a title scene and add various effects. In the program, we get access to a huge number of different layers that will allow us to add or change the right image, textures, additional text, particles and visual effects, and many other graphic elements.

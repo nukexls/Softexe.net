@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=GPL+Ghostscript icon&w=40&h=40) GPL Ghostscript 9.52 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) GPL Ghostscript 9.52 - Free Download
 
-```sh
-PostScript page description interpreter and Portable Document Format files. It allows you to read files written in PostScript language, and then convert them to many rasterized formats and Portable Document Format (PDF) or print on non-PostScript printers.
-```
+> PostScript page description interpreter and Portable Document Format files. It allows you to read files written in PostScript language, and then convert them to many rasterized formats and Portable Document Format (PDF) or print on non-PostScript printers.
+
 [![GPL Ghostscript](https:https://tse2.mm.bing.net/th?id=OIP.W2AN4FZgJn5E16r66RTw_wHaHm&pid=Api)](https://softexe.net/win/system/extensions/gpl-ghostscript:hfab.html)
 
 Attention!

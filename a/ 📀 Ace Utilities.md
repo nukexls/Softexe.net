@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/ace-utilities-9645.jpg) Ace Utilities 6.5.0 - Free Download
 
-```sh
-Ace Utilities is a set of tools designed to optimize the operation of Windows.
-```
+> Ace Utilities is a set of tools designed to optimize the operation of Windows.
+
 [![Ace Utilities](https://gallery.dpcdn.pl/imgc/Tools/7417/g_-_420x350_1.5_-_x20120214113403_00.png)](https://softexe.net/win/system/tweaking-optimizing/ace-utilities:afde.html)
 
 The program has been equipped with four main modules. In the first one you will find tools responsible for cleaning the system registry, removing unnecessary files from the disk, fixing broken applications shortcuts and removing traces left in the system by various types of applications. The optimization module has been equipped with tools for managing applications running from the system startup, searching for duplicate files, uninstalling unnecessary programs, and system registry defragmenter.

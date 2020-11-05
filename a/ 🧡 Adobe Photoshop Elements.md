@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Adobe+Photoshop+Elements icon&w=40&h=40) Adobe Photoshop Elements 2020 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Adobe Photoshop Elements 2020 - Free Download
 
-```sh
-An affordable price version of the most popular raster image editing program in the world.
-```
+> An affordable price version of the most popular raster image editing program in the world.
+
 [![Adobe Photoshop Elements](https://gallery.dpcdn.pl/imgc/Tools/2833/g_-_420x350_1.5_-_x20110512151601_00.jpg)](https://softexe.net/win/multimedia/graphics-design/adobe-photoshop-elements:agge.html)
 
 Adobe Photoshop Elements is a program designed specifically for photo enthusiasts, hobbyists and office users who need a simple to use yet effective tool for processing digital images. Users have access to many advanced functions and tools used by professional graphic designers, and taken from the best pattern, which is Photoshop.

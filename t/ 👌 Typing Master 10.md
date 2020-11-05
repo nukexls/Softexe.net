@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/typing-master-10-8925.png) Typing Master 10  - Free Download
 
-```sh
-Typing Master 10 is an interesting tool for users who would like to learn how to quickly type on the keyboard.
-```
+> Typing Master 10 is an interesting tool for users who would like to learn how to quickly type on the keyboard.
+
 [![Typing Master 10](https://gallery.dpcdn.pl/imgc/Tools/90256/g_-_420x350_1.5_-_xb59f7b69-0d04-4d39-a8df-4f689a77239d.jpg)](https://softexe.net/win/hobbies-lifestyle/other/typing-master-10:habe.html)
 
 Before downloading the application, keep in mind the fact that Typing Master 10 does not offer support for the Polish language. The program includes many useful theoretical lessons and practical classes, during which we will learn, among other things, how to properly hold your fingers over the keyboard, and then check how fast we are able to enter new words.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Loadout  - Free Download
 
-```sh
-Loadout is a free online shooter game that will appeal to Team Fortress 2 fans.
-```
+> Loadout is a free online shooter game that will appeal to Team Fortress 2 fans.
+
 [![Loadout](https://gallery.dpcdn.pl/imgc/Tools/46409/g_-_420x350_1.5_-_x20140213184926_0.jpg)](https://softexe.net/win/games-entertainment/shooters/loadout:pbhpR.html)
 
 The creators came up with a similar humor to the issue of knocking out the opponents, although the camera was placed behind the back of the character, not in her head. The main feature that distinguishes the product from many others available on the Internet is the number of possible combinations of parts from which the givers are assembled. According to the creators, it is over 30 billion combinations.

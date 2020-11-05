@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/ipla-11138.png) ipla 2.9.0 - Free Download
 
-```sh
-ipla is an interactive player that allows you to watch online live broadcasts, including the largest cultural, entertainment and music events (such as the ME EURO or Sopot TOPtrendy Festival).
-```
+> ipla is an interactive player that allows you to watch online live broadcasts, including the largest cultural, entertainment and music events (such as the ME EURO or Sopot TOPtrendy Festival).
+
 [![ipla](https://gallery.dpcdn.pl/imgc/Tools/269/g_-_420x350_1.5_-_x20121025113400_00.png)](https://softexe.net/win/internet/radio-tv-players/ipla:pppch.html)
 
 While watching your favorite programs, users have the opportunity to share their experiences and emotions with friends. Most importantly, everything is completely free. The program has been extended for some time with the possibility of playing some of the series (Świat by Kiepskich, Włatcy Móch, Crime Fury, Team, Agentki, Pensjonat pod różą, Halo Hans, First Love), TV programs (Kabarety, Allegro Power, Stars Ranking, Games, Fabryka Gwiazd, Polsat Events), as well as replays of concerts (TOPtrends, Jak Oni śpiew), sports events and many other programs.Minimal requirements

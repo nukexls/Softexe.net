@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/pile-10511.png) Pile 0.3.2 - Free Download
 
-```sh
-Pile is an example of a genius in its simplicity, a free application to manage duties, tasks or projects to be implemented.
-```
+> Pile is an example of a genius in its simplicity, a free application to manage duties, tasks or projects to be implemented.
+
 [![Pile](https://gallery.dpcdn.pl/imgc/Tools/81356/g_-_420x350_1.5_-_xec2d1dca-5f49-4612-89c9-fbd04ca2cd07.png)](https://softexe.net/win/business/organizer/pile:pRepp.html)
 
 It gives you the ability to organize tasks for more than one person or to handle work on many different projects. It can be successfully used as a personal organizer, but also as a program supporting the work of a programmer or a website creator.

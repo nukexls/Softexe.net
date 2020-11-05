@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/razer-comms-11202.png) Razer Comms 5.12.76 - Free Download
 
-```sh
-Razer Comms is a free and very powerful voice communicator for players created by the well-known manufacturer of computer peripherals, Razer. In addition to the possibility of chatting with other users, the tool is also equipped with a number of other functionalities.
-```
+> Razer Comms is a free and very powerful voice communicator for players created by the well-known manufacturer of computer peripherals, Razer. In addition to the possibility of chatting with other users, the tool is also equipped with a number of other functionalities.
+
 [![Razer Comms](https://gallery.dpcdn.pl/imgc/Tools/73830/g_-_420x350_1.5_-_x20170203002312_0.png)](https://softexe.net/win/internet/messenger/razer-comms:ppbRb.html)
 
 As Razer Comms was created for fans of electronic entertainment, it works always on top, which means that players no longer have to switch to the messenger with the "alt + tab" keys to send a message to other people. The big advantage of the described application is also the fact that it downloads the minimum number of resources, so it does not slow down the running of the game.

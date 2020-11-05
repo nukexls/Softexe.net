@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/wavecut-audio-editor-8589.png) WaveCut Audio Editor 6.0.0 - Free Download
 
-```sh
-WaveCut Audio Editor is an application designed to edit sound files for computers with the Windows operating system.
-```
+> WaveCut Audio Editor is an application designed to edit sound files for computers with the Windows operating system.
+
 [![WaveCut Audio Editor](https://gallery.dpcdn.pl/imgc/Tools/83234/g_-_420x350_1.5_-_x04639d0b-c353-4902-a8ab-7d5606606c94.jpg)](https://softexe.net/win/multimedia/audio-sound/wavecut-audio-editor:heha.html)
 
 The authors of WaveCut Audio Editor claim that 90 percent of users use only 10 percent of the program's functions, therefore they have not added many rarely used options, instead focusing on refining the various aspects of the described tool. It is also worth noting that it does not require specialist knowledge on the part of the recipient who can easily and quickly edit any material.

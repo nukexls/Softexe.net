@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Playerunknown's Battlegrounds  - Free Download
 
-```sh
-Playerunknown's Battlegrounds is the most popular representative of the battle royale genre, which by fans is referred to by the abbreviation PUBG.
-```
+> Playerunknown's Battlegrounds is the most popular representative of the battle royale genre, which by fans is referred to by the abbreviation PUBG.
+
 [![Playerunknown's Battlegrounds](https://gallery.dpcdn.pl/imgc/Tools/84297/g_-_420x350_1.5_-_xf1115ce6-80a2-42ee-8334-66118a70a3c8.jpg)](https://softexe.net/win/games-entertainment/shooters/playerunknown-s-battlegrounds:ahhd.html)
 
 The rules of the PUBG game - just like in other games of this type - are really simple. We start the fun on the plane, from which we jump out to land on a huge map. A maximum of one hundred players fighting for each other's survival participate in one session. Each of them begins their adventure without any equipment, which is why in the initial phase of the game we need to find a weapon, and if we will be lucky, add to it improvements and equip themselves even in makeshift armor.

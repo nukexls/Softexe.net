@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/precise-cpu-stress-8670.png) Precise CPU Stress 1.2.0.5 - Free Download
 
-```sh
-Precise CPU Stress is a free tool for testing the CPU and operating memory under load at an adjustable or variable level.
-```
+> Precise CPU Stress is a free tool for testing the CPU and operating memory under load at an adjustable or variable level.
+
 [![Precise CPU Stress](https://gallery.dpcdn.pl/imgc/Tools/90610/g_-_420x350_1.5_-_xacdbbc36-2cfe-4827-b069-574b472dfeb9.jpg)](https://softexe.net/win/system/diagnostics-tests/precise-cpu-stress:hfgR.html)
 
 Precise CPU Stress presents the results of tests in real time in the form of a clear graph (a legend is available after pressing the appropriate button located in the upper part of the program window), and if necessary, we can save the measurements as a screenshot.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/file-scavenger-9929.png) File Scavenger 5.3 - Free Download
 
-```sh
-File Scavenger is a small but very useful data recovery application that has been lost in various circumstances. It supports both newer and older versions of the Windows operating system, including even Windows 2000, Windows XP and Windows Server 2003.
-```
+> File Scavenger is a small but very useful data recovery application that has been lost in various circumstances. It supports both newer and older versions of the Windows operating system, including even Windows 2000, Windows XP and Windows Server 2003.
+
 [![File Scavenger](https://gallery.dpcdn.pl/imgc/Tools/84009/g_-_420x350_1.5_-_x6fa76741-8e0d-4b09-9a59-876ddebc79bb.jpg)](https://softexe.net/win/disks-files/data-recovery/file-scavenger:aaba.html)
 
 Regardless of whether we want to restore data deleted due to hardware failure, virus or our error, File Scavenger will try to perform this operation as best as possible. The program recovers files from the hard disk, system bin or network drive. However, one must bear in mind that these data could not be permanently overwritten. If this happens, it will be impossible to recover them.

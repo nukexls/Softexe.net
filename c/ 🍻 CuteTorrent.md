@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/cutetorrent-1704.png) CuteTorrent 1.0.0.43 - Free Download
 
-```sh
-CuteTorrent is a torrent client with a simple, intuitive interface designed for easy management and transfer of information. Built on libtorrent library
-```
+> CuteTorrent is a torrent client with a simple, intuitive interface designed for easy management and transfer of information. Built on libtorrent library
+
 [![CuteTorrent](https://gallery.dpcdn.pl/imgc/Tools/81016/g_-_420x350_1.5_-_x299205bf-5607-4a93-97f3-0fe6105e09e4.png)](https://softexe.net/win/internet/file-sharing/cutetorrent:pgRd.html)
 
 CuteTorrent is a torrent client with a simple, intuitive interface designed for easy management and transfer of information. Built on the basis of the library libtorrent.

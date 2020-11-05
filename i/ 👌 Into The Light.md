@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Into+The+Light icon&w=40&h=40) Into The Light 0.1 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Into The Light 0.1 - Free Download
 
-```sh
-Into The Light is a nice, climactic and easy-to-master 2D platfrug with mainly arcade ground. We direct here the movements of the fireball, whose main task is to find a way out of each, even the most complicated system. All this to reach the main volcano as a last resort ...
-```
+> Into The Light is a nice, climactic and easy-to-master 2D platfrug with mainly arcade ground. We direct here the movements of the fireball, whose main task is to find a way out of each, even the most complicated system. All this to reach the main volcano as a last resort ...
+
 [![Into The Light](https://gallery.dpcdn.pl/imgc/Tools/71903/g_-_420x350_1.5_-_x20161014154254_0.jpg)](https://softexe.net/win/games-entertainment/other/into-the-light:ppcbf.html)
 
 The basis of the game is traversing underground labyrinths and jumping on various platforms, overcoming all kinds of obstacles, blockades and ambushes. Do not forget about collecting fuel tanks here and there, adding the precious seconds needed to complete the system.

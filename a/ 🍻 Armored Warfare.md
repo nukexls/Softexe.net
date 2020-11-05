@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Armored+Warfare icon&w=40&h=40) Armored Warfare Update .19 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Armored Warfare Update .19 - Free Download
 
-```sh
-Fans of games with tanks in the main role got another, dynamically growing and above all free MMO project to check. Armored Warfare is a great leap for the renowned Obsidian Entertainment studio, previously associated primarily with exquisite RPGs. From production, usually turn-based, it has gone through with impetus to make proposals from the mainstream network for a wide audience.
-```
+> Fans of games with tanks in the main role got another, dynamically growing and above all free MMO project to check. Armored Warfare is a great leap for the renowned Obsidian Entertainment studio, previously associated primarily with exquisite RPGs. From production, usually turn-based, it has gone through with impetus to make proposals from the mainstream network for a wide audience.
+
 [![Armored Warfare](https:https://tse3.mm.bing.net/th?id=OIP.2Lzzv752N0exNZPHnBwe3wHaEA&pid=Api)](https://softexe.net/win/games-entertainment/rpg/armored-warfare:pRgfp.html)
 
 The title focuses on fights in modern scenes and the use of the latest armored technology in battle. You will shoot an enemy under a nuclear reactor in Spain, try to take an island of great strategic importance, defend oil in the Middle East, or play with a cat and a mouse in a ruined port. Armored Warfare can show off an attractive graphic design, and at the same time you do not need such a very powerful computer to run the game.

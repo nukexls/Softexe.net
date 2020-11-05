@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/the-ultimate-pid-checker-8168.png) The Ultimate PID Checker 1.2.0.606 - Free Download
 
-```sh
-The Ultimate PID Checker is a small and compact tool whose main task is to verify the integrity of the Windows system product keys. Thanks to it, we can easily read the serial number of the operating environment installed on our computer.
-```
+> The Ultimate PID Checker is a small and compact tool whose main task is to verify the integrity of the Windows system product keys. Thanks to it, we can easily read the serial number of the operating environment installed on our computer.
+
 [![The Ultimate PID Checker](https://gallery.dpcdn.pl/imgc/Tools/91019/g_-_420x350_1.5_-_x98ad0aae-c196-402b-9862-be3e952c1f05.png)](https://softexe.net/win/system/other/the-ultimate-pid-checker:hpfh.html)
 
 The tool is not complicated and allows eg convenient checking of the correctness of your product key before we decide to install the software using it. After launching The Ultimate PID Checker, it will appear that we will provide the mentioned serial number in the main window (enter it manually or load it from a file) or use the option that automatically reads the key from our Windows and click 'Go'. At this point, the program will check the integrity of the serial number, and the results will notify us at the bottom of the main window.

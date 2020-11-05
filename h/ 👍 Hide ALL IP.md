@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Hide+ALL+IP icon&w=40&h=40) Hide ALL IP 2020.01.13 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Hide ALL IP 2020.01.13 - Free Download
 
-```sh
-Hide ALL IP is a tool for users who value privacy during everyday use of the Internet.
-```
+> Hide ALL IP is a tool for users who value privacy during everyday use of the Internet.
+
 [![Hide ALL IP](https://gallery.dpcdn.pl/imgc/Tools/81962/g_-_420x350_1.5_-_xf71ad628-78a8-469c-af3b-50c00f2ee6d4.jpg)](https://softexe.net/win/security-privacy/other/hide-all-ip:hcfe.html)
 
 After running this program, no one will detect our activity on the network. Hide ALL IP changes the real IP address of the user to a fake one (we can choose from a variety of servers located all over the world), and additionally makes all network traffic of a person using this tool is carried out by encrypted web servers (RSA 2048 and AES / DES). Thanks to this, all remote servers receive information containing the already mentioned fake IP address.

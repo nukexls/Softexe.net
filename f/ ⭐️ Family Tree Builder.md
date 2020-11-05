@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Family+Tree+Builder icon&w=40&h=40) Family Tree Builder 8.0.0.8569  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Family Tree Builder 8.0.0.8569  - Free Download
 
-```sh
-Family Tree Builder is without a doubt one of the best free programs available for creating, collecting and displaying genealogical data.
-```
+> Family Tree Builder is without a doubt one of the best free programs available for creating, collecting and displaying genealogical data.
+
 [![Family Tree Builder](https://gallery.dpcdn.pl/imgc/Tools/862/g_-_420x350_1.5_-_x20100422160616.png)](https://softexe.net/win/hobbies-lifestyle/other/family-tree-builder:hgRc.html)
 
 With its help, you can build the so-called family trees even of complex family lines. This is facilitated by the transparent and accessible in Polish language graphical interface, allowing to enter genealogy data in a convenient way, enriching them with photos, documents and films. In addition to the standard capabilities of this type of application, Family Tree Builder also allows you to generate interesting graphs (in both horizontal and vertical orientation), using built-in graphic themes, preparing reports and marking Google-relevant places that are associated with important events (birth, weddings) e.t.c.).

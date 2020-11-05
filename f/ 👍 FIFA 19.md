@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) FIFA 19  - Free Download
 
-```sh
-FIFA 19 is the most popular football game from EA Sports. The new version of the series offers fully licensed games of the Champions League and the Europa League, which until now were only available in the Pro Evolution Soccer series.
-```
+> FIFA 19 is the most popular football game from EA Sports. The new version of the series offers fully licensed games of the Champions League and the Europa League, which until now were only available in the Pro Evolution Soccer series.
+
 [![FIFA 19](https://gallery.dpcdn.pl/imgc/Tools/84792/g_-_420x350_1.5_-_xd8ea5cba-cbce-4649-80c8-9a94d338b711.jpg)](https://softexe.net/win/games-entertainment/sport/fifa-19:ahbf.html)
 
 A lot of new products can be found in the fun options, because FIFA 19 adds new variants in a quick match that we can play on our own terms. We will decide ourselves whether all goals will be scored or only those shot with head or volley; we can also set a rule that goals from behind the penalty area count twice. In addition, FIFA 19 includes an interesting survival mode in which after scoring one player from our team must leave the pitch.

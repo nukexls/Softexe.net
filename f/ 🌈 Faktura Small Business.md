@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/faktura-small-business-8267.png) Faktura Small Business 2.1.39.0 - Free Download
 
-```sh
-The Small Business invoice is the basic version of the invoicing program from the MEGA-TECH offer, which is characterized by intuitive operation and is directed to small and small enterprises that do not conduct warehouse management.
-```
+> The Small Business invoice is the basic version of the invoicing program from the MEGA-TECH offer, which is characterized by intuitive operation and is directed to small and small enterprises that do not conduct warehouse management.
+
 [![Faktura Small Business](https://gallery.dpcdn.pl/imgc/Tools/16733/g_-_420x350_1.5_-_x20160310205050_0.png)](https://softexe.net/win/business/billing/faktura-small-business:hbfg.html)
 
 The application, apart from the possibility of issuing various types of sales documents, also allows to create files of goods, services and clients, in which the collected information can support the user at the stage of generating each new invoice. What's more, with the help of the Invoice Small Business program, we will quickly and efficiently prepare an offer or order for the client, which in a later stage can be easily converted into a invoice or a pro-forma invoice. Finished sales documents can be printed as standard, stored on a disk in PDF, HTML, JPG format or sent to the customer by e-mail.

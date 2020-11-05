@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Magic Bullet Suite 13.0.16 - Free Download
 
-```sh
-Magic Bullet Suite 12 is the latest version of a set of 9 plugins designed for video post-production in applications such as Adobe After Effects, Adobe Premiere Pro and Apple Final Cut Pro.
-```
+> Magic Bullet Suite 12 is the latest version of a set of 9 plugins designed for video post-production in applications such as Adobe After Effects, Adobe Premiere Pro and Apple Final Cut Pro.
+
 [![Magic Bullet Suite](https:https://tse2.mm.bing.net/th?id=OIP.Bjb-SwSAqs-dJqSJyGroYgHaFM&pid=Api)](https://softexe.net/win/system/extensions/magic-bullet-suite:pRdgh.html)
 
 The package includes such plugs as Magic Bullet Colorista II, Magic Bullet Denoiser, Magic Bullet Frames, Magic Bullet Grinder, Magic Bullet Instant HD, Magic Bullet Looks, Magic Bullet Mojo and Magic Bullet PhotoLooks. Color manipulation allows the viewer to enter the climate of Hollywood superproduction without the need to use complicated lighting systems and filters for the camera lens. Nowadays color grading technology shapes the final look of the film.

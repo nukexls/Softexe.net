@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/xara-photo-graphic-designer-8524.png) Xara Photo & Graphic Designer 16.0.0.56164 - Free Download
 
-```sh
-Xara Photo &amp; Graphic Designer is an advanced graphic program for processing and retouching photos, creating and designing graphics, photo montages, digital painting and preparing vector illustrations.
-```
+> Xara Photo &amp; Graphic Designer is an advanced graphic program for processing and retouching photos, creating and designing graphics, photo montages, digital painting and preparing vector illustrations.
+
 [![Xara Photo & Graphic Designer](https://gallery.dpcdn.pl/imgc/Tools/9496/g_-_420x350_1.5_-_x20130918120342_0.png)](https://softexe.net/win/multimedia/graphics-design/xara-photo-graphic-designer:hebd.html)
 
 The program copes well with RAW files from many cameras. Editing tools include cropping, color matching, masking sharpening, removing lens distortions, and basic retouching tools. You can remove unwanted objects from photos, improve the appearance of the skin, remove imperfections and wrinkles. You can also modify shapes by smooth forming.

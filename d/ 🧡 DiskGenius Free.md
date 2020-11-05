@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/diskgenius-free-8720.png) DiskGenius Free 5.1.2.766 - Free Download
 
-```sh
-DiskGenius Free (formerly Eassos PartitionGuru Free) is a free and powerful tool for managing hard drives on your computer. The program is used for partitioning disks, making backup copies of entire partitions, and for restoring lost data.
-```
+> DiskGenius Free (formerly Eassos PartitionGuru Free) is a free and powerful tool for managing hard drives on your computer. The program is used for partitioning disks, making backup copies of entire partitions, and for restoring lost data.
+
 [![DiskGenius Free](https://gallery.dpcdn.pl/imgc/Tools/9110/g_-_420x350_1.5_-_x20120623123541_00.jpg)](https://softexe.net/win/disks-files/hdd-utilities/diskgenius-free:hgbR.html)
 
 The application has been equipped with the most important functions that allow you to perform almost all activities related to partitions on any data carrier. The program allows, among other things, to create, delete, format and hide partitions, and is also ideal for searching and recovering deleted volumes that have been lost as a result of hard drive failure or the attack of a dangerous virus. 

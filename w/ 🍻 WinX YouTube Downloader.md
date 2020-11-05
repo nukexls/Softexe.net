@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) WinX YouTube Downloader 5.3.0.0 - Free Download
 
-```sh
-Free application to download 4K / HD MP4 videos from various video hosting services, such as YouTube, Vimeo, Facebook and many others. You can save videos in various formats in optimal resolution for most mobile devices.
-```
+> Free application to download 4K / HD MP4 videos from various video hosting services, such as YouTube, Vimeo, Facebook and many others. You can save videos in various formats in optimal resolution for most mobile devices.
+
 [![WinX YouTube Downloader](https://gallery.dpcdn.pl/imgc/Tools/81546/g_-_420x350_1.5_-_x1de21232-1898-4a4e-9081-aa9cd3ed5fe8.jpg)](https://softexe.net/win/multimedia/video/winx-youtube-downloader:ghca.html)
 
 WinX YouTube Downloader is an easy-to-use program for quickly and comfortably downloading various video content from YouTube, Metacafe, Soundcloud, Vimeo, Facebook, Dailymotion, etc. (more than 300 different services and sites are supported).

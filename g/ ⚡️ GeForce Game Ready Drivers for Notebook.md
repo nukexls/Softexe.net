@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=GeForce+Game+Ready+Drivers+for+Notebook icon&w=40&h=40) GeForce Game Ready Drivers for Notebook 456.38 WHQL - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) GeForce Game Ready Drivers for Notebook 456.38 WHQL - Free Download
 
-```sh
-GeForce Game Ready Drivers for Notebook are reference drivers for notebooks equipped with NVIDIA M series mobile graphics chips
-```
+> GeForce Game Ready Drivers for Notebook are reference drivers for notebooks equipped with NVIDIA M series mobile graphics chips
+
 [![GeForce Game Ready Drivers for Notebook](https:https://tse3.mm.bing.net/th?id=OIP.q9srKjJEVSsjtIQ7QDd4dgHaFG&pid=Api)](https://softexe.net/win/system/drivers/geforce-game-ready-drivers-for-notebook:hfdp.html)
 
 List of supported devices

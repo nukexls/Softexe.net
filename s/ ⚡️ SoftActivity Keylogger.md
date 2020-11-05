@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/softactivity-keylogger-11357.png) SoftActivity Keylogger 8.2.2 - Free Download
 
-```sh
-SoftActivity Keylogger is a small tool that, when hidden, records information about user activity on the computer. It is targeted at home applications and provides the ability to save many activities performed during daily work with a computer.
-```
+> SoftActivity Keylogger is a small tool that, when hidden, records information about user activity on the computer. It is targeted at home applications and provides the ability to save many activities performed during daily work with a computer.
+
 [![SoftActivity Keylogger](https://gallery.dpcdn.pl/imgc/Tools/30846/g_-_420x350_1.5_-_x20131006103048_0.png)](https://softexe.net/win/system/archive-programs/softactivity-keylogger:ppceg.html)
 
 With the help of this easy-to-use program, we check what operations are performed on the computer by kids or colleagues during our absence. The tool can record information about each started application, its working time, the history of websites visited, e-mails sent / received, instant messaging conversations, and even characters entered using the keyboard.

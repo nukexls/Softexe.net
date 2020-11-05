@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/anti-porn-8489.png) Anti-Porn 27.3.6.22 - Free Download
 
-```sh
-Anti-Porn is a very popular tool outside of our country, used to control the use of our computer. It is perfectly suited for controlling visited websites and programs launched by our children, spouses, employees and other people working on the computer.
-```
+> Anti-Porn is a very popular tool outside of our country, used to control the use of our computer. It is perfectly suited for controlling visited websites and programs launched by our children, spouses, employees and other people working on the computer.
+
 [![Anti-Porn](https://gallery.dpcdn.pl/imgc/Tools/9354/g_-_420x350_1.5_-_x20120720234539_00.png)](https://softexe.net/win/security-privacy/access-control/anti-porn:hdha.html)
 
 The possibility and high functionality can be proved by the fact that the program is used on a daily basis by over 8 million people around the world. In addition to the basic options for blocking selected pages, as well as their filtering, the tool also offers many more useful functions. Among them, we can find, among others those that allow you to block selected internet messengers, computer games, as well as define the time in which you can use them and run them.

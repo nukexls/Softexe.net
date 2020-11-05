@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/skype-6242.png) Skype 8.64.0.80  - Free Download
 
-```sh
-Skype is a megapopular program with which you can make voice and video calls to all corners of the globe absolutely free. Developers declare complete privacy of communication and personal data, which is achieved by encrypting traffic.
-```
+> Skype is a megapopular program with which you can make voice and video calls to all corners of the globe absolutely free. Developers declare complete privacy of communication and personal data, which is achieved by encrypting traffic.
+
 [![Skype](https://gallery.dpcdn.pl/imgc/Tools/218/g_-_420x350_1.5_-_xa43155c0-51e1-422c-a9e1-7556199b9113.png)](https://softexe.net/win/internet/voip/skype:fbdb.html)
 
 Skype (Skype) - one of the most popular cross-platform applications for IP-telephony, allowing you to communicate with users around the world. To do this, it provides voice and video calls of high quality, as well as chat correspondence and video messages. The program itself is completely free - you pay only for Internet connection services.

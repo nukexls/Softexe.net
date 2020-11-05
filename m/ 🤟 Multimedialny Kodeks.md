@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/multimedialny-kodeks-8436.png) Multimedialny Kodeks 7.6.1.5 - Free Download
 
-```sh
-Multimedia Codex is an application created for future drivers. Thanks to it we will be able to prepare for the driving test.
-```
+> Multimedia Codex is an application created for future drivers. Thanks to it we will be able to prepare for the driving test.
+
 [![Multimedialny Kodeks](https://gallery.dpcdn.pl/imgc/Tools/90839/g_-_420x350_1.5_-_x7bca39ca-8753-4e82-abc6-b99d2e6a9088.jpg)](https://softexe.net/win/education-science/other/multimedialny-kodeks:hdcf.html)
 
 Transparent interface

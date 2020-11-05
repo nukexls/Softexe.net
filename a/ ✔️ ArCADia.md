@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/arcadia-10251.png) ArCADia 10.4.4030 - Free Download
 
-```sh
-ArCADia is a combination of a CAD program and a basic ArCADia BIM system module sold under the name ArCADia-START.
-```
+> ArCADia is a combination of a CAD program and a basic ArCADia BIM system module sold under the name ArCADia-START.
+
 [![ArCADia](https://gallery.dpcdn.pl/imgc/Tools/69055/g_-_420x350_1.5_-_x20160629132020_0.png)](https://softexe.net/win/multimedia/cad/arcadia:pRbep.html)
 
 ArCADia allows you to draw 2D and 3D documentation, but allows you to save projects in DWG format from 2.5 to 2013, DWF, DWT DXF, DGN and has many tools identical to those in AutoCAD. Work on layers and the command line looks very similar. In addition, ArCADia allows full personalization of settings, commands, toolbars, shortcuts and aliases. Tools give you the ability to import lines, hatches and dimensioning styles.

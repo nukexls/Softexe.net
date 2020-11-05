@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/realtime-landscaping-architect-2017-10787.png) Realtime Landscaping Architect 2017 17.00 - Free Download
 
-```sh
-Realtime Landscaping Architect 2016 is a great program for designing lawns, arbors, terraces, patios, pools, ponds, cascades, driveways, fences, rebates and many other garden elements. The program takes into account the climate zone, terrain and helps plan the irrigation system.
-```
+> Realtime Landscaping Architect 2016 is a great program for designing lawns, arbors, terraces, patios, pools, ponds, cascades, driveways, fences, rebates and many other garden elements. The program takes into account the climate zone, terrain and helps plan the irrigation system.
+
 [![Realtime Landscaping Architect 2017](https:https://tse3.mm.bing.net/th?id=OIP.tIgCQCQznanKbAgYOcSpQwHaFu&pid=Api)](https://softexe.net/win/multimedia/graphics-design/realtime-landscaping-architect-2017:pRghg.html)
 
 Realtime Landscaping Architect contains all the tools needed to prepare a garden plan, 3D presentation (in the form of images, films or VR applications) and CAD projects needed for implementation. Plans can be drawn by hand, using the provided textures of materials and models of various objects. We find here gazebos, hurdles, elements of driveways and fences and a collection of plants with the possibility of visualizing their growth and appearance in different seasons. The program also allows you to import models and sketches from DWG, DXF, SKP, 3DS and PDF files. To help you design, you can also import garden photos. 

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Assassin%27s+Creed+Pirates icon&w=40&h=40) Assassin's Creed Pirates  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Assassin's Creed Pirates  - Free Download
 
-```sh
-Assassin's Creed Pirates is a side game from the Assassin's Creed series. Under no circumstances should it be compared with Assassin's Creed Origins or other titles published for PCs and Xbox One and PlayStation 4 consoles, because Assassin's Creed Pirates has been transferred to computers from smartphones and tablets.
-```
+> Assassin's Creed Pirates is a side game from the Assassin's Creed series. Under no circumstances should it be compared with Assassin's Creed Origins or other titles published for PCs and Xbox One and PlayStation 4 consoles, because Assassin's Creed Pirates has been transferred to computers from smartphones and tablets.
+
 [![Assassin's Creed Pirates](https://gallery.dpcdn.pl/imgc/Tools/83677/g_-_420x350_1.5_-_x2021371d-901d-4168-90de-2d5ca767d920.jpg)](https://softexe.net/win/games-entertainment/shooters/assassin-s-creed-pirates:pRRbf.html)
 
 You play as a young and ambitious captain. Alonzo Batilla will set out to find the legendary treasure of pirate Olivier Levasseur (La Buse) located somewhere in the Caribbean. During his journey he will take part in the conflict between the assassins and the Templars, meeting the most famous pirates on the road, including Sam Bellamy, Blackbeard and Ben Hornigold. Assassin's Creed Pirates contains over 50 historical missions and side missions, 100 treasures to find and many other attractions.

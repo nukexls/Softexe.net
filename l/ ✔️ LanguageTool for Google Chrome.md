@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/languagetool-dla-google-chrome-8463.png) LanguageTool for Google Chrome 2.4.0 - Free Download
 
-```sh
-LanguageTool is a useful extension for Google Chrome browser, thanks to which we can easily check if grammatical, punctuation, etc. are in the text being edited.
-```
+> LanguageTool is a useful extension for Google Chrome browser, thanks to which we can easily check if grammatical, punctuation, etc. are in the text being edited.
+
 [![LanguageTool for Google Chrome](https://gallery.dpcdn.pl/imgc/Tools/90806/g_-_420x350_1.5_-_xaeb7c179-9be7-4205-a216-c06ef244c07e.png)](https://softexe.net/win/internet/browser-add-ons/languagetool-for-google-chrome:hdfc.html)
 
 Checking the spelling of the selected text

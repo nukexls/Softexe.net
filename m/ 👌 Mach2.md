@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/mach2-10381.png) Mach2 0.3.0.0 - Free Download
 
-```sh
-Mach2 is an open tool for people who want to test not only explicit features in the Windows builds of developers, but also those excluded by Microsoft at an early stage of development.
-```
+> Mach2 is an open tool for people who want to test not only explicit features in the Windows builds of developers, but also those excluded by Microsoft at an early stage of development.
+
 [![Mach2](https://gallery.dpcdn.pl/imgc/Tools/81872/g_-_420x350_1.5_-_xca72bedf-7985-47cc-bfca-562aa6f361dd.png)](https://softexe.net/win/development-it/development-tools/mach2:pRchp.html)
 
 Mach2 works from the command line. Using the appropriate options, you can read all enabled and disabled functions, saved in Feature Controland enable or disable selected ones.

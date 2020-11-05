@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/scrnsnap-6059.png) ScrnSnap 1.2.4.0 - Free Download
 
-```sh
-ScrnSnap is a simple, but at the same time very handy screenshoter that has a minimalistic interface and quite flexible settings for capturing images from the monitor screen
-```
+> ScrnSnap is a simple, but at the same time very handy screenshoter that has a minimalistic interface and quite flexible settings for capturing images from the monitor screen
+
 [![ScrnSnap](https:https://tse4.mm.bing.net/th?id=OIP.RBtNyhZTR19TYxk_Lq-tXgHaDu&pid=Api)](https://softexe.net/win/multimedia/graphics-design/scrnsnap:fRea.html)
 
 ScrnSnap is a simple, but at the same time very handy screenshoter, which has a minimalistic interface and quite flexible settings for capturing images from the monitor screen. The program allows you to take a snapshot of the image of the entire display, the current working window or a randomly selected area. At the same time, you can assign a hot key yourself (shortcut key), which is responsible for creating a screenshot.

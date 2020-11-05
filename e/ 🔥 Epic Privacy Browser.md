@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/epic-privacy-browser-2343.png) Epic Privacy Browser 80.0.3987.87  - Free Download
 
-```sh
-Epic Privacy Browser is another implementation of the browser on the Chromium platform, which is focused on protecting user privacy on the Internet
-```
+> Epic Privacy Browser is another implementation of the browser on the Chromium platform, which is focused on protecting user privacy on the Internet
+
 [![Epic Privacy Browser](https:https://tse3.mm.bing.net/th?id=OIP.Y_l0HxLzt4tDFAA5w6-uHAHaES&pid=Api)](https://softexe.net/win/internet/browsers/epic-privacy-browser:bcdc.html)
 
 Epic Privacy Browser is another implementation of the browser on the Chromium platform, which is focused on protecting the privacy of the user on the Internet. Almost all functions and tools with which you can track user actions are removed from this web browser: plugins are not supported, visiting history and passwords are not saved, cookies are blocked, the cache is automatically cleared, there is no address bar prompt, the autotranslate is deactivated, and much more.

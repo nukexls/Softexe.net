@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Fiddler 5.0.20194.41348 - Free Download
 
-```sh
-Fiddler is a free but extremely powerful tool for monitoring HTTP / HTTPS traffic between the user's computer and the internet. It is mainly addressed to the creators of web sites and web applications.
-```
+> Fiddler is a free but extremely powerful tool for monitoring HTTP / HTTPS traffic between the user's computer and the internet. It is mainly addressed to the creators of web sites and web applications.
+
 [![Fiddler](https://gallery.dpcdn.pl/imgc/Tools/61460/g_-_420x350_1.5_-_x20150902221917_0.png)](https://softexe.net/win/internet/other/fiddler:pRRgd.html)
 
 The program is compatible with any application that supports a proxy server, so it can easily handle Internet browsers such as Internet Explorer, Opera, Chrome, Firefox and Safari. It can debug traffic performed in various operating systems (including the most popular ones, such as Windows, Linux or Mac) and to many different programs (eg Microsoft Office).

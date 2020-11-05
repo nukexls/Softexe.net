@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/active-partition-manager-10748.png) Active@ Partition Manager 6.0.15 - Free Download
 
-```sh
-Active @ Partition Manager is a free program that is used to manage hard disks, USB mass storage devices and system or logical partitions created on them.
-```
+> Active @ Partition Manager is a free program that is used to manage hard disks, USB mass storage devices and system or logical partitions created on them.
+
 [![Active@ Partition Manager](https:https://tse1.explicit.bing.net/th?id=OIP.BdOnzbznw8u37vsPLvk6pgHaEr&pid=Api)](https://softexe.net/win/disks-files/hdd-utilities/active-partition-manager:pRgdh.html)
 
 The tool copes well with the recognition of volumes with the following file systems: FAT, NTFS, NTFS + EFS, MacOS HFS +, Linux Ext2 / Ext3 / Ext4, Unix UFS and BtrFS. Active @ Partition Manager supports both older and newer versions of popular "windows", including Windows 8, Windows 7, Windows XP, Windows 2003, Windows Server 2008, Windows Server 2012 and WinPE.  

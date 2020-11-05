@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=mpSekretariat icon&w=40&h=40) mpSekretariat 20.6.17 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) mpSekretariat 20.6.17 - Free Download
 
-```sh
-mpSekretariat is an intuitive and convenient to use application designed to support the daily work of the secretariat. It enables easy monitoring of correspondence, planning tasks and meetings, and managing customer relations.
-```
+> mpSekretariat is an intuitive and convenient to use application designed to support the daily work of the secretariat. It enables easy monitoring of correspondence, planning tasks and meetings, and managing customer relations.
+
 [![mpSekretariat](https://gallery.dpcdn.pl/imgc/Tools/76956/g_-_420x350_1.5_-_x20170728170249_0.jpg)](https://softexe.net/win/business/other/mpsekretariat:accp.html)
 
 Among the functions offered by the program, you can find a module for managing contractors, which allows for efficient access to all related documents, assigning to the contractor an individual price list, payment method, payment date, rebate or even a trade credit. From the mpSekretariat level it becomes possible to handle incoming and outgoing correspondence, to post correspondence to employees and to store attachments and share them between employees.

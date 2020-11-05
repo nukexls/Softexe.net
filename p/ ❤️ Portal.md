@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Portal First Slice - Free Download
 
-```sh
-The portal is an extraordinary puzzle game that fits into the background of the story known from the popular Half-Life series. When Gordon Freeman saved the world, research in the secret underground complex was carried out using special weapons creating portals. The player wakes up as one of the testers of the device and is forced to overcome next rooms full of challenges that test our ability to think.
-```
+> The portal is an extraordinary puzzle game that fits into the background of the story known from the popular Half-Life series. When Gordon Freeman saved the world, research in the secret underground complex was carried out using special weapons creating portals. The player wakes up as one of the testers of the device and is forced to overcome next rooms full of challenges that test our ability to think.
+
 [![Portal](https://gallery.dpcdn.pl/imgc/Tools/63050/g_-_420x350_1.5_-_x20151028122659_0.jpg)](https://softexe.net/win/games-entertainment/logical/portal:pbbeR.html)
 
 The gameplay is shown from the heroine's eyes. Fun is based on the creation of entrance and exit portals in order to overcome obstacles that have faced the player. Transitions can be opened on any surface except for special impenetrable walls, i.e. no problem, for example, to enter the wall and jump out of the ceiling. This is useful, of course, in the riddles, especially those with overcoming the specially spaced chasms. Jump from high on the portal at the bottom will cause that we will fly out of the strategically placed second with a momentum, reaching the exit.

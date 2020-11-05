@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Strip Poker Exclusive Delux  - Free Download
 
-```sh
-Domestic developers are quite resilient in the computer game strip poker market. The Strip Poker Exclusive Delux project will appeal to lovers of charms of Polish women because there are ladies using our language here. Following the example of modern projects from this genre, old static shots for individual opponents have been changed into video sequences to give a sense of interaction.
-```
+> Domestic developers are quite resilient in the computer game strip poker market. The Strip Poker Exclusive Delux project will appeal to lovers of charms of Polish women because there are ladies using our language here. Following the example of modern projects from this genre, old static shots for individual opponents have been changed into video sequences to give a sense of interaction.
+
 [![Strip Poker Exclusive Delux](https://gallery.dpcdn.pl/imgc/Tools/66410/g_-_420x350_1.5_-_x20160314130818_0.jpg)](https://softexe.net/win/games-entertainment/logical/strip-poker-exclusive-delux:ppfep.html)
 
 In other words, the opponents at the table move, talk and resonate before our eyes. The creators even took care of the button to upload the video to the full screen to be able to better see the girls in a given situation. Of course, the main goal is to win cards so that ladies must gradually pawn the individual garments for money. We have three variants of the game: classic poker, Omag plus Texas Hold'em.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/ssuite-omegaoffice-hd-8858.png) SSuite OmegaOffice HD+ 2.38.10 - Free Download
 
-```sh
-SSuite OmegaOffice HD + is a free office suite for more demanding users, which can be an interesting alternative to commercial Microsoft Office. Interestingly, the interface of individual applications has been enlarged to more clearly present the features, features and menus on Full HD displays and the latest Surface Pro tablets.
-```
+> SSuite OmegaOffice HD + is a free office suite for more demanding users, which can be an interesting alternative to commercial Microsoft Office. Interestingly, the interface of individual applications has been enlarged to more clearly present the features, features and menus on Full HD displays and the latest Surface Pro tablets.
+
 [![SSuite OmegaOffice HD+](https://gallery.dpcdn.pl/imgc/Tools/52402/g_-_420x350_1.5_-_x20140630235843_0.png)](https://softexe.net/win/business/office-suites/ssuite-omegaoffice-hd:hheh.html)
 
 The office package includes the following programs: NetSurfer HD, WordGraph HD (text editor with the function of creating multimedia presentations), EZPhoto Editor HD (image files editor), Accel Spreadsheet HD (spreadsheet) and Year and Day Planner HD (calendar). In addition to these key tools, the user also has a number of bonus applications, such as: Tetris 2D, CleverNote PIM, Envelope Printer and EZPhoto Album and Presentation Viewer.

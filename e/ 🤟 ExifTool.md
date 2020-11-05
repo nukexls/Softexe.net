@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) ExifTool 12.05 - Free Download
 
-```sh
-ExifTool is a free application with a command line that allows you to view, enter and edit metadata found in various multimedia files.
-```
+> ExifTool is a free application with a command line that allows you to view, enter and edit metadata found in various multimedia files.
+
 [![ExifTool](https://gallery.dpcdn.pl/imgc/Tools/65825/g_-_420x350_1.5_-_x20160222191358_0.png)](https://softexe.net/win/multimedia/other/exiftool:hdbg.html)
 
 It is very important that inexperienced users who intend to make use of the ExifTool program before starting any operations create a backup of their data. In the event of failure, they can overwrite damaged files at any time or restore lost video, music or sound files.

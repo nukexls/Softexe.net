@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Intel Network Adapter Driver for Windows 8 22.7.1 - Free Download
 
-```sh
-Intel Network Adapter Driver is a driver package designed for Intel network systems integrated with motherboards, as well as network cards available for PCI and PCI Express.
-```
+> Intel Network Adapter Driver is a driver package designed for Intel network systems integrated with motherboards, as well as network cards available for PCI and PCI Express.
+
 [![Intel Network Adapter Driver for Windows 8](https:https://tse1.mm.bing.net/th?id=OIP.od1DWzb7F9kp9PlVBaz6CAHaGD&pid=Api)](https://softexe.net/win/system/drivers/intel-network-adapter-driver-for-windows-8:pRgae.html)
 
 List of supported layouts

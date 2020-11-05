@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/avplayer-9844.png) AVPlayer 1.3.0.2 - Free Download
 
-```sh
-AVPlayer only seemingly is a typical media player. The application allows you to run up to 16 movies on one screen at the same time.
-```
+> AVPlayer only seemingly is a typical media player. The application allows you to run up to 16 movies on one screen at the same time.
+
 [![AVPlayer](https://gallery.dpcdn.pl/imgc/Tools/82779/g_-_420x350_1.5_-_x545bb4e5-e1a2-4dd0-8bd8-81f3d07cc062.jpg)](https://softexe.net/win/multimedia/audio-video-players/avplayer:ahdd.html)
 
 The creators of the AVPlayer program apparently assumed that not all people would be able to watch one video material. Therefore, the described tool enables simultaneous launch of many films using the drag-and-drop technique. For each of them a separate mini-media player has been prepared, thanks to which we can freely manage individual images, changing, for example, the aspect ratio, speed of play and volume.

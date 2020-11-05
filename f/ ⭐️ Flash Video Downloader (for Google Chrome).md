@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/flash-video-downloader-dla-google-chrome-9132.png) Flash Video Downloader (for Google Chrome) 31.2.7 - Free Download
 
-```sh
-Flash Video Downloader is a plugin for the Google Chrome browser, through which we can download videos from selected websites.
-```
+> Flash Video Downloader is a plugin for the Google Chrome browser, through which we can download videos from selected websites.
+
 [![Flash Video Downloader (for Google Chrome)](https://gallery.dpcdn.pl/imgc/Tools/89652/g_-_420x350_1.5_-_x894872b3-1abc-4e3d-a03d-23614663a1e2.jpg)](https://softexe.net/win/internet/browser-add-ons/flash-video-downloader-for-google-chrome:apcb.html)
 
 The tool is simple to use. Flash Video Downloader automatically generates content that we can download to your computer's hard drive by presenting it in the form of a clear list. Just click on the arrow located next to the address bar (on the right) to check which movies are available for download from a given website, and then use the "download" button located next to the file name.

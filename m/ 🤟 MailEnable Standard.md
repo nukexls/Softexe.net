@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) MailEnable Standard 10.31 - Free Download
 
-```sh
-MailEnable Standard is a free edition of one of the most popular and best email servers for Windows systems.
-```
+> MailEnable Standard is a free edition of one of the most popular and best email servers for Windows systems.
+
 [![MailEnable Standard](https://gallery.dpcdn.pl/imgc/Tools/2783/g_-_420x350_1.5_-_x20110428163139_00.jpg)](https://softexe.net/win/development-it/server/mailenable-standard:hgcd.html)
 
 MailEnable, apart from hosting user boxes accessible via the POP3 protocol and the SMTP connector, also offers webmail made in .NET technology, the ability to set up mailing lists and user groups, has an autoresponder, and supports APOP and POP before SMTP authentication, access configuration based on IP addresses or the ability to create white and black IP and DNS lists. There are also many other administrative functions related to e-mail delivery, user authorization and server operation.

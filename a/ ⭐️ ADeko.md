@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/adeko-11016.png) ADeko 14.5.2 - Free Download
 
-```sh
-ADeko is an interior design program that allows you to quickly prepare the visualization of the kitchen, bathroom, bedroom, office or any other space. In many cases, the program can automatically generate an alternative layout of furniture and equipment, which is particularly useful when creating kitchen furniture design proposals. Generated designs can be modified by changing dimensions, finish colors, handles and the like.
-```
+> ADeko is an interior design program that allows you to quickly prepare the visualization of the kitchen, bathroom, bedroom, office or any other space. In many cases, the program can automatically generate an alternative layout of furniture and equipment, which is particularly useful when creating kitchen furniture design proposals. Generated designs can be modified by changing dimensions, finish colors, handles and the like.
+
 [![ADeko](https://gallery.dpcdn.pl/imgc/Tools/68261/g_-_420x350_1.5_-_x20160525154253_0.png)](https://softexe.net/win/multimedia/graphics-design/adeko:ppRpf.html)
 
 We have here a huge library of ready-made furniture, decorative materials and accessories, as well as the ability to create your own textures. When designing the kitchen, you can quickly change the finishing elements of the entire set at the same time, as well as arrange floor tiles, tiles and automatically arrange accessories.

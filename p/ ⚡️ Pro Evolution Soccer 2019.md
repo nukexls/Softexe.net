@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Pro Evolution Soccer 2019  - Free Download
 
-```sh
-Pro Evolution Soccer 2019 is a new version of the popular football game from Konami studio.
-```
+> Pro Evolution Soccer 2019 is a new version of the popular football game from Konami studio.
+
 [![Pro Evolution Soccer 2019](https://gallery.dpcdn.pl/imgc/Tools/84103/g_-_420x350_1.5_-_xe4a87798-244d-4d82-8ff2-855947d43393.jpg)](https://softexe.net/win/games-entertainment/sport/pro-evolution-soccer-2019:aaRf.html)
 
 This part includes even more licensed teams and leagues from various corners of the world. We can also find new products in MyClub mode and career, where pre-season sparring appeared (International Champions Cup), as well as in the transfer system, thanks to which we have more options when buying and selling players. Importantly, PES 2019 does not include Champions League and Europa League matches.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/gardenphilia-designer-11224.png) Gardenphilia Designer 2.1 - Free Download
 
-```sh
-Gardenphilia Designer is a program for designing gardens and green areas, prepared by a Polish company and containing a catalog of plants from Polish breeding. The program allows you to create a project and allows you to prepare a conceptual plan view, technical design, 3D visualization, as well as a combination of plants and materials used in the project.
-```
+> Gardenphilia Designer is a program for designing gardens and green areas, prepared by a Polish company and containing a catalog of plants from Polish breeding. The program allows you to create a project and allows you to prepare a conceptual plan view, technical design, 3D visualization, as well as a combination of plants and materials used in the project.
+
 [![Gardenphilia Designer](https://gallery.dpcdn.pl/imgc/Tools/68476/g_-_420x350_1.5_-_x20160603163443_0.png)](https://softexe.net/win/multimedia/graphics-design/gardenphilia-designer:ppbbd.html)
 
 Gardenphilia Design contains a database of 7200 thousand plants in the form of watercolor, hand-painted textures. The program interface is very intuitive and allows you to quickly and easily prepare greenery projects. In real time, you can simulate plant growth, flowering, leaf fall and shading of the area around them. When changing the date and time of day, the program can demonstrate how the garden will look in different seasons. 

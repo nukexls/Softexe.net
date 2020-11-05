@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/fontcreator-9521.png) FontCreator 13.0.0.2683 - Free Download
 
-```sh
-FontCreator is a powerful, but very intuitive and easy-to-use tool for creating and editing OpenType and TrueType fonts.
-```
+> FontCreator is a powerful, but very intuitive and easy-to-use tool for creating and editing OpenType and TrueType fonts.
+
 [![FontCreator](https://gallery.dpcdn.pl/imgc/Tools/67616/g_-_420x350_1.5_-_x20160502001136_0.png)](https://softexe.net/win/system/other/fontcreator:aebp.html)
 
 The program offers a very transparent form in the area of ​​browsing installed fonts by placing a summary of them in one window (it contains the font name, type, file name and size). In addition, below you will find the path to write each font, so we can find it quickly without having to manually search the hard disk.

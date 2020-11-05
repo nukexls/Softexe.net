@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/mendeley-desktop-8239.png) Mendeley Desktop 1.19.5 - Free Download
 
-```sh
-Mendeley Desktop is a powerful tool for organizing and managing various data stored on your computer. The application is also well-suited for working together with an appropriate scientific group, with which we will cooperate on a project for educational or business purposes.
-```
+> Mendeley Desktop is a powerful tool for organizing and managing various data stored on your computer. The application is also well-suited for working together with an appropriate scientific group, with which we will cooperate on a project for educational or business purposes.
+
 [![Mendeley Desktop](https://gallery.dpcdn.pl/imgc/Tools/9168/g_-_420x350_1.5_-_x20120702153625_00.jpg)](https://softexe.net/win/hobbies-lifestyle/other/mendeley-desktop:hbca.html)
 
 The program is designed not only for students and students, but also for ordinary users who store important documents or other important data on the disk. Mendeley Desktop allows you to conveniently view, catalog and manage the right collection of materials, as well as create a bibliography and plan for work or school. It also allows you to generate a bibliography created by one person or an appropriate scientific group and place it on a blog or website. 

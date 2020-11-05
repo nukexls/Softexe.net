@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Pale+Moon+Commander icon&w=40&h=40) Pale Moon Commander 3.0.1 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Pale Moon Commander 3.0.1 - Free Download
 
-```sh
-Pale Moon Commander is an add-on to the Firefox browser that allows you to easily configure its advanced settings. Thanks to it, the user will be able to configure, for example, options related to hardware acceleration, security and even card retention. The add-on was created by the creators of the Pale Moon browser, modification of Firefox.
-```
+> Pale Moon Commander is an add-on to the Firefox browser that allows you to easily configure its advanced settings. Thanks to it, the user will be able to configure, for example, options related to hardware acceleration, security and even card retention. The add-on was created by the creators of the Pale Moon browser, modification of Firefox.
+
 [![Pale Moon Commander](https://gallery.dpcdn.pl/imgc/Tools/54644/g_-_420x350_1.5_-_x20141021133304_0.png)](https://softexe.net/win/internet/browser-add-ons/pale-moon-commander:aRpR.html)
 
 After installing the add-on, you can access the advanced settings from the level of two places. The first is to go to the list of add-ons, and then click the Options button next to Pale Moon Commander. The second method is to select the Tools option from the menu bar (on the Windows platform it is hidden, you can discover it by pressing the ALT button), and then go to the Advanced Options position. All advanced options have been arranged in groups and subgroups to make them easier to find.

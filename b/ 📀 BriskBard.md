@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/briskbard-8883.png) BriskBard 2.0.0 - Free Download
 
-```sh
-BriskBard is a modern and very fast internet browser, the possibilities of which would not be ashamed of leading programs of this type on the market.
-```
+> BriskBard is a modern and very fast internet browser, the possibilities of which would not be ashamed of leading programs of this type on the market.
+
 [![BriskBard](https://gallery.dpcdn.pl/imgc/Tools/82064/g_-_420x350_1.5_-_x09de3705-d43b-49f9-b0dd-14da6fdd1341.png)](https://softexe.net/win/internet/browsers/briskbard:hhhc.html)
 
 The application is based on Blink and Trident rendering engines and is characterized by high compatibility with modern web technologies. It also offers the ability to browse the Internet resources on the cards, has a built-in file download manager and developer toolkit, allows you to save the selected site as a graphic file or PDF document, and has the option to quickly clean all data collected while using the browser.

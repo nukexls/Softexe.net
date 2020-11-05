@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/driver-booster-8305.png) Driver Booster 7.6.0.766 - Free Download
 
-```sh
-Driver Booster is a useful and free tool that allows you to manage drivers for devices in Windows, ensuring that the most up-to-date software that controls the work of various components is always installed on your computer.
-```
+> Driver Booster is a useful and free tool that allows you to manage drivers for devices in Windows, ensuring that the most up-to-date software that controls the work of various components is always installed on your computer.
+
 [![Driver Booster](https://gallery.dpcdn.pl/imgc/Tools/17054/g_-_420x350_1.5_-_x20150923141318_0.png)](https://softexe.net/win/disks-files/hdd-utilities/driver-booster:hcRe.html)
 
 The program is easy to use and works so stably that you can install and use it without hesitation, without worrying about the system's efficiency. His main task is to accurately scan the computer and detect all obsolete device drivers. Driver Booster is characterized by high speed of work. The diagnostic process itself takes only a few seconds for a standard computer.

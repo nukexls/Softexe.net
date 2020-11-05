@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/dxo-viewpoint-9656.png) DxO ViewPoint 3.1.285.0 - Free Download
 
-```sh
-DxO ViewPoint is a professional, though simple program, allowing to improve the perspective of photos and reduce distortions resulting from both the angle at which it was made and the design of the lens.
-```
+> DxO ViewPoint is a professional, though simple program, allowing to improve the perspective of photos and reduce distortions resulting from both the angle at which it was made and the design of the lens.
+
 [![DxO ViewPoint](https://gallery.dpcdn.pl/imgc/Tools/66647/g_-_420x350_1.5_-_x20160322143453_0.png)](https://softexe.net/win/multimedia/graphics-editors/dxo-viewpoint:afef.html)
 
 DxO ViewPoint, like other products of this manufacturer, can use lens profiles to remove vignette, barrel and pincushion distortion, characteristic of specific lens models. The program also allows manual correction.

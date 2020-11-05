@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/antibrowserspy-8970.png) AntiBrowserSpy 2020.302 - Free Download
 
-```sh
-AntiBrowserSpy is a comprehensive tool for managing privacy and security settings of web browsers installed in the system, removing traces of browsed pages and archiving settings.
-```
+> AntiBrowserSpy is a comprehensive tool for managing privacy and security settings of web browsers installed in the system, removing traces of browsed pages and archiving settings.
+
 [![AntiBrowserSpy](https://gallery.dpcdn.pl/imgc/Tools/6904/g_-_420x350_1.5_-_x20130819131005_0.png)](https://softexe.net/win/security-privacy/data-protection/antibrowserspy:hagR.html)
 
 One of the biggest advantages of the program, visible at the first glance, is the polished and user-friendly graphical interface. Available tools are located on tabs that make working with the program extremely easy and convenient. In addition, each of the features offered by AntiBrowserSpy is accompanied by a brief information, describing how it works or the benefits it brings. 

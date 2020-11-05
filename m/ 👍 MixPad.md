@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/mixpad-4381.jpg) MixPad 6.21 - Free Download
 
-```sh
-MixPad is a professional program that allows you at home by mixing tracks to quickly create music collages, promotional audio clips, soundtracks, remixes, etc.
-```
+> MixPad is a professional program that allows you at home by mixing tracks to quickly create music collages, promotional audio clips, soundtracks, remixes, etc.
+
 [![MixPad](https://gallery.dpcdn.pl/imgc/Tools/10446/g_-_420x350_1.5_-_x20120928175417_00.jpg)](https://softexe.net/win/multimedia/audio-sound/mixpad:dchp.html)
 
 MixPad is a professional program that allows you at home by mixing tracks to quickly create music collages, advertising audio clips, soundtracks, remixes, etc. The app contains a variety of different effects (for example, reverb, echo and distortion), tools for sound processing, loudness normalization and track merging.

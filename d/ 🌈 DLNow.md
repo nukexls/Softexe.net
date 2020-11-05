@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/dlnow-10770.png) DLNow 1.37 - Free Download
 
-```sh
-DLNow is a handy and free application that allows you to record streaming content (so-called streaming) available on websites and embedded media into movies or music located on your computer's hard drive.
-```
+> DLNow is a handy and free application that allows you to record streaming content (so-called streaming) available on websites and embedded media into movies or music located on your computer's hard drive.
+
 [![DLNow](https:https://tse2.mm.bing.net/th?id=OIP.mYRWT0aw66y8f-CZ4LvOCwHaGJ&pid=Api)](https://softexe.net/win/internet/file-downloader/dlnow:pRggR.html)
 
 The program is compatible with a wide range of portals, including not including YouTube, Dailymotion, Yahoo !, BBC, ESPN, Vimeo, Twitch.tv or Facebook and Vine. No problem, so we'll write a funny recording on a hard disk sent by a friend, thus accessing it at any time, even without access to the Internet. The program itself is very simple and it is simply to drag the desired movie to the application window or simply paste its URL. The application itself detects the type of video material, and the user only has to select the quality and press the 'Download' button.

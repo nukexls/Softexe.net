@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Hotline Miami  - Free Download
 
-```sh
-Hotline Miami is a two-dimensional shooter characterized by a high level of difficulty, the authors of the independent Dennaton Games studio were inspired by the first installment of the Grand Theft Auto series.
-```
+> Hotline Miami is a two-dimensional shooter characterized by a high level of difficulty, the authors of the independent Dennaton Games studio were inspired by the first installment of the Grand Theft Auto series.
+
 [![Hotline Miami](https://gallery.dpcdn.pl/imgc/Tools/90937/g_-_420x350_1.5_-_x64da756f-575c-449a-a771-3caba633dcf9.jpg)](https://softexe.net/win/games-entertainment/shooters/hotline-miami:hbhp.html)
 
 A GTA-style game

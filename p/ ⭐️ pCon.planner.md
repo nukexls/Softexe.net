@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/pcon.planner-8615.png) pCon.planner 8.3.1 - Free Download
 
-```sh
-pCon.planner is a program for creating interior design plans in 3D and rendering photorealistic visualizations.
-```
+> pCon.planner is a program for creating interior design plans in 3D and rendering photorealistic visualizations.
+
 [![pCon.planner](https://gallery.dpcdn.pl/imgc/Tools/68253/g_-_420x350_1.5_-_x20160525131553_0.png)](https://softexe.net/win/multimedia/graphics-design/pcon.planner:hfpe.html)
 
 For interior design, you can insert CAD models in many formats (DWG, SKP, 3DS) or downloaded from available catalogs of furniture and equipment manufacturers (the library can be found on the program's website ). There are also various materials that can be easily assigned to the visualization planes. The program makes it possible to create materials, apply them to ready-made models and adapt the delivered objects to the decorated interior. 

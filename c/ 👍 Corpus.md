@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/corpus-11311.png) Corpus 4.3.2.2916 - Free Download
 
-```sh
-Tri D Corpus is a CAD program for furniture design that allows you to design the arrangement of space, choose materials and prepare a plan, a list of needed elements and to evaluate a project.
-```
+> Tri D Corpus is a CAD program for furniture design that allows you to design the arrangement of space, choose materials and prepare a plan, a list of needed elements and to evaluate a project.
+
 [![Corpus](https:https://tse1.mm.bing.net/th?id=OIP.LgBurl376-6ViyPBnZonfQHaEa&pid=Api)](https://softexe.net/win/multimedia/graphics-design/corpus:ppcpp.html)
 
 Corpus was written by a furniture manufacturer for other furniture manufacturers. In the program, we will not only prepare an elegant visualization, together with the lighting design, but above all, the plans needed for production, because they are the most important for the program's publisher. Tri D Corpus allows for parametric design, it is flexible, it can be extended with libraries of ready models and you can easily learn how to use it. You can also start designing furniture from scratch and use different techniques for this. 

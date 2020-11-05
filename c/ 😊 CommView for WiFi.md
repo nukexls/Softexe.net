@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/commview-for-wifi.gif) CommView for WiFi 7.3 Build 907 - Free Download
 
-```sh
-CommView for WiFi is a program for capturing and analyzing network packets in 802.11 a / b / g wireless networks. It receives information from the wireless network adapter and decodes the data being analyzed.
-```
+> CommView for WiFi is a program for capturing and analyzing network packets in 802.11 a / b / g wireless networks. It receives information from the wireless network adapter and decodes the data being analyzed.
+
 [![CommView for WiFi](https://gallery.dpcdn.pl/imgc/Tools/7432/g_-_420x350_1.5_-_x20120215160251_00.png)](https://softexe.net/win/internet/network/commview-for-wifi:peeR.html)
 
 CommView for WiFi is a special version of CommView created for capturing and analyzing network packets in 802.11 a / b / g / n wireless networks. It receives information from the wireless network adapter and decodes the analyzed data. 

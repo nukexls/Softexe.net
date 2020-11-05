@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Minecraft+YogBox icon&w=40&h=40) Minecraft YogBox 2.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Minecraft YogBox 2.0 - Free Download
 
-```sh
-YogBox is a worthy package of the most interesting mods for the Minecraft sandbox game, which allow you to facilitate and diversify the game.
-```
+> YogBox is a worthy package of the most interesting mods for the Minecraft sandbox game, which allow you to facilitate and diversify the game.
+
 [![Minecraft YogBox](https://gallery.dpcdn.pl/imgc/Tools/81936/g_-_420x350_1.5_-_xacb7053d-757a-4c2a-a8b9-9eceb24410cf.png)](https://softexe.net/win/games-entertainment/other/minecraft-yogbox:pRcfh.html)
 
 The package includes the following components:

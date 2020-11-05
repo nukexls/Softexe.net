@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/mullvad-8793.png) Mullvad 2019.1 - Free Download
 
-```sh
-Mullvad is a small application for people who value privacy during everyday use of the Internet.
-```
+> Mullvad is a small application for people who value privacy during everyday use of the Internet.
+
 [![Mullvad](https://gallery.dpcdn.pl/imgc/Tools/83050/g_-_420x350_1.5_-_xd5866e66-4448-4300-9b00-7e7f863d383d.jpg)](https://softexe.net/win/security-privacy/data-protection/mullvad:hgac.html)
 
 Thanks to this program, our network activity will be impossible to detect because it replaces the user's IP with another address. Mullvad is also worth installing if you do not want anyone to be able to determine our location. By launching the described tool, we become completely anonymous on the Internet, which means that not only can we feel safer, but also more comfortable. The end is even with personalized ads displayed based on the history of viewed web pages.

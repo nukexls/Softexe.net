@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Kaspersky Total Security 2019 19.0.0.1088a - Free Download
 
-```sh
-Kaspersky Total Security is the richest edition of the security package of this manufacturer, providing comprehensive protection of computers against all types of threats occurring on the Internet. There are also a number of other functions available to the user, including protecting e-mail boxes against spam, protecting children from inappropriate content and mechanisms dedicated to computer game fans.
-```
+> Kaspersky Total Security is the richest edition of the security package of this manufacturer, providing comprehensive protection of computers against all types of threats occurring on the Internet. There are also a number of other functions available to the user, including protecting e-mail boxes against spam, protecting children from inappropriate content and mechanisms dedicated to computer game fans.
+
 [![Kaspersky Total Security 2019](https://gallery.dpcdn.pl/imgc/Tools/59103/g_-_420x350_1.5_-_x20150527153718_0.png)](https://softexe.net/win/security-privacy/antivirus/kaspersky-total-security-2019:pRbbc.html)
 
 The basic element of the package is the antivirus engine of Kaspersky Anti-Virus, which provides effective protection against all types of malware distributed on the Web. In addition, a firewall is offered, a set of mechanisms protecting against stealing confidential data and protecting the privacy of the user, whether the option to protect the email box, as well as blocking hacker attacks. Thanks to the 'System Check' technology, it protects the system against dangerous behavior resulting from a virus infection and enables its easy recovery to its original state. In addition, the Anti-Blocker mechanism helps restore the functionality of the computer blocked by the Trojan.

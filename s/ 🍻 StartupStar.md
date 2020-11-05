@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/startupstar-9443.png) StartupStar 2020.12.1 - Free Download
 
-```sh
-StartupStar is an autostart manager used to manage and control all applications that run when the operating system starts.
-```
+> StartupStar is an autostart manager used to manage and control all applications that run when the operating system starts.
+
 [![StartupStar](https://gallery.dpcdn.pl/imgc/Tools/9171/g_-_420x350_1.5_-_x20131210154926_0.png)](https://softexe.net/win/system/system-tools/startupstar:addc.html)
 
 The program is easy to use and displays all applications that are automatically launched when you turn on your computer. On the main screen there is a special menu containing the most important source locations (Win.ini initialization file, system registry and start menu directory), in which we can find all entries, files and other elements related to the respective application. 

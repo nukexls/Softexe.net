@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/my-family-tree-8376.png) My Family Tree 10.4.1.0  - Free Download
 
-```sh
-My Family Tree is a small, easy to use and free application, used to create family trees. It offers a large number of interesting options that allow you to collect a lot of relevant data about each family member.
-```
+> My Family Tree is a small, easy to use and free application, used to create family trees. It offers a large number of interesting options that allow you to collect a lot of relevant data about each family member.
+
 [![My Family Tree](https://gallery.dpcdn.pl/imgc/Tools/9566/g_-_420x350_1.5_-_x20120805115028_00.png)](https://softexe.net/win/hobbies-lifestyle/other/my-family-tree:hcgf.html)
 
 The program, apart from the basic information about the person, ie the name, surname, date and place of birth, gives the opportunity to collect many other, often useful, data that characterize every human being. With the help of My Family Tree, we will also save information about social status, education, identification number, citizenship, profession, religious denomination, and even property, place of residence, baptism, retirement and many others. For users who do not have this information, the creators provide options for storing textual data (so-called stories), photos, audio and video files, as well as data on genetics.

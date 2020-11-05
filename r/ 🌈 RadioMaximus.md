@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/radiomaximus-8954.png) RadioMaximus 2.28.2 - Free Download
 
-```sh
-RadioMaximus is a powerful and multifunctional tool enabling the playback of Internet radio stations. Allows you to listen to and record several programs at the same time.
-```
+> RadioMaximus is a powerful and multifunctional tool enabling the playback of Internet radio stations. Allows you to listen to and record several programs at the same time.
+
 [![RadioMaximus](https://gallery.dpcdn.pl/imgc/Tools/65212/g_-_420x350_1.5_-_x20160131195834_0.png)](https://softexe.net/win/internet/radio-tv-players/radiomaximus:haed.html)
 
 Thanks to RadioMaximus, the user can play selected internet stations from around the world, among which there could also be Polish - generally, the database contains up to several hundred stations (they can be easily found using a search engine), so that everyone, regardless of musical taste, will find something for each other. Especially that regardless of the station chosen, you can count on high sound quality (the program uses the BASS library) and the ability to use various plug-ins.

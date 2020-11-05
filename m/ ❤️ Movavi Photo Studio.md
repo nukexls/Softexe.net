@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/movavi-photo-studio-11370.png) Movavi Photo Studio 1.0.3 - Free Download
 
-```sh
-Movavi Photo Studio is a set of three tools for photographers gathered by the producer in one place. The set includes the editor Movavi Photo Editor, a tool for mass processing graphic files Movavi Photo Batch and Movavi Slideshow Creator, which can combine photos and videos in an attractive presentation.
-```
+> Movavi Photo Studio is a set of three tools for photographers gathered by the producer in one place. The set includes the editor Movavi Photo Editor, a tool for mass processing graphic files Movavi Photo Batch and Movavi Slideshow Creator, which can combine photos and videos in an attractive presentation.
+
 [![Movavi Photo Studio](https://gallery.dpcdn.pl/imgc/Tools/59428/g_-_420x350_1.5_-_x20150614114441_0.png)](https://softexe.net/win/multimedia/graphics-editors/movavi-photo-studio:ppcgR.html)
 
 The advantage of Movavi Photo Studio is the ability to purchase and install all three Movavi programs for photographers at once. Thanks to this, you can prepare individual photos, perform a simple retouch or convert entire collections, and then make a presentation ready to be placed on YouTube and show to your friends. 

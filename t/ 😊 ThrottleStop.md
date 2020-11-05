@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/throttlestop-8226.png) ThrottleStop 9.2 - Free Download
 
-```sh
-ThrottleStop is a small application for laptop users, which allows you to monitor the operation of the processor, as well as modify various parameters of this system.
-```
+> ThrottleStop is a small application for laptop users, which allows you to monitor the operation of the processor, as well as modify various parameters of this system.
+
 [![ThrottleStop](https://gallery.dpcdn.pl/imgc/Tools/84727/g_-_420x350_1.5_-_xe3719c36-bdac-4d7d-aae8-50f9d123f6c2.jpg)](https://softexe.net/win/system/other/throttlestop:hbbf.html)
 
 Thanks to ThrottleStop we can even reduce the CPU performance. This will affect the computer, but it will allow us to increase the battery life, which may be useful, for example, when traveling, when we do not have to burden the processor to the maximum extent.

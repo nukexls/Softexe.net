@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/eassos-recovery-free-8816.png) Eassos Recovery Free 4.3.5.385 - Free Download
 
-```sh
-Eassos Recovery Free is a professional tool for recovering lost data on your computer. The application is characterized by easy operation and high efficiency when recovering lost files.
-```
+> Eassos Recovery Free is a professional tool for recovering lost data on your computer. The application is characterized by easy operation and high efficiency when recovering lost files.
+
 [![Eassos Recovery Free](https://gallery.dpcdn.pl/imgc/Tools/8812/g_-_420x350_1.5_-_x20120525173341_00.jpg)](https://softexe.net/win/disks-files/data-recovery/eassos-recovery-free:hhpf.html)
 
 Using this small software, we can restore data that has been completely deleted after formatting the system partition. The program displays detailed technical information about each partition and data carrier. In addition, it shows the amount of free and used hard disk space.

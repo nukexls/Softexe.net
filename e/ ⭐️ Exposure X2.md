@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/exposure-x2-11044.png) Exposure X2 2.5.0.60 - Free Download
 
-```sh
-Exposure is one of the best photo styling programs using effects that simulate the real clichés and imperfections of well-known lenses. In addition, the program works well when converting RAW files from digital cameras, enhancing the color of photos and basic retouching. You can also use it as a graphical file browser, with the ability to mark photos, evaluate, filter and search.
-```
+> Exposure is one of the best photo styling programs using effects that simulate the real clichés and imperfections of well-known lenses. In addition, the program works well when converting RAW files from digital cameras, enhancing the color of photos and basic retouching. You can also use it as a graphical file browser, with the ability to mark photos, evaluate, filter and search.
+
 [![Exposure X2](https://gallery.dpcdn.pl/imgc/Tools/63769/g_-_420x350_1.5_-_x20151124131456_0.png)](https://softexe.net/win/multimedia/graphics-design/exposure-x2:ppRdd.html)
 
 In this program, you can give your photos a unique character and play on emotions using effects that imitate Kodak, Ilford or Polaroid cultic clichés. The collection includes several hundred of them, from very old black and white, through film strips to quite new ones, both black and white and colorful. There were plenty of infrared sensitive films.

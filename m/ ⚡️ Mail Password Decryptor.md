@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/mail-password-decryptor-9026.png) Mail Password Decryptor 9.5 - Free Download
 
-```sh
-Mail Password Decryptor is a small and free tool for recovering lost passwords for mailboxes in the most popular e-mail clients - including Microsoft Outlook, Thunderbird, IncrediMail, etc.
-```
+> Mail Password Decryptor is a small and free tool for recovering lost passwords for mailboxes in the most popular e-mail clients - including Microsoft Outlook, Thunderbird, IncrediMail, etc.
+
 [![Mail Password Decryptor](https://gallery.dpcdn.pl/imgc/Tools/15135/g_-_420x350_1.5_-_x20130327013606_00.png)](https://softexe.net/win/security-privacy/passwords/mail-password-decryptor:aRbf.html)
 
 The program allows you to recover the username and password that we defined in the mail client to log in to our mailbox, provided that we selected the option to remember the password during authentication on the mail server. In this case, the said data is stored locally in the system registry as encrypted strings, and the Mail Password Decryptor allows you to decrypt and read them.

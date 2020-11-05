@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/wondershare-dr.fone-toolkit-for-android-10875.png) Wondershare dr.fone toolkit for Android 8.3.3 - Free Download
 
-```sh
-dr.fone toolkit for Android is a set of tools for operating an Android device. With its help, you can perform several operations, such as obtaining root privileges, data recovery, secure deletion of data, backing up data from the phone, removing the lock screen without losing data (available for a few devices) and transferring files to a computer or other Android device .
-```
+> dr.fone toolkit for Android is a set of tools for operating an Android device. With its help, you can perform several operations, such as obtaining root privileges, data recovery, secure deletion of data, backing up data from the phone, removing the lock screen without losing data (available for a few devices) and transferring files to a computer or other Android device .
+
 [![Wondershare dr.fone toolkit for Android](https:https://tse1.mm.bing.net/th?id=OIP.mwFFf0J-af4b1BVU9RF80AHaEh&pid=Api)](https://softexe.net/win/hobbies-lifestyle/mobile/wondershare-dr.fone-toolkit-for-android:pRhge.html)
 
 Using the program will require the installation of Wondershare components via USB on your smartphone, entering the programmer mode and unlocking USB debugging. The program will inform you about such a need and in many cases will also indicate where in the settings you will find the appropriate options. It is worth looking at the screen of your smartphone, because you will be asked for permission to install components. 

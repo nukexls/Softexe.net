@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/gamemaker-studio-9381.png) GameMaker Studio 2.2.1.375 - Free Download
 
-```sh
-GameMaker is an environment designed to create games dedicated to both novice and experienced developers. Using the program, it is possible to create games for platforms such as iOS, Android, Xbox, desktop (Windows, Mac OS) and HTML5 web browsers at the same time.
-```
+> GameMaker is an environment designed to create games dedicated to both novice and experienced developers. Using the program, it is possible to create games for platforms such as iOS, Android, Xbox, desktop (Windows, Mac OS) and HTML5 web browsers at the same time.
+
 [![GameMaker Studio](https://gallery.dpcdn.pl/imgc/Tools/13543/g_-_420x350_1.5_-_x20130312140308_00.png)](https://softexe.net/win/development-it/development-tools/gamemaker-studio:achp.html)
 
 The GameMaker environment offers all the necessary features for creating 2D games. The program uses drag &amp; drop technology, thanks to which it is possible to create a game only with the help of mouse movements, without programming skills. Of course, more advanced users can take advantage of the embedded GameMaker Language (GML) that gives full control over such elements as physics, particle emitters, object interaction and much more. The GML language also allows you to create integration modules with social networking sites, payment systems, etc.

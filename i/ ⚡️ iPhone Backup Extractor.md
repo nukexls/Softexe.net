@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/iphone-backup-extractor-3614.png) iPhone Backup Extractor 7.7.29.3216 - Free Download
 
-```sh
-iPhone Backup Extractor is a handy utility for recovering files from iPhone, iPad and iPod. With it, you can be sure that if you fail or delete you will not lose any important contact, message archive, video and photos, data from WhatsApp and Viber
-```
+> iPhone Backup Extractor is a handy utility for recovering files from iPhone, iPad and iPod. With it, you can be sure that if you fail or delete you will not lose any important contact, message archive, video and photos, data from WhatsApp and Viber
+
 [![iPhone Backup Extractor](https://gallery.dpcdn.pl/imgc/Tools/51339/g_-_420x350_1.5_-_x20140522180104_0.png)](https://softexe.net/win/disks-files/data-recovery/iphone-backup-extractor:cfpd.html)
 
 iPhone Backup Extractor is an application to recover data from iPhone, iPad and iPod. It will help if you delete something important, the system crashes, you forget the access code, or the gadget accidentally crashed. Allows you to recover:

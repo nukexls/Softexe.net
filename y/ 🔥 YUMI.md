@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=YUMI icon&w=40&h=40) YUMI 2.0.7.4 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) YUMI 2.0.7.4 - Free Download
 
-```sh
-YUMI (Your Universal Multiboot Installer) is a small tool used to create bootable USB media with operating systems, antivirus software, computer diagnostics tools and partition cloning.
-```
+> YUMI (Your Universal Multiboot Installer) is a small tool used to create bootable USB media with operating systems, antivirus software, computer diagnostics tools and partition cloning.
+
 [![YUMI](https:https://tse3.mm.bing.net/th?id=OIP.eejPjYJWQauIB5edmnXXoAHaFj&pid=Api)](https://softexe.net/win/system/other/yumi:hphh.html)
 
 YUMI gives the user the possibility of placing on one USB device (eg a pendrive, an external hard disk, etc.) or a memory card of many programs and operating systems in the form of ISO images and RAR / ZIP archives.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/rarmaradio-5678.png) RarmaRadio 2.72.5 - Free Download
 
-```sh
-RarmaRadio is a program for listening and recording Internet radio stations, as well as for watching TV-stations. It has a wide range of features, providing comfortable listening to radio stations and convenient recording of broadcast data
-```
+> RarmaRadio is a program for listening and recording Internet radio stations, as well as for watching TV-stations. It has a wide range of features, providing comfortable listening to radio stations and convenient recording of broadcast data
+
 [![RarmaRadio](https://gallery.dpcdn.pl/imgc/Tools/2264/g_-_420x350_1.5_-_x7be9ee24-0df6-4b68-9dfb-ee5a76801454.png)](https://softexe.net/win/internet/radio-tv-players/rarmaradio:efgh.html)
 
 RarmaRadio is a program for listening and recording Internet radio stations, as well as for watching TV-stations broadcasting over the Internet. It has a wide range of features, providing comfortable listening to radio stations and convenient recording of broadcast data.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/remembear-10132.png) RememBear 1.0.5.1 - Free Download
 
-```sh
-RememBear is a password manager client prepared by the creators of the popular VPN client. It enables secure storage of sensitive data and synchronization between different devices and operating systems.
-```
+> RememBear is a password manager client prepared by the creators of the popular VPN client. It enables secure storage of sensitive data and synchronization between different devices and operating systems.
+
 [![RememBear](https://gallery.dpcdn.pl/imgc/Tools/78816/g_-_420x350_1.5_-_xb6aeeefe-2613-41fa-9964-261c08726df3.png)](https://softexe.net/win/security-privacy/other/remembear:pRpcb.html)
 
 The desktop application interface is based on three columns: a category panel (passwords, payments, both categories), a panel with a list of stored data (at the bottom, a plus button that allows adding more) and a preview of the data itself. Such an arrangement is associated with the address book and is very clear.

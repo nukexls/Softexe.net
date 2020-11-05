@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/pulpit-zdalny-chrome-8382.png) Pulpit zdalny Chrome 77.0.3836.0 - Free Download
 
-```sh
-The Chrome Remote Desktop is one of the most powerful enhancements for Google Chrome that introduces features in the browser that allow remote computer control.
-```
+> The Chrome Remote Desktop is one of the most powerful enhancements for Google Chrome that introduces features in the browser that allow remote computer control.
+
 [![Pulpit zdalny Chrome](https://gallery.dpcdn.pl/imgc/Tools/77397/g_-_420x350_1.5_-_x20170830142927_0.jpg)](https://softexe.net/win/internet/browser-add-ons/pulpit-zdalny-chrome:hchb.html)
 
 The tool allows the user to connect to any computer via the Internet and its remote control, and on the contrary, securely share your computer with a selected person. Thanks to it, we can fix minor failures without physical contact with the device or carry out various types of training, etc. Chrome Remote Desktop gives us access to all files or applications installed on a remote computer.

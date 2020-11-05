@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/meedios-11329.png) MeediOS 2.1 - Free Download
 
-```sh
-MeediOS is a free tool thanks to which the user can create a home multimedia center and manage it from the level of the application.
-```
+> MeediOS is a free tool thanks to which the user can create a home multimedia center and manage it from the level of the application.
+
 [![MeediOS](https://gallery.dpcdn.pl/imgc/Tools/52948/g_-_420x350_1.5_-_x20140723004316_0.png)](https://softexe.net/win/multimedia/audio-utilities/meedios:ppcba.html)
 
 The program can boast of an intuitive interface that has been designed to make it easier to navigate through your multimedia library even when we have a huge collection. MeediOS allows you to customize the appearance to your preferences in many different ways. It is only up to us how the application will display individual files. Less experienced recipients will appreciate simplicity, while more advanced options have been prepared in the configuration editor.

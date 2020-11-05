@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/magix-video-easy-11351.png) MAGIX Video Easy 6.0 - Free Download
 
-```sh
-MAGIX Video Easy is a very easy-to-use editing and editing tool suitable for beginners. The program enables, among others combining multiple films, fine-tuning basic image parameters, applying subtitles and effects, overdubbing soundtracks, as well as introduction and ending.
-```
+> MAGIX Video Easy is a very easy-to-use editing and editing tool suitable for beginners. The program enables, among others combining multiple films, fine-tuning basic image parameters, applying subtitles and effects, overdubbing soundtracks, as well as introduction and ending.
+
 [![MAGIX Video Easy](https://gallery.dpcdn.pl/imgc/Tools/3100/g_-_420x350_1.5_-_x20121023131024_00.png)](https://softexe.net/win/multimedia/video/magix-video-easy:ppcep.html)
 
 The program is very easy to use and many activities will help you create the wizards. It was created with the thought of beginning users, giving them the possibility of convenient assembly, without special knowledge. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/transover-8426.png) TransOver 1.47 - Free Download
 
-```sh
-TransOver is a small extension for the Google Chrome browser, acting as a simple translator, which allows the translation of individual words and phrases on foreign-language websites.
-```
+> TransOver is a small extension for the Google Chrome browser, acting as a simple translator, which allows the translation of individual words and phrases on foreign-language websites.
+
 [![TransOver](https://gallery.dpcdn.pl/imgc/Tools/77380/g_-_420x350_1.5_-_x20170829155336_0.jpg)](https://softexe.net/win/internet/browser-add-ons/transover:hdbf.html)
 
 After installation, the plugin should be configured and, despite the lack of a Polish language version, this operation should not cause any problems to anyone. There are options for defining the output language (to which the content should be translated), activating the Text-to-Speech function, selecting the translator launch key, delaying the translation display, or creating site lists on which TransOver is to operate or not.

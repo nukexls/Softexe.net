@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Drop+Alive icon&w=40&h=40) Drop Alive 1.04 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Drop Alive 1.04 - Free Download
 
-```sh
-Drop Alive is a free, adventure platform game presented in a very nice audiovisual setting. We direct here the movements of a drop of water, which, being in a mysterious labyrinth full of traps and traps, tries to get to the next planes as soon as possible and with the least possible damage to health, bringing it closer to the final fulfillment of the mission.
-```
+> Drop Alive is a free, adventure platform game presented in a very nice audiovisual setting. We direct here the movements of a drop of water, which, being in a mysterious labyrinth full of traps and traps, tries to get to the next planes as soon as possible and with the least possible damage to health, bringing it closer to the final fulfillment of the mission.
+
 [![Drop Alive](https://gallery.dpcdn.pl/imgc/Tools/73543/g_-_420x350_1.5_-_x20170120125536_0.jpg)](https://softexe.net/win/games-entertainment/other/drop-alive:ppbbb.html)
 
 The essence of the game and at the same time the key to success is the correct use of the heroine's basic attribute, that is, the ability to change her state of focus from gas, through liquid to permanent. We decide about a particular form depending on the situation and the place where we are currently.

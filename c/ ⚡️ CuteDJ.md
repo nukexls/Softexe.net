@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/cutedj-10997.png) CuteDJ 4.3.5 - Free Download
 
-```sh
-CuteDJ is a specialized musical tool, intended for both home music lovers and professional DJs. With it, we can mix selected songs using our own bits, music library and various effects.
-```
+> CuteDJ is a specialized musical tool, intended for both home music lovers and professional DJs. With it, we can mix selected songs using our own bits, music library and various effects.
+
 [![CuteDJ](https:https://tse3.mm.bing.net/th?id=OIP.lpHj_C8o0wQbQMj3wrTVaAHaEy&pid=Api)](https://softexe.net/win/multimedia/audio-sound/cutedj:pRaag.html)
 
 The application has an extensive, graphical interface, which may seem not very intuitive for completely new users, but this is a feature of most programs of this type. Despite its small size, CuteDJ has quite a lot of built-in options and options. An important issue is compatibility with a wide range of devices - specifically the application supports more than 70 controllers and interfaces, allowing you to use almost any device of this type.

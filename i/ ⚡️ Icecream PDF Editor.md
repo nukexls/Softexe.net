@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/icecream-pdf-editor-3419.png) Icecream PDF Editor 2.32 - Free Download
 
-```sh
-An easy-to-use PDF editor that provides access to all PDF editing tools and modes at once using the smart toolbar. You can edit the text, add notes, protect files with a password, manage pages
-```
+> An easy-to-use PDF editor that provides access to all PDF editing tools and modes at once using the smart toolbar. You can edit the text, add notes, protect files with a password, manage pages
+
 [![Icecream PDF Editor](https:https://tse3.mm.bing.net/th?id=OIP.qLhC5n7R3k40xnqWHAkmYAHaEM&pid=Api)](https://softexe.net/win/system/pdf/icecream-pdf-editor:cdpa.html)
 
 Icecream PDF Editor - a program for editing PDF documents with many functions. There is an opportunity to edit the test and add a new one, manage pages and add new pages, add annotations, stamps, graphic objects (circles, rectangles, arrows, lines), search the PDF text, set passwords, change metadata and much more.

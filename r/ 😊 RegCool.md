@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/regcool-9239.png) RegCool 1.128 - Free Download
 
-```sh
-RegCool is a tool that is used to search for entries in the Windows registry. It can be an alternative to the registry editor built into the operating environment.
-```
+> RegCool is a tool that is used to search for entries in the Windows registry. It can be an alternative to the registry editor built into the operating environment.
+
 [![RegCool](https://gallery.dpcdn.pl/imgc/Tools/72212/g_-_420x350_1.5_-_x20161102233042_0.png)](https://softexe.net/win/system/system-tools/regcool:abca.html)
 
 After starting the program, you get the impression that you are in the Windows Operating System Explorer - all due to a very similar user interface. The left side contains catalogs of the register presented in the form of a "tree", while the right offers the opportunity to learn about individual keys and values.

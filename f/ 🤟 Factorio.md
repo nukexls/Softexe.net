@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Factorio icon&w=40&h=40) Factorio 0.16.36 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Factorio 0.16.36 - Free Download
 
-```sh
-Fans of strategy games are accustomed to collecting resources and then expanding the base, but have they ever played in a factory caretaker? The design with a lot of telling title Factorio on this is based on a detailed, quite complicated game. It will come here to design the entire production infrastructure over several large networks, and to defend against attacks by enemies. You can get really involved in it.
-```
+> Fans of strategy games are accustomed to collecting resources and then expanding the base, but have they ever played in a factory caretaker? The design with a lot of telling title Factorio on this is based on a detailed, quite complicated game. It will come here to design the entire production infrastructure over several large networks, and to defend against attacks by enemies. You can get really involved in it.
+
 [![Factorio](https://gallery.dpcdn.pl/imgc/Tools/66763/g_-_420x350_1.5_-_x20160329104445_1.jpg)](https://softexe.net/win/games-entertainment/strategies/factorio:pRdcc.html)
 
 We start from scratch. On a fictional alien planet, we cut trees and extract the basic raw materials to construct the simplest mechanisms that will become the foundation of the entire production line. Over time, we gain the ability to create more and more complex mechanisms, which translates into increased efficiency, but also requires constant expansion of positions. The natives will not like it ...

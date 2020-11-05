@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/music-label-2019-8679.png) Music Label 2019 25.0.1 - Free Download
 
-```sh
-Music Label 2013 is a program for cataloging CDs and audio files stored in MP3 format, as well as vinyl records or cassette tapes.
-```
+> Music Label 2013 is a program for cataloging CDs and audio files stored in MP3 format, as well as vinyl records or cassette tapes.
+
 [![Music Label 2019](https://gallery.dpcdn.pl/imgc/Tools/12456/g_-_420x350_1.5_-_x20130117122929_00.png)](https://softexe.net/win/hobbies-lifestyle/music/music-label-2019:hfga.html)
 
 After placing the album in the drive, Music Label 2013 automatically downloads information about it, such as: CD cover, artist, song list, music genre, record label, release year, website address, and generates and stores statistics and reports about the database made by the user. You can also access individual song lyrics, album ratings, user comments and the price of a given disc.

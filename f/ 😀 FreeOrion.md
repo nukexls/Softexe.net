@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=FreeOrion icon&w=40&h=40) FreeOrion 0.4.9 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) FreeOrion 0.4.9 - Free Download
 
-```sh
-FreeOrion is a free turn based strategy game inspired by the Master of Orion. The goal of the game is to build the largest intergalactic empire to compete with other opponents. In FreeOrion, of course, you will not be able to colonize new planets, trade in raw materials, fight with other enemies, discover new ones and develop existing technologies that allow you to overtake other players in military and tactical terms. FreeOrion is a must-see for all players who have already been drawn into Ogame's long nights.
-```
+> FreeOrion is a free turn based strategy game inspired by the Master of Orion. The goal of the game is to build the largest intergalactic empire to compete with other opponents. In FreeOrion, of course, you will not be able to colonize new planets, trade in raw materials, fight with other enemies, discover new ones and develop existing technologies that allow you to overtake other players in military and tactical terms. FreeOrion is a must-see for all players who have already been drawn into Ogame's long nights.
+
 [![FreeOrion](https://gallery.dpcdn.pl/imgc/Tools/59420/g_-_420x350_1.5_-_x20150613103419_0.png)](https://softexe.net/win/games-entertainment/strategies/freeorion:pRdce.html)
 
 Minimum system requirements:

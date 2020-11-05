@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Game of Thrones - A Telltale Games Series  - Free Download
 
-```sh
-Game of Thrones - A Telltale Games Series is an adventure game created on the basis of the bestselling series Game of Thrones displayed by the HBO station. The action is set in a world known for the saga of Songs of Ice and Fire by George RR Martin.
-```
+> Game of Thrones - A Telltale Games Series is an adventure game created on the basis of the bestselling series Game of Thrones displayed by the HBO station. The action is set in a world known for the saga of Songs of Ice and Fire by George RR Martin.
+
 [![Game of Thrones - A Telltale Games Series](https://gallery.dpcdn.pl/imgc/Tools/90962/g_-_420x350_1.5_-_x4c00a169-5900-4759-902b-7fbce698baf7.jpg)](https://softexe.net/win/games-entertainment/adventure/game-of-thrones-a-telltale-games-series:hbea.html)
 
 What's up with Game of Thrones - A Telltale Games Series?

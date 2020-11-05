@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/adobe-reader-xi-10758.png) Adobe Reader XI 11.0.23 - Free Download
 
-```sh
-Adobe Reader is the most popular among users and a free viewer of documents saved in PDF format.
-```
+> Adobe Reader is the most popular among users and a free viewer of documents saved in PDF format.
+
 [![Adobe Reader XI](https:https://tse1.mm.bing.net/th?id=OIP.xWiv8JNpCcT98IfdkXpBkQHaFB&pid=Api)](https://softexe.net/win/business/documents/adobe-reader-xi:pRgeh.html)
 
 The application, apart from the possibility of opening PDF materials, also allows for convenient printing and enriching with comments and marking selected fragments by deleting. It has a sandbox mechanism (so-called sandbox) that allows you to view documents in a separate environment, as well as supports the media contained in them - video files. Adobe Reader supports PDF files with forms, enabling them to be easily completed.

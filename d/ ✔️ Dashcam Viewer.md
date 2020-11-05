@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/dashcam-viewer-8920.png) Dashcam Viewer 3.5.2 - Free Download
 
-```sh
-Dashcam Viewer is a tool for watching movies recorded using the car's on-board camera.
-```
+> Dashcam Viewer is a tool for watching movies recorded using the car's on-board camera.
+
 [![Dashcam Viewer](https://gallery.dpcdn.pl/imgc/Tools/69107/g_-_420x350_1.5_-_x20160630171009_0.png)](https://softexe.net/win/system/other/dashcam-viewer:habR.html)
 
 The main window of the Dashcam Viewer has been divided into several parts. The largest part of the screen is played by the video material that presents our ride. Of course, we can use the pause function at any time, jump to the selected fragment, and increase the display speed.

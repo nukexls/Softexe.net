@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/steam-6576.png) Steam 03.09.2020 - Free Download
 
-```sh
-Steam is an online gaming platform that allows you to easily download, download, play, update and activate games over the Internet.
-```
+> Steam is an online gaming platform that allows you to easily download, download, play, update and activate games over the Internet.
+
 [![Steam](https://gallery.dpcdn.pl/imgc/Tools/944/g_-_420x350_1.5_-_x20141121184338_0.png)](https://softexe.net/win/games-entertainment/other/steam:fegf.html)
 
 Steam is an online gaming platform that allows you to easily download, download, play, update and activate games over the Internet. It is possible to buy, download and play more than 1,100 games from any computer. 

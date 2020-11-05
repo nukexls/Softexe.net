@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/formatfactory-8195.png) FormatFactory 5.4.5.0 - Free Download
 
-```sh
-FormatFactory is a great free tool designed to convert almost all available audio and video formats.
-```
+> FormatFactory is a great free tool designed to convert almost all available audio and video formats.
+
 [![FormatFactory](https://gallery.dpcdn.pl/imgc/Tools/328/g_-_420x350_1.5_-_x20140127135407_0.png)](https://softexe.net/win/multimedia/video/formatfactory:hpae.html)
 
 Like most free applications of this type, FormatFactory also uses many excellent, free audio / video codecs and programs whose task is to transcode between many popular audio / video file formats with the option of choosing additional options. The program allows, among others for converting video materials to formats such as MP4, 3GP, MPG, AVI, WMV, FLV, SWF and audio formats for MP3, WMA, MMF, AMR, OGG, M4A, WAV.

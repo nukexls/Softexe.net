@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/o-o-diskrecovery-8584.png) O&O DiskRecovery 14.1.143 - Free Download
 
-```sh
-O &amp; O DiskRecovery searches for files that have been accidentally deleted or lost due to a software failure or error.
-```
+> O &amp; O DiskRecovery searches for files that have been accidentally deleted or lost due to a software failure or error.
+
 [![O&O DiskRecovery](https://gallery.dpcdn.pl/imgc/Tools/64557/g_-_420x350_1.5_-_x20151231183848_0.png)](https://softexe.net/win/disks-files/data-recovery/o-o-diskrecovery:hehd.html)
 
 If you use the default tools of the Windows operating system after you delete files from the hard disk and the trash, you lose your access to them forever. Occasionally, however, there may be a situation where we removed an important document, holiday photos or any other important and valuable data - then we should use O &amp; O DiskRecovery, which will recover lost files very quickly and easily.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/cloudevo-9574.png) Cloudevo 3.5.3 - Free Download
 
-```sh
-Cloudevo is a tool addressed to people who have various files "in the cloud".
-```
+> Cloudevo is a tool addressed to people who have various files "in the cloud".
+
 [![Cloudevo](https://gallery.dpcdn.pl/imgc/Tools/84695/g_-_420x350_1.5_-_x8cf73c5d-24c3-4c55-bb4f-8c76995ca8aa.jpg)](https://softexe.net/win/internet/cloud-storage/cloudevo:aegd.html)
 
 Thanks to Cloudevo, we can configure multiple accounts and gain access to them from the level of the described application. It supports both the most popular services, such as Dropbox, Google Drive, Microsoft OneDrive, but not only. The program can also be used by people who store data on a daily basis through 4Shared.com, pCloud, HiDrive.com, Mega.nz and many, many others. The full list of services supported by Cloudevo is available after clicking the "add account" button in the bottom right corner of the screen.

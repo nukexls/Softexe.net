@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/kaspersky-xoristdecryptor-9541.png) Kaspersky XoristDecryptor 2.5.4.3 - Free Download
 
-```sh
-Kaspersky XoristDecryptor is a small and free tool that allows you to easily remove a Trojan horse called Xorist from your computer.
-```
+> Kaspersky XoristDecryptor is a small and free tool that allows you to easily remove a Trojan horse called Xorist from your computer.
+
 [![Kaspersky XoristDecryptor](https://gallery.dpcdn.pl/imgc/Tools/75831/g_-_420x350_1.5_-_x20170519125523_0.png)](https://softexe.net/win/security-privacy/scanners/kaspersky-xoristdecryptor:aedp.html)
 
 The operation of the mentioned malware is very simple - it is designed to effectively prevent the user from working with the computer on a daily basis. This limitation is most often taken off when the victim decides to pay the "ransom" for the creator of the pest. Xorist can successfully encrypt random data on the disk - these can be valuable documents, as well as system files, effectively limiting the functionality of Windows. The infection of this ransomware can be confirmed by the presence of the file 'CryptLogFile.txt' in the Windows folder or files 'Read Me: how to decrypt files' and 'Прочти Меня - как расшифровать файлы' located on the system volume.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/stellar-photo-recovery-professional-9512.png) Stellar Photo Recovery Professional 10.0.0.2 - Free Download
 
-```sh
-Stellar Photo Recovery Professional is a powerful tool for recovering photos, videos and music.
-```
+> Stellar Photo Recovery Professional is a powerful tool for recovering photos, videos and music.
+
 [![Stellar Photo Recovery Professional](https://gallery.dpcdn.pl/imgc/Tools/86519/g_-_420x350_1.5_-_x90de1f3f-b220-4319-901b-5bca6df858bf.jpg)](https://softexe.net/win/disks-files/data-recovery/stellar-photo-recovery-professional:aepb.html)
 
 The program offers the option of restoring data, but you can also use it to repair damaged files. Stellar Photo Recovery Professional handles the handling of damaged or formatted storage devices, and at the same time is characterized by the simplicity of operation, as a result of which the application will find use not only among professionals, but also amateurs. The entire restore operation requires only a few mouse clicks.

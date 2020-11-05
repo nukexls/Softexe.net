@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/hotspot-shield-3355.png) Hotspot Shield 10.5.2 - Free Download
 
-```sh
-Hotspot Shield is a free program that will protect you when connecting to open Wi-Fi access points by creating a virtual VPN network between a PC and a hot spot, while encrypting all outgoing and incoming packets
-```
+> Hotspot Shield is a free program that will protect you when connecting to open Wi-Fi access points by creating a virtual VPN network between a PC and a hot spot, while encrypting all outgoing and incoming packets
+
 [![Hotspot Shield](https://gallery.dpcdn.pl/imgc/Tools/2867/g_-_420x350_1.5_-_x20110519161628_00.jpg)](https://softexe.net/win/internet/anonymizers-vpn/hotspot-shield:ccee.html)
 
 Hotspot Shield is a free and functional tool that protects the confidentiality of personal data, Wi-Fi connection, and provides unlimited access to content and other features, such as unlocking websites, anonymous browsing, protection of banking data, passwords and downloads from spyware and intruders. HTTP Secure (HTTPS) is used for protection, which allows you to preserve your privacy and anonymity when using unprotected access points.

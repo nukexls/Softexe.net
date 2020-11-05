@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Celin icon&w=40&h=40) Celin 1.48 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Celin 1.48 - Free Download
 
-```sh
-A free customs service program created by the author of the popular VAT VAT program.
-```
+> A free customs service program created by the author of the popular VAT VAT program.
+
 [![Celin](https://gallery.dpcdn.pl/imgc/Tools/2625/g_-_420x350_1.5_-_x20110414155332_00.jpg)](https://softexe.net/win/business/other/celin:pppRh.html)
 
 Celin first of all allows the edition of SAD documents, although this edition is possible in a way developed in the Celina system, not a SAD paper document. The program does not contain editing forms modeled on paper versions, but forms adapted to a much larger range of information in the Celina system. Similarly, NCTS and Intrastat documents must be completed.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Immersive Explorer 1.7.2 - Free Download
 
-```sh
-Immersive Explorer - not an ordinary file manager, whose design is made in a tiled style under Windows 8
-```
+> Immersive Explorer - not an ordinary file manager, whose design is made in a tiled style under Windows 8
+
 [![Immersive Explorer](https:https://tse1.mm.bing.net/th?id=OIP.zQNDSVQAwn-S7I3KavUrNQHaEL&pid=Api)](https://softexe.net/win/disks-files/file-managers/immersive-explorer:ceRd.html)
 
 Immersive Explorer is not an ordinary file manager, whose design is made in a tile style under Windows 8. This application was conceived by developers as a definite alternative to the standard built-in Windows Explorer. The start window offers basic bookmarks for quick access to your video files, pictures, music, downloads, icons of all available disks, including CD / DVD and USB, are also displayed.

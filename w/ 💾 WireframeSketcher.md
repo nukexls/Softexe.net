@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/wireframesketcher-8656.png) WireframeSketcher 6.2.1 - Free Download
 
-```sh
-WireframeSketcher is an uncomplicated tool designed to create graphic interface designs (GUI) for standard programs, applications for portable devices or websites. It is disseminated in the form of an independent tool and as an extension to the Eclipse programming environment.
-```
+> WireframeSketcher is an uncomplicated tool designed to create graphic interface designs (GUI) for standard programs, applications for portable devices or websites. It is disseminated in the form of an independent tool and as an extension to the Eclipse programming environment.
+
 [![WireframeSketcher](https://gallery.dpcdn.pl/imgc/Tools/23339/g_-_420x350_1.5_-_x20130911195628_0.png)](https://softexe.net/win/development-it/software-design/wireframesketcher:hfef.html)
 
 WireframeSketcher is a platform for creating visualizations of graphical interfaces, which is characterized by considerable possibilities, and at the same time very simple operation. It is based on the Eclipse programming environment, popular among Java programmers (not only), offering the same look and arrangement of individual elements. The tool can be successfully used by programmers during the final stages of software development, which is the implementation of the graphical interface. Visualizations created with it can be used as a useful pattern when coding and arranging individual controls on the screen.

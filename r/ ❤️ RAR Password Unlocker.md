@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/rar-password-unlocker-10279.png) RAR Password Unlocker 5.0 - Free Download
 
-```sh
-RAR Password Unlocker is a password recovery tool that secures the RAR archive. The program supports all types of RAR archives created by any application, including the latest version of WinRAR.
-```
+> RAR Password Unlocker is a password recovery tool that secures the RAR archive. The program supports all types of RAR archives created by any application, including the latest version of WinRAR.
+
 [![RAR Password Unlocker](https://gallery.dpcdn.pl/imgc/Tools/82394/g_-_420x350_1.5_-_xb58ffa56-c533-4ea7-987d-0af1b1b8088f.jpg)](https://softexe.net/win/security-privacy/passwords/rar-password-unlocker:pRbga.html)
 
 In order to prevent access to RAR archives to outsiders, we often secure them using a password. Sometimes, however, there may be a situation in which we forget what string of characters we protect our data and we will not be able to open the necessary documents ourselves. At this moment, it is worth using RAR Password Unlocker, a program that will solve the problem.

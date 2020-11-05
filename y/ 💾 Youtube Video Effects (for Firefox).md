@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/youtube-video-effects-dla-firefoksa-9294.png) Youtube Video Effects (for Firefox) 3.2.2.0 - Free Download
 
-```sh
-YouTube Video Effects is an extension to well-known web browsers, which primarily offers the option of applying various filters to movies played via YouTube.
-```
+> YouTube Video Effects is an extension to well-known web browsers, which primarily offers the option of applying various filters to movies played via YouTube.
+
 [![Youtube Video Effects (for Firefox)](https://gallery.dpcdn.pl/imgc/Tools/89242/g_-_420x350_1.5_-_xc46d56e7-11c4-46ec-a86e-3b49e5c950a5.jpg)](https://softexe.net/win/internet/browser-add-ons/youtube-video-effects-for-firefox:abad.html)
 
 The program is compatible with Google Chrome, Opera and Firefox. After installing the YouTube Video Effects plugin, we can apply just over 50 effects in just two clicks to change the climate of the video material. There are, among others, filters such as love, heat, moonlight, sepia, gray, drawing, blur, contour and edge map.

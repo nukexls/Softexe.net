@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Adobe Acrobat Reader DC 2020.009.20074 - Free Download
 
-```sh
-Adobe Acrobat Reader DC (Document Cloud) is the latest version of a very popular and free viewer of documents saved in PDF format.
-```
+> Adobe Acrobat Reader DC (Document Cloud) is the latest version of a very popular and free viewer of documents saved in PDF format.
+
 [![Adobe Acrobat Reader DC](https://gallery.dpcdn.pl/imgc/Tools/58077/g_-_420x350_1.5_-_x20150407154610_0.png)](https://softexe.net/win/business/documents/adobe-acrobat-reader-dc:pRRep.html)
 
 The application, apart from the possibility of opening PDF materials, also allows for convenient printing and enriching with comments and marking selected fragments by deleting. Adobe Acrobat Reader supports PDF files with forms, allowing them to be filled in comfortably, while also supporting all PDF documents, preserving the original look, font, colors and graphics. It also works well with encrypted materials and signed with a digital signature.

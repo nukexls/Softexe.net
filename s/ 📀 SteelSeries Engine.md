@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/steelseries-engine-8335.png) SteelSeries Engine 3.17.9 - Free Download
 
-```sh
-SteelSeries Engine is the proprietary SteelSeries software, a computer hardware manufacturer that offers the ability to customize various devices of the company to suit your preferences.
-```
+> SteelSeries Engine is the proprietary SteelSeries software, a computer hardware manufacturer that offers the ability to customize various devices of the company to suit your preferences.
+
 [![SteelSeries Engine](https://gallery.dpcdn.pl/imgc/Tools/75497/g_-_420x350_1.5_-_x20170427233011_0.jpg)](https://softexe.net/win/system/other/steelseries-engine:hcce.html)
 
 The tool is addressed mainly to more demanding players who intend to assign, among other things, selected buttons on the keyboard or mouse to specific activities, change the sensitivity of the device or the color and the way of highlighting for controllers containing this option. 

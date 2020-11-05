@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/testy-na-prawo-jazdy-10972.png) Testy na Prawo Jazdy 1.3.4.0 - Free Download
 
-```sh
-Driving License Test is a small and simple application, whose task is to help prepare for the state driving test category A, B, C, D or T.
-```
+> Driving License Test is a small and simple application, whose task is to help prepare for the state driving test category A, B, C, D or T.
+
 [![Testy na Prawo Jazdy](https:https://tse1.mm.bing.net/th?id=OIP.7fgRH0gRv7VtwNK5htUGNwHaEX&pid=Api)](https://softexe.net/win/education-science/other/testy-na-prawo-jazdy:pRagb.html)
 
 The program is based on the official set of questions for 2016, which has been approved by MIiR and is used during state examinations in WORD centers. At the user's disposal there were two modules supporting the learning of applicable regulations - Science and Exam. The first one displays information about the correctness of the selected answer right after its selection, the second one simulates the official exam (random 32 questions and time for a response of 20 seconds).

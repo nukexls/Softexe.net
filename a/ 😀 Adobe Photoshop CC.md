@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/adobe-photoshop-cc-8398.png) Adobe Photoshop CC 21.2.3.289 - Free Download
 
-```sh
-Photoshop is a professional and popular image editing software raster, with support for vector shapes and even 3D models. His main applications include the editing and processing of digital photography, the creation of graphics for the needs of the Internet, printing and much more.
-```
+> Photoshop is a professional and popular image editing software raster, with support for vector shapes and even 3D models. His main applications include the editing and processing of digital photography, the creation of graphics for the needs of the Internet, printing and much more.
+
 [![Adobe Photoshop CC](https://gallery.dpcdn.pl/imgc/Tools/1638/g_-_420x350_1.5_-_x20150616131411_0.png)](https://softexe.net/win/multimedia/graphics-design/adobe-photoshop-cc:hcah.html)
 
 Photoshop gives the user the opportunity to create professional and extremely impressive projects, consisting of an almost unlimited number of layers, masks, graphics in high resolution, neatly combined with each other through a wide range of filters and effects. Photoshop also offers a set of useful tools to improve work with graphics and applications - including Adobe Bridge file browser, Adobe Extension Manager extension manager, Adobe Drive service, etc.The most important changes in the CS6 version

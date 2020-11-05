@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Vectr icon&w=40&h=40) Vectr 0.1.16 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Vectr 0.1.16 - Free Download
 
-```sh
-Vectr is a graphic editor that can be an interesting alternative to the popular CorelDRAW software.
-```
+> Vectr is a graphic editor that can be an interesting alternative to the popular CorelDRAW software.
+
 [![Vectr](https://gallery.dpcdn.pl/imgc/Tools/84500/g_-_420x350_1.5_-_x2c29b61f-4fcd-4355-a5e4-ac7cce226502.jpg)](https://softexe.net/win/multimedia/graphics-design/vectr:ahfc.html)
 
 We are dealing here with a tool that supports vector files, thanks to which we will perform both basic and more advanced operations on various images. Vectr allows you to manipulate various objects (resizing, rotating, etc.), adding numerous effects, enriching your work using available tools, such as a pencil or a brush, as well as inserting text or various shapes.

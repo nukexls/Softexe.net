@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/epic-games-launcher-8654.png) Epic Games Launcher 10.12 - Free Download
 
-```sh
-Epic Games Launcher is a special application for customers of the Epic Games Store, thanks to which we can buy various digital games and accessories.
-```
+> Epic Games Launcher is a special application for customers of the Epic Games Store, thanks to which we can buy various digital games and accessories.
+
 [![Epic Games Launcher](https://gallery.dpcdn.pl/imgc/Tools/89852/g_-_420x350_1.5_-_x86233e31-9cdb-41be-adae-912dbdff6666.jpg)](https://softexe.net/win/hobbies-lifestyle/other/epic-games-launcher:hfed.html)
 
 After launching the Epic Games Launcher and logging into your account (you can use, for example, a Google profile), we get access to the Epic Games Store main page, where you will find information on current premier, promotional offers or updates to already released games. We can also use the store, go to your own library or manage your friends list. The additional Unreal Engine tab allows you to install the Epic Games proprietary technology.

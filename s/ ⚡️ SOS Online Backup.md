@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/sos-online-backup-8764.png) SOS Online Backup 7.6.0 - Free Download
 
-```sh
-SOS Online Backup is an advanced application designed to perform backups (so-called backups) of our data on a specially designed cloud for this purpose, which not only protects our data, but also allows you to access them anytime and anywhere.
-```
+> SOS Online Backup is an advanced application designed to perform backups (so-called backups) of our data on a specially designed cloud for this purpose, which not only protects our data, but also allows you to access them anytime and anywhere.
+
 [![SOS Online Backup](https://gallery.dpcdn.pl/imgc/Tools/61126/g_-_420x350_1.5_-_x20150822175333_0.png)](https://softexe.net/win/disks-files/data-recovery/sos-online-backup:hgfd.html)
 
 After the installation process, the program should be pre-configured and an account should be created to which all protected files will be assigned. At this stage, we can also choose more advanced options, but remember that they are paid. After creating the account and selecting the software version, we can proceed to selecting the folders to be synchronized. By default, the program selects to scan all folders, only the logged in user's personal folders and the option to manually specify directories.

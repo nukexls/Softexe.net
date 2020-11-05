@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/copernic-desktop-search-1616.png) Copernic Desktop Search 7.1.1 - Free Download
 
-```sh
-Copernic Desktop Search - With this program you can find any information, including e-mail messages and even files attached to them, located on your computer’s hard drive.
-```
+> Copernic Desktop Search - With this program you can find any information, including e-mail messages and even files attached to them, located on your computer’s hard drive.
+
 [![Copernic Desktop Search](https://gallery.dpcdn.pl/imgc/Tools/2556/g_-_420x350_1.5_-_x20110408162013_00.jpg)](https://softexe.net/win/disks-files/file-search/copernic-desktop-search:pfpf.html)
 
 Copernic Desktop Search - With this program you can find any information, including e-mail messages and even files attached to them, located on the hard disk of the computer.

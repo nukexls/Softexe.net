@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Teeworlds icon&w=40&h=40) Teeworlds 0.6.4 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Teeworlds 0.6.4 - Free Download
 
-```sh
-Teeworlds is a combination of a platform game with motifs known from classic such as Quake or Unreal Torunament. The player's task, depending on the game mode, is to annihilate all opponents or bring his team to defeat the opponent by collecting more flags. We have several weapons at our disposal, including an extremely effective samurai sword, a rifle, a shotgun, a grenade launcher, a wooden hammer and a hook that can be used to climb elements on the board or attract opponents. The game also thanks to low system requirements, interesting graphic effects and the ability to play through the network boasts a great gameplay.
-```
+> Teeworlds is a combination of a platform game with motifs known from classic such as Quake or Unreal Torunament. The player's task, depending on the game mode, is to annihilate all opponents or bring his team to defeat the opponent by collecting more flags. We have several weapons at our disposal, including an extremely effective samurai sword, a rifle, a shotgun, a grenade launcher, a wooden hammer and a hook that can be used to climb elements on the board or attract opponents. The game also thanks to low system requirements, interesting graphic effects and the ability to play through the network boasts a great gameplay.
+
 [![Teeworlds](https://gallery.dpcdn.pl/imgc/Tools/61654/g_-_420x350_1.5_-_x20150909134147_0.jpg)](https://softexe.net/win/games-entertainment/other/teeworlds:pRdap.html)
 
 System requirements:

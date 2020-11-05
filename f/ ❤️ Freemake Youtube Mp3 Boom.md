@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/freemake-youtube-mp3-boom-9420.png) Freemake Youtube Mp3 Boom 1.0.6.8 - Free Download
 
-```sh
-Freemake Youtube Mp3 Boom is a free tool whose task is to download clips from YouTube and save their audio track to MP3 files.
-```
+> Freemake Youtube Mp3 Boom is a free tool whose task is to download clips from YouTube and save their audio track to MP3 files.
+
 [![Freemake Youtube Mp3 Boom](https://gallery.dpcdn.pl/imgc/Tools/12092/g_-_420x350_1.5_-_x20140815130528_0.png)](https://softexe.net/win/internet/file-downloader/freemake-youtube-mp3-boom:adbR.html)
 
 Freemake Youtube Mp3 Boom, like other tools of this manufacturer, is characterized by a very simple operation, which is greatly influenced by a refined and intuitive graphical interface. The other advantages of the tool include speed of operation - in this case converting downloaded clips.

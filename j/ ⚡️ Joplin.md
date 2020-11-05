@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Joplin 1.0.145 - Free Download
 
-```sh
-Joplin is a free tool for creating notes, which is characterized by a modern, transparent user interface.
-```
+> Joplin is a free tool for creating notes, which is characterized by a modern, transparent user interface.
+
 [![Joplin](https://gallery.dpcdn.pl/imgc/Tools/82039/g_-_420x350_1.5_-_x8952a377-1b17-4cf2-bf96-a7075ee0b80e.jpg)](https://softexe.net/win/business/organizer/joplin:hgbc.html)
 
 After starting the Joplin application, create a notepad in which we will store your entries. You can add an attachment to the text, or even tag it to make it easier to find the note later. It is worth noting that the program includes an option to encrypt data with a password using the E2EE protection, which is, by default, disabled and we can manually activate it in the menu of the described tool.

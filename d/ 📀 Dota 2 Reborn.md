@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/dota-2-reborn-10915.png) Dota 2 Reborn 6.88F 2248 - Free Download
 
-```sh
-Dota 2 is another proposition of the game in the genre MOBA or fight in the arenas, but this is not just any game, because prepared by the creators of the series Half-Life or the company Valve. The name of the project itself derives from Defense of the Ancients - a popular modification for Warcraft III. After a long time the producers decided to rewrite the work on the Source 2 engine, a completely new technology, adding Reborn to the title to express it.
-```
+> Dota 2 is another proposition of the game in the genre MOBA or fight in the arenas, but this is not just any game, because prepared by the creators of the series Half-Life or the company Valve. The name of the project itself derives from Defense of the Ancients - a popular modification for Warcraft III. After a long time the producers decided to rewrite the work on the Source 2 engine, a completely new technology, adding Reborn to the title to express it.
+
 [![Dota 2 Reborn](https:https://tse3.mm.bing.net/th?id=OIP.NsqkCG-6-J4qnP9sZQoYoAHaEo&pid=Api)](https://softexe.net/win/games-entertainment/rpg/dota-2-reborn:pRape.html)
 
 Large size, but symmetrical maps give equal opportunities to both parties taking part. The aim of the game is to invade the opponent's fortress and destroy it with simultaneous defensive efforts in relation to its own base. The game is played by teams of five warriors composed of appropriately diverse in terms of the skills of the heroes, which the player chooses from the pool of over a hundred available. Characters, of course, as you win more battles, gain experience, advance to higher levels and develop militantly.

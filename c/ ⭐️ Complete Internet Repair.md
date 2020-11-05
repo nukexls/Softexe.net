@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/complete-internet-repair-1566.png) Complete Internet Repair 6.0.3.5003 - Free Download
 
-```sh
-Complete Internet Repair is a free application with which you can instantly fix problems and reconnect your Internet connection.
-```
+> Complete Internet Repair is a free application with which you can instantly fix problems and reconnect your Internet connection.
+
 [![Complete Internet Repair](https://gallery.dpcdn.pl/imgc/Tools/59423/g_-_420x350_1.5_-_x20150613145820_0.png)](https://softexe.net/win/internet/browser-utilities/complete-internet-repair:peff.html)
 
 Complete Internet Repair is a free application with which you can instantly fix problems and reconnect your Internet connection. It will help restore the Internet connection after the removal of various software from the computer, including viruses, or after installing a new antivirus, firewall, etc. The utility does not require installation.

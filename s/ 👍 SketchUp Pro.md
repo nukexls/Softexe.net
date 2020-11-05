@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/sketchup-pro-9122.png) SketchUp Pro 2020 - Free Download
 
-```sh
-SketchUp is a professional software used to model three-dimensional objects - houses, spacecraft, sculptures, etc. It is also very good at designing and arranging any type of interior or garden, offering a wide range of ready-made components.
-```
+> SketchUp is a professional software used to model three-dimensional objects - houses, spacecraft, sculptures, etc. It is also very good at designing and arranging any type of interior or garden, offering a wide range of ready-made components.
+
 [![SketchUp Pro](https://gallery.dpcdn.pl/imgc/Tools/97/g_-_420x350_1.5_-_x20151204161418_0.png)](https://softexe.net/win/multimedia/cad/sketchup-pro:apbb.html)
 
 The tool, despite its enormous possibilities, remains simple and intuitive to use. With its help, we will quickly and efficiently create object models from scratch, as well as modify those, for example, downloaded from the Internet. Its functionality has already been appreciated by hundreds of thousands of users around the world - designers, architects, etc. Another advantage of SketchUp is support for plugins, allowing you to enrich and personalize the program's capabilities to suit your individual preferences.

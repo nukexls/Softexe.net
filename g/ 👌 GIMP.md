@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/gimp-3084.png) GIMP 2.10.20 - Free Download
 
-```sh
-GIMP is a powerful, free image editor, almost as good as Photoshop in its capabilities. With it, you can process photos, create collages, draw pictures on graphic tablets, prepare website designs and much more.
-```
+> GIMP is a powerful, free image editor, almost as good as Photoshop in its capabilities. With it, you can process photos, create collages, draw pictures on graphic tablets, prepare website designs and much more.
+
 [![GIMP](https://gallery.dpcdn.pl/imgc/Tools/307/g_-_420x350_1.5_-_xbbe4efa0-3a5b-4afa-8b43-4f801bf20637.png)](https://softexe.net/win/multimedia/graphics-design/gimp:cRhd.html)
 
 GIMP is a flexible, powerful, multi-purpose and, most importantly, free image editor, which is not much inferior to Photoshop. Perfect for drawing, and for the development of web-design, and for graphic design. Allows you to apply special effects to your graphics, tools and other actions identical to Photoshop.

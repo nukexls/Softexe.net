@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) WavePad Sound Editor 10.97 - Free Download
 
-```sh
-WavePad Sound Editor is a free version of a simple to use program that allows you to create and edit audio files in the following formats: wav, mp3, vox, gsm, real audio, au, aif, flac, ogg and many others.
-```
+> WavePad Sound Editor is a free version of a simple to use program that allows you to create and edit audio files in the following formats: wav, mp3, vox, gsm, real audio, au, aif, flac, ogg and many others.
+
 [![WavePad Sound Editor](https://gallery.dpcdn.pl/imgc/Tools/258/g_-_420x350_1.5_-_x20100729120939.png)](https://softexe.net/win/multimedia/audio-sound/wavepad-sound-editor:hcgg.html)
 
 The tool enables, among others cutting out fragments and combining edited recordings, mixing several tracks, etc. In the free version there are several filters and effects available for the user, including adding an echo to the song, noise reduction, amplification, muting etc. WavePad also allows you to convert files in batch mode so you can quickly modify a large number of files.

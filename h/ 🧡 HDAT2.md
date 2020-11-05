@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) HDAT2 6.6 - Free Download
 
-```sh
-HDAT2 is a free application designed for diagnostics, testing and repairing HDD disks. The program detects devices connected to AHCI / RAID controllers, ATA / ATAPI / SATA interfaces, SCSI bus, SDD drives, and those connected via USB.
-```
+> HDAT2 is a free application designed for diagnostics, testing and repairing HDD disks. The program detects devices connected to AHCI / RAID controllers, ATA / ATAPI / SATA interfaces, SCSI bus, SDD drives, and those connected via USB.
+
 [![HDAT2](https:https://tse4.mm.bing.net/th?id=OIP.RrUjhFvrHNPo6x-eCnwFDgHaD7&pid=Api)](https://softexe.net/win/disks-files/other/hdat2:pRRhg.html)
 
 Similarly to other programs of this type, HDAT2 works independently of the installed operating system. It does not matter what is the file system or the number and size of partitions. HDAT2 allows you to work in two modes. Drive level testing, whose main task is to test and repair (regenerate) bad sectors of detected devices and obtain information about connected devices. The next mode is File level testing that allows checking and deleting (regenerating) damaged sector records, flags in the FAT table.

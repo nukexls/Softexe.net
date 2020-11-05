@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/password-checkup-dla-google-chrome-9153.png) Password Checkup (for Google Chrome)  - Free Download
 
-```sh
-Password Checkup is an add-on to the Google Chrome browser that allows you to check the security of your login details.
-```
+> Password Checkup is an add-on to the Google Chrome browser that allows you to check the security of your login details.
+
 [![Password Checkup (for Google Chrome)](https:https://tse4.mm.bing.net/th?id=OIP.UQYNj2aFhhLUrmvZeIzI8wHaE-&pid=Api)](https://softexe.net/win/internet/browser-add-ons/password-checkup-for-google-chrome:apec.html)
 
 The extension monitors the passwords entered in the browser and the data stored by the password manager. The information is compared with huge databases of passwords that are publicly available on the Internet, on forums and in darknet. If the security has been violated, the extension will inform the user and recommend changing the password just as soon as possible. 

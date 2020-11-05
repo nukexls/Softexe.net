@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/filebot-11171.png) Filebot 4.8.5 - Free Download
 
-```sh
-Filebot is a Chinese tool that allows you to control the mess of different versions of multimedia files, changing them according to data from websites such as IMDB, etc. It can automatically download subtitles for videos from the OpenSubtitles website, and verify their correctness (by SFV, MD5 and SHA1 ) - and not only.
-```
+> Filebot is a Chinese tool that allows you to control the mess of different versions of multimedia files, changing them according to data from websites such as IMDB, etc. It can automatically download subtitles for videos from the OpenSubtitles website, and verify their correctness (by SFV, MD5 and SHA1 ) - and not only.
+
 [![Filebot](https://gallery.dpcdn.pl/imgc/Tools/48955/g_-_420x350_1.5_-_x20140329174238_0.png)](https://softexe.net/win/system/archive-programs/filebot:pppgp.html)
 
 Thanks to the built-in scripting engine, the tool ensures integration with popular BitTorrent clients (μTorrent on Windows, Deluge on Linux and Transmission on OS X) and enables automation of many other activities. The author has launched a repository of such scripts (written in Groovy) on GitHub.

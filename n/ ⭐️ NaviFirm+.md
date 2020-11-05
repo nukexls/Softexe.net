@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) NaviFirm+ 3.2 - Free Download
 
-```sh
-NaviFirm + is a small but extremely useful tool for all owners of Nokia phones who would like to download the internal software (so-called firmware) for their device.
-```
+> NaviFirm + is a small but extremely useful tool for all owners of Nokia phones who would like to download the internal software (so-called firmware) for their device.
+
 [![NaviFirm+](https://gallery.dpcdn.pl/imgc/Tools/3166/g_-_420x350_1.5_-_x20130815141430_0.png)](https://softexe.net/win/hobbies-lifestyle/mobile/navifirm:pbgae.html)
 
 The program gives you the opportunity to download any version of the firmware released for any Nokia model ever released. Thanks to this, you can not only restore the phone's factory software, but also update it to the latest version, or change it to another language, for example in Polish or one that does not have the phone operator's settings and additions (eg wallpaper or start animation). The latter, although technically possible, may already be associated with the loss of the guarantee.

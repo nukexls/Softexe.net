@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/caprine-8211.png) Caprine 2.43 - Free Download
 
-```sh
-Caprine is a desktop messaging tool for Messenger Facebook, which offers exactly the same features as the official application for sharing to the site members founded by Mark Zuckerberg, but also includes a number of additional options.
-```
+> Caprine is a desktop messaging tool for Messenger Facebook, which offers exactly the same features as the official application for sharing to the site members founded by Mark Zuckerberg, but also includes a number of additional options.
+
 [![Caprine](https://gallery.dpcdn.pl/imgc/Tools/82672/g_-_420x350_1.5_-_x0ddba254-3e0f-4eb6-9e3e-cb87899eadd3.jpg)](https://softexe.net/win/internet/messenger/caprine:hbpp.html)
 
 As you can guess, Caprine mainly allows you to send and receive messages, make video calls, share files (e.g., photos, videos, documents), add emails to your entries, and so on, and so on. This does not mean, however, that the program imitates Facebook Messenger in one hundred percent because it has several unique features.

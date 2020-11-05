@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/sam-broadcaster-pro-5961.png) SAM Broadcaster PRO 2020.5 - Free Download
 
-```sh
-SAM Broadcaster PRO - a program to create your own Internet radio. Offers professional sound, supports most popular formats, there is web integration, statistics and reporting
-```
+> SAM Broadcaster PRO - a program to create your own Internet radio. Offers professional sound, supports most popular formats, there is web integration, statistics and reporting
+
 [![SAM Broadcaster PRO](https://gallery.dpcdn.pl/imgc/Tools/82167/g_-_420x350_1.5_-_xce7c014d-f606-423a-aa99-b3fad3f0719b.jpg)](https://softexe.net/win/multimedia/audio-sound/sam-broadcaster-pro:eafp.html)
 
 SAM Broadcaster PRO - a program to create your own Internet radio. Offers professional sound, supports most popular formats, there is web integration, statistics and reporting.

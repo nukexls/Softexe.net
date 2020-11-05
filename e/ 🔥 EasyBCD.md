@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/easybcd-icon128.png) EasyBCD 2.4.0 - Free Download
 
-```sh
-EasyBCD is a program for managing the loading of multiple operating systems installed on one PC. Simplifies the task of selecting an operating system, adds and deletes axes, sets a priority, etc. Supports work with Windows, Linux / BSD, Mac OS X and NeoGrub
-```
+> EasyBCD is a program for managing the loading of multiple operating systems installed on one PC. Simplifies the task of selecting an operating system, adds and deletes axes, sets a priority, etc. Supports work with Windows, Linux / BSD, Mac OS X and NeoGrub
+
 [![EasyBCD](https://gallery.dpcdn.pl/imgc/Tools/37/g_-_420x350_1.5_-_x20091025150008.png)](https://softexe.net/win/system/boot-managers/easybcd:bbcR.html)
 
 EasyBCD is a small tool that allows you to manage the loading of multiple operating systems installed on your computer. This download manager supports Windows, Linux / BSD, Mac OS X and NeoGrub.

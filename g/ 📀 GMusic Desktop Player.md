@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=GMusic+Desktop+Player icon&w=40&h=40) GMusic Desktop Player 1.9.15 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) GMusic Desktop Player 1.9.15 - Free Download
 
-```sh
-GMusic Desktop Player is a desktop multimedia player intended for users using the Google Play Music service on a computer with a Windows operating system.
-```
+> GMusic Desktop Player is a desktop multimedia player intended for users using the Google Play Music service on a computer with a Windows operating system.
+
 [![GMusic Desktop Player](https://gallery.dpcdn.pl/imgc/Tools/83872/g_-_420x350_1.5_-_xfdf9b541-f99a-406e-b206-c4bd3c3af7bf.jpg)](https://softexe.net/win/multimedia/audio-video-players/gmusic-desktop-player:aaeb.html)
 
 The modern and intuitive user interface makes the GMusic Desktop Player available to all options at your fingertips. We can not only play, stop, resume and rewind songs in our collection, but also get to know the premiere songs, the most popular songs, and also prepare playlists. The built-in search engine will allow you to locate interesting songs easily and quickly, if they are available in the Google Play Music database.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) SlideShow YouTube 9.7.05 - Free Download
 
-```sh
-SlideShow YouTube is an advanced editor of movies, slide shows and multimedia presentations that will be placed on YouTube. The program does not allow you to save movies and YouTube is the only export option.
-```
+> SlideShow YouTube is an advanced editor of movies, slide shows and multimedia presentations that will be placed on YouTube. The program does not allow you to save movies and YouTube is the only export option.
+
 [![SlideShow YouTube](https://gallery.dpcdn.pl/imgc/Tools/67326/g_-_420x350_1.5_-_x20160419145017_0.png)](https://softexe.net/win/multimedia/video/slideshow-youtube:pRbeh.html)
 
 SlideShow YouTube resembles Stages and works just as well when editing movies and preparing presentations with animations. The huge advantage of the program is a rich collection of effects, which can be easily used when creating movies. 

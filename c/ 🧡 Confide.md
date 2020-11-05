@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Confide 1.8.2 - Free Download
 
-```sh
-Confide is an easy-to-use application for sending encrypted and self-destructing messages containing text, photos, documents and even voice messages.
-```
+> Confide is an easy-to-use application for sending encrypted and self-destructing messages containing text, photos, documents and even voice messages.
+
 [![Confide](https:https://tse4.mm.bing.net/th?id=OIP.s9j5twYOrORocf__PeWIXgHaFW&pid=Api)](https://softexe.net/win/internet/messenger/confide:hhph.html)
 
 The tool uses advanced solutions in the field of message security, thanks to which not only ordinary users, but also various companies, use Confide. It is also known that some White House employees make use of the application by sending messages to individual users as well as entire groups.

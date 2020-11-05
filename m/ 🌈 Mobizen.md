@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/mobizen-9014.png) Mobizen 2.21.17.3 - Free Download
 
-```sh
-Mobizen allows you to remotely manage your smartphone with the iOS or Android operating system from the computer using both a dedicated application and via a web browser.
-```
+> Mobizen allows you to remotely manage your smartphone with the iOS or Android operating system from the computer using both a dedicated application and via a web browser.
+
 [![Mobizen](https://gallery.dpcdn.pl/imgc/Tools/80768/g_-_420x350_1.5_-_x0079a07d-f839-41b7-be1a-23f2bd9e927f.png)](https://softexe.net/win/hobbies-lifestyle/mobile/mobizen:aRpd.html)
 
 Before using the Mobizen program, you must install it not only on your computer, but also your phone, by downloading the application from the Google Play Store or iTunes depending on your phone. Only then can we run the described tool on your mobile device and log in to your Google or Facebook account or alternatively create a new one. After doing this, you must select the device type and follow the instructions on the screen.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/magix-movie-edit-pro-9796.png) MAGIX Movie Edit Pro 2021 20.0.1.65  - Free Download
 
-```sh
-MAGIX Movie Edit Pro is a program for convenient assembly and processing of film materials, directed to novice users. There are intuitive and flexible tools here that will not cause problems for novice users.
-```
+> MAGIX Movie Edit Pro is a program for convenient assembly and processing of film materials, directed to novice users. There are intuitive and flexible tools here that will not cause problems for novice users.
+
 [![MAGIX Movie Edit Pro](https://gallery.dpcdn.pl/imgc/Tools/71563/g_-_420x350_1.5_-_x20160927112257_0.png)](https://softexe.net/win/multimedia/video/magix-movie-edit-pro:agaf.html)
 
 Movie Edit Pro primarily allows you to easily import material from any source. Laying the fragments in the right order can be done in two ways on a detailed timeline with 32 tracks, or in the Storyboard, where you can see the thumbnails of the clips. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/avast-secureline-vpn-911.png) Avast SecureLine VPN 5.2.438 - Free Download
 
-```sh
-Avast SecureLine VPN - a small utility to encrypt and protect your Internet connection from spyware and tracking modules
-```
+> Avast SecureLine VPN - a small utility to encrypt and protect your Internet connection from spyware and tracking modules
+
 [![Avast SecureLine VPN](https://gallery.dpcdn.pl/imgc/Tools/59789/g_-_420x350_1.5_-_x320fbed9-3256-4298-a3cf-8f3c65f74cae.png)](https://softexe.net/win/internet/anonymizers-vpn/avast-secureline-vpn:app.html)
 
 Avast SecureLine VPN is a small utility for encrypting and protecting your Internet connection from spyware and tracking modules. With this easy to use and configure application, you can ensure complete privacy of personal data on the world wide web.

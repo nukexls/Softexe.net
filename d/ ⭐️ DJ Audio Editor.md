@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/dj-audio-editor-1974.png) DJ Audio Editor 7.1 - Free Download
 
-```sh
-A powerful tool for editing audio files, with which you can trim audio tracks, cut unnecessary fragments, merge several tracks into one, extract audio tracks from video and CD discs, convert and save them in various formats
-```
+> A powerful tool for editing audio files, with which you can trim audio tracks, cut unnecessary fragments, merge several tracks into one, extract audio tracks from video and CD discs, convert and save them in various formats
+
 [![DJ Audio Editor](https:https://tse2.mm.bing.net/th?id=OIP.EC0tsu7pU5WnYXVRH1JOpAHaD2&pid=Api)](https://softexe.net/win/multimedia/audio-utilities/dj-audio-editor:pagd.html)
 
 DJ Audio Editor is an easy-to-use audio editor that allows you to easily edit your favorite tracks.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) IBExpert 2019.11.13.1 - Free Download
 
-```sh
-IBExpert is a professional tool for creating and managing databases based on InterBase and Firebird engines.
-```
+> IBExpert is a professional tool for creating and managing databases based on InterBase and Firebird engines.
+
 [![IBExpert](https://gallery.dpcdn.pl/imgc/Tools/2465/g_-_420x350_1.5_-_x20110331161950_00.jpg)](https://softexe.net/win/development-it/database/ibexpert:hepd.html)
 
 It allows for intuitive cooperation and visualization of all database objects, editing the SQL code of queries, procedures and triggers, and provides an intuitive interface that allows you to easily design even a complex database. Enables monitoring and optimization of the database's performance. IBExpert has a module for combining and sharing data from existing tables and a system for managing the execution of multi-stage scripts with the preview of the results of individual queries.

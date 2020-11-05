@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/carotdav-9890.png) CarotDAV 1.15.9 - Free Download
 
-```sh
-CarotDAV is a small but very useful client application, from which we can use SkyDrive, Dropbox, GoogleDrive, Box and SugarSync, as well as connect with any FTP server, IMAP / IMAPS and WebDAV.
-```
+> CarotDAV is a small but very useful client application, from which we can use SkyDrive, Dropbox, GoogleDrive, Box and SugarSync, as well as connect with any FTP server, IMAP / IMAPS and WebDAV.
+
 [![CarotDAV](https://gallery.dpcdn.pl/imgc/Tools/11661/g_-_420x350_1.5_-_x20121204204604_00.png)](https://softexe.net/win/internet/cloud-storage/carotdav:ahaR.html)
 
 The tool is very easy to use, and its biggest advantage is the fact that from its level we can connect with many different services and servers on which we collect our data. All connections to servers in the cloud are completely secure, and their authorization takes place after a standard login to a given service by the browser. In addition, access to the program can be protected by a password.

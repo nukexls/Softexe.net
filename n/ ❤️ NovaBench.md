@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) NovaBench 4.0.8 - Free Download
 
-```sh
-NovaBench is a simple application for testing the performance of basic computer components, i.e. processor, RAM memory, graphics and hard disk.
-```
+> NovaBench is a simple application for testing the performance of basic computer components, i.e. processor, RAM memory, graphics and hard disk.
+
 [![NovaBench](https://gallery.dpcdn.pl/imgc/Tools/2410/g_-_420x350_1.5_-_x20110328121615_00.png)](https://softexe.net/win/system/diagnostics-tests/novabench:agfp.html)
 
 The program consists of 6 simple benchmarks, using which it is possible to efficiently test the performance of the base components installed in the computer. They can be run all simultaneously or individually, depending on the user's preferences. With the help of benchmarks, we will test equipment for integer and floating point calculations, generation of MD5 hashs, 3D scene rendering and data write speed (RAM and hard disk).

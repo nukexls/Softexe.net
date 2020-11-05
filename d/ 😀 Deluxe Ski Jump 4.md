@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/deluxe-ski-jump-4-10643.jpg) Deluxe Ski Jump 4 1.6.3 - Free Download
 
-```sh
-Another, much more graphically advanced version of the unrivaled simulation of ski jumping. Previous, namely Deluxe Ski Jumping 2.1, despite its very modest graphics was unmatched when it comes to the pleasure of the game and the mapping of weather conditions acting on the agile jumper.
-```
+> Another, much more graphically advanced version of the unrivaled simulation of ski jumping. Previous, namely Deluxe Ski Jumping 2.1, despite its very modest graphics was unmatched when it comes to the pleasure of the game and the mapping of weather conditions acting on the agile jumper.
+
 [![Deluxe Ski Jump 4](https://gallery.dpcdn.pl/imgc/Tools/61021/g_-_420x350_1.5_-_x20150819131432_0.jpg)](https://softexe.net/win/games-entertainment/sport/deluxe-ski-jump-4:pRfdc.html)
 
 The physics of the flight was significantly improved and a completely new, attractive audiovisual setting was prepared. Thanks to many cameras installed, we have the opportunity to choose the game that suits us best. The most appealing seems to be the picture of the ski jump straight from the camera placed on the player's helmet, but usually the excitement of skiing is over, because putting a successful jump from this perspective just borders on a miracle. The gameplay is still challenging.

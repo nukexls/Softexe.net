@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/syncovery-8353.png) Syncovery 9.12 Build 84 - Free Download
 
-```sh
-Syncovery is a program that is used to backup files. Against the background of many other similar tools, it stands out because it also allows you to synchronize data between several devices in real time.
-```
+> Syncovery is a program that is used to backup files. Against the background of many other similar tools, it stands out because it also allows you to synchronize data between several devices in real time.
+
 [![Syncovery](https://gallery.dpcdn.pl/imgc/Tools/63348/g_-_420x350_1.5_-_x20151105233605_0.png)](https://softexe.net/win/disks-files/data-recovery/syncovery:hcec.html)
 
 In addition to the ability to perform a standard file backup, Syncovery also includes the function of performing two-way data synchronization (SmartTracking) and allows you to create a copy of the source folder (Extract Mirror). The tool supports FTP, SSH, WebDAV, SSL, Amazon S3, Azure, Google Docs and HTTP.

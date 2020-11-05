@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/action-8310.png) Action! 4.11.0 - Free Download
 
-```sh
-Action! is a universal program for recording video sequences from games, desktop or any part of the screen.
-```
+> Action! is a universal program for recording video sequences from games, desktop or any part of the screen.
+
 [![Action!](https://gallery.dpcdn.pl/imgc/Tools/8919/g_-_420x350_1.5_-_x20120605170206_00.jpg)](https://softexe.net/win/multimedia/video/action:hcpR.html)
 
 The program is characterized by a modern interface and rich functionality. It allows you to record everything that is on the screen in a simple and fast way, and is also ideal for players who intend to record video from their favorite game. Action! it also allows you to record a picture with sound (using a connected microphone). 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/strict-pop-up-blocker-10742.png) Strict Pop-up Blocker 0.5 - Free Download
 
-```sh
-Strict Pop-up Blocker is a very simple extension for the Firefox browser designed to block all kinds of pop-ups (so-called pop-ups) on visited websites.
-```
+> Strict Pop-up Blocker is a very simple extension for the Firefox browser designed to block all kinds of pop-ups (so-called pop-ups) on visited websites.
+
 [![Strict Pop-up Blocker](https:https://tse3.mm.bing.net/th?id=OIP.dNsQdK-lFGPu8ReMp385UAHaJ7&pid=Api)](https://softexe.net/win/internet/browser-add-ons/strict-pop-up-blocker:pRgdb.html)
 
 The addon described is almost maintenance-free and does not require any configuration from the user. After installing and launching it is available in the upper part of the browser window in the form of a small icon, which when clicked enables / disables blocking of unwanted content. Strict Pop-up Blocker very well deals with blocking of windows with advertisements or information about the use of cookies on the website.

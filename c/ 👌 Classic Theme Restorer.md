@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/classic-theme-restorer-1428.png) Classic Theme Restorer 1.7.7.2 - Free Download
 
-```sh
-Classic Theme Restorer is a small Mozilla Firefox browser plugin that is designed to change the visual shell of this web browser.
-```
+> Classic Theme Restorer is a small Mozilla Firefox browser plugin that is designed to change the visual shell of this web browser.
+
 [![Classic Theme Restorer](https://gallery.dpcdn.pl/imgc/Tools/50853/g_-_420x350_1.5_-_x20140503230415_0.png)](https://softexe.net/win/internet/browser-utilities/classic-theme-restorer:pdbh.html)
 
 Classic Theme Restorer is a small Mozilla Firefox browser plugin that is designed to change the visual shell of this web browser. Starting with version 29, Firefox developers have significantly changed the appearance and interface of their creation. Not all users of the updated design came to taste, and if you are one of them, then this extension will allow you to return to the usual look of your favorite browser.

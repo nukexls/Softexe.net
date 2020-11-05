@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Survarium icon&w=40&h=40) Survarium 0.51a9 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Survarium 0.51a9 - Free Download
 
-```sh
-Survarium is a network shooter type FPS reminiscent of climate and many other aspects to the famous game series STALKER. Any similarity here is fully justified, because the project is now being formed by the Ukrainian studio Vostok Games - the creator of the said "Stalker".
-```
+> Survarium is a network shooter type FPS reminiscent of climate and many other aspects to the famous game series STALKER. Any similarity here is fully justified, because the project is now being formed by the Ukrainian studio Vostok Games - the creator of the said "Stalker".
+
 [![Survarium](https://gallery.dpcdn.pl/imgc/Tools/58289/g_-_420x350_1.5_-_x20150417155739_0.jpg)](https://softexe.net/win/games-entertainment/shooters/survarium:pRdha.html)
 
 The action of the game takes us to the near future, in which, due to a biological catastrophe, an inexplicable, expansive conquest of the human world occurs due to the underdeveloped and destroyed by the humanity world of plants. The plant cover known so far has been enriched by a number of new, dangerous species and decides to restore the former order on Earth.

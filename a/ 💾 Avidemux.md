@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Avidemux icon&w=40&h=40) Avidemux 2.7.6 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Avidemux 2.7.6 - Free Download
 
-```sh
-Avidemux is one of the most popular tools for processing and compressing video files next to VirtualDuba.
-```
+> Avidemux is one of the most popular tools for processing and compressing video files next to VirtualDuba.
+
 [![Avidemux](https://gallery.dpcdn.pl/imgc/Tools/1040/g_-_420x350_1.5_-_x20100703114621.png)](https://softexe.net/win/multimedia/video/avidemux:pRpfc.html)
 
 The program was initially available only for the Linux system, but its fast growing popularity meant that it was also decided to provide versions for Windows and Mac OS. The tool supports AVI, MPEG, MP4 and ASF files, often being used to convert movies to formats compatible with most stationary DVD players. In addition, it offers quite a number of functions and effects, which can additionally be extended to external components.

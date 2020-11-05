@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/multitrackstudio-lite-10755.png) MultitrackStudio Lite 8.5.0.0 - Free Download
 
-```sh
-MultitrackStudio is a music creation software that offers the ability to record both audio and MIDI tracks. The tool is easy to use, so ideally suited to less experienced artists.
-```
+> MultitrackStudio is a music creation software that offers the ability to record both audio and MIDI tracks. The tool is easy to use, so ideally suited to less experienced artists.
+
 [![MultitrackStudio Lite](https:https://tse4.mm.bing.net/th?id=OIP.cEAgHi0xIIGR_Q8LSm0sVwHaFD&pid=Api)](https://softexe.net/win/multimedia/audio-sound/multitrackstudio-lite:pRgee.html)
 
 Audio sounds can be recorded while playing along with previously recorded songs, while MIDI can be saved using the MIDI keyboard (optionally a computer keyboard or touch screen). The editing includes the possibility of removing incorrect fragments of songs (audio and MIDI), and additionally, the user can make use of the sound mixing function. The tool supports ASIO drivers, VST plugins and DirectX libraries.

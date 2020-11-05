@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/freehand-painter-9349.jpg) Freehand Painter 0.95 - Free Download
 
-```sh
-Freehand Painter is a free and extremely easy-to-use graphic editor for creating and drawing freehand sketches on your computer.
-```
+> Freehand Painter is a free and extremely easy-to-use graphic editor for creating and drawing freehand sketches on your computer.
+
 [![Freehand Painter](https:https://tse1.mm.bing.net/th?id=OIP.4Bm0g2-WjR_h-VYy8Z0lqwHaED&pid=Api)](https://softexe.net/win/multimedia/graphics-editors/freehand-painter:acda.html)
 
 Freehand Painter allows you to draw, paint and create vector graphics. Additionally, it supports and saves ready-made sketches in the standard ISF format. In addition, it is fully optimized and compatible with the multi-touch function, which allows you to manually draw and create works on a touch screen or on tablets. 

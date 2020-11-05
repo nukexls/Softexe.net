@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/mp3jam-9835.png) MP3jam 1.1.6.1 - Free Download
 
-```sh
-MP3jam is a small tool that gives you the ability to search, listen and download selected songs and save them as MP3 files. The program is based on the popular YouTube website and the VK social network, giving us access to over 20 million songs.
-```
+> MP3jam is a small tool that gives you the ability to search, listen and download selected songs and save them as MP3 files. The program is based on the popular YouTube website and the VK social network, giving us access to over 20 million songs.
+
 [![MP3jam](https://gallery.dpcdn.pl/imgc/Tools/32467/g_-_420x350_1.5_-_x20131028204540_0.png)](https://softexe.net/win/multimedia/other/mp3jam:ahce.html)
 
 The big advantage of MP3jam is its carefully crafted graphical interface. It is transparent, easy to use and will certainly appeal to the majority of recipients. The main program window includes categories with various types of music (including classical, hip-hop, jazz, metal, pop, r &amp; b or rock), in which we will find catalogs with works of the most popular artists in the world. There was, of course, a built-in search engine allowing you to find our favorite songs quickly and conveniently.

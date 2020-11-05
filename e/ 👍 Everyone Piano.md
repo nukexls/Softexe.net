@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/everyone-piano-10042.png) Everyone Piano 2.2.10.16 - Free Download
 
-```sh
-Everyone Piano is a computer software aimed at people who dream about learning to play the piano. At the same time, it has been prepared for users who can not afford to buy a real instrument.
-```
+> Everyone Piano is a computer software aimed at people who dream about learning to play the piano. At the same time, it has been prepared for users who can not afford to buy a real instrument.
+
 [![Everyone Piano](https://gallery.dpcdn.pl/imgc/Tools/83299/g_-_420x350_1.5_-_x3fa887bb-5ea6-431f-8832-7003bb02b85f.jpg)](https://softexe.net/win/hobbies-lifestyle/other/everyone-piano:pRRdb.html)
 
 Although at first glance it may seem that Everyone Piano is not - contrary to what the name suggests - an application for everyone, it is enough to notice that it is characterized by a really clear and easy-to-use interface. It is extremely important that the program can be used immediately after commissioning. The manufacturer made sure that the user does not have to (although he can) configure individual options, immediately joining the action.

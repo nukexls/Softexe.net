@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/ccleaner-professional-8609.png) CCleaner Professional 5.70 - Free Download
 
-```sh
-CCleaner Professional is an extensive, but paid edition of an extremely popular tool designed to optimize and remove unnecessary files left on the computer disc by various types of software. In contrast to the free version, it also offers a set of functions and tools to automate the program's operation.
-```
+> CCleaner Professional is an extensive, but paid edition of an extremely popular tool designed to optimize and remove unnecessary files left on the computer disc by various types of software. In contrast to the free version, it also offers a set of functions and tools to automate the program's operation.
+
 [![CCleaner Professional](https://gallery.dpcdn.pl/imgc/Tools/77762/g_-_420x350_1.5_-_x20170921163209_0.png)](https://softexe.net/win/system/system-tools/ccleaner-professional:hfRa.html)
 
 CCleaner is a tool that allows you to easily and conveniently clean your computer from data related to our activity on the Web and Windows. It can not only remove a lot of unnecessary files from the disk, but also clean the system's registry of unnecessary and problematic components. There was also a component management function in the so-called autostart or uninstall software, remove duplicate files, secure erase disc content, and manage system restore points.

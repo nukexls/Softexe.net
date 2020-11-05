@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/elisoft-faktury-8194.png) ELISOFT Faktury 2020 15.9.2.0 - Free Download
 
-```sh
-ELISOFT Invoices is a very good and free invoicing application that allows you to conveniently document all sales and purchase transactions. It also offers the functions of creating and managing a database of contractors, employees and goods and services useful in most companies.
-```
+> ELISOFT Invoices is a very good and free invoicing application that allows you to conveniently document all sales and purchase transactions. It also offers the functions of creating and managing a database of contractors, employees and goods and services useful in most companies.
+
 [![ELISOFT Faktury](https://gallery.dpcdn.pl/imgc/Tools/8850/g_-_420x350_1.5_-_x20171027130658_0.png)](https://softexe.net/win/business/billing/elisoft-faktury:hpad.html)
 
 The program gives you the opportunity to create sales and purchase documents, including VAT invoices, pro forma invoices and corrections. The process of filling them is very simple and in most cases it is limited to loading the previously completed data of customers, goods or services. ELISOFT Invoices also has a module responsible for creating employee cards, which, apart from personal data, allows to collect information about the position held by a given person, scope of duties, etc.

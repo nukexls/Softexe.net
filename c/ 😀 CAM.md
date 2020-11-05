@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) CAM 3.7.8 - Free Download
 
-```sh
-CAM is a tool for monitoring the components of our computer. It is characterized by simplicity of operation and a modern interface.
-```
+> CAM is a tool for monitoring the components of our computer. It is characterized by simplicity of operation and a modern interface.
+
 [![CAM](https://gallery.dpcdn.pl/imgc/Tools/75426/g_-_420x350_1.5_-_x20170424135400_0.jpg)](https://softexe.net/win/system/diagnostics-tests/cam:hbbg.html)
 
 After starting the CAM program, the system presents a short tutorial, allowing you to familiarize yourself with the basic options. We learn from it, among other things, that the authors have prepared two data display options (basic and advanced), and a special tab presents the exact specifications of our PC, while the next one allows for detailed monitoring of individual systems. There is also an option to check the FPS (frames per second) in the last session with the selected computer game (however, you must first activate this function in the application options).

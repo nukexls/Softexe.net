@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Windows 10 Creative Update Bloatfree Edition 5.5 - Free Download
 
-```sh
-Windows 10 Creative Update Bloatfree Edition is an installation image of the latest version of Microsoft's operating system, which removed almost everything unnecessary and which only puts a strain on the system.
-```
+> Windows 10 Creative Update Bloatfree Edition is an installation image of the latest version of Microsoft's operating system, which removed almost everything unnecessary and which only puts a strain on the system.
+
 [![Windows 10 Creative Update Bloatfree Edition](https:https://tse2.mm.bing.net/th?id=OIP.kTe7hEsLs2-ezJzCrb1QnwHaFJ&pid=Api)](https://softexe.net/win/system/other/windows-10-creative-update-bloatfree-edition:pRahg.html)
 
 This solution is rather for experienced users who are ready to use Windows free from telemetry, Cortan's assistant, almost all Windows Store applications and their connections, home group support, or Windows Defender antivirus.

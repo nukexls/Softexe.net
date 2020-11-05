@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/adobe-illustrator-cc-8399.png) Adobe Illustrator CC 24.2.2.518  - Free Download
 
-```sh
-Adobe Illustrator CC is next to competitor CorelDRAW, one of the most popular and most valued vector editing software. It was designed for the design and creation of illustrations.
-```
+> Adobe Illustrator CC is next to competitor CorelDRAW, one of the most popular and most valued vector editing software. It was designed for the design and creation of illustrations.
+
 [![Adobe Illustrator CC](https://gallery.dpcdn.pl/imgc/Tools/2553/g_-_420x350_1.5_-_x20160621175522_0.png)](https://softexe.net/win/multimedia/graphics-design/adobe-illustrator-cc:hcaa.html)
 
 The functions and tools offered by the application include, among others, Adobe Bridge for easy viewing of graphic files, Live Trace for quick conversion of images into vector description and Live Color for quick color changes while maintaining the proportions between different colors in the project. 

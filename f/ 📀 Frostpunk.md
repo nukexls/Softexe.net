@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Frostpunk  - Free Download
 
-```sh
-Frostpunk is a combination of real-time strategy and survival simulator. Recognized many times (both in industry reviews and opinions of players), the production was created by the Polish company 11bit studios known from this War of Mine and the Anomaly series.
-```
+> Frostpunk is a combination of real-time strategy and survival simulator. Recognized many times (both in industry reviews and opinions of players), the production was created by the Polish company 11bit studios known from this War of Mine and the Anomaly series.
+
 [![Frostpunk](https://gallery.dpcdn.pl/imgc/Tools/90832/g_-_420x350_1.5_-_x593e7da6-c77f-462f-912b-29c00f954cdb.jpg)](https://softexe.net/win/games-entertainment/strategies/frostpunk:hdch.html)
 
 What's going on in the Frostpunk game?

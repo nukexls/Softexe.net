@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/dialog-messenger-8451.png) Dialog Messenger 2.3.5.241 - Free Download
 
-```sh
-Dialog Messenger is definitely more than a messenger. We are dealing here with a powerful application equipped with various functions useful during group projects both inside and outside the company.
-```
+> Dialog Messenger is definitely more than a messenger. We are dealing here with a powerful application equipped with various functions useful during group projects both inside and outside the company.
+
 [![Dialog Messenger](https://gallery.dpcdn.pl/imgc/Tools/87288/g_-_420x350_1.5_-_x628c67f5-0bae-400e-acc2-efeac854962e.jpg)](https://softexe.net/win/internet/messenger/dialog-messenger:hdep.html)
 
 The tool allows you to contact other users in different ways. In addition to the option of sending text messages, Dialog Messenger offers the possibility of video conferences for up to five people (the screen is divided into parts), and there are also free, standard voice calls. Both one and the other solution turns out to be very useful in situations when we can not meet our team members.

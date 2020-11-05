@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) World War Z  - Free Download
 
-```sh
-World War Z is a third-person shooter focused on the cooperation of up to four players who have to face zombie hordes.
-```
+> World War Z is a third-person shooter focused on the cooperation of up to four players who have to face zombie hordes.
+
 [![World War Z](https://gallery.dpcdn.pl/imgc/Tools/90841/g_-_420x350_1.5_-_xca0a79d0-a5f5-402d-bea8-3b5a091ff1dd.jpg)](https://softexe.net/win/games-entertainment/shooters/world-war-z:hdce.html)
 
 For fans of the World War Z movie and more

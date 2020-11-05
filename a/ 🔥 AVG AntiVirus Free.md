@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/avg-antivirus-free-8583.png) AVG AntiVirus Free 20.7 - Free Download
 
-```sh
-AVG AntiVirus Free is a free version of the popular AVG antivirus program. It does not contain all modules, but protects your computer against malware and, importantly, it is very light for the operating system.
-```
+> AVG AntiVirus Free is a free version of the popular AVG antivirus program. It does not contain all modules, but protects your computer against malware and, importantly, it is very light for the operating system.
+
 [![AVG AntiVirus Free](https://gallery.dpcdn.pl/imgc/Tools/298/g_-_420x350_1.5_-_x20150409131307_0.png)](https://softexe.net/win/security-privacy/antivirus/avg-antivirus-free:hehc.html)
 
 The main component of the program is an antivirus scanner. It works in the background, monitors files and protects your computer against viruses, trojans and other pests. At any time, it is possible to run a manual full scan, as well as the so-called a smart scan that checks critical places in the system. An option to detect rootkits is also available. AVG stands out against the background of many paid packages with very low use of system resources - the program is so light that it can be successfully used even on older computers.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Xmarks 4.5.0.8 - Free Download
 
-```sh
-Xmarks is a free add-on to popular web browsers that allows you to sync your favorite bookmarks.
-```
+> Xmarks is a free add-on to popular web browsers that allows you to sync your favorite bookmarks.
+
 [![Xmarks](https:https://tse4.mm.bing.net/th?id=OIP.qa4Klb21slU073xJEui17gHaFj&pid=Api)](https://softexe.net/win/system/archive-programs/xmarks:pRgcf.html)
 
 The extension can be installed in programs such as Safari, Firefox and Google Chrome. Thanks to Xmarks, we can use the same tabs on different computers, as well as back up your favorite websites. The latter will be useful if you lose data on your computer. What's more, the add-on remembers automatically the passwords and logins that we use when logging in to e-mail, on internet forums or blogs. Materials can be stored both in the cloud computing and on the server provided by the user (also private). All transmitted data is automatically encrypted.

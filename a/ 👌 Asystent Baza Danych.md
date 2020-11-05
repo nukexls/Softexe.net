@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Asystent+Baza+Danych icon&w=40&h=40) Asystent Baza Danych 2020 20.9.8 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Asystent Baza Danych 2020 20.9.8 - Free Download
 
-```sh
-Assistant Database is a program in which you can create your own categories and tables for data storage in them. It has the ability to import data from external databases or files, eg. MySQL, CSV.
-```
+> Assistant Database is a program in which you can create your own categories and tables for data storage in them. It has the ability to import data from external databases or files, eg. MySQL, CSV.
+
 [![Asystent Baza Danych](https://gallery.dpcdn.pl/imgc/Tools/2695/g_-_420x350_1.5_-_x20110420160654_00.jpg)](https://softexe.net/win/business/other/asystent-baza-danych:hdph.html)
 
 The program has a contact details module in which we can maintain a contact database, finances, contact history, add attachments and add contractors to groups. All entered data can be searched through a search that can be configured. 

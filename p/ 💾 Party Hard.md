@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Party+Hard icon&w=40&h=40) Party Hard  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Party Hard  - Free Download
 
-```sh
-Party Hard is a two-dimensional action game of the independent PinoklGames studio, in which we will find elements of strategy and stealth. The prototype of this work was created at the Global Game Jam party.
-```
+> Party Hard is a two-dimensional action game of the independent PinoklGames studio, in which we will find elements of strategy and stealth. The prototype of this work was created at the Global Game Jam party.
+
 [![Party Hard](https://gallery.dpcdn.pl/imgc/Tools/90134/g_-_420x350_1.5_-_x054a7edc-1a96-47e2-aee8-abcb0cc10e0d.jpg)](https://softexe.net/win/games-entertainment/shooters/party-hard:haeh.html)
 
 The numbing neighbors can be annoying. Everyone who lived by the wall with people organizing loud events or people using the drill too much knows about it. In such situations, we can of course call the police, but the main Party Hard hero did not take advantage of this solution, because he decided to take a knife and go to the next apartment, where everyone had fun in the best ...

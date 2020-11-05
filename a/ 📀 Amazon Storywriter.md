@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/amazon-storywriter-10337.png) Amazon Storywriter 1.0.21 - Free Download
 
-```sh
-Amazon Storywriter is a free tool offered by Amazon for writing scenarios.
-```
+> Amazon Storywriter is a free tool offered by Amazon for writing scenarios.
+
 [![Amazon Storywriter](https://gallery.dpcdn.pl/imgc/Tools/82117/g_-_420x350_1.5_-_xed651825-d4c7-4a13-a675-09c8c00f37dc.jpg)](https://softexe.net/win/internet/browser-add-ons/amazon-storywriter:pRccg.html)
 
 Unlike many other word processors, the Amazon Storywriter does not require installation on a computer, and the use of this program is done using a web browser. Nevertheless, the creators made sure that the user would have access to their works also offline. After reconnecting to the network, the changes will be automatically synchronized.

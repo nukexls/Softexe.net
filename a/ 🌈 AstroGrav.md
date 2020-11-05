@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/astrograv-9361.png) AstroGrav 4.2 - Free Download
 
-```sh
-AstroGrav is a tool that allows you to precisely simulate the behavior of planets in the solar system. He deals with the calculation of gravitational interactions that occur between all bodies in space.
-```
+> AstroGrav is a tool that allows you to precisely simulate the behavior of planets in the solar system. He deals with the calculation of gravitational interactions that occur between all bodies in space.
+
 [![AstroGrav](https://gallery.dpcdn.pl/imgc/Tools/86332/g_-_420x350_1.5_-_x2ccec565-5d93-48df-a4bb-362ba76e79ba.jpg)](https://softexe.net/win/education-science/physics/astrograv:acfp.html)
 
 The program is addressed not only to scientists, because it will be recognized by other people interested in astronomy. They can download various projects provided by AstroGrav developers via the official website, where we will find, among others, various solar systems or planets for observation.

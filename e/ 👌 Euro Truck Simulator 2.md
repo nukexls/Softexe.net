@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Euro Truck Simulator 2 1.26.2.4 - Free Download
 
-```sh
-Although the life of the Tira driver is widely regarded as not very interesting, so many would have dreamed about such a job and visiting the world on board a multi-wheeled machine. Euro Truck Simulator 2 allows you to fulfill your dreams without leaving your home or spending money on very expensive transport vehicles. By starting the game on the computer, you can start a great journey on European roads and cities.
-```
+> Although the life of the Tira driver is widely regarded as not very interesting, so many would have dreamed about such a job and visiting the world on board a multi-wheeled machine. Euro Truck Simulator 2 allows you to fulfill your dreams without leaving your home or spending money on very expensive transport vehicles. By starting the game on the computer, you can start a great journey on European roads and cities.
+
 [![Euro Truck Simulator 2](https://gallery.dpcdn.pl/imgc/Tools/61325/g_-_420x350_1.5_-_x20150828121307_0.jpg)](https://softexe.net/win/games-entertainment/simulators/euro-truck-simulator-2:pppaa.html)
 
 The virtual driver can choose from many actually existing brands of Tirs, and additionally adapt the cars to themselves. This includes not only purely cosmetic changes, i.e. a different varnish or adding lights, but also the replacement of the engine, suspension, exhaust system, tires and even the entire cabin. Thus, it is possible to modify the car so that it looks like a player wants and leads as well as it is comfortable. In the end, he will spend hours on board.

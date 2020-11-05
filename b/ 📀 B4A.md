@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/b4a-8384.png) B4A 9.50 - Free Download
 
-```sh
-B4A is a complex development environment that offers all the necessary functions that allow you to quickly prepare your own application for Android devices.
-```
+> B4A is a complex development environment that offers all the necessary functions that allow you to quickly prepare your own application for Android devices.
+
 [![B4A](https://gallery.dpcdn.pl/imgc/Tools/67615/g_-_420x350_1.5_-_x20160502000216_0.png)](https://softexe.net/win/development-it/environments/b4a:hchd.html)
 
 The tool uses its own programming language, B4A, which is very easy to use, so knowledge of Visual Basic, VB6, VB.Net or any other programming languages ​​is not necessary. In addition to the coding option, there is also an option to create using the WYSIWYG editor.

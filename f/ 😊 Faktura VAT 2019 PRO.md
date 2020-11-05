@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/faktura-vat-2019-pro-8621.png) Faktura VAT 2019 PRO 19.1.38 - Free Download
 
-```sh
-VAT invoice 2019 PRO is an extensive invoicing program with the option of handling the warehouse and small bookkeeping, as well as CRM, calendar and organizer. In addition, it also offers integration with the most popular stores: Allegro, osCommerce, Prestashop, Magento, VirtueMart.
-```
+> VAT invoice 2019 PRO is an extensive invoicing program with the option of handling the warehouse and small bookkeeping, as well as CRM, calendar and organizer. In addition, it also offers integration with the most popular stores: Allegro, osCommerce, Prestashop, Magento, VirtueMart.
+
 [![Faktura VAT 2019 PRO](https://gallery.dpcdn.pl/imgc/Tools/72619/g_-_420x350_1.5_-_x20161129110647_0.png)](https://softexe.net/win/business/billing/faktura-vat-2019-pro:hfbp.html)
 
 The application in this version is the richest in the manufacturer's offer and besides the basic invoicing function, includes a set of many useful tools for comprehensive service of the company. We find among them, among others options for warehouse management, cash registers and transfers, accounting services (printing of KPiR and VAT-7, VAT-7K, VAT-7D, PIT-5, mileage and ZUS contributions), CRM module, calendar and organizer, as well as integration with the so-called. shopping arcades.

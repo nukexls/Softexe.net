@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) aTube Catcher 3.8.9823  - Free Download
 
-```sh
-aTube Catcher is a multifunctional application with which you can download videos from resources such as YouTube, Video@Mail.ru, MySpace, Dailymotion, Google, etc. (over 200 sites), and then convert the downloaded files into various formats
-```
+> aTube Catcher is a multifunctional application with which you can download videos from resources such as YouTube, Video@Mail.ru, MySpace, Dailymotion, Google, etc. (over 200 sites), and then convert the downloaded files into various formats
+
 [![aTube Catcher](https://gallery.dpcdn.pl/imgc/Tools/1206/g_-_420x350_1.5_-_x20101121151258.png)](https://softexe.net/win/multimedia/video/atube-catcher:hRg.html)
 
 aTube Catcher is a multifunctional application with which you can download videos from resources such as YouTube, Video@Mail.ru, MySpace, Dailymotion, Megavideo, Google, MTV, Metacafe, Spike, Yahoo! and many other (over 200 sites), and then convert downloaded files into various formats with the ability to play them on PC or mobile devices (iPad, IPOD, PSP, GPS devices, MP3 and MP4 players, cell phones, Android-communicators, DVD , VCD, Iphone). In addition, the program has tools for burning CD / DVD discs, audio and video capture, which allows you to create full-fledged presentations and training seminars. 

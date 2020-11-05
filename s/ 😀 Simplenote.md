@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Simplenote icon&w=40&h=40) Simplenote 1.9.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Simplenote 1.9.0 - Free Download
 
-```sh
-Simplenote is a minimalist, open service for storing and synchronizing notes between devices. The client for Windows allows you to create and edit them, as well as cataloging and searching.
-```
+> Simplenote is a minimalist, open service for storing and synchronizing notes between devices. The client for Windows allows you to create and edit them, as well as cataloging and searching.
+
 [![Simplenote](https://gallery.dpcdn.pl/imgc/Tools/66983/g_-_420x350_1.5_-_x20160405134956_0.png)](https://softexe.net/win/business/organizer/simplenote:apah.html)
 
 Simplenote for Windows has greater possibilities of editing notes than its counterparts for other platforms. A markdown document formatting system has been implemented here that can be turned on for each note separately. Thanks to it, you can create more complex texts according to the WYSIWYM philosophy. 

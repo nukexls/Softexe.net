@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/dbmigration-.net-8508.png) dbMigration .NET 12.5 - Free Download
 
-```sh
-dbMigration .NET is a tool for migrating and synchronizing databases.
-```
+> dbMigration .NET is a tool for migrating and synchronizing databases.
+
 [![dbMigration .NET](https:https://tse4.mm.bing.net/th?id=OIP.Uiq70xRsDaPwhKG2CTwb5QHaFU&pid=Api)](https://softexe.net/win/development-it/database/dbmigration-.net:heRh.html)
 
 By using dbMigration .NET you can easily and quickly transfer database structures or transfer content located in different databases, as well as synchronize available files. The program does not require specialized knowledge and is very easy to use.

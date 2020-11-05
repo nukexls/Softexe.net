@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/djay-pro-11088.png) djay Pro 1.0.26468.0 - Free Download
 
-```sh
-djay Pro is a valued program for DJs, only recently available for Windows. This is the first program of this type, allowing you to mix tracks from Spotify using two virtual turntables, 4 decks or by connecting physical controllers to your computer.
-```
+> djay Pro is a valued program for DJs, only recently available for Windows. This is the first program of this type, allowing you to mix tracks from Spotify using two virtual turntables, 4 decks or by connecting physical controllers to your computer.
+
 [![djay Pro](https://gallery.dpcdn.pl/imgc/Tools/75189/g_-_420x350_1.5_-_x20170410172121_0.jpeg)](https://softexe.net/win/multimedia/audio-sound/djay-pro:ppRhh.html)
 
 The program was created for playing live. Its biggest advantage is the rich integration with the Spotify library, thanks to which the DJ immediately has access to millions of songs and the possibility of finding new pieces. You can use 4 decks and a rich set of tools, sound wave visualizations, samplers, configurable crossfader, loops and drumpads for mixing. 

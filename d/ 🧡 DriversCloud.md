@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/driverscloud-10731.png) DriversCloud 10.0.10.0 - Free Download
 
-```sh
-DriversCloud is a tool to detect the base components of our computer and software installed on the hard disk. It also serves as a program that allows searching for recommended drivers for particular systems or applications.
-```
+> DriversCloud is a tool to detect the base components of our computer and software installed on the hard disk. It also serves as a program that allows searching for recommended drivers for particular systems or applications.
+
 [![DriversCloud](https:https://tse3.mm.bing.net/th?id=OIP.g5cTL4juZWF2MUD0xShqYwHaD8&pid=Api)](https://softexe.net/win/disks-files/hdd-utilities/driverscloud:pRgcp.html)
 
 It is worth noting that information obtained with the help of DriversCloud (both those concerning our base subassemblies as well as the installed software) can be saved to a PDF document, which can be published on a social networking site, sent by e-mail, placed on a server or printed. 

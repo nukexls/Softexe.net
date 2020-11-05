@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/one-calendar-9597.png) One Calendar 2018.1103.1.0 - Free Download
 
-```sh
-OneCalendar is an application addressed to people who use calendars offered by various internet services.
-```
+> OneCalendar is an application addressed to people who use calendars offered by various internet services.
+
 [![One Calendar](https://gallery.dpcdn.pl/imgc/Tools/86027/g_-_420x350_1.5_-_xa53f120f-64fe-4920-b386-49a5946a8ad5.jpg)](https://softexe.net/win/business/calendars/one-calendar:aeag.html)
 
 The program allows you to configure and view calendars Google, Outlook, Live, Exchange, iCloud, CalDAV, WebCal and allows you to manage events published via Facebook. It should be noted that OneCalendar has a very clear user interface, so less experienced people will also manage it.

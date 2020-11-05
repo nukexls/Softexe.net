@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Machinery+Natural+HDR icon&w=40&h=40) Machinery Natural HDR  3.0 Build 47 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Machinery Natural HDR  3.0 Build 47 - Free Download
 
-```sh
-Machinery Natural HDR is a program designed to create specific HDR images. As the name of the program suggests, these images are "natural", i.e. they resemble what the human eye sees. The algorithms used in the program try to combine the appropriate fragments of photos to get a well-lit scene, which allows you to avoid unnatural glow and exaggerated edges.
-```
+> Machinery Natural HDR is a program designed to create specific HDR images. As the name of the program suggests, these images are "natural", i.e. they resemble what the human eye sees. The algorithms used in the program try to combine the appropriate fragments of photos to get a well-lit scene, which allows you to avoid unnatural glow and exaggerated edges.
+
 [![Machinery Natural HDR](https:https://tse3.mm.bing.net/th?id=OIP.eWokjQL7ut7quPjfoLWd-QHaGB&pid=Api)](https://softexe.net/win/multimedia/graphics-editors/machinery-natural-hdr:pRgfc.html)
 
 The biggest advantages of the program are a clear interface, very large HDR image editing capabilities and, what is important, the possibility of obtaining good effects on the default settings. The program also has the option of batch processing of photos placed on the processing list using the Machinery Explorer module.

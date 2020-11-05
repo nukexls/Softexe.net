@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Brawlhalla  - Free Download
 
-```sh
-Brawlhalla is a free proposition for all those who are looking for quite an interesting party fight, modeled on the occasion of such a console, that is a fight for several people on multi-level arenas. In the foreground there is always a fast action, with fast chain of blows directed at opponents by various beautifully drawn two-dimensional figures.
-```
+> Brawlhalla is a free proposition for all those who are looking for quite an interesting party fight, modeled on the occasion of such a console, that is a fight for several people on multi-level arenas. In the foreground there is always a fast action, with fast chain of blows directed at opponents by various beautifully drawn two-dimensional figures.
+
 [![Brawlhalla](https://gallery.dpcdn.pl/imgc/Tools/63415/g_-_420x350_1.5_-_x20151109133839_0.jpg)](https://softexe.net/win/games-entertainment/fighting/brawlhalla:pbbcc.html)
 
 Fun is possible here in several modes. The basic one is a multi-person sofa madness, meaning the competition of players sitting in front of the computer shoulder to shoulder, with the possible participation of bots, or computer-controlled fighters. We also have the option of playing alone, but the most enjoyable is the online gameplay, where the 8 fighters get really hot. If someone is dreaming of a championship, there are also rankings of the best players. There are also games on own terms.

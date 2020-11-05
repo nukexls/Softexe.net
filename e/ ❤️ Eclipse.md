@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/eclipse-9876.png) Eclipse 4.15.0 - Free Download
 
-```sh
-Eclipse is a complex development environment created by IBM and then passed to the Open Source community, whose main advantage is the support of plugins extending its capabilities to support multiple languages ​​of code creation.
-```
+> Eclipse is a complex development environment created by IBM and then passed to the Open Source community, whose main advantage is the support of plugins extending its capabilities to support multiple languages ​​of code creation.
+
 [![Eclipse](https://gallery.dpcdn.pl/imgc/Tools/2382/g_-_420x350_1.5_-_x20110324162428_00.jpg)](https://softexe.net/win/development-it/environments/eclipse:ahgf.html)
 
 Among many plugins we find, among others responsible for supporting writing applications in Java, C, C ++, PHP, JavaScript, Actionscript 2, AmigaDT, creating GUI, etc. Eclipse has functions such as error verification, auto completion code or syntax highlighting.

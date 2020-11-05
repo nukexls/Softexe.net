@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/sothink-logo-maker-pro-11125.png) Sothink Logo Maker Pro 4.4 Build 4625 - Free Download
 
-```sh
-Sothink Logo Maker Pro is a very easy-to-use graphical tool that allows you to quickly create a spectacular logo for example on a website or discussion forum. It does not require a lot of effort from the user or special knowledge and graphic design skills.
-```
+> Sothink Logo Maker Pro is a very easy-to-use graphical tool that allows you to quickly create a spectacular logo for example on a website or discussion forum. It does not require a lot of effort from the user or special knowledge and graphic design skills.
+
 [![Sothink Logo Maker Pro](https://gallery.dpcdn.pl/imgc/Tools/15246/g_-_420x350_1.5_-_x20130401221816_00.png)](https://softexe.net/win/multimedia/graphics-design/sothink-logo-maker-pro:pppbe.html)
 
 The tool was created for users who would like to create effective logotypes easily and conveniently. It offers a set of dozens of ready-made graphic templates, sorted into thematic categories. What's more, each of them can be modified by the user. In addition, the program's resources include a rich database of graphic objects that can be used when creating a logo from scratch.

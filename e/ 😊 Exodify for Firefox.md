@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/exodify-dla-firefoksa-10533.png) Exodify for Firefox 0.4.6 - Free Download
 
-```sh
-Exodify is a browser add-on that allows you to view in the Play Store with Android applications information about the number and type of tracking services that the application uses, thereby making the user aware of what his privacy might be exposed to.
-```
+> Exodify is a browser add-on that allows you to view in the Play Store with Android applications information about the number and type of tracking services that the application uses, thereby making the user aware of what his privacy might be exposed to.
+
 [![Exodify for Firefox](https://gallery.dpcdn.pl/imgc/Tools/81211/g_-_420x350_1.5_-_x5bc49db9-f940-4b99-8def-daf8a80be11c.png)](https://softexe.net/win/internet/browser-add-ons/exodify-for-firefox:pRecc.html)
 
 This solution, which along with the official information from Google related to the type of application rights can help you make a responsible decision before installing the application. If the selected application is not in the database, you can analyze it and provide the database for the future.

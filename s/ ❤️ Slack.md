@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/slack-8381.png) Slack 4.8.0 - Free Download
 
-```sh
-Slack is a very powerful communicator prepared for small and medium-sized enterprises, whose members work together remotely using the Internet.
-```
+> Slack is a very powerful communicator prepared for small and medium-sized enterprises, whose members work together remotely using the Internet.
+
 [![Slack](https://gallery.dpcdn.pl/imgc/Tools/64541/g_-_420x350_1.5_-_x20151231133126_0.png)](https://softexe.net/win/internet/messenger/slack:hchp.html)
 
 Before starting to use, the administrator must create a group and then invite selected people to it. Thanks to this, all members will get access to the same messages and opportunities, which will allow them to communicate with ease. Slack has a built-in chat that allows you to have text conversations with any group member. In addition to sending messages, we can also share selected files with drag and drop.

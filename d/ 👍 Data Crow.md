@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/data-crow-10874.png) Data Crow 4.2.2 - Free Download
 
-```sh
-Data Crow is a powerful tool for cataloging various data sets stored on the computer's hard drive. Using this program, we can organize and manage a multimedia library and perform a number of other activities related to data selection.
-```
+> Data Crow is a powerful tool for cataloging various data sets stored on the computer's hard drive. Using this program, we can organize and manage a multimedia library and perform a number of other activities related to data selection.
+
 [![Data Crow](https:https://tse3.mm.bing.net/th?id=OIP.Xtgsr3kAghJ-0ggzFpIMZwHaFA&pid=Api)](https://softexe.net/win/multimedia/audio-utilities/data-crow:pRhgd.html)
 
 The program makes it possible to create a huge database containing all collected information regarding multimedia files, graphics files and other documents. Users can manually enter information or use an additional online service to retrieve the necessary information from the network. 

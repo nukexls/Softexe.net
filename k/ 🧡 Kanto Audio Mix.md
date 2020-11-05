@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/kanto-audio-mix-10275.png) Kanto Audio Mix 1.0 - Free Download
 
-```sh
-Kanto Audio Mix is ​​a multifunctional tool for editing music files, which is aimed at users of the Windows operating system.
-```
+> Kanto Audio Mix is ​​a multifunctional tool for editing music files, which is aimed at users of the Windows operating system.
+
 [![Kanto Audio Mix](https://gallery.dpcdn.pl/imgc/Tools/82416/g_-_420x350_1.5_-_x6c2cd3fb-9836-47fb-8c3f-d42abfc34ca1.jpg)](https://softexe.net/win/multimedia/audio-utilities/kanto-audio-mix:pRbge.html)
 
 The program offers many useful options for modifying songs saved in formats such as MP3, MIDI and KAR. Kanto Audio Mix allows you to combine tracks, remove unnecessary pieces of audio, add soundtracks to selected files, modify the volume, speed or many other aspects in your favorite songs. It is also possible to remove the vocal or create the ringtones that we use on the smartphone.

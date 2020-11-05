@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/airdc-8851.png) AirDC++ 3.60 - Free Download
 
-```sh
-AirDC ++ is a free and lightweight Direct Connect client based on the popular StrongDC ++. It allows direct exchange of files between users of the network, giving access to a huge amount of software, games or multimedia.
-```
+> AirDC ++ is a free and lightweight Direct Connect client based on the popular StrongDC ++. It allows direct exchange of files between users of the network, giving access to a huge amount of software, games or multimedia.
+
 [![AirDC++](https://gallery.dpcdn.pl/imgc/Tools/17546/g_-_420x350_1.5_-_x20130703235705_00.png)](https://softexe.net/win/internet/torrent-client/airdc:hhep.html)
 
 The application has been equipped with many improvements in relation to its protoplast. With its help, we can easily and conveniently download large amounts of data made available to us by friends or other users via the Internet or local network. It allows you to connect to special servers, so-called hubs that bring together users of the Direct Connect network. Unlike the standard methods of downloading files, it allows you to download data from many different sources at the same time.

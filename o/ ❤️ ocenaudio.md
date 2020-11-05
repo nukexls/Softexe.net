@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/ocenaudio-4875.png) ocenaudio 3.8.1 - Free Download
 
-```sh
-Ocenaudio is an excellent free audio editor and analyzer with a fairly large set of ready-made effects and filters for fast and high-quality audio file conversion.
-```
+> Ocenaudio is an excellent free audio editor and analyzer with a fairly large set of ready-made effects and filters for fast and high-quality audio file conversion.
+
 [![ocenaudio](https://gallery.dpcdn.pl/imgc/Tools/52489/g_-_420x350_1.5_-_x20140704152409_0.png)](https://softexe.net/win/multimedia/audio-utilities/ocenaudio:dhge.html)
 
 Ocenaudio is an excellent free audio editor and analyzer with a fairly large set of ready-made effects and filters for fast and high-quality audio file conversion. The program supports all the most popular audio formats: MP3, WAV, OGG, MP4, RAW, CAF and others. 

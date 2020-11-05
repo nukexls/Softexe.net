@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/freecad-10409.png) FreeCAD 0.18.4 - Free Download
 
-```sh
-FreeCAD is a free and open program for parametric design of three-dimensional objects - this means that you can go back to any of the process steps and change its parameters at any time. The program is addressed to engineers and mechanics, but it is also well suited for the design of utility objects and architectural details.
-```
+> FreeCAD is a free and open program for parametric design of three-dimensional objects - this means that you can go back to any of the process steps and change its parameters at any time. The program is addressed to engineers and mechanics, but it is also well suited for the design of utility objects and architectural details.
+
 [![FreeCAD](https://gallery.dpcdn.pl/imgc/Tools/58200/g_-_420x350_1.5_-_x20150413172335_0.png)](https://softexe.net/win/multimedia/cad/freecad:pRdRa.html)
 
 FreeCAD contains tools similar to those found in Catania, SolidWorks or SolidEdge, which qualifies for MCAD, PLM, CAx and CAE categories. Like other three-dimensional design programs, FreeCAD also includes tools for creating technical drawings and sketching shapes, but drawing is not its main purpose. Its modular structure allows you to implement new capabilities without interfering with the "core", thanks to which it develops very promising. Its possibilities can be expanded by scripts written in Python.

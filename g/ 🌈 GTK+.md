@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) GTK+ 3.6.4 Runtime Environment - Free Download
 
-```sh
-GTK + - cross-platform library for creating graphical user interface (GUI)
-```
+> GTK + - cross-platform library for creating graphical user interface (GUI)
+
 [![GTK+](https:https://tse2.mm.bing.net/th?id=OIP.4HOy9z7Ez5AQAfwJ_8CcwwHaGD&pid=Api)](https://softexe.net/win/development-it/components-libraries/gtk:cphg.html)
 
 GTK +- cross-platform library for creating graphical user interface (GUI). When using the GTK + library, development time is significantly reduced, there is no need for duplication of ordinary things, which allows the programmer to concentrate on the implementation of the unique functions of the project. For users, such benefits mean excellent compatibility of all their applications: wherever the toolkit works, applications will work there. Such portability is possible due to the fact that a set of compatible tools is used and things created using these tools can be used by everyone who uses the library, regardless of where they use it. Includes a wide range of opportunities, allowing the program to use the maximum number of people, thanks to the most complex mechanisms of internationalization,

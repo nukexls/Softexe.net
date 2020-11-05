@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/directory-lister-8475.png) Directory Lister 2.39 - Free Download
 
-```sh
-Directory Lister is a tool that allows you to create a list of files from selected folders available on various media. HDDs, CD / DVD drives, USB devices as well as network storage are supported.
-```
+> Directory Lister is a tool that allows you to create a list of files from selected folders available on various media. HDDs, CD / DVD drives, USB devices as well as network storage are supported.
+
 [![Directory Lister](https://gallery.dpcdn.pl/imgc/Tools/90793/g_-_420x350_1.5_-_x5793f298-cf09-4d9b-aca1-90c2a89221f3.jpg)](https://softexe.net/win/system/other/directory-lister:hdge.html)
 
 Basic functions

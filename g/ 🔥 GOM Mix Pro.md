@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/gom-mix-pro-9175.png) GOM Mix Pro 2.0.3.8 - Free Download
 
-```sh
-GOM Mix Pro is a recommendable and easy-to-use tool for amateur editing and video editing. Thanks to it, without unnecessary effort, we will prepare an effective movie containing professional effects and animations of transitions.
-```
+> GOM Mix Pro is a recommendable and easy-to-use tool for amateur editing and video editing. Thanks to it, without unnecessary effort, we will prepare an effective movie containing professional effects and animations of transitions.
+
 [![GOM Mix Pro](https://gallery.dpcdn.pl/imgc/Tools/81799/g_-_420x350_1.5_-_xa8259341-e227-43b5-acf1-5e46792e2df1.png)](https://softexe.net/win/multimedia/video/gom-mix-pro:apge.html)
 
 Working with the application is based on a multimedia library created by the user, adding short videos, photos or soundtracks to it. The assembly uses a timeline that has several paths for individual multimedia that can be interlaced with each other. In the user's hand, there is also a set of tools that allows him to enrich his amateur production with many interesting elements.

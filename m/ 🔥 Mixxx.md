@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Mixxx 2.2.4 - Free Download
 
-```sh
-Mixxx is an open source tool for mixing music on a computer, which should satisfy both beginners and more advanced DJs.
-```
+> Mixxx is an open source tool for mixing music on a computer, which should satisfy both beginners and more advanced DJs.
+
 [![Mixxx](https://gallery.dpcdn.pl/imgc/Tools/1169/g_-_420x350_1.5_-_x20101025133318.png)](https://softexe.net/win/multimedia/audio-sound/mixxx:hbaf.html)
 
 The program through two built-in players allows you to combine and mix two songs together. The user's options include changing the tempo, panorama, volume of the music being played, as well as amplifying selected tones. For beginners, a set of ready-made filters has been prepared to facilitate work with the program and to achieve interesting effects. Mixxx sets the tempo of songs in BPM, thus allowing the synchronization of individual sound channels. It also contains basic functions for queuing tracks and so-called cross-fading.

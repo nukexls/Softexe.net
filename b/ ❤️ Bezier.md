@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Bezier icon&w=40&h=40) Bezier  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Bezier  - Free Download
 
-```sh
-Bezier is an extremely dynamic and addictive 2D shooting in a great sound setting. The game is uncomplicated and simple in rules, but it is very strict in terms of skill.
-```
+> Bezier is an extremely dynamic and addictive 2D shooting in a great sound setting. The game is uncomplicated and simple in rules, but it is very strict in terms of skill.
+
 [![Bezier](https://gallery.dpcdn.pl/imgc/Tools/54821/g_-_420x350_1.5_-_x20141016154341_0.jpg)](https://softexe.net/win/games-entertainment/shooters/bezier:pbfpf.html)
 
 The player moves a small vehicle on a static board, trying to implement a classic scenario for this type of position consisting in breaking down as many enemy ships as possible with minimal losses.

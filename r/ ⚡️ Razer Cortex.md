@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/razer-cortex-5686.png) Razer Cortex 9.10.8.1270 - Free Download
 
-```sh
-Increase computer efficiency, free up additional power to enjoy your favorite game without lags and brakes using Razer Cortex. The utility is ideal for gamers, disabling unnecessary processes and doing full focus only on the game.
-```
+> Increase computer efficiency, free up additional power to enjoy your favorite game without lags and brakes using Razer Cortex. The utility is ideal for gamers, disabling unnecessary processes and doing full focus only on the game.
+
 [![Razer Cortex](https:https://tse3.mm.bing.net/th?id=OIP.B6IobsEoo5cEthcznQW-TgHaD1&pid=Api)](https://softexe.net/win/games-entertainment/other/razer-cortex:efhf.html)
 
 Razer Cortex is a useful and powerful utility for gamers that maximizes computer efficiency and frees up additional processor power by automatically disabling unnecessary processes and applications when entering the game (when you close the game, all previous settings are restored).

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/technic-launcher-for-minecraft-8898.png) Technic Launcher for Minecraft 4.0.0.503 - Free Download
 
-```sh
-Technic Launcher is a tool that allows you to easily and quickly run modifications.
-```
+> Technic Launcher is a tool that allows you to easily and quickly run modifications.
+
 [![Technic Launcher for Minecraft](https://gallery.dpcdn.pl/imgc/Tools/90311/g_-_420x350_1.5_-_x4fe64182-6b69-4751-a407-cc5405fe673c.png)](https://softexe.net/win/games-entertainment/other/technic-launcher-for-minecraft:hhah.html)
 
 With the help of the described application, we will be able to choose from thousands of unofficial Minecraft accessories, which we will install with a single click. Technic Launcher does not therefore require reading long instructions published by the authors of the modification.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/g-mic-10262.png) G'MIC 2.2.3 dla GIMP - Free Download
 
-```sh
-G'MIC, or Greyc's Magic for Image Computing, is a set of tools designed primarily for retouching photos. They have been collected in a set of GIMP accessories, which offer several dozen filters and effects, as well as the ability to create your own.
-```
+> G'MIC, or Greyc's Magic for Image Computing, is a set of tools designed primarily for retouching photos. They have been collected in a set of GIMP accessories, which offer several dozen filters and effects, as well as the ability to create your own.
+
 [![G'MIC](https://gallery.dpcdn.pl/imgc/Tools/71284/g_-_420x350_1.5_-_x20160907163640_0.png)](https://softexe.net/win/multimedia/image-viewer/g-mic:pRbfb.html)
 
 G'MIC includes decorative, artistic, color and black and white effects, contours, deformations, degradations, improvements, layer effects, lighting effects, pattern generation and simple rendering of 3-dimensional objects based on the provided photos. There was no emptiness of the plates,

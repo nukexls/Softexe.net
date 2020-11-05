@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/fantamorph-11250.png) FantaMorph 5.6.1 - Free Download
 
-```sh
-FantaMorph is a morphing graphic tool offering a wide range of possibilities, allowing you to create animations in which one of the objects smoothly transforms into another.
-```
+> FantaMorph is a morphing graphic tool offering a wide range of possibilities, allowing you to create animations in which one of the objects smoothly transforms into another.
+
 [![FantaMorph](https://gallery.dpcdn.pl/imgc/Tools/14963/g_-_420x350_1.5_-_x20130319195026_00.png)](https://softexe.net/win/multimedia/video/fantamorph:ppbeR.html)
 
 Considering the offered possibilities, this program is very easy to use, which is certainly influenced by the intuitive graphical interface and some mechanisms designed to assist the user in creating animation projects. Speech, among others on the option of automatic face detection in photographs, which besides a great simplification of work also saves user time. FantaMorph, of course, gives you the opportunity to manually set a grid of points and define their dependencies between two photos, which in turn allows you to improve the output effect of the animation.

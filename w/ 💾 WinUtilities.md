@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/winutilities-8274.png) WinUtilities 15.74 Free Edition - Free Download
 
-```sh
-A free variation of the tools that are popular among users all over the world to optimize the work of Windows, search and remove unnecessary files from the disk, as well as blurring traces of our presence on the Internet.
-```
+> A free variation of the tools that are popular among users all over the world to optimize the work of Windows, search and remove unnecessary files from the disk, as well as blurring traces of our presence on the Internet.
+
 [![WinUtilities](https://gallery.dpcdn.pl/imgc/Tools/949/g_-_420x350_1.5_-_x20170213153054_0.png)](https://softexe.net/win/system/tweaking-optimizing/winutilities:hbgd.html)
 
 WinUtilities is a program that offers rich functionality while maintaining ease of use. Among the large number of tools to improve the overall health of the system can be found that will clean the drive of unnecessary files, eliminate the wrong keys from the registry, remove broken shortcuts from the start and desktop menu, clear the history of pages viewed and allow you to manage processes in the system, as well as run with it programs.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/spectralayers-pro-10113.jpg) SpectraLayers Pro 5.0.140 - Free Download
 
-```sh
-SpectraLayers Pro is a professional sound editing tool.
-```
+> SpectraLayers Pro is a professional sound editing tool.
+
 [![SpectraLayers Pro](https://gallery.dpcdn.pl/imgc/Tools/9526/g_-_420x350_1.5_-_x20120801145219_00.jpg)](https://softexe.net/win/multimedia/audio-utilities/spectralayers-pro:pRppc.html)
 
 The program separates the mixed audio files and also allows you to define the appropriate layers, which we can modify with high precision. SpectraLayers can be used for audio mastering as well as for creating and conducting analysis of various sounds.

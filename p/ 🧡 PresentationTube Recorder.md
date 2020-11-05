@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) PresentationTube Recorder 3.13.1 Lite - Free Download
 
-```sh
-PresentationTube Recorder is a powerful tool that allows you to record activities performed on your computer while recording the image of the webcam and user's statements.
-```
+> PresentationTube Recorder is a powerful tool that allows you to record activities performed on your computer while recording the image of the webcam and user's statements.
+
 [![PresentationTube Recorder](https:https://tse2.mm.bing.net/th?id=OIP.Jl1rkp4FXAOTNa0Vj9fE5wHaF_&pid=Api)](https://softexe.net/win/system/archive-programs/presentationtube-recorder:pRadp.html)
 
 Similarly to many other programs of this type, PresentationTube Recorder is used to prepare extensive multimedia presentations or instructional videos. Against the background of similar tools, it distinguishes itself by focusing on the possibility of presenting and registering individual slides from Microsoft PowerPoint, and also allows presenting content placed even on a special whiteboard (additional space for entering key information) or via a web browser (e.g. YouTube videos).  

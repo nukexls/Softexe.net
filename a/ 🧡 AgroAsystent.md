@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=AgroAsystent icon&w=40&h=40) AgroAsystent 2.0.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) AgroAsystent 2.0.2 - Free Download
 
-```sh
-AgroAsystent (formerly Agronom 2007) is a Polish program supporting farm management in crop production, allowing for full recording of field works broken down into the means used for production and direct costs.
-```
+> AgroAsystent (formerly Agronom 2007) is a Polish program supporting farm management in crop production, allowing for full recording of field works broken down into the means used for production and direct costs.
+
 [![AgroAsystent](https://gallery.dpcdn.pl/imgc/Tools/2367/g_-_420x350_1.5_-_x20110323165001_00.jpg)](https://softexe.net/win/business/other/agroasystent:hcfc.html)
 
 It allows simple and convenient management of plots and sowing, soil research records and fertilization planning. It offers modules for reports, prints, magazine, invoicing. It helps in cost analysis and finding savings. Enables farm management from the map view and import GPS measurements. AgroAsystent is an invaluable helper, allowing you to collect all important information in one place, which can then be presented and analyzed as needed.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/ironcad-draft-9996.png) IRONCAD DRAFT 2020 - Free Download
 
-```sh
-IRONCAD DRAFT 2017 is a free CAD program for designers from any industry. The program works in 2D space, but allows you to load files from many popular 3D CAD programs and convert them to a two-dimensional view. IRONCAD DRAFT is available for free, also for commercial applications.
-```
+> IRONCAD DRAFT 2017 is a free CAD program for designers from any industry. The program works in 2D space, but allows you to load files from many popular 3D CAD programs and convert them to a two-dimensional view. IRONCAD DRAFT is available for free, also for commercial applications.
+
 [![IRONCAD DRAFT](https://gallery.dpcdn.pl/imgc/Tools/77309/g_-_420x350_1.5_-_x20170824162024_0.jpg)](https://softexe.net/win/multimedia/cad/ironcad-draft:aaaf.html)
 
 The program is valued for its intuitive user interface and many useful functions. It enables comfortable design in a 2D environment and work with DWG, DXF (from R12 to 2017) and EXB (read and write) files. 3D models can be opened from companies ACIS .SAT, PARASOLID .X_T, and neutral STEP / STP, IGES / IGS. and many other. They will be quickly converted to 2D drawings. On the basis of 3D models, you can also generate detailed technical documentation. In addition, all changes made to the models will also be automatically applied to drawings and documentation.

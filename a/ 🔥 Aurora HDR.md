@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/aurora-hdr-9039.png) Aurora HDR 2019 - Free Download
 
-```sh
-The Aurora HDR program has everything you need to take a picture with a wide tonal range (HDR) from several shots.
-```
+> The Aurora HDR program has everything you need to take a picture with a wide tonal range (HDR) from several shots.
+
 [![Aurora HDR](https://gallery.dpcdn.pl/imgc/Tools/79037/g_-_420x350_1.5_-_x0663e61b-57d7-400a-b2a9-8e7e74b6bed8.png)](https://softexe.net/win/multimedia/graphics-editors/aurora-hdr:aRca.html)
 
 In Aurora HDR, we're able to improve the color and detail of photos, the ability to apply changes to layers, brushes for painting effects, textures, vignettes and various effects for styling. 

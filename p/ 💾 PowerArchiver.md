@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/powerarchiver.png) PowerArchiver 2019 19.00.29 - Free Download
 
-```sh
-PowerArchiver is a powerful archiver with full support for archives in ZIP, CAB, LHA (LZH), TAR, TAR.GZ, TAR.BZ2, BH (BlakHole), RAR, RAR v.3.0, ARJ, ARC, ACE, ZOO, GZ archives. and BZIP2, can work with UUE and XXE files and MIME email extensions
-```
+> PowerArchiver is a powerful archiver with full support for archives in ZIP, CAB, LHA (LZH), TAR, TAR.GZ, TAR.BZ2, BH (BlakHole), RAR, RAR v.3.0, ARJ, ARC, ACE, ZOO, GZ archives. and BZIP2, can work with UUE and XXE files and MIME email extensions
+
 [![PowerArchiver](https://gallery.dpcdn.pl/imgc/Tools/1334/g_-_420x350_1.5_-_x20101228161757_00.png)](https://softexe.net/win/disks-files/compression/powerarchiver:edpa.html)
 
 PowerArchiver - a powerful archiver with full support for ZIP, CAB, LHA (LZH), TAR, TAR.GZ, TAR.BZ2, BH (BlakHole), RAR, ARJ, ARC, ACE, ZOO, GZ and BZIP2 archives, can work with UUE and XXE files and MIME email extensions. It is also possible to open various formats of disk images, namely: ISO, BIN, IMG and NRG.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/movavi-video-converter-8694.png) Movavi Video Converter 20.2.1 - Free Download
 
-```sh
-Movavi Video Converter is a simple tool for multimedia conversion, equipped with a set of several editing tools to change the size of the image, crop or apply watermarks to it in the form of text or graphics.
-```
+> Movavi Video Converter is a simple tool for multimedia conversion, equipped with a set of several editing tools to change the size of the image, crop or apply watermarks to it in the form of text or graphics.
+
 [![Movavi Video Converter](https://gallery.dpcdn.pl/imgc/Tools/2947/g_-_420x350_1.5_-_x20131202130735_0.png)](https://softexe.net/win/multimedia/video/movavi-video-converter:hfad.html)
 
 The program offers support for over 170 most popular formats, allowing you to process audio and video files, as well as rip movies from unprotected DVDs. The conversion process can take place in one of two modes. The first allows you to convert materials to formats compatible with Apple devices (iPod, iPhone, iPad and Apple TV), mobile phones Nokia, Samsung, HTC, Blackberry, Motorola, Sony Ericsson and many others operating under the control of Android or Windows Mobile, portable Creative players Zen, Cowon, iriver, as well as Sony PSP, Play Station 3 and Xbox 360 game consoles. The second in turn gives the user the option of manually selecting the output format.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/universal-media-server-8743.png) Universal Media Server 9.8.0 - Free Download
 
-```sh
-Universal Media Server is a multiplatform DLNA server designed for transcoding and sending multimedia files to devices that support DLNA technology through the network. The program is based on the PS3 Media Server solution.
-```
+> Universal Media Server is a multiplatform DLNA server designed for transcoding and sending multimedia files to devices that support DLNA technology through the network. The program is based on the PS3 Media Server solution.
+
 [![Universal Media Server](https://gallery.dpcdn.pl/imgc/Tools/34196/g_-_420x350_1.5_-_x20131105141800_0.png)](https://softexe.net/win/multimedia/other/universal-media-server:hgdc.html)
 
 DLNA (The Digital Living Network Alliance) is a communication standard used by electronic device manufacturers offering the possibility of sharing multimedia resources (movies, music, photos) between different devices connected to the home network. For example, if you have a DLNA device and a WiFi network in your home, you can view our media without having to connect the computer with additional cables with TV.

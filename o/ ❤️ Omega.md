@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Omega 4.0 - Free Download
 
-```sh
-Omega is a program designed mainly for those teachers who would like to use the computer in mathematics lessons.
-```
+> Omega is a program designed mainly for those teachers who would like to use the computer in mathematics lessons.
+
 [![Omega](https://gallery.dpcdn.pl/imgc/Tools/75857/g_-_420x350_1.5_-_x20170521160342_0.jpg)](https://softexe.net/win/education-science/maths/omega:ppRba.html)
 
 The purpose of the application is to facilitate and make the teacher's didactic work more attractive. The program can be used both for demonstration and student exercises under the supervision of a teacher or independently. Omega can be used in both primary and secondary school.

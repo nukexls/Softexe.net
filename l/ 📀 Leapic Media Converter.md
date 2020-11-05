@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Leapic+Media+Converter icon&w=40&h=40) Leapic Media Converter 5.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Leapic Media Converter 5.0 - Free Download
 
-```sh
-Leapic Media Converter is a free tool for converting media files. Thanks to it, we can successfully change the format of your video or music track, and even convert audio to video or vice versa.
-```
+> Leapic Media Converter is a free tool for converting media files. Thanks to it, we can successfully change the format of your video or music track, and even convert audio to video or vice versa.
+
 [![Leapic Media Converter](https://gallery.dpcdn.pl/imgc/Tools/81308/g_-_420x350_1.5_-_xf8ce8435-4847-424e-8feb-b58b35cc0ae7.jpg)](https://softexe.net/win/multimedia/video/leapic-media-converter:pRepa.html)
 
 Among the file formats supported by Leapic Media Converter, we find the most popular ones, namely: 3GP, AAC, APE, AVI, M4A, MP3, MP4, OGG, F4V, FLV, MOV, MKV, VOB, WMA and WMV (audio) and AVI , WMV, ASF, WEBM, MOV, MP4, M4V, MPG, MPEG, MKV, FLC, VOB and SWF (video). 

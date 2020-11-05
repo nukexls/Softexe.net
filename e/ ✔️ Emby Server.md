@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/emby-server-8407.png) Emby Server 4.4.3 - Free Download
 
-```sh
-Emby Server is a multimedia server thanks to which we will have access to favorite movies, series and music on any device.
-```
+> Emby Server is a multimedia server thanks to which we will have access to favorite movies, series and music on any device.
+
 [![Emby Server](https://gallery.dpcdn.pl/imgc/Tools/66037/g_-_420x350_1.5_-_x20160229214053_0.png)](https://softexe.net/win/multimedia/other/emby-server:hdRg.html)
 
 The operating principle of Emby Server is very simple. After logging in to the user account, the tool automatically converts and streams the image "on the fly" to the selected device, so regardless of the file format, we can view your movie on your computer, laptop, tablet or any other portable device or play music or any multimedia file.

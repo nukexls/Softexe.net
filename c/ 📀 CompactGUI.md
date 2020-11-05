@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/compactgui-10523.png) CompactGUI 2.6.2 - Free Download
 
-```sh
-CompactGUI allows you to compress files and folders in Windows 10 easily and effectively.
-```
+> CompactGUI allows you to compress files and folders in Windows 10 easily and effectively.
+
 [![CompactGUI](https://gallery.dpcdn.pl/imgc/Tools/81289/g_-_420x350_1.5_-_xdc67e80a-3b16-4077-bd61-8ebc639e575c.png)](https://softexe.net/win/disks-files/compression/compactgui:pRebc.html)
 
 The tool, in fact a graphic overlay on the Compact.exe system mechanism, gives us the ability to perform compression at the file system level. Unlike standard programs for data compression, it does not create typical archives and does not affect the performance of compressed games or software, or the speed of reading / writing data. It is directed mainly to holders of SSDs with a small capacity, but it can also be used successfully by large disc disk holders of considerable size.

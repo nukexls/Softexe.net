@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Wolfram+Mathematica icon&w=40&h=40) Wolfram Mathematica 11.3.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Wolfram Mathematica 11.3.0 - Free Download
 
-```sh
-Mathematica is over 20 years of work on creating the world's best specialized mathematical environment. The versatility of this program makes it useful in the performance of both simple college bills as well as complex bills on a larger scale, during programming and during the presentation of numerical data. Mathematica will find its place on the student computer and the Nobel Prize winner.
-```
+> Mathematica is over 20 years of work on creating the world's best specialized mathematical environment. The versatility of this program makes it useful in the performance of both simple college bills as well as complex bills on a larger scale, during programming and during the presentation of numerical data. Mathematica will find its place on the student computer and the Nobel Prize winner.
+
 [![Wolfram Mathematica](https://gallery.dpcdn.pl/imgc/Tools/1165/g_-_420x350_1.5_-_x20101022165359.png)](https://softexe.net/win/education-science/maths/wolfram-mathematica:pRefh.html)
 
 Mathematica perfectly integrates the engine performing numerical and symbolic calculations, graphics engine, programming language, documentation and the possibility of publishing the work. Thanks to the wealth of functions, it is an invaluable tool for the work of mathematicians, physicists, biologists, chemists, financial analysts, sociologists and many others.

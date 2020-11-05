@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=GonVisor icon&w=40&h=40) GonVisor 2.55.01 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) GonVisor 2.55.01 - Free Download
 
-```sh
-GonVisor is a browser of photos, comics, manga, magazines and books in electronic form. With its help, we can open, manage and create files in CBR, CBA, CBA, CB7, ZIP, RAR, ACE and 7ZIP formats.
-```
+> GonVisor is a browser of photos, comics, manga, magazines and books in electronic form. With its help, we can open, manage and create files in CBR, CBA, CBA, CB7, ZIP, RAR, ACE and 7ZIP formats.
+
 [![GonVisor](https://gallery.dpcdn.pl/imgc/Tools/53147/g_-_420x350_1.5_-_x20140731025039_0.png)](https://softexe.net/win/business/documents/gonvisor:ppbcd.html)
 
 The file viewer in GonVisor allows you to open standard files, comics saved in CBR, CBZ, CBA and CB7 formats, images, PDF documents, compressed files (RAR, ZIP, ACE, 7ZIP) and unpacking photo galleries. There is also a possibility to use the bookmarks, thanks to which we can continue reading from the place where we finished.

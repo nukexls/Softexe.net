@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Notion icon&w=40&h=40) Notion 0.2.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Notion 0.2.0 - Free Download
 
-```sh
-Notion can be easily described as the user's workspace, on which he will store various information. Once you start typing, the program interface fades out, so we can completely focus on the work.
-```
+> Notion can be easily described as the user's workspace, on which he will store various information. Once you start typing, the program interface fades out, so we can completely focus on the work.
+
 [![Notion](https://gallery.dpcdn.pl/imgc/Tools/83307/g_-_420x350_1.5_-_x3c341601-b6fb-44da-b8cc-70af19ef36b2.jpg)](https://softexe.net/win/business/other/notion:pRRgg.html)
 
 When running the tool, you must log in to your Google account (if you do not have one, we can set it up for free), then configure the application by answering simple questions, setting the username and - if you want - modifying the avatar. Performing these activities leads us to the last step, that is, to set up your own workspace. We give it any name, and then we get a link, so we can use it also using any web browser.

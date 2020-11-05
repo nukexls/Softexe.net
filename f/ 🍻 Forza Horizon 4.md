@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Forza Horizon 4  - Free Download
 
-```sh
-Forza Horizon 4 is an arcade racing game with refined graphic design. There are many levels of difficulty at your disposal, so that every fan of the genre will adapt the level of challenge to your preferences.
-```
+> Forza Horizon 4 is an arcade racing game with refined graphic design. There are many levels of difficulty at your disposal, so that every fan of the genre will adapt the level of challenge to your preferences.
+
 [![Forza Horizon 4](https://gallery.dpcdn.pl/imgc/Tools/84801/g_-_420x350_1.5_-_x115f57a0-8738-491d-969d-1a97e2d85711.jpg)](https://softexe.net/win/games-entertainment/race/forza-horizon-4:ahbc.html)
 
 This time we are moving to Great Britain. Forza Horizon 4 does not introduce a revolution, but nevertheless, the authors were tempted by a significant novelty. Individual races are played at different times of the year, which has a huge impact on the behavior of the car, because we drive not only in sunny weather, but also for example in the snow. Moreover, it can not be forgotten that the action takes place also in spring and autumn.

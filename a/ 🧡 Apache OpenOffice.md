@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/apache-openoffice-9590.png) Apache OpenOffice 4.1.7 - Free Download
 
-```sh
-Apache OpenOffice (formerly OpenOffice.org) is a fully free office package, distributed on an Open Source basis. In addition to LibreOffice, this is one of the most serious competitors of Microsoft Office. The package includes independent applications: a Writer text processor, Calc spreadsheet, Base database module, Draw graphics program, and a program for creating Impress presentations.
-```
+> Apache OpenOffice (formerly OpenOffice.org) is a fully free office package, distributed on an Open Source basis. In addition to LibreOffice, this is one of the most serious competitors of Microsoft Office. The package includes independent applications: a Writer text processor, Calc spreadsheet, Base database module, Draw graphics program, and a program for creating Impress presentations.
+
 [![Apache OpenOffice](https://gallery.dpcdn.pl/imgc/Tools/1402/g_-_420x350_1.5_-_x20130723194224_00.png)](https://softexe.net/win/business/office-suites/apache-openoffice:aeaR.html)
 
 Note: if you're just looking for the best free office suite, choose LibreOffice . It is more modern and copes better with Microsoft Office documents. 

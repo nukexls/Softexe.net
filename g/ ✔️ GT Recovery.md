@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/gt-recovery-10780.png) GT Recovery 3.4 - Free Download
 
-```sh
-GT Recovery is a free and multifunctional data recovery tool.
-```
+> GT Recovery is a free and multifunctional data recovery tool.
+
 [![GT Recovery](https:https://tse1.mm.bing.net/th?id=OIP.h-amAuxCOdNbxcLZoM2YDAHaHa&pid=Api)](https://softexe.net/win/disks-files/data-recovery/gt-recovery:pRghR.html)
 
 The described tool offers several operating modes and allows both quick (restoration of files with all data) and advanced data recovery from a computer (restoring as many files as possible), and also allows for data recovery from mobile devices (the function is currently in the phase beta testing). Additionally, using GT Recovery, you can save the scan results.

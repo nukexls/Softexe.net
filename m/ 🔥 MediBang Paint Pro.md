@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/medibang-paint-pro-8406.png) MediBang Paint Pro 25.3 - Free Download
 
-```sh
-MediBang Paint Pro is a free graphics program for drawing comics on personal computers with the Windows operating system and Mac OS.
-```
+> MediBang Paint Pro is a free graphics program for drawing comics on personal computers with the Windows operating system and Mac OS.
+
 [![MediBang Paint Pro](https://gallery.dpcdn.pl/imgc/Tools/63016/g_-_420x350_1.5_-_x20151027162038_0.png)](https://softexe.net/win/multimedia/graphics-editors/medibang-paint-pro:hdRf.html)
 
 Using the tool itself should not cause problems. MediBang Paint Pro makes it easy to create comic frames and draw any characters or objects in them using available components (brushes, erasers, gradient editor, filling tools, etc.). The program contains over 700 various extras to be used while working on your creation.

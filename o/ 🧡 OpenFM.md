@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/openfm-10948.png) OpenFM 52.1.0.1 - Free Download
 
-```sh
-OpenFM is a small Internet radio that allows you to choose from dozens of stations. They offer an overview of music on the basis of genres as well as specific artists, the period of creation or the mood of the listener. The sound streamed by the program is quite good quality, and the connection is made quickly, so you can enjoy the music being played in just a few seconds.
-```
+> OpenFM is a small Internet radio that allows you to choose from dozens of stations. They offer an overview of music on the basis of genres as well as specific artists, the period of creation or the mood of the listener. The sound streamed by the program is quite good quality, and the connection is made quickly, so you can enjoy the music being played in just a few seconds.
+
 [![OpenFM](https:https://tse3.mm.bing.net/th?id=OIP.Pvu4c2QKR_apQU2cN9ZA2AHaE8&pid=Api)](https://softexe.net/win/internet/radio-tv-players/openfm:pRadh.html)
 
 After launching, the application displays a preview of the list of sample stations by default along with currently playing songs. Clicking on any of them will automatically switch to the playback screen and start playing music. Another solution will be to find another station that interests us. To do this, you can use the menu on the left or the scrolling list in the main preview. Selected channels can be added to the favorites list to find them much faster in the future.

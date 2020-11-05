@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/photomirage-9110.png) PhotoMirage  - Free Download
 
-```sh
-PhotoMirage is a graphic program that allows you to easily animate portions of photos. By marking fragments that should move and which should stay motionless, the program allows you to revive waterfalls, clouds, flames, give artistic or psychedelic effects to photos.
-```
+> PhotoMirage is a graphic program that allows you to easily animate portions of photos. By marking fragments that should move and which should stay motionless, the program allows you to revive waterfalls, clouds, flames, give artistic or psychedelic effects to photos.
+
 [![PhotoMirage](https://gallery.dpcdn.pl/imgc/Tools/89707/g_-_420x350_1.5_-_x3dc72820-ec3a-4219-aa5e-07be5afa0874.png)](https://softexe.net/win/multimedia/graphics-editors/photomirage:appR.html)
 
 It is relatively easy to use the program, but you need to familiarize yourself with the three basic tools. The mask (tint icon) allows us to cover fragments of the image that will not be movable. We can control the hardness and size of the brush and enlarge the image, so we can quite accurately mark the areas of the pictures. 

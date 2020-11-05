@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Rewizor+nexo icon&w=40&h=40) Rewizor nexo 31.1.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Rewizor nexo 31.1.2 - Free Download
 
-```sh
-The Nexo review is a modern system supporting full accounting.
-```
+> The Nexo review is a modern system supporting full accounting.
+
 [![Rewizor nexo](https://gallery.dpcdn.pl/imgc/Tools/48329/g_-_420x350_1.5_-_x20140311155310_0.png)](https://softexe.net/win/business/finance/rewizor-nexo:heda.html)
 
 The software supports accountants at every stage of work: from account management, posting and accounting, through VAT records, vehicles, contracts and payroll, servicing fixed assets, to issuing tax declarations, cash transactions and operations on bank accounts, and clearing and settlement of accounts. Despite its rich functionality, it is distinguished by its simple, intuitive operation.

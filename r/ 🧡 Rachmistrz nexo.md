@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Rachmistrz+nexo icon&w=40&h=40) Rachmistrz nexo 31.1.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Rachmistrz nexo 31.1.2 - Free Download
 
-```sh
-The Nexo Computer Accountant is a system of simplified bookkeeping service, intended for companies that keep books of revenues and expenditures or settle in the form of a lump sum from registered income.
-```
+> The Nexo Computer Accountant is a system of simplified bookkeeping service, intended for companies that keep books of revenues and expenditures or settle in the form of a lump sum from registered income.
+
 [![Rachmistrz nexo](https://gallery.dpcdn.pl/imgc/Tools/48328/g_-_420x350_1.5_-_x20140311154128_0.png)](https://softexe.net/win/business/finance/rachmistrz-nexo:hedh.html)
 
 The software has been equipped with a number of extensive functions to facilitate accounting (from VAT records, contracts and wages, fixed assets and vehicles, by issuing tax and social security declarations, cash transactions and operations on bank accounts, to settling settlements). The advantages of the program include automatic document assignment and flexible service of finances and settlements.

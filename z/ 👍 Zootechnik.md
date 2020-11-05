@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Zootechnik icon&w=40&h=40) Zootechnik 9.7 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Zootechnik 9.7 - Free Download
 
-```sh
-Zootechnic supports the management of animal husbandry on the farm. Currently, it is intended for dairy and beef cattle breeders.
-```
+> Zootechnic supports the management of animal husbandry on the farm. Currently, it is intended for dairy and beef cattle breeders.
+
 [![Zootechnik](https:https://tse4.mm.bing.net/th?id=OIP.CSab1BeJ0_AjgHwcMBiSrAHaFt&pid=Api)](https://softexe.net/win/business/other/zootechnik:pRfpd.html)
 
 The program can be used by breeders with any number of animals - from a few individuals to flocks of many thousands of pieces divided into different geographical locations. Zootechnic allows for the collection of various information about each animal, such as: breed, ear tag number, date of birth or arrival to the herd or pedigree of a given art, which is particularly useful to document the origin of cattle entered in the General Ledger kept by PZHiPBM.

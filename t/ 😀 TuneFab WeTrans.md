@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/tunefab-wetrans-9440.jpg) TuneFab WeTrans 2.0.12 - Free Download
 
-```sh
-TuneFab WeTrans is an application that allows you to easily copy media and other files from your computer's hard drive to Apple mobile devices or vice versa.
-```
+> TuneFab WeTrans is an application that allows you to easily copy media and other files from your computer's hard drive to Apple mobile devices or vice versa.
+
 [![TuneFab WeTrans](https://gallery.dpcdn.pl/imgc/Tools/85905/g_-_420x350_1.5_-_x95ebe2fa-1459-437d-ac0f-144db3bb4900.jpg)](https://softexe.net/win/hobbies-lifestyle/mobile/tunefab-wetrans:addR.html)
 
 Using the program will not cause any problems to anyone. After connecting an iPod, iPad or iPhone to a PC, we'll be able to import and export files, making it easy and fast to transfer them between iOS and Windows.

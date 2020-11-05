@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Aseprite Free 0.9.5 - Free Download
 
-```sh
-Aseprite Free is an older, but free edition of the tool designed mainly to create animations for games according to the pixel art style. It also allows you to create standard, static images, but this seems a bit difficult.
-```
+> Aseprite Free is an older, but free edition of the tool designed mainly to create animations for games according to the pixel art style. It also allows you to create standard, static images, but this seems a bit difficult.
+
 [![Aseprite Free](https://gallery.dpcdn.pl/imgc/Tools/59070/g_-_420x350_1.5_-_x20150526161601_0.png)](https://softexe.net/win/multimedia/graphics-design/aseprite-free:pbdeh.html)
 
 The application has a very simple and aesthetic graphical interface, which was made in accordance with the pixel art technique and which can be associated by older users with the first operating systems with a graphical user interface. Despite this, it has a set of tools and functions that would not be ashamed of many more complex graphics programs.

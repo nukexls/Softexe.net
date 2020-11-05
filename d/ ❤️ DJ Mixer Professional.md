@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/dj-mixer-professional-8594.png) DJ Mixer Professional 3.6.10 - Free Download
 
-```sh
-DJ Mixer Professional is a fully functional and complete program intended for both beginner DJs, as well as for professionals and experienced musicians. DJ Mixer has a simple and intuitive interface equipped with innovative features and tools for creating and mixing music on your computer.
-```
+> DJ Mixer Professional is a fully functional and complete program intended for both beginner DJs, as well as for professionals and experienced musicians. DJ Mixer has a simple and intuitive interface equipped with innovative features and tools for creating and mixing music on your computer.
+
 [![DJ Mixer Professional](https://gallery.dpcdn.pl/imgc/Tools/8577/g_-_420x350_1.5_-_x20120509193425_00.png)](https://softexe.net/win/multimedia/audio-sound/dj-mixer-professional:head.html)
 
 The program offers as many as four functional multimedia players for creating complex and dynamic sounds, as well as in its resources we can find karaoke tools and a built-in list for managing and playing music and entire albums. DJ Mixer allows you to fit bits and rhythms, and also contains a lot of useful effects that work in real time. 

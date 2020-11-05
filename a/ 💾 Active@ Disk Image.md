@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/active-disk-image-9526.png) Active@ Disk Image 9.5.4.0 - Free Download
 
-```sh
-Active @ Disk Image is a very functional tool designed for comprehensive management of disk backups, portable USB data storage devices and optical media (CD / DVD / Blu-ray). It contains, among others options for creating and restoring backups, copying data from disk to disk, and cloning of selected volumes.
-```
+> Active @ Disk Image is a very functional tool designed for comprehensive management of disk backups, portable USB data storage devices and optical media (CD / DVD / Blu-ray). It contains, among others options for creating and restoring backups, copying data from disk to disk, and cloning of selected volumes.
+
 [![Active@ Disk Image](https://gallery.dpcdn.pl/imgc/Tools/23298/g_-_420x350_1.5_-_x20130911151340_0.png)](https://softexe.net/win/disks-files/data-recovery/active-disk-image:aebf.html)
 
 The functionality offered by the program allows you to conveniently archive the contents of almost all commonly used data carriers. The disk images created with it can be used to restore valuable files for us if a computer crashes. Active @ Disk Image is equipped with tools that can create backups of entire disks (full or incremental backups), restore them at a given moment, create RAW copies containing an exact copy of all disk sectors, verify the correctness of archived data or copy the contents of a given partition to another disk.

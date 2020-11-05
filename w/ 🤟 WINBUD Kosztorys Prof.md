@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/winbud-kosztorys-prof-10174.png) WINBUD Kosztorys Prof 2020.10 - Free Download
 
-```sh
-WINBUD Kosztorys Prof is the most extended version of the cost estimation program for construction works addressed to all types of companies in the construction industry. The application offers a set of tools for the valuation and verification of cost estimates, estimating the costs of repairs and renovations and calculating investments that are used in the cost estimation of construction, earthworks, installation, road, electrical and other works. In relation to the Start edition, it additionally offers the WINBUD Drawing module, WINBUD Inwestycja and WINBUD. Schedule.
-```
+> WINBUD Kosztorys Prof is the most extended version of the cost estimation program for construction works addressed to all types of companies in the construction industry. The application offers a set of tools for the valuation and verification of cost estimates, estimating the costs of repairs and renovations and calculating investments that are used in the cost estimation of construction, earthworks, installation, road, electrical and other works. In relation to the Start edition, it additionally offers the WINBUD Drawing module, WINBUD Inwestycja and WINBUD. Schedule.
+
 [![WINBUD Kosztorys Prof](https://gallery.dpcdn.pl/imgc/Tools/82796/g_-_420x350_1.5_-_x9a49b3b2-4d00-4839-8466-313d1d62e9dc.png)](https://softexe.net/win/business/finance/winbud-kosztorys-prof:pRpgd.html)
 
 Selected program possibilities (additional to the Start version)

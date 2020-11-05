@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Agaue Eye 0.74 - Free Download
 
-```sh
-Agaue Eye is a free tool for monitoring your computer's components.
-```
+> Agaue Eye is a free tool for monitoring your computer's components.
+
 [![Agaue Eye](https://gallery.dpcdn.pl/imgc/Tools/80454/g_-_420x350_1.5_-_x8724bec4-6bea-44ae-888a-b48c6ac92df5.jpg)](https://softexe.net/win/system/diagnostics-tests/agaue-eye:hbbb.html)
 
 After launching Agaue Eye, the main application window will appear on the desktop of the operating system, containing detailed information about the motherboard, processor, graphics card, operating memory or hard drive. The tool also allows you to overclock the GPU.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/pomotroid-9992.png) Pomotroid 0.3.0 - Free Download
 
-```sh
-Pomotroid is a simple timer application that targets people who manage their time and work according to the Pomodoro technique.
-```
+> Pomotroid is a simple timer application that targets people who manage their time and work according to the Pomodoro technique.
+
 [![Pomotroid](https://gallery.dpcdn.pl/imgc/Tools/81385/g_-_420x350_1.5_-_xa8fe89eb-f092-4f4f-8ee7-1e41cebe40fb.png)](https://softexe.net/win/system/clock/pomotroid:aaab.html)
 
 In a nutshell, the method of organizing time is based on a few simple rules. At the beginning, we create a simple list of things to do, and then we focus on its implementation for 25 minutes. After this time we will take a 5-minute break and we will go back to the classes from the list. After 4 so-called Pomodoro (or repetitions) we have one longer break. It is essential that during the work on the tasks, turn off all "scatterers" and focus maximally on the action.

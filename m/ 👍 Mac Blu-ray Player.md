@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/mac-blu-ray-player-9362.png) Mac Blu-ray Player 2.17.4 - Free Download
 
-```sh
-Mac Blu-ray Player is one of the first Blu-ray players for Mac OS, available for some time also for the Windows platform. In addition to supporting Blu-ray media, the program also allows you to play DVDs, Video-CDs, various types of video files and ISO images, as well as music and photos.
-```
+> Mac Blu-ray Player is one of the first Blu-ray players for Mac OS, available for some time also for the Windows platform. In addition to supporting Blu-ray media, the program also allows you to play DVDs, Video-CDs, various types of video files and ISO images, as well as music and photos.
+
 [![Mac Blu-ray Player](https://gallery.dpcdn.pl/imgc/Tools/9500/g_-_420x350_1.5_-_x20120730140706_00.png)](https://softexe.net/win/multimedia/audio-video-players/mac-blu-ray-player:acfb.html)
 
 The program is characterized by a clear and intuitive graphical interface and speed of action, which is the effect of support for hardware acceleration and nVidia CUDA technology. It allows you to play movies in high definition without losing image quality and keeping all available audio tracks (DTS HD Master Audio, Dolby TrueHD audio, etc.). Mac Blu-ray Player also supports the DTS 5.1 standard, ensuring high quality of the sound being played.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/win-toolkit-7636.png) Win Toolkit 1.7.0.0 - Free Download
 
-```sh
-Win Toolkit is a free utility with which you can easily integrate updates, drivers, add-ons, service packs, themes, wallpapers, tweaks and more into the boot image of Windows 7, as well as remove unnecessary components from the distribution
-```
+> Win Toolkit is a free utility with which you can easily integrate updates, drivers, add-ons, service packs, themes, wallpapers, tweaks and more into the boot image of Windows 7, as well as remove unnecessary components from the distribution
+
 [![Win Toolkit](https://gallery.dpcdn.pl/imgc/Tools/13523/g_-_420x350_1.5_-_x20130311122112_00.png)](https://softexe.net/win/system/other/win-toolkit:gfcf.html)
 
 Win Toolkit (Windows 7 Toolkit) is a free utility with which you can easily integrate updates, drivers, add-ons, service packs, themes, wallpapers, tweaks and more into the boot image of Windows 7, as well as remove unnecessary components from the distribution.

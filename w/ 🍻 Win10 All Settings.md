@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/win10-all-settings-8480.png) Win10 All Settings 2.0.0.18 - Free Download
 
-```sh
-Win10 All Settings is a small tool that provides an alternative configuration interface for Windows 7, 8 and 10.
-```
+> Win10 All Settings is a small tool that provides an alternative configuration interface for Windows 7, 8 and 10.
+
 [![Win10 All Settings](https://gallery.dpcdn.pl/imgc/Tools/90784/g_-_420x350_1.5_-_x5af24175-0146-41e6-9431-53e8cd2b1437.png)](https://softexe.net/win/system/system-tools/win10-all-settings:hdhR.html)
 
 Easy and convenient Windows personalization

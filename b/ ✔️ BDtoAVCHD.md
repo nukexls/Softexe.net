@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/bdtoavchd-8904.png) BDtoAVCHD 2.9.6 - Free Download
 
-```sh
-BDtoAVCHD is a tool designed for fast conversion of Blu-Ray or MKV HD movies to AVCHD format. The program also allows you to convert Blu-Ray to MKV and Blu-Ray 3D to MKV 3D SBS.
-```
+> BDtoAVCHD is a tool designed for fast conversion of Blu-Ray or MKV HD movies to AVCHD format. The program also allows you to convert Blu-Ray to MKV and Blu-Ray 3D to MKV 3D SBS.
+
 [![BDtoAVCHD](https://gallery.dpcdn.pl/imgc/Tools/12535/g_-_420x350_1.5_-_x20130122113542_00.png)](https://softexe.net/win/multimedia/video/bdtoavchd:haRd.html)
 
 The AVCHD format allows you to play Blu-Ray movies on DVD5 or DVD9 media, while maintaining high quality audio and video (1080p). BDtoAVCHD works great as a backup tool for Blu-Ray discs on smaller media. The application compresses video content to the best possible quality, so that it can fit DVD5 (4.7 GB), DVD9 (8.5 GB), USB or BD-25. The user also has the option of specifying his own final file size. BDtoAVCHD calculates on the basis of a fixed file size what bitrate (99-100%) will fill the medium of the selected carrier.

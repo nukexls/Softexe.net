@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/isumsoft-cloner-8189.png) iSumsoft Cloner 3.1.1 - Free Download
 
-```sh
-iSumsoft Cloner is a small but effective tool whose main function is to clone data stored on the hard disk. Using it, we will also create a backup of the partition and, if necessary, we will restore data from it, and also transfer the operating system with the installed software to a new hard disk.
-```
+> iSumsoft Cloner is a small but effective tool whose main function is to clone data stored on the hard disk. Using it, we will also create a backup of the partition and, if necessary, we will restore data from it, and also transfer the operating system with the installed software to a new hard disk.
+
 [![iSumsoft Cloner](https://gallery.dpcdn.pl/imgc/Tools/91002/g_-_420x350_1.5_-_x94b147fc-e0ab-4742-bca1-456bad58c168.png)](https://softexe.net/win/disks-files/data-recovery/isumsoft-cloner:hpha.html)
 
 Copying and restoring data

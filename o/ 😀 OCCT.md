@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) OCCT 6.2.2 - Free Download
 
-```sh
-OCCT (OverClock Checking Tool) is very appreciated among the so-called oveclockers a tool to test the underlying computer components that have been "overclocked" to achieve the highest possible performance. It also provides detailed information, including about your processor.
-```
+> OCCT (OverClock Checking Tool) is very appreciated among the so-called oveclockers a tool to test the underlying computer components that have been "overclocked" to achieve the highest possible performance. It also provides detailed information, including about your processor.
+
 [![OCCT](https:https://tse3.mm.bing.net/th?id=OIP.eqD8JNncRedd9_v0RJScxQHaG7&pid=Api)](https://softexe.net/win/system/diagnostics-tests/occt:pRhhd.html)
 
 During its operation, the program subjects the computer to a high load, while providing the ability to monitor the basic properties of its basic components - the level of CPU and RAM usage, voltage and temperature of individual cores and the GPU unit (if the equipment is equipped with appropriate sensors). Four types of tests are available to the user: author's and using the Intel LINPACK library for processor testing, as well as benchmarks that check the graphics card for rendering 3D objects and the power supply. In the case of the latter, both the processor and the GPU are subjected to the load. All of the available benchmarks can be configured to a greater or lesser extent.

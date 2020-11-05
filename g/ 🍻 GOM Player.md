@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/gom-player-3125.png) GOM Player 2.3.56.5320 - Free Download
 
-```sh
-GOM Player is a powerful multimedia player with support for all modern video and audio formats. Allows you to play videos from mobile devices and digital cameras, Internet content directly from the web, as well as damaged files. Independent of external decoders
-```
+> GOM Player is a powerful multimedia player with support for all modern video and audio formats. Allows you to play videos from mobile devices and digital cameras, Internet content directly from the web, as well as damaged files. Independent of external decoders
+
 [![GOM Player](https://gallery.dpcdn.pl/imgc/Tools/162/g_-_420x350_1.5_-_x5e9074c1-fc22-4b9e-aec9-1c6f6b3e1624.png)](https://softexe.net/win/multimedia/audio-sound/gom-player:cpbe.html)
 
 GOM Player is a very powerful multimedia player. Includes a large number of features that provide a high level of playback. With this program you can play even damaged or not fully downloaded / rewritten AVI files. 

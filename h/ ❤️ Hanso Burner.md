@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Hanso Burner 4.1 - Free Download
 
-```sh
-Hanso Burner is a free tool for burning CDs and DVDs as well as preparing a backup of selected files.
-```
+> Hanso Burner is a free tool for burning CDs and DVDs as well as preparing a backup of selected files.
+
 [![Hanso Burner](https://gallery.dpcdn.pl/imgc/Tools/82274/g_-_420x350_1.5_-_xa7ff83bb-69b7-4af0-a8ab-9a9157194d1e.jpg)](https://softexe.net/win/system/cd-dvd/hanso-burner:agbc.html)
 
 According to the producer, Hanso Burner has been equipped with modern technology for "burning" the media, and at the same time boasts a very readable user interface, thanks to which less experienced users will also manage the application. Importantly, this tool integrates with Windows Explorer.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/autobeat-10808.png) Autobeat 1.0.5 - Free Download
 
-```sh
-Autobeat Player is not only a music player, but above all a tool for collecting songs available in different places.
-```
+> Autobeat Player is not only a music player, but above all a tool for collecting songs available in different places.
+
 [![Autobeat](https:https://tse3.mm.bing.net/th?id=OIP.StNdRPOchIKebwfh_CMUFQHaG0&pid=Api)](https://softexe.net/win/multimedia/audio-video-players/autobeat:pRhRh.html)
 
 There is no denying that streaming services dominate the contemporary music market, and users can use many of these services, switching between them at any time. However, to avoid these "changes", you can install Autobeat Player, and then enjoy access to songs from YouTube, SoundCloud or local library from one application with a modern, transparent interface.

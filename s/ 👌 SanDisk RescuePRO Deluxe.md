@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=SanDisk+RescuePRO+Deluxe icon&w=40&h=40) SanDisk RescuePRO Deluxe 6.0.2.7 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) SanDisk RescuePRO Deluxe 6.0.2.7 - Free Download
 
-```sh
-SanDisk RescuePRO Deluxe is a tool designed to recover lost data from SD / SDHC / SDXC memory cards, CompactFlash, SmartMedia, MMC, Memory Stick, XD, PCMCIA, etc.
-```
+> SanDisk RescuePRO Deluxe is a tool designed to recover lost data from SD / SDHC / SDXC memory cards, CompactFlash, SmartMedia, MMC, Memory Stick, XD, PCMCIA, etc.
+
 [![SanDisk RescuePRO Deluxe](https://gallery.dpcdn.pl/imgc/Tools/76205/g_-_420x350_1.5_-_x20170609154933_0.png)](https://softexe.net/win/disks-files/data-recovery/sandisk-rescuepro-deluxe:aepd.html)
 
 The program has been adapted to recover photos, audio and video, but also works well when restoring other types of files. It is characterized by a very simple and intuitive operation. After launching, all we need to do is indicate the operation that we want to perform, and the medium with the lost data and SanDisk RescuePRO will proceed to analyze its contents and search for deleted data, and it will be possible to recover them.

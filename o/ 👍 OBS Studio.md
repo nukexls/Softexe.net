@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/obs-studio-8959.png) OBS Studio 25.0.8 - Free Download
 
-```sh
-OBS Studio is an extensive platform for recording and streaming media, distributed on an open source basis. It is available on Windows, Linux and Mac OS platforms.
-```
+> OBS Studio is an extensive platform for recording and streaming media, distributed on an open source basis. It is available on Windows, Linux and Mac OS platforms.
+
 [![OBS Studio](https://gallery.dpcdn.pl/imgc/Tools/54286/g_-_420x350_1.5_-_x20140920124524_0.png)](https://softexe.net/win/multimedia/video/obs-studio:haea.html)
 
 The program allows the user to conveniently record audio / video material from any source, as well as its transmission via the Internet in real time. It can save video to FLV and MP4 files, based on H264 (x264) and AAC codecs, supports Intel Quick Sync Video (QSV) and NVENC technology, can support unlimited number of scenes and sources, and works with the most popular streaming services such as Twitch, YouTube, DailyMotion, Hitbox and many others.

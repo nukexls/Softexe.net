@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=XAMPP icon&w=40&h=40) XAMPP 7.4.9 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) XAMPP 7.4.9 - Free Download
 
-```sh
-XAMPP is a free, integrated web server package, which includes MariaDB, PHP and Perl.
-```
+> XAMPP is a free, integrated web server package, which includes MariaDB, PHP and Perl.
+
 [![XAMPP](https:https://tse3.mm.bing.net/th?id=OIP.WR17og2gulGKX_KIaPlwKgHaD7&pid=Api)](https://softexe.net/win/development-it/server/xampp:heRp.html)
 
 The environment allows you to easily run a fully functional server in home conditions, eg to test created or modified scripts, applications or websites. With its help and using generally available solutions, we will launch your own website, discussion forum, blog or store in a few simple steps.

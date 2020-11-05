@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/pro-motion-8497.png) Pro Motion 7.2.3 - Free Download
 
-```sh
-Pro Motion is one of the most extensive and professional programs for creating "pixel art" graphics, i.e. one that allows you to generate images at the level of individual pixels. It works perfectly with standard static graphics as well as with animations.
-```
+> Pro Motion is one of the most extensive and professional programs for creating "pixel art" graphics, i.e. one that allows you to generate images at the level of individual pixels. It works perfectly with standard static graphics as well as with animations.
+
 [![Pro Motion](https://gallery.dpcdn.pl/imgc/Tools/59067/g_-_420x350_1.5_-_x20150526145115_0.png)](https://softexe.net/win/multimedia/graphics-design/pro-motion:hdag.html)
 
 Pro Motion software boasts a number of features known from leading bitmap graphics processing programs. Among the wide range of options we find, among others brush functions with large possibilities of personalization, creation and management of individual animation frames, as well as useful mechanisms of work on layers and using masks. The program also includes automatic anti-aliasing and dithering, ie functionalities that can not be used in principle in pixel arcie.

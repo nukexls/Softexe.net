@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/rainwallpaper-8366.png) RainWallpaper 2.7.1.186 - Free Download
 
-```sh
-RainWallpaper is a very interesting application, thanks to which we will change the wallpaper on the desktop of the Windows operating system.
-```
+> RainWallpaper is a very interesting application, thanks to which we will change the wallpaper on the desktop of the Windows operating system.
+
 [![RainWallpaper](https://gallery.dpcdn.pl/imgc/Tools/84597/g_-_420x350_1.5_-_x8ade859c-1ac7-4d8b-8452-7c87fe1c3c9e.jpg)](https://softexe.net/win/system/desktop/rainwallpaper:hcff.html)
 
 Of course, this is not a mere substitution of any picture. RainWallpaper is something much more and allows you to put on the screen two-dimensional as well as three-dimensional graphics, various animations, the content of a given website, video materials and many, many more.

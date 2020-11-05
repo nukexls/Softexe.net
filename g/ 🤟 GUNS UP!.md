@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=GUNS+UP%21 icon&w=40&h=40) GUNS UP!  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) GUNS UP!  - Free Download
 
-```sh
-GUNS UP! is a real-time strategy war game. The player forms troops, which will then assault the fortifications of the opponent. The gameplay, however, does not work to send next waves of cannon meat on the rampart - the ability to defend your own infrastructure will be equally important for victory.
-```
+> GUNS UP! is a real-time strategy war game. The player forms troops, which will then assault the fortifications of the opponent. The gameplay, however, does not work to send next waves of cannon meat on the rampart - the ability to defend your own infrastructure will be equally important for victory.
+
 [![GUNS UP!](https:https://tse1.mm.bing.net/th?id=OIP.01Pn_NqAZmrDHAIV0dvkrQHaEK&pid=Api)](https://softexe.net/win/games-entertainment/strategies/guns-up:pRhpp.html)
 
 The army can be built based on infantrymen, fire-thrower operators, sharpshooters, or even ... experts in chemical weapons. After the battles fought, soldiers can obtain veteran status, advance and gain new skills.

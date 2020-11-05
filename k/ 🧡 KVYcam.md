@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/kvycam-9222.png) KVYcam 12.1.3.1 - Free Download
 
-```sh
-KVYcam is a free tool for capturing images from cameras. It can also be used as a virtual webcam.
-```
+> KVYcam is a free tool for capturing images from cameras. It can also be used as a virtual webcam.
+
 [![KVYcam](https://gallery.dpcdn.pl/imgc/Tools/77328/g_-_420x350_1.5_-_x20170825172827_0.jpg)](https://softexe.net/win/multimedia/other/kvycam:abbb.html)
 
 Thanks to this program, we can capture the image from a webcam, TV tuner or other video devices, and then make it available in other applications that allow you to edit registered materials. KVYcam allows you to capture video clips (including, for example, user activity on the Windows operating system desktop) and transfer them to other applications.

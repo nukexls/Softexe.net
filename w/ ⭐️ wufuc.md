@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) wufuc 1.0.0.191 - Free Download
 
-```sh
-Wuffy is a tool to unlock Windows Update on computers running Windows 7 and Windows 8.1 (64-bit versions) that use AMD Ryzen or Intel Kaby Lake processors.
-```
+> Wuffy is a tool to unlock Windows Update on computers running Windows 7 and Windows 8.1 (64-bit versions) that use AMD Ryzen or Intel Kaby Lake processors.
+
 [![wufuc](https:https://tse1.mm.bing.net/th?id=OIP.c1a1MuS9U0rfSh3dvuCdWQHaEK&pid=Api)](https://softexe.net/win/system/system-tools/wufuc:pRdee.html)
 
 Microsoft has blocked updates from Windows Update on such systems along with patches KB3012218 and KB4012219. wufuc automates the patching process of the wuaueng.dll library containing locking functions.

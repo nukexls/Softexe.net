@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/emsa-diskcheck-9816.png) Emsa DiskCheck 1.2.29 - Free Download
 
-```sh
-Emsa Disk Check is a tool for scanning disks and performing benchmarking. It works on both newer and older versions of Windows (Windows XP is also supported).
-```
+> Emsa Disk Check is a tool for scanning disks and performing benchmarking. It works on both newer and older versions of Windows (Windows XP is also supported).
+
 [![Emsa DiskCheck](https://gallery.dpcdn.pl/imgc/Tools/84858/g_-_420x350_1.5_-_x00703df5-bcf1-435b-8865-581255c4f850.jpg)](https://softexe.net/win/system/diagnostics-tests/emsa-diskcheck:ahpf.html)
 
 The described application can be used in a variety of situations. For example, when the CD or DVD we have was scratched and we are not sure if it is still usable. Emsa Disk Check checks all the contents of the indicated medium, and if it finds any errors, it provides detailed information about them; the program also tests the speed of the given drive.

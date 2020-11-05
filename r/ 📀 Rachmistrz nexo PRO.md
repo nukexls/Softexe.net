@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Rachmistrz+nexo+PRO icon&w=40&h=40) Rachmistrz nexo PRO 31.1.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Rachmistrz nexo PRO 31.1.2 - Free Download
 
-```sh
-Computer nexo PRO is a program for handling simplified accounting, intended for companies that settle in the form of a book of revenues and expenses or a lump sum from registered income. It works both among entrepreneurs who document their activities themselves and in accounting offices.
-```
+> Computer nexo PRO is a program for handling simplified accounting, intended for companies that settle in the form of a book of revenues and expenses or a lump sum from registered income. It works both among entrepreneurs who document their activities themselves and in accounting offices.
+
 [![Rachmistrz nexo PRO](https://gallery.dpcdn.pl/imgc/Tools/48332/g_-_420x350_1.5_-_x20140311161240_0.png)](https://softexe.net/win/business/finance/rachmistrz-nexo-pro:heep.html)
 
 The software is an extended version of the Nexo Counter , providing much more flexibility. In addition to the full functionality of the standard system, it allows create own reports and printouts, describe business events in your own way (eg additional VAT transactions), analyze entries according to various features using the so-called own fields, or settle installment settlements or record them according to their own types. It is also possible to implement individual solutions through so-called extension points and Sphere for the Nexo Counter.

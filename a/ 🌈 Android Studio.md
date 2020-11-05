@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/android-studio-543.png) Android Studio 4.0.1.0 - Free Download
 
-```sh
-Android Studio is a fully equipped platform for developing and testing applications for the Android operating system.
-```
+> Android Studio is a fully equipped platform for developing and testing applications for the Android operating system.
+
 [![Android Studio](https://gallery.dpcdn.pl/imgc/Tools/16899/g_-_420x350_1.5_-_x20130606194821_00.png)](https://softexe.net/win/development-it/development-tools/android-studio:edc.html)
 
 Android Studio is a fully equipped platform for developing and testing applications for the Android operating system. The developers of this shell (Google) have implemented all the necessary tools for convenient and high-quality design of new applications and refinement of existing ones. The program includes components such as the Android SDK, all versions of the Android OS, an emulator for running applications, elements of testing and debugging programs.

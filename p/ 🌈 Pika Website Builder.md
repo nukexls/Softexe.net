@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Pika+Website+Builder icon&w=40&h=40) Pika Website Builder 1.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Pika Website Builder 1.0 - Free Download
 
-```sh
-Pika Website Builder is a very easy to use tool that offers the ability to create and save websites using HTML.
-```
+> Pika Website Builder is a very easy to use tool that offers the ability to create and save websites using HTML.
+
 [![Pika Website Builder](https://gallery.dpcdn.pl/imgc/Tools/73827/g_-_420x350_1.5_-_x20170202234728_0.png)](https://softexe.net/win/development-it/web-applications/pika-website-builder:ppbRd.html)
 
 The tool is characterized by an intuitive and transparent user interface that receives a number of necessary options to design and share a web site. Thanks to numerous templates provided by the authors of the Pika Website Builder program, you can start creating a website without having to design a graphic layout.

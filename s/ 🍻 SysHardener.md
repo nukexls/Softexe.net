@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/syshardener-10264.png) SysHardener 1.5 - Free Download
 
-```sh
-SysHardener is a free tool thanks to which we can increase security and make our computer less susceptible to attacks by cybercriminals.
-```
+> SysHardener is a free tool thanks to which we can increase security and make our computer less susceptible to attacks by cybercriminals.
+
 [![SysHardener](https://gallery.dpcdn.pl/imgc/Tools/82503/g_-_420x350_1.5_-_x43abc473-8cb2-47ad-97f1-1b8b27a84420.jpg)](https://softexe.net/win/security-privacy/other/syshardener:pRbfd.html)
 
 The most important function offered by SysHardener is the ability to disable unnecessary options launched by the Windows operating system. The user can also secure individual applications (for example Microsoft Office suite or Acrobat Reader) to reduce the risk of infecting the hard disk with various viruses.

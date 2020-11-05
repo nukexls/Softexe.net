@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/helicon-photo-safe-11216.png) Helicon Photo Safe 4.82 - Free Download
 
-```sh
-Helicon Photo Safe is a convenient graphics viewer that allows you to organize and manage a large number of photos. With its help, we can catalog all your photos in several ways, import images from digital cameras, burn them to discs or protect against other computer users.
-```
+> Helicon Photo Safe is a convenient graphics viewer that allows you to organize and manage a large number of photos. With its help, we can catalog all your photos in several ways, import images from digital cameras, burn them to discs or protect against other computer users.
+
 [![Helicon Photo Safe](https://gallery.dpcdn.pl/imgc/Tools/15288/g_-_420x350_1.5_-_x20130403163839_00.png)](https://softexe.net/win/multimedia/image-viewer/helicon-photo-safe:ppbpf.html)
 
 The application allows us to browse photos, among others in slideshow mode, assign them to categories, rate and publish on social networks Flickr, Picasa and Facebook. Helicon Photo Safe offers the possibility of importing photos directly from digital cameras, burning a set of photos onto CDs / DVDs, as well as placing them on Google maps (thanks to the GPS coordinates recorded by the camera or smartphone).

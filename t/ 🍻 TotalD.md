@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/totald-9569.png) TotalD 1.5.5 - Free Download
 
-```sh
-TotalD is a more and more popular, free tool for comprehensive data downloading from the Internet. It is a combination of a standard download manager, a BitTorrent client and a video download program from Youtube, Vimeo, Dailymotion and Veoh.
-```
+> TotalD is a more and more popular, free tool for comprehensive data downloading from the Internet. It is a combination of a standard download manager, a BitTorrent client and a video download program from Youtube, Vimeo, Dailymotion and Veoh.
+
 [![TotalD](https://gallery.dpcdn.pl/imgc/Tools/81150/g_-_420x350_1.5_-_x53596d8c-4e45-49e3-bab2-bd2c0d5a7fc3.png)](https://softexe.net/win/internet/file-downloader/totald:aefa.html)
 
 The program is very easy to use and significantly simplifies the download of all kinds of data from the Internet. Shortly after installation and commissioning, it allows downloading previously described files from various sources. TotalD constantly monitors the content of the system clipboard and if only there are any links to files, torrents or videos in Youtube, the tool can capture and download them. Of course, it is also possible to manually add links to download in the main program window, as well as to open containers with links (files in DLC, RSDF, CCF format).

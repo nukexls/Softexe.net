@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Skyforge icon&w=40&h=40) Skyforge 1.26 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Skyforge 1.26 - Free Download
 
-```sh
-What sets Skyforge apart from other free MMO projects is its producers. On the one hand, Russian Allods Team is responsible for the game, and on the other hand perfectly associated with the excellent RPG Obsidian Entertainment. Together, they created something that they want to fight in a somewhat crowded market. Definitely in terms of graphics, the title has nothing to be ashamed of, and yet it is free.
-```
+> What sets Skyforge apart from other free MMO projects is its producers. On the one hand, Russian Allods Team is responsible for the game, and on the other hand perfectly associated with the excellent RPG Obsidian Entertainment. Together, they created something that they want to fight in a somewhat crowded market. Definitely in terms of graphics, the title has nothing to be ashamed of, and yet it is free.
+
 [![Skyforge](https:https://tse1.mm.bing.net/th?id=OIP.39sZRXPXfUQDB07v4pjGqgHaEK&pid=Api)](https://softexe.net/win/games-entertainment/rpg/skyforge:pRabf.html)
 
 A lot of effort went into making the player able to get along with his digital character. Skyforge offers an advanced hero editor. The point is not just to choose gender. There are a few basic options for getting under your nose, but it's better to delve into the additional ones. You can, for example, choose and modify the body of a hero. All thanks to the easy-to-use slider system. We do not have anything to mention about elements such as hair, facial hair or the shape of cheekbones, which we will also configure. We also decide on a specific garment and accessories. At any time, the look can then be changed, thanks to which we will stand out in the crowd.

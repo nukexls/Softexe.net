@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/drawpile-8533.png) Drawpile 2.1.17 - Free Download
 
-```sh
-Drawpile is an open source computer painting tool that is available for Windows, Linux and Mac OS, and enables sharing of created images, as well as multi-person work on them via the Internet.
-```
+> Drawpile is an open source computer painting tool that is available for Windows, Linux and Mac OS, and enables sharing of created images, as well as multi-person work on them via the Internet.
+
 [![Drawpile](https://gallery.dpcdn.pl/imgc/Tools/53727/g_-_420x350_1.5_-_x20140826171515_0.png)](https://softexe.net/win/multimedia/graphics-editors/drawpile:hecc.html)
 
 The application has been equipped with a very simple and intuitive graphical interface based on the Qt library. It brings together a set of easily accessible functions and tools for sketching and painting various kinds of own works of art. Among them, we find options for pencil, brush, eraser, color selector, drawing lines and basic shapes, as well as adding annotations to the project. The user can freely manipulate attributes (size, thickness, transparency, color, etc.) of each of them.

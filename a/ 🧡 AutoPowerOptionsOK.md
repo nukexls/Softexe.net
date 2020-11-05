@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/autopoweroptionsok-8261.png) AutoPowerOptionsOK 3.33 - Free Download
 
-```sh
-AutoPowerOptionsOK is a free tool thanks to which we will be able to save some money on electricity bills.
-```
+> AutoPowerOptionsOK is a free tool thanks to which we will be able to save some money on electricity bills.
+
 [![AutoPowerOptionsOK](https://gallery.dpcdn.pl/imgc/Tools/89130/g_-_420x350_1.5_-_xe4a5cc77-184b-4c3d-b7b1-1812af5695db.jpg)](https://softexe.net/win/system/other/autopoweroptionsok:hbfp.html)
 
 After launching the AutoPowerOptionsOK program, we will see its main window with the following options: turn off the monitor, put the computer into sleep mode and the automatic power option switch. Individual settings can be activated manually or according to predetermined rules (eg after a specified number of minutes).

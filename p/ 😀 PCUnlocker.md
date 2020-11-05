@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=PCUnlocker icon&w=40&h=40) PCUnlocker 3.8 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) PCUnlocker 3.8 - Free Download
 
-```sh
-PCUnlocker is a tool available in the form of a bootable ISO image that allows you to reset forgotten passwords to Windows.
-```
+> PCUnlocker is a tool available in the form of a bootable ISO image that allows you to reset forgotten passwords to Windows.
+
 [![PCUnlocker](https://gallery.dpcdn.pl/imgc/Tools/83959/g_-_420x350_1.5_-_x13af9b60-8bf6-4521-831b-e768408c215e.png)](https://softexe.net/win/security-privacy/passwords/pcunlocker:aade.html)
 
 The program is addressed mainly to novice users who would like to unlock the operating environment in an easy and quick way. It successfully allows you to reset the password for an administrator or other user account in Windows 2000, XP, Vista, 7, 8, 10 and server versions.

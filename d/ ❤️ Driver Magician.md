@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/driver-magician-2084.png) Driver Magician 5.30 - Free Download
 
-```sh
-Driver Magician is a very useful utility designed to create backup copies, restore and update drivers. Allows you to easily create backup copies of all necessary drivers and, if necessary, quickly install them
-```
+> Driver Magician is a very useful utility designed to create backup copies, restore and update drivers. Allows you to easily create backup copies of all necessary drivers and, if necessary, quickly install them
+
 [![Driver Magician](https://gallery.dpcdn.pl/imgc/Tools/51515/g_-_420x350_1.5_-_x20140528195140_0.png)](https://softexe.net/win/disks-files/backup/driver-magician:bRhd.html)
 
 Driver Magician is a very useful utility designed to create backup copies, restore and update drivers. It allows you to easily create backup copies of all the necessary drivers and, if necessary, quickly install them, for example, when you reinstall the system. In the program settings, you can select one of four backup methods, including packing data into a self-extracting archive or into a package for an offline installation (installer).

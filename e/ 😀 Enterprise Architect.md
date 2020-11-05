@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/enterprise-architect-9834.png) Enterprise Architect 15.2 - Free Download
 
-```sh
-Enterprise Architect is a powerful environment for analyzing and designing software using UML. It supports the programmer at almost every stage of software development - from designing, creating documentation and implementation.
-```
+> Enterprise Architect is a powerful environment for analyzing and designing software using UML. It supports the programmer at almost every stage of software development - from designing, creating documentation and implementation.
+
 [![Enterprise Architect](https://gallery.dpcdn.pl/imgc/Tools/11549/g_-_420x350_1.5_-_x20121129194310_00.png)](https://softexe.net/win/development-it/software-design/enterprise-architect:ahcd.html)
 
 The tool finds its applications in the work of programmers (as well as entire groups of them) who deal with the production of complex and extensive software. It improves the creation of various types of diagrams, presenting many aspects of the designed software, generating documentation and code skeleton on the basis of diagrams modeled in UML. Enterprise Architect brings together a set of useful tools that allow for team work of programmers, reporting, support for frameworks, repositories, as well as database modeling, etc.

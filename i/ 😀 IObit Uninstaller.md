@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/iobit-uninstaller-3594.png) IObit Uninstaller 10.0.2.20 - Free Download
 
-```sh
-IObit Uninstaller is a free utility to correctly uninstall unnecessary applications. There is a batch removal of programs, forced uninstallation, the ability to create a restore point, automatic removal of residual applications, etc.
-```
+> IObit Uninstaller is a free utility to correctly uninstall unnecessary applications. There is a batch removal of programs, forced uninstallation, the ability to create a restore point, automatic removal of residual applications, etc.
+
 [![IObit Uninstaller](https://gallery.dpcdn.pl/imgc/Tools/2936/g_-_420x350_1.5_-_x20150826172531_0.png)](https://softexe.net/win/system/uninstallers/iobit-uninstaller:cead.html)
 
 IObit Uninstaller is an effective program for completely removing unnecessary programs, browser extensions and embedded Windows applications. The application can automatically remove the remnants of unnecessary programs after their removal, supports all popular browsers (Chrome, Firefox, IE, Opera) and allows you to quickly find and remove malicious toolbars.

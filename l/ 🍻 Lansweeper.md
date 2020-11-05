@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Lansweeper 8.0.130.35 - Free Download
 
-```sh
-Lansweeper - a program for analyzing various parameters of computers on a network
-```
+> Lansweeper - a program for analyzing various parameters of computers on a network
+
 [![Lansweeper](https://gallery.dpcdn.pl/imgc/Tools/65189/g_-_420x350_1.5_-_x20160131144822_0.png)](https://softexe.net/win/internet/network/lansweeper:chaR.html)
 
 Lansweeper is a program for analyzing various parameters of computers located on a network. The program integrates into Active Directory, allows you to display the collected information through a web interface or your own queries, stores information from the sql server database. It does not require installation of the client part on users' computers (it is enough that the computers are within the same domain).

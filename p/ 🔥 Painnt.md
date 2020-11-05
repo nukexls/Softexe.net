@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/painnt-11150.png) Painnt 1.1.1 - Free Download
 
-```sh
-Painnt is a program for applying pictorial effects to pictures that can be configured in a wide range of sliders. The overlays themselves are over 200, and the base is constantly being expanded.
-```
+> Painnt is a program for applying pictorial effects to pictures that can be configured in a wide range of sliders. The overlays themselves are over 200, and the base is constantly being expanded.
+
 [![Painnt](https://gallery.dpcdn.pl/imgc/Tools/74456/g_-_420x350_1.5_-_x20170306183540_0.png)](https://softexe.net/win/multimedia/other/painnt:pppeR.html)
 
 For the application, simply upload any photo, and then apply a filter to it, previously selecting it from the list of available proposals. These can be sorted by category or date of adding a filter to the base. Overlays are various and combined with the subsequent configuration, you can count on unique effects.

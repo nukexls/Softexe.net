@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Capture+NX-D icon&w=40&h=40) Capture NX-D 1.4.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Capture NX-D 1.4.2 - Free Download
 
-```sh
-Capture NX-D is a free tool for photo manipulation.
-```
+> Capture NX-D is a free tool for photo manipulation.
+
 [![Capture NX-D](https:https://tse2.explicit.bing.net/th?id=OIP.XobcUnOBt1Ii9AEZx3BT-gHaE2&pid=Api)](https://softexe.net/win/multimedia/graphics-design/capture-nx-d:pRhhR.html)
 
 The application is aimed at the owners of a Nikon digital SLR camera, a Nikon 1 mirrorless camera with replaceable optics, a COOLPIX compact camera recording RAW images and other cameras using this method of recording photographs. 

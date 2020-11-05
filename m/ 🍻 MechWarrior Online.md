@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=MechWarrior+Online icon&w=40&h=40) MechWarrior Online 1.7.7.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) MechWarrior Online 1.7.7.0 - Free Download
 
-```sh
-MechWarrior Online is a network version of a well-known series of the same title that drew inspiration from the popular board game BattleTech. Thanks to the cooperation of the renowned studio Piranha Bytes with the owners of the rights to the brand, amazing production in the Free-2-Play model was successfully created, where the player once again sits behind the controls of huge rolling machines. These are so-called BattleMechs, heavy armored and armored robots weighing from 20 to 100 tons driven by individual pilots.
-```
+> MechWarrior Online is a network version of a well-known series of the same title that drew inspiration from the popular board game BattleTech. Thanks to the cooperation of the renowned studio Piranha Bytes with the owners of the rights to the brand, amazing production in the Free-2-Play model was successfully created, where the player once again sits behind the controls of huge rolling machines. These are so-called BattleMechs, heavy armored and armored robots weighing from 20 to 100 tons driven by individual pilots.
+
 [![MechWarrior Online](https:https://tse3.mm.bing.net/th?id=OIP.pxqAPwCt9fZ4L1z6cQBm_wHaEK&pid=Api)](https://softexe.net/win/games-entertainment/shooters/mechwarrior-online:pRapg.html)
 
 The machines are available in four classes, from fast, light and agile to slow, a bit heavy, but with a staggering firepower and huge destructive abilities. Each category of mechs can be modified by adjusting it to various combat systems consisting of a specific type of rockets and electronics supporting pilots in combat.

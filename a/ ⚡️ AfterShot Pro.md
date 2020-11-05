@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/aftershot-pro-10350.png) AfterShot Pro 3.6.0.380 - Free Download
 
-```sh
-AfterShot Pro is a Corela program released at the beginning of 2012 presenting the company's approach to digital photography. The program uses interesting technologies that belong not only to Corel and enables very flexible, non-linear and non-destructive image processing as well as advanced cataloging.
-```
+> AfterShot Pro is a Corela program released at the beginning of 2012 presenting the company's approach to digital photography. The program uses interesting technologies that belong not only to Corel and enables very flexible, non-linear and non-destructive image processing as well as advanced cataloging.
+
 [![AfterShot Pro](https://gallery.dpcdn.pl/imgc/Tools/7157/g_-_420x350_1.5_-_x20120111181201_00.jpg)](https://softexe.net/win/multimedia/graphics-design/aftershot-pro:pRceR.html)
 
 Corel AfterShot Pro can be used for cataloging, retouching, image manipulation and so-called RAW calling (for a list of supported camera models, see the Corel website ). The cataloging possibilities are supported by an extensive search engine that reads the metadata and author's own tags, and the photos can be arranged in albums, sorted by tags, evaluated and compared. However, the most important feature of this program is the ability to un-destructively modify photos and place modifications on layers, thanks to which selected editing steps can be turned off or removed, which gives almost unlimited editing possibilities in a rather non-linear process. It is also possible to edit multiple versions of the photo at the same time and compare the results. 

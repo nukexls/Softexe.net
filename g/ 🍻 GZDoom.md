@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=GZDoom icon&w=40&h=40) GZDoom 4.4.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) GZDoom 4.4.2 - Free Download
 
-```sh
-Doom is a legend and what not to say about the modern three-dimensional parts of the series, the first two parts will remain forever in the hearts of shooter enthusiasts. However, they appeared originally for the DOS system and currently their launch is not so super simple. Here, GZDoom comes with the help of a free modification of the original engine, streamlining the aging old FPS hits from many years ago.
-```
+> Doom is a legend and what not to say about the modern three-dimensional parts of the series, the first two parts will remain forever in the hearts of shooter enthusiasts. However, they appeared originally for the DOS system and currently their launch is not so super simple. Here, GZDoom comes with the help of a free modification of the original engine, streamlining the aging old FPS hits from many years ago.
+
 [![GZDoom](https://gallery.dpcdn.pl/imgc/Tools/63636/g_-_420x350_1.5_-_x20151118110029_0.jpg)](https://softexe.net/win/games-entertainment/shooters/gzdoom:pRdcg.html)
 
 Compatibility with newer operating systems is one thing, but there are many more changes under the lining. It is primarily a selection of higher resolutions. At first glance, this may not be noticed, but the stages may use much more geometrically advanced shapes. Worked on realistic and dynamic lighting and the effects associated with it. Directly from the options in the game menu, you get access to numerous graphics, sound or fun settings.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/notepad-4809.png) Notepad++ 7.8.9 - Free Download
 
-```sh
-Notepad ++ is an editor that represents an alternative to the standard Notepad that comes with Windows. This program can be used by both programmers (code editing) and all those who need a good text editor.
-```
+> Notepad ++ is an editor that represents an alternative to the standard Notepad that comes with Windows. This program can be used by both programmers (code editing) and all those who need a good text editor.
+
 [![Notepad++](https://gallery.dpcdn.pl/imgc/Tools/206/g_-_420x350_1.5_-_x20120326113248_00.png)](https://softexe.net/win/development-it/editors/notepad:dhRa.html)
 
 Notepad ++ is a text editor designed for programmers and all those who are not comfortable with the modest functionality of Windows Notepad.

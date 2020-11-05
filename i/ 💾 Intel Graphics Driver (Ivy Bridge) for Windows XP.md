@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Intel Graphics Driver (Ivy Bridge) for Windows XP 14.51.11.5437 - Free Download
 
-```sh
-The driver package for Intel HD Graphics graphic chips integrated with the 2nd and 3rd generation Intel Core processors.
-```
+> The driver package for Intel HD Graphics graphic chips integrated with the 2nd and 3rd generation Intel Core processors.
+
 [![Intel Graphics Driver (Ivy Bridge) for Windows XP](https:https://tse3.mm.bing.net/th?id=OIP.FJp2Cesg7dANv4YfxDrQkgHaEz&pid=Api)](https://softexe.net/win/system/drivers/intel-graphics-driver-ivy-bridge-for-windows-xp:pRcRb.html)
 
 A full list of supported graphic chips

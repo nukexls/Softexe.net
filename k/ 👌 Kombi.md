@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Kombi icon&w=40&h=40) Kombi 9.02 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Kombi 9.02 - Free Download
 
-```sh
-Kombi is a very interesting and attractive price proposition in the DTP software category.
-```
+> Kombi is a very interesting and attractive price proposition in the DTP software category.
+
 [![Kombi](https://gallery.dpcdn.pl/imgc/Tools/82644/g_-_420x350_1.5_-_x63e4c79f-e12f-4f90-86ad-48d508551362.png)](https://softexe.net/win/multimedia/graphics-design/kombi:pRbcd.html)
 
 It is a complex, integrated computer document system with built-in editors: text, vector and raster graphics. Components processed with these editors can be combined into one document, leaving at the same time the possibility of editing them at each stage of the composition. The package also includes additional supplementary programs. The biggest of them is KombiKor. It is a text editor with built-in dictionaries: spelling and synonyms and a built-in mechanism for dividing text into syllables. In addition, there are also barcode generator, PDF generator and many more.

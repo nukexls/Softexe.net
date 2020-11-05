@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/advanced-installer-8325.jpg) Advanced Installer 17.4.1 - Free Download
 
-```sh
-Advanced Installer is an advanced program for creating professional installers for various applications in Windows.
-```
+> Advanced Installer is an advanced program for creating professional installers for various applications in Windows.
+
 [![Advanced Installer](https://gallery.dpcdn.pl/imgc/Tools/9390/g_-_420x350_1.5_-_x20130321121345_00.png)](https://softexe.net/win/development-it/installers/advanced-installer:hcbe.html)
 
 The program is designed mainly for experienced users or programmers who are looking for a functional tool to create reliable and professional MSI packages. Using the Advanced Installer, you can create fully functional installers for any application equipped with a modern graphic design. 

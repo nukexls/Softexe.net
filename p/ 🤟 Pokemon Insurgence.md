@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/pokemon-insurgence-8937.png) Pokemon Insurgence 1.2.3 - Free Download
 
-```sh
-Pokemon Insurgence is a fan-based game created using the now defunct Pokemon Essentials, which was disabled in 2018 by Nintendo.
-```
+> Pokemon Insurgence is a fan-based game created using the now defunct Pokemon Essentials, which was disabled in 2018 by Nintendo.
+
 [![Pokemon Insurgence](https://gallery.dpcdn.pl/imgc/Tools/90219/g_-_420x350_1.5_-_xc07726ad-abde-411a-927f-0b3cd79614a8.jpg)](https://softexe.net/win/games-entertainment/adventure/pokemon-insurgence:hacg.html)
 
 For Pokemon Insurgence, Pokemon enthusiasts have developed a completely new plot, a previously inaccessible location for exploration (Torren), a full-fledged combat system, non-standard evolutions of the title creatures and the possibility of trading via the Internet.

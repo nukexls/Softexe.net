@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/picsart-8558.png) PicsArt 9.1.0.0 - Free Download
 
-```sh
-PicsArt is a very powerful photo editor that offers not only a lot of different options, but also allows you to make contacts with members of the community.
-```
+> PicsArt is a very powerful photo editor that offers not only a lot of different options, but also allows you to make contacts with members of the community.
+
 [![PicsArt](https://gallery.dpcdn.pl/imgc/Tools/82014/g_-_420x350_1.5_-_x5d1ca0f6-e8b6-4017-8d04-2a72a5b45cc6.jpg)](https://softexe.net/win/multimedia/graphics-design/picsart:heeh.html)
 
 In addition to such standard features as cropping, trimming or cloning of photos, PicsArt also copes well with layer editing, image enhancement, and also allows you to create collages, perform digital photo editing, add drawings. Using this tool, we will also prepare memes.

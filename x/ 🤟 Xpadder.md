@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Xpadder 5.3 - Free Download
 
-```sh
-Xpadder is an application that allows you to manage programs in the Windows operating system using a gamepad replacing the mouse and keyboard in this role. In addition to it, you can connect an arcade stick or joystick to your computer. She also cooperates with dance mats, steering wheels, percussion sets and guitars.
-```
+> Xpadder is an application that allows you to manage programs in the Windows operating system using a gamepad replacing the mouse and keyboard in this role. In addition to it, you can connect an arcade stick or joystick to your computer. She also cooperates with dance mats, steering wheels, percussion sets and guitars.
+
 [![Xpadder](https:https://tse3.mm.bing.net/th?id=OIP.SBDHGO9IbfleY-NDwno9AQHaGM&pid=Api)](https://softexe.net/win/system/control/xpadder:pcpbh.html)
 
 The gamepad connected and configured in the Xpadder program will be used, for example, to browse the resources of websites, to handle multimedia applications (movies or music files) and to perform many other activities. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/samsung-magician-8618.png) Samsung Magician 6.1.0 - Free Download
 
-```sh
-Samsung Magician is an application designed for diagnostics and control of Samsung SSD drives. Thanks to it, the user can check the status of his disk, perform necessary optimizations, and use hardware data encryption. The application is not necessary for operation, but it allows you to increase the performance of the medium.
-```
+> Samsung Magician is an application designed for diagnostics and control of Samsung SSD drives. Thanks to it, the user can check the status of his disk, perform necessary optimizations, and use hardware data encryption. The application is not necessary for operation, but it allows you to increase the performance of the medium.
+
 [![Samsung Magician](https://gallery.dpcdn.pl/imgc/Tools/54805/g_-_420x350_1.5_-_x20141016105406_0.png)](https://softexe.net/win/disks-files/other/samsung-magician:hfph.html)
 
 The main application screen shows all the most important information about the disks as well as their status. We will get to know SMART diagnostic readings, the number of used and free space, the number of recorded data on NAND cells, as well as data on the mode of operation, eg AHCI. From the level of the Samsung application it is possible to update the firmware, i.e. the internal disk software. The program itself checks its timeliness and, if necessary, downloads the necessary data. The tab dedicated to performance tests allows you to perform the analysis of how the read and write transfers look like, as well as the IOPS parameters relative to the factory values. Data is saved, so the user can perform tests periodically or in different load variants and occupied space, which allows him to compare the results.

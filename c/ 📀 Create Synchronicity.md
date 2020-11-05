@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/create-synchronicity-10869.png) Create Synchronicity 6.0 - Free Download
 
-```sh
-Create Synchronicity is a small but very useful application for synchronizing files and backing up user data.
-```
+> Create Synchronicity is a small but very useful application for synchronizing files and backing up user data.
+
 [![Create Synchronicity](https:https://tse4.mm.bing.net/th?id=OIP.fjzS8jZuvO0EobJ6y5GGTgHaD4&pid=Api)](https://softexe.net/win/disks-files/compare-sync/create-synchronicity:pRhfa.html)
 
 After starting Create Synchronicity, create a user profile and then define the basic settings. I am talking about choosing the source path and the target path and how to synchronize files (mirrored, incremental or double-sided increment). From the interface it is also possible to attach or exclude specific files.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=HandyPIM icon&w=40&h=40) HandyPIM 2.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) HandyPIM 2.0 - Free Download
 
-```sh
-HandyPIM is a tool that can be easily described as an electronic organizer.
-```
+> HandyPIM is a tool that can be easily described as an electronic organizer.
+
 [![HandyPIM](https://gallery.dpcdn.pl/imgc/Tools/88843/g_-_420x350_1.5_-_x17f48e31-5808-427e-93cd-67a9e23c00f6.jpg)](https://softexe.net/win/business/organizer/handypim:hfpd.html)
 
 The program provides a calendar, allows you to manage contacts, allows you to take notes and offers access to the list of tasks. HandyPIM has a function of setting reminders, thanks to which we do not miss an important meeting, and if we want to have information about the upcoming event, "on the eye", we can print the note and place it on the corkboard or in any other visible place.

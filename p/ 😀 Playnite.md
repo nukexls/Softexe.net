@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/playnite-9017.png) Playnite 7.9 - Free Download
 
-```sh
-Playnite is a free (open-source license) tool for managing your own library of computer games. Thanks to it, we will have access to all of your titles from one application.
-```
+> Playnite is a free (open-source license) tool for managing your own library of computer games. Thanks to it, we will have access to all of your titles from one application.
+
 [![Playnite](https://gallery.dpcdn.pl/imgc/Tools/83675/g_-_420x350_1.5_-_x2c0cf950-d6a1-4c69-8cfa-925007e86c84.jpg)](https://softexe.net/win/system/other/playnite:aRpg.html)
 
 In the era of digital games, we have to "jump" between various services to launch the selected production. We have some of them on Steam, others can only be found on Origin, GOG, Battle.net or Uplay. However, we can deal with this problem and install the free Playnite application, to which we will import only installed or all games we have in digital versions.

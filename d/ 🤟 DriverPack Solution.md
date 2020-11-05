@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/driverpack-solution-2095.png) DriverPack Solution 17.11.31 - Free Download
 
-```sh
-DriverPack Solution - a package consisting of the most relevant drivers for all kinds of PC configurations, as well as for various notebook models
-```
+> DriverPack Solution - a package consisting of the most relevant drivers for all kinds of PC configurations, as well as for various notebook models
+
 [![DriverPack Solution](https:https://tse3.mm.bing.net/th?id=OIP.-z3UOFygB59S3aZZB4x3WAHaEx&pid=Api)](https://softexe.net/win/system/drivers/driverpack-solution:bRae.html)
 
 DriverPack Solution is a package consisting of the most up-to-date drivers for various PC configurations, as well as for various notebook models, such as Asus, Acer, Sony, Samsung, HP, Lenovo, Toshiba, Fujitsu-Siemens, DELL, eMachines, MSI, etc.

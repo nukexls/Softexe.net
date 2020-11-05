@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/hwinfo32-8711.png) HWiNFO32 6.30 - Free Download
 
-```sh
-HWiNFO32 is a popular and useful tool used to identify and perform simple performance tests of individual components in our computer.
-```
+> HWiNFO32 is a popular and useful tool used to identify and perform simple performance tests of individual components in our computer.
+
 [![HWiNFO32](https://gallery.dpcdn.pl/imgc/Tools/545/g_-_420x350_1.5_-_x7c3c0ec1-2796-4e1b-93cf-9402acb57fd0.png)](https://softexe.net/win/system/diagnostics-tests/hwinfo32:hgpp.html)
 
 The program provides detailed information about the processor, motherboard, RAM memory, video and audio card, monitor, drives, ports etc. installed in the computer, and its frequent updates ensure that even the latest devices and technologies are supported.

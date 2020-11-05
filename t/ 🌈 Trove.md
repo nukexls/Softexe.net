@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Trove  - Free Download
 
-```sh
-Trove is a great, free sandbox game that offers the creation of boundless structures and compositions from cubic blocks in open, three-dimensional worlds.
-```
+> Trove is a great, free sandbox game that offers the creation of boundless structures and compositions from cubic blocks in open, three-dimensional worlds.
+
 [![Trove](https://gallery.dpcdn.pl/imgc/Tools/55433/g_-_420x350_1.5_-_x20141114141902_0.jpg)](https://softexe.net/win/games-entertainment/rpg/trove:pbeac.html)
 
 The title refers to the iconic Minecraft depicting an unlimited voxel universe, additionally enriched with elements of MMORPG and fantasy. We will come here with travels in unknown territories, battles with monsters and received experience points, developing our own characters or occurrence of elements of magic.

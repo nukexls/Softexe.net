@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/esupport-undeleteplus-8685.png) eSupport UndeletePlus 3.0.19.329 - Free Download
 
-```sh
-eSupport UndeletePlus is an effective and quick tool for recovering accidentally deleted data regardless of their type. It allows you to restore files deleted through the system's trash, after accidentally formatting the disk or lost on the result of incorrect partitioning.
-```
+> eSupport UndeletePlus is an effective and quick tool for recovering accidentally deleted data regardless of their type. It allows you to restore files deleted through the system's trash, after accidentally formatting the disk or lost on the result of incorrect partitioning.
+
 [![eSupport UndeletePlus](https://gallery.dpcdn.pl/imgc/Tools/21693/g_-_420x350_1.5_-_x20130906174256_0.png)](https://softexe.net/win/disks-files/data-recovery/esupport-undeleteplus:hfhe.html)
 
 The program is characterized by small size and uncomplicated service. It can be successfully used by novice users to recover data when competitive solutions fail. According to the developers, eSupport UndeletePlus can restore data from formatted volumes on which, for example, an operating system has already been installed.

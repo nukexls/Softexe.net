@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Grand Theft Auto Online  - Free Download
 
-```sh
-Grand Theft Auto Online is a multiplayer mode in Grand Theft Auto V. It is an integral part of the Rockstar Games studio production and can not be purchased separately.
-```
+> Grand Theft Auto Online is a multiplayer mode in Grand Theft Auto V. It is an integral part of the Rockstar Games studio production and can not be purchased separately.
+
 [![Grand Theft Auto Online](https://gallery.dpcdn.pl/imgc/Tools/84223/g_-_420x350_1.5_-_xff283c10-dcb0-4921-9afb-4bb4854aa96a.jpg)](https://softexe.net/win/games-entertainment/shooters/grand-theft-auto-online:ahab.html)
 
 Thanks to Grand Theft Auto Online, we get the opportunity to create a unique hero who will take part in various tasks alongside real companions. The action takes place again in Los Santos and on the outskirts of the city, but this time we explore them, meeting characters directed by players from around the world. Interestingly, we are dealing here with fully fictionalized missions, and we get to know details about them by watching carefully made, sometimes quite extensive, cutscenes.

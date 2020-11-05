@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/znaki-10971.png) Znaki 1.0.0.3 - Free Download
 
-```sh
-Signs is an application whose task is to bring the user to the meaning of many of the most common road signs, but not only.
-```
+> Signs is an application whose task is to bring the user to the meaning of many of the most common road signs, but not only.
+
 [![Znaki](https:https://tse4.mm.bing.net/th?id=OIP.xsISfqgwD3kj0c7bxXmVIAHaEj&pid=Api)](https://softexe.net/win/education-science/other/znaki:pRagp.html)
 
 The operation of the program is basically limited to selecting the category of characters that we would like to know. The user has at his disposal a collection of warning signs, prohibitions, order, horizontal, information, for drivers of the tram, as well as additional plates, evacuation signs, occupational health and safety protection and fire protection.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/koinonein-bittorrent-client-8525.png) Koinonein BitTorrent Client 4.6.0.1 - Free Download
 
-```sh
-Koinonein BitTorrent Client is a BitTorrent client based on the libtorrent library, addressed to owners of computers running the Windows operating system in both 32 and 64-bit versions.
-```
+> Koinonein BitTorrent Client is a BitTorrent client based on the libtorrent library, addressed to owners of computers running the Windows operating system in both 32 and 64-bit versions.
+
 [![Koinonein BitTorrent Client](https://gallery.dpcdn.pl/imgc/Tools/79886/g_-_420x350_1.5_-_xfeb35f2f-86be-402f-883c-7d3797d912be.jpg)](https://softexe.net/win/internet/torrent-client/koinonein-bittorrent-client:hebe.html)
 
 Koinonein BitTorrent Client contains the most important features that we expect from this kind of program, so we'll add a lot of files with .torrent extension to it, but not only - we can also use the .magnet format, or IPv4 and Ipv6 trackers. The tool supports DHT server, HTTP encryption, SSL support, allows you to create multiple torrents at the same time and offers the ability to work according to the schedule.

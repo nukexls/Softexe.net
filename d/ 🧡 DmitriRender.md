@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) DmitriRender 3.0.0.1 - Free Download
 
-```sh
-DmitriRender is a DirectShow filter whose task is to convert the number of frames in real time, which allows much more comfortable playback of movies and other video content on the computer.
-```
+> DmitriRender is a DirectShow filter whose task is to convert the number of frames in real time, which allows much more comfortable playback of movies and other video content on the computer.
+
 [![DmitriRender](https:https://tse3.mm.bing.net/th?id=OIP.UprzQyOubugO9kWqSIOexQHaFl&pid=Api)](https://softexe.net/win/multimedia/other/dmitrirender:pbphe.html)
 
 The tool uses the frame interpolation function, which generates intermediate frames of animation between those that are already available, thus creating an extremely smooth image (this option can be checked in Media Player Classic Home Cinema, or MPC-HC). This solution has so far been known only to owners of expensive equipment equipped with this modern technology, and has recently also appeared in the free SmoothVideo Project , which you can download from our site.

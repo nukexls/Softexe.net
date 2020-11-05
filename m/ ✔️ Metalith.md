@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/metalith-8780.png) Metalith 10.07 - Free Download
 
-```sh
-Metalith is a very easy-to-use metadata editor that allows you to work on multiple files at the same time (processing of entire directories).
-```
+> Metalith is a very easy-to-use metadata editor that allows you to work on multiple files at the same time (processing of entire directories).
+
 [![Metalith](https://gallery.dpcdn.pl/imgc/Tools/69113/g_-_420x350_1.5_-_x20160630182617_0.gif)](https://softexe.net/win/multimedia/graphics-design/metalith:hghR.html)
 
 Browsing, analyzing, modifying, deleting, creating and displaying tag descriptions - Metalith offers everything necessary when working on metadata. It also allows you to edit two files for comparison purposes, copy data and tags from one file to another. Noteworthy is also the function of synchronizing data contained in two identical tags of one file.

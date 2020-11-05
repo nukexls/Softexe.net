@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/homeguard-8976.png) HomeGuard 9.9.1 - Free Download
 
-```sh
-HomeGuard is a tool that allows monitoring of selected open and closed areas (eg a child's room with a babysitter or a construction site) using a USB camera.
-```
+> HomeGuard is a tool that allows monitoring of selected open and closed areas (eg a child's room with a babysitter or a construction site) using a USB camera.
+
 [![HomeGuard](https:https://tse2.mm.bing.net/th?id=OIP.FfnM6QkOtBB_Regb-4VRWQHaE-&pid=Api)](https://softexe.net/win/multimedia/other/homeguard:hagf.html)
 
 When HomeGuard detects an intruder using a motion detection system, it will inform about this fact in various ways (eg by sending an e-mail to the indicated address along with a screenshot straight from the camera or by saving a copy of the image on the computer's hard drive). HomeGuard can also record an event in a special log or activate a user-defined sound signal.

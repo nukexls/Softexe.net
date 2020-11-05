@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) AIDA64 Extreme 6.25.5400 - Free Download
 
-```sh
-AIDA64 Extreme is a great tool for identifying hardware components and software installed in your computer that is a continuation of the popular Everest program.
-```
+> AIDA64 Extreme is a great tool for identifying hardware components and software installed in your computer that is a continuation of the popular Everest program.
+
 [![AIDA64 Extreme](https://gallery.dpcdn.pl/imgc/Tools/1274/g_-_420x350_1.5_-_x20101220135108_00.png)](https://softexe.net/win/system/diagnostics-tests/aida64-extreme:aehe.html)
 
 The main task of the program is to provide the largest portion of detailed information about the equipment installed in our computer. It allows you to display data about the processor, motherboard and chipset, memory, hard drives, graphics card and many other devices, as well as software installed on the computer and security level. The tool also supports most types of sensors used by equipment manufacturers, enabling monitoring of parameters such as operating temperature, fan speed or power consumption. All of this information can be displayed, for example, via a gadget on the desktop. AIDA64 Extreme, like most of this type of tools, gives you the opportunity to generate a report containing information about your components and save it, among others in HTML format.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/strongrecovery-9052.png) StrongRecovery 4.1.0.4  - Free Download
 
-```sh
-StrongRecovery is a Polish tool designed for data recovery. High efficiency and simple operation make the program often used for both simple and more complex operations, aimed at restoring data lost in various circumstances.
-```
+> StrongRecovery is a Polish tool designed for data recovery. High efficiency and simple operation make the program often used for both simple and more complex operations, aimed at restoring data lost in various circumstances.
+
 [![StrongRecovery](https://gallery.dpcdn.pl/imgc/Tools/2728/g_-_420x350_1.5_-_x20110422125957_00.png)](https://softexe.net/win/disks-files/data-recovery/strongrecovery:aReb.html)
 
 The program can be successfully used to recover data from hard disks, memory cards (SD, xD, CF, MS, MMC), external USB drives, pendrives and many other devices such as cameras, digital cameras, etc. Supported file systems to NTFS, FAT12, FAT16, FAT32, RAW, EXT2. EXT3, ReiserFS and Linux Swap and HPFS. StrongRecovery can recover encrypted (EFS) and compressed data located on NTFS partitions. The advantage of the tool against the background of competitive solutions is its high efficiency and speed of action. In addition to simple operations involving the recovery of unintentionally deleted media or documents, the program also allows you to restore invisible partitions and logical drives. With its help, we will also recover data from virtual machine images (VMWare). 

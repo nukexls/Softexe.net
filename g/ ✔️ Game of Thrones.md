@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Game of Thrones  - Free Download
 
-```sh
-Game of Thrones is a computer-based role-playing game set in the world of the novel Game of Thrones by well-known writer George RR Martin, on the basis of which the HBO station has prepared a very popular television series.
-```
+> Game of Thrones is a computer-based role-playing game set in the world of the novel Game of Thrones by well-known writer George RR Martin, on the basis of which the HBO station has prepared a very popular television series.
+
 [![Game of Thrones](https://gallery.dpcdn.pl/imgc/Tools/90964/g_-_420x350_1.5_-_x31b03bf2-4909-4bef-b4b3-39faf005db0a.jpg)](https://softexe.net/win/games-entertainment/rpg/game-of-thrones:hbeh.html)
 
 What is the Game about the Throne about?

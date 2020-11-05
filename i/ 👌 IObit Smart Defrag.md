@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/iobit-smart-defrag-8265.png) IObit Smart Defrag 6.6.0.66 - Free Download
 
-```sh
-IObit Smart Defrag is one of the best free tools designed to defragment system partitions.
-```
+> IObit Smart Defrag is one of the best free tools designed to defragment system partitions.
+
 [![IObit Smart Defrag](https://gallery.dpcdn.pl/imgc/Tools/2180/g_-_420x350_1.5_-_x169620ed-0a7f-494b-8bc2-dcf641330b5e.png)](https://softexe.net/win/disks-files/defragmenter/iobit-smart-defrag:hbfe.html)
 
 The algorithm responsible for defragmentation was designed in such a way that the time of data optimization on modern and large disks was as short as possible taking into account the fastest access to data. According to the information provided by the manufacturer, the application is ahead of products such as Defraggler, JKDefrag, Auslogics DiskDefrag, Diskeeper Pro or built-in tool in Windows.

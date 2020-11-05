@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/linkedin-password-decryptor-10646.png) Linkedin Password Decryptor 6.0 - Free Download
 
-```sh
-Linkedin Password Decryptor is a small and free data recovery tool required to log in to Linkedin.
-```
+> Linkedin Password Decryptor is a small and free data recovery tool required to log in to Linkedin.
+
 [![Linkedin Password Decryptor](https://gallery.dpcdn.pl/imgc/Tools/80540/g_-_420x350_1.5_-_x4e843b88-49ea-4553-aa94-c9de1e107cc8.png)](https://softexe.net/win/security-privacy/passwords/linkedin-password-decryptor:pRfdf.html)
 
 The program allows you to recover your username and password to our profile on the Linkedin social network, which is stored in your web browser. It allows you to efficiently search and decrypt the data you need, if in the past, we have successfully logged in to the Linkedin website once. Linkedin Password Decryptor automatically searches for supported applications on your computer, and then instantly recovers all logins and passwords from the information collected by it and presents them in the form of a list.

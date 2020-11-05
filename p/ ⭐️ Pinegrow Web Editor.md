@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/pinegrow-web-editor-8804.png) Pinegrow Web Editor 5.973 - Free Download
 
-```sh
-Pinegrow Web Editor is a powerful tool for creating intuitive websites equipped with a variety of components that facilitate work on network websites (eg CSS editor).
-```
+> Pinegrow Web Editor is a powerful tool for creating intuitive websites equipped with a variety of components that facilitate work on network websites (eg CSS editor).
+
 [![Pinegrow Web Editor](https://gallery.dpcdn.pl/imgc/Tools/67620/g_-_420x350_1.5_-_x20160502014649_0.png)](https://softexe.net/win/development-it/web-applications/pinegrow-web-editor:hhRd.html)
 
 While preparing websites is not an easy task, Pinegrow Web Editor tries to simplify them as much as possible. While working on HTML files, we do not need to add any styles or templates to the source code, nor do we need to import or export anything - we do all the actions from one HTML document saved on the hard disk of our computer.

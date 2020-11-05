@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Tibia icon&w=40&h=40) Tibia 11 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Tibia 11 - Free Download
 
-```sh
-Free Tibia can be proud of great popularity, despite the fact that this MMO game about simple graphics appeared on the market several decades ago. Here every day a pixelated fantasy world is visited by thousands of adventurous adventurers, and among them you can find really many native players. Archaic solutions do not deter the product, on the contrary. They make it simply unique.
-```
+> Free Tibia can be proud of great popularity, despite the fact that this MMO game about simple graphics appeared on the market several decades ago. Here every day a pixelated fantasy world is visited by thousands of adventurous adventurers, and among them you can find really many native players. Archaic solutions do not deter the product, on the contrary. They make it simply unique.
+
 [![Tibia](https://gallery.dpcdn.pl/imgc/Tools/60954/g_-_420x350_1.5_-_x20150818091819_0.jpg)](https://softexe.net/win/games-entertainment/rpg/tibia:pRdab.html)
 
 The action is shown in an isometric view, as it was in former RPG projects. Not very complicated rules, however, offer a lot of character development opportunities, make the game easy to learn even for younger computer users. Players of course have several hero classes. They can be, among others knights, paladins or wizards and explore the land-divided lands in search of more powerful objects and new monsters to liquidate.

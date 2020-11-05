@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/pmplayer-9001.png) PMPlayer 14 - Free Download
 
-```sh
-PMPlayer is a free multimedia player. It is characterized by an uncomplicated interface, speed of operation and support for various file formats.
-```
+> PMPlayer is a free multimedia player. It is characterized by an uncomplicated interface, speed of operation and support for various file formats.
+
 [![PMPlayer](https://gallery.dpcdn.pl/imgc/Tools/65211/g_-_420x350_1.5_-_x20160131195306_0.png)](https://softexe.net/win/multimedia/audio-video-players/pmplayer:aRRp.html)
 
 Using PMPlayer, we will start any video and audio files stored on your computer's hard drive, any media (eg DVD), device for image capture (including cameras) or materials available after clicking on the URL (http: //, mms: //, mmsh: //, rtp: //, rtsp: //, udp: // ...). The program offers high image quality and supports almost all popular file formats and codecs, including ffdshow, LAV filters and MPC-HC.

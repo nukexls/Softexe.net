@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/autodesk-print-studio-11537.png) Autodesk Print Studio 1.6.5 - Free Download
 
-```sh
-Autodesk Print Studio is a program for preparing models for 3D printing. It is also part of the SPARK platform, associated with the Autodesk Ember 3D printer. The program integrates with other Autodesk products.
-```
+> Autodesk Print Studio is a program for preparing models for 3D printing. It is also part of the SPARK platform, associated with the Autodesk Ember 3D printer. The program integrates with other Autodesk products.
+
 [![Autodesk Print Studio](https://gallery.dpcdn.pl/imgc/Tools/67386/g_-_420x350_1.5_-_x20160421170700_0.png)](https://softexe.net/win/multimedia/graphics-design/autodesk-print-studio:ppecg.html)
 
 The program can connect to printers available via USB or WiFi, and prepare files for printing on Autodesk Ember, Dremel 3D Idea Builder, Makerbot Replicator 2, Ultimaker 2 and Printrbot printers. After selecting the printer model, you can also select the material, print quality and prepare the imported model. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/carneto-light-13204.png) Carneto Light 1.0.0.1 - Free Download
 
-```sh
-Carneto Light is a modern and flexible program for handling passes and loyalty cards.
-```
+> Carneto Light is a modern and flexible program for handling passes and loyalty cards.
+
 [![Carneto Light](https://gallery.dpcdn.pl/imgc/Tools/9981/g_-_420x350_1.5_-_x20120904184118_00.jpg)](https://softexe.net/win/business/finance/carneto-light:pcbRd.html)
 
 Carneto Light allows you to sell single and multiple use passes on the customer's card. In this way, it is ideally suited to work in the following service points: gyms, car washes, dance schools, fitness clubs, tanning and massage salons, and various sports and recreation facilities. 

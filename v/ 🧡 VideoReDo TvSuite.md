@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) VideoReDo TvSuite 5.4.84.771a - Free Download
 
-```sh
-VideoReDo TvSuite is a functional but easy-to-use tool designed for basic editing of video materials in such formats as MOV, MPEG, MP4, MTS or VOB and their subsequent DVD authoring. This program also allows you to convert media to files compatible with iPod, iPhone and other portable devices.
-```
+> VideoReDo TvSuite is a functional but easy-to-use tool designed for basic editing of video materials in such formats as MOV, MPEG, MP4, MTS or VOB and their subsequent DVD authoring. This program also allows you to convert media to files compatible with iPod, iPhone and other portable devices.
+
 [![VideoReDo TvSuite](https://gallery.dpcdn.pl/imgc/Tools/25168/g_-_420x350_1.5_-_x20130917213635_0.png)](https://softexe.net/win/multimedia/video/videoredo-tvsuite:adha.html)
 
 Tools offered within the tool can be successfully used for basic video processing, and even preparing DVD media with videos recorded using a telephone or digital camera, eg during a holiday trip outside the city. VideoReDo TvSuite allows you to trim selected video files, save selected frames to a BMP file, create subsequent chapters of DVD-Video compilation, and synchronize the audio track with the image.

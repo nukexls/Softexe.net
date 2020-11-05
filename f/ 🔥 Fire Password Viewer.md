@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/fire-password-viewer-9024.png) Fire Password Viewer 11.0 - Free Download
 
-```sh
-Firefox Password Viewer is a small and free tool for recovering all passwords saved in the Firefox browser.
-```
+> Firefox Password Viewer is a small and free tool for recovering all passwords saved in the Firefox browser.
+
 [![Fire Password Viewer](https://gallery.dpcdn.pl/imgc/Tools/55709/g_-_420x350_1.5_-_x20141128143004_0.png)](https://softexe.net/win/security-privacy/passwords/fire-password-viewer:aRbd.html)
 
 The program allows you to recover the username and password that we gave when logging in to any website, social service or discussion forum. It can decrypt and read login data from all user profiles available on the computer, as well as recover passwords from the browser, even if it has been secured with the master password. Firefox Password Viewer perfectly handles the reading of passwords on the local system as well as the remote one, automatically detecting the location of the profile based on the version of Firefox used.

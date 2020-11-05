@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Mandelbulber icon&w=40&h=40) Mandelbulber 2.18 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Mandelbulber 2.18 - Free Download
 
-```sh
-Mandelbulber is the open source program of the Polish author, which is becoming more and more popular, which enables a virtual tour of three-dimensional fractals.
-```
+> Mandelbulber is the open source program of the Polish author, which is becoming more and more popular, which enables a virtual tour of three-dimensional fractals.
+
 [![Mandelbulber](https://gallery.dpcdn.pl/imgc/Tools/2898/g_-_420x350_1.5_-_x20110525160423_00.PNG)](https://softexe.net/win/multimedia/other/mandelbulber:adcd.html)
 
 According to the name, the program allows exploration of the Mandelbulb type of fractal, as well as Mandelbox, BulbBox, JuliaBulb, Menger sponge, and the iterated transformation system (IFS). Figures rendered by the program can be enlarged indefinitely in the preview window, just like two-dimensional fractals. But because the figures have 3 dimensions, there is the possibility of viewing them from every side, and even "entering the camera inside them", which gives interesting effects especially when creating animations. The program also allows you to modify the parameters of tracking rays, the intensity of light and the addition of volumetric light effects. The material from which the figure is made can be colored using one of the random gradients, or creating its own gradient based on graphics, and the material can be given a reflective, luminous appearance, define shadows and activate ambient occlusion on its surface. The last render can be rendered using fog and depth of field. When creating animations, you can also define the speed of camera movement between key frames and the number of frames between them. 

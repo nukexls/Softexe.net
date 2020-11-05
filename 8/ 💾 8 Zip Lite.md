@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/8-zip-lite-9474.png) 8 Zip Lite 1.2.103.0 - Free Download
 
-```sh
-8 Zip Lite is a small program for performing various file archiving operations.
-```
+> 8 Zip Lite is a small program for performing various file archiving operations.
+
 [![8 Zip Lite](https://gallery.dpcdn.pl/imgc/Tools/86847/g_-_420x350_1.5_-_x7e606cec-a3ed-49d3-94b7-19904f82bb54.jpg)](https://softexe.net/win/disks-files/compression/8-zip-lite:adgd.html)
 
 With this application, we will easily create a new archive of files (as many as five compression methods), open and unpack existing archives, encrypt or decrypt archives using the Windows Hello and Microsoft Passport functions, and run the contents of archives from the main 8 Zip Lite window (for example about documents, photos, films or music). 

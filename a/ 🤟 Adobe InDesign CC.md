@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/adobe-indesign-cc-8401.png) Adobe InDesign CC 15.1.2 - Free Download
 
-```sh
-InDesign is an advanced program for the composition of publications by Adobe.
-```
+> InDesign is an advanced program for the composition of publications by Adobe.
+
 [![Adobe InDesign CC](https://gallery.dpcdn.pl/imgc/Tools/13769/g_-_420x350_1.5_-_x20160621214837_0.png)](https://softexe.net/win/multimedia/graphics-design/adobe-indesign-cc:hdRp.html)
 
 It includes a number of useful functions that significantly improve editorial work. Among them, apart from well-known Objects Styles tools - a set of styles that can be assigned to objects and change their appearance with just one click or Snippets - a solution that allows you to save objects with templates for their presentation and description should be mentioned also Adobe CS Review, which allows creating and sharing online document review.

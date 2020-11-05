@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/driver-genius-professional-8897.jpg) Driver Genius Professional 20.0.0.135 - Free Download
 
-```sh
-Driver Genius is a professional and extended program for managing drivers in Windows. With its help, we can update and uninstall drivers, and back up them, for later restoration in the event of an operating system failure.
-```
+> Driver Genius is a professional and extended program for managing drivers in Windows. With its help, we can update and uninstall drivers, and back up them, for later restoration in the event of an operating system failure.
+
 [![Driver Genius Professional](https://gallery.dpcdn.pl/imgc/Tools/9281/g_-_420x350_1.5_-_x20120717124047_00.jpg)](https://softexe.net/win/disks-files/hdd-utilities/driver-genius-professional:hhag.html)
 
 Using the program, we can easily and quickly find the missing drivers, as well as update outdated software. Driver Genius finds exactly all drivers for each component installed in the computer, including between the motherboard, network card, graphics and music, IDE controllers, ATA, SATA, and even other system and pointing devices.

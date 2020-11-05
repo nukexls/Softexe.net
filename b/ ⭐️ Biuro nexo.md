@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Biuro+nexo icon&w=40&h=40) Biuro nexo 31.1.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Biuro nexo 31.1.2 - Free Download
 
-```sh
-The nexo office is a program created for accounting offices and tax advisors who use systems from the nexo InsERT line in their daily work.
-```
+> The nexo office is a program created for accounting offices and tax advisors who use systems from the nexo InsERT line in their daily work.
+
 [![Biuro nexo](https://gallery.dpcdn.pl/imgc/Tools/62655/g_-_420x350_1.5_-_x20151014230652_0.png)](https://softexe.net/win/business/management/biuro-nexo:heef.html)
 
 The application supports accounting offices in three main areas of work: supports typical activities performed in every office, such as customer billing or tracking the progress of work in monthly customer service, automates work on many entities of the Nexo InsERT system and facilitates communication with office clients through a dedicated portal .

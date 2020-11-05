@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/ares-commander-9601.png) ARES Commander 2019.3.1.4019 - Free Download
 
-```sh
-ARES Commander is an application designed to create CAD projects (computer aided design). The program supports DWG (import and export) format, it has the ability to export files to PDF and SVG.
-```
+> ARES Commander is an application designed to create CAD projects (computer aided design). The program supports DWG (import and export) format, it has the ability to export files to PDF and SVG.
+
 [![ARES Commander](https://gallery.dpcdn.pl/imgc/Tools/2669/g_-_420x350_1.5_-_x20160530143543_0.png)](https://softexe.net/win/multimedia/cad/ares-commander:afRp.html)
 
 The user has a choice of numerous color palettes, the ability to preview objects in 3D, as well as fast rendering. In addition, ARES Commander supports OpenGL, as well as programming interfaces such as C ++, Tx, lisp, VSTA, DCL, Visual Studio, COM, Active X.

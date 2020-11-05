@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/smite-9667.png) Smite 5.20 - Free Download
 
-```sh
-Smite is a high quality free MOBA production in a good reference to ancient mythology, based on a scheme known from Defense of the Ancients - a popular modification for Warcraft III.
-```
+> Smite is a high quality free MOBA production in a good reference to ancient mythology, based on a scheme known from Defense of the Ancients - a popular modification for Warcraft III.
+
 [![Smite](https://gallery.dpcdn.pl/imgc/Tools/56787/g_-_420x350_1.5_-_x20150129165350_0.jpg)](https://softexe.net/win/games-entertainment/shooters/smite:affg.html)
 
 It is a game not just any, because it was created by Hi-Rez Studios, known for such network shooters as Tribes: Ascend or Global Agenda . The title combines not only the elements of the action game and strategy, but also largely refers to the arcade aspects.

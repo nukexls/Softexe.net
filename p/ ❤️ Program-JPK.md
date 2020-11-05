@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Program-JPK icon&w=40&h=40) Program-JPK 20.08.27 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Program-JPK 20.08.27 - Free Download
 
-```sh
-The JPK program is a software for generating JPK (short for: Uniform Control File) on the basis of various data, merging multiple JPK files and encrypting, signing and sending JPK to the Ministry of Finance. Importantly, the application can work with any ERP system.
-```
+> The JPK program is a software for generating JPK (short for: Uniform Control File) on the basis of various data, merging multiple JPK files and encrypting, signing and sending JPK to the Ministry of Finance. Importantly, the application can work with any ERP system.
+
 [![Program-JPK](https://gallery.dpcdn.pl/imgc/Tools/90920/g_-_420x350_1.5_-_x00189e83-5ebb-469c-82d9-67129abbb4a3.png)](https://softexe.net/win/business/other/program-jpk:hcpc.html)
 
 The most important functions of the program

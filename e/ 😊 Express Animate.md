@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/express-animate-8854.png) Express Animate 5.09 - Free Download
 
-```sh
-Express Animate is a free and easy-to-use animation tool. Thanks to it, we will enliven selected text or graphics, adding to the work also a soundtrack.
-```
+> Express Animate is a free and easy-to-use animation tool. Thanks to it, we will enliven selected text or graphics, adding to the work also a soundtrack.
+
 [![Express Animate](https://gallery.dpcdn.pl/imgc/Tools/80969/g_-_420x350_1.5_-_x6bc45cee-3627-4adc-a809-952184df6c35.jpg)](https://softexe.net/win/multimedia/video/express-animate:hhed.html)
 
 Preparing animations is generally a complicated task, but wanting to create something simpler we can reach for Express Animate, in a few steps to design a moving object. Therefore, the described program is also directed to less experienced users who do not need to have programming skills to make use of Express Animate.

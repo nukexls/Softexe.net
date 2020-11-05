@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/arclab-watermark-studio-8916.png) Arclab Watermark Studio 3.7.0 - Free Download
 
-```sh
-Arclab Watermark Studio is a tool for private or commercial use, allowing you to place watermarks on your photos.
-```
+> Arclab Watermark Studio is a tool for private or commercial use, allowing you to place watermarks on your photos.
+
 [![Arclab Watermark Studio](https://gallery.dpcdn.pl/imgc/Tools/73822/g_-_420x350_1.5_-_x20170202220552_0.png)](https://softexe.net/win/multimedia/other/arclab-watermark-studio:hapf.html)
 
 Many times there are situations in which a photo of a given author placed in the network over time is on many websites without giving the source from which the image comes from. To prevent this, we can enter a watermark (in the form of text or image) on the selected graphic using Arclab Watermark Studio. In this way, we will protect against the illegal distribution of our albums or individual photos.

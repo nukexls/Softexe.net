@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Smart DNS Changer & MAC Address Changer 4.7.2.0 - Free Download
 
-```sh
-Smart DNS Changer &amp; MAC Address Changer is a free program that offers the ability to change DNS settings as well as the MAC address of the network card.
-```
+> Smart DNS Changer &amp; MAC Address Changer is a free program that offers the ability to change DNS settings as well as the MAC address of the network card.
+
 [![Smart DNS Changer & MAC Address Changer](https://gallery.dpcdn.pl/imgc/Tools/65199/g_-_420x350_1.5_-_x20160131181211_0.png)](https://softexe.net/win/internet/other/smart-dns-changer-mac-address-changer:pphad.html)
 
 The tool was created for users who want to access network sites blocked in their geographical location for various reasons. After changing the DNS settings using the Smart DNS Changer &amp; MAC Address Changer application, we can enjoy all the websites previously blocked by the DNS server of our network service provider. 

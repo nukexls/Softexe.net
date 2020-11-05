@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=RegRun+Reanimator icon&w=40&h=40) RegRun Reanimator 11.97.0.997 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) RegRun Reanimator 11.97.0.997 - Free Download
 
-```sh
-RegRun Reanimator is an interesting and free tool designed to protect your computer against all kinds of malicious software - Trojans, spyware and adware.
-```
+> RegRun Reanimator is an interesting and free tool designed to protect your computer against all kinds of malicious software - Trojans, spyware and adware.
+
 [![RegRun Reanimator](https://gallery.dpcdn.pl/imgc/Tools/1054/g_-_420x350_1.5_-_x20101228112856_00.png)](https://softexe.net/win/security-privacy/antispyware/regrun-reanimator:hdbe.html)
 
 Unlike other applications of this type, it has a completely different principle of operation. During the work, the program generates a report containing detailed information about detected pests and then sends it to the producer. After all irregularities are analyzed by specialists, a special file is sent to the user to clean the computer from previously detected malware.

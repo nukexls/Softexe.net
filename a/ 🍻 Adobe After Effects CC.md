@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/adobe-after-effects-cc-10341.png) Adobe After Effects CC 2020 17.1.3 - Free Download
 
-```sh
-Adobe After Effects is one of the best, professional tools designed to create animations and special effects for the needs of Hollywood film productions.
-```
+> Adobe After Effects is one of the best, professional tools designed to create animations and special effects for the needs of Hollywood film productions.
+
 [![Adobe After Effects CC](https://gallery.dpcdn.pl/imgc/Tools/1691/g_-_420x350_1.5_-_x20120507161359_00.png)](https://softexe.net/win/multimedia/video/adobe-after-effects-cc:pRcdp.html)
 
 The program is equipped with tools that, combined with hundreds of effects and plugins, give virtually unlimited possibilities when it comes to editing, editing, or applying special effects in video. The possibilities of the application largely limits the user's imagination.

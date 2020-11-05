@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/krita-9475.png) Krita 4.3.0 - Free Download
 
-```sh
-Krita is an extensive and multi-functional program for processing raster graphics on a computer, designed primarily for painting using a graphic tablet, and thanks to the Sketch interface also a touch screen.
-```
+> Krita is an extensive and multi-functional program for processing raster graphics on a computer, designed primarily for painting using a graphic tablet, and thanks to the Sketch interface also a touch screen.
+
 [![Krita](https://gallery.dpcdn.pl/imgc/Tools/10269/g_-_420x350_1.5_-_xc7a7550e-7b0e-4afc-95e5-b8ae01e661b1.png)](https://softexe.net/win/multimedia/graphics-editors/krita:adge.html)
 
 Krita is free software and distributed under the GNU General Public License. The application has been designed not only as a painting tool, but also for modifying digital photos. Krita has a huge collection of various tools and functions, and also offers a convenient and clear user interface. In this way, we can be a fair competition even for the most popular raster graphic editors, although the main goal of its creators is to compete with Corel Painter. 

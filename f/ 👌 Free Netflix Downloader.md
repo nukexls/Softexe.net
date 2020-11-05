@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Free Netflix Downloader 1.0.6 - Free Download
 
-```sh
-Free Netflix Downloader is a program for downloading movies from Netflix to your computer. This will allow you to later view your favorite series and movies without access to the Internet. The application is not an official proposal of Netflix.
-```
+> Free Netflix Downloader is a program for downloading movies from Netflix to your computer. This will allow you to later view your favorite series and movies without access to the Internet. The application is not an official proposal of Netflix.
+
 [![Free Netflix Downloader](https://gallery.dpcdn.pl/imgc/Tools/73097/g_-_420x350_1.5_-_x20161228132247_0.png)](https://softexe.net/win/internet/file-downloader/free-netflix-downloader:ppbda.html)
 
 The operation of the program is very simple, and the service will certainly cope with any user. All you have to do is log in to the site, and then select the material you want to download to be added to the list of downloaded files. The application allows you to download many recordings at the same time, and choose the appropriate language for each one (if the material is available in several).

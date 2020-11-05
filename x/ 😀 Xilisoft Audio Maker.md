@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/xilisoft-audio-maker-11183.png) Xilisoft Audio Maker 6.5.0 build 20170209 - Free Download
 
-```sh
-Xilisoft Audio Maker is a multifunctional tool for converting and recording audio files. The application allows you to process several files at once, as well as rip entire contents from discs and save them in MP3 format. It supports all the most popular audio formats, including; MP3, WAV, MP2, OGG, AAC, AC3 and FLAC.
-```
+> Xilisoft Audio Maker is a multifunctional tool for converting and recording audio files. The application allows you to process several files at once, as well as rip entire contents from discs and save them in MP3 format. It supports all the most popular audio formats, including; MP3, WAV, MP2, OGG, AAC, AC3 and FLAC.
+
 [![Xilisoft Audio Maker](https://gallery.dpcdn.pl/imgc/Tools/8114/g_-_420x350_1.5_-_x20120412123401_00.png)](https://softexe.net/win/multimedia/audio-utilities/xilisoft-audio-maker:ppphc.html)
 
 The program is very easy to use and most importantly contains all the most important functions for managing and converting audio files. The process of converting, ripping and recording data is carried out in the same way. At the beginning, we configure the user profile, ie select the appropriate format and set the sound quality, coding mode, sampling frequency and the amount of bitratre. Then add files to the list and start the process we have chosen.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/dragon-mania-legends-9147.png) Dragon Mania Legends  - Free Download
 
-```sh
-Dragon Mania Legends is a game in which we will be able to collect przesympatyczny dragons, and then put them to fight against various opponents.
-```
+> Dragon Mania Legends is a game in which we will be able to collect przesympatyczny dragons, and then put them to fight against various opponents.
+
 [![Dragon Mania Legends](https://gallery.dpcdn.pl/imgc/Tools/89625/g_-_420x350_1.5_-_xfeb6005a-903a-4b12-bddc-1c40fc1b449a.jpg)](https://softexe.net/win/games-entertainment/rpg/dragon-mania-legends:apdg.html)
 
 We are dealing here with production offering elements of strategy and RPG. Dragon Mania Legends, because of the basic assumptions in the fun mechanics, can arouse associations with the incredibly popular game Pokemon GO! In contrast to the work of the Niantic studio, Dragon Mania Legends contains a system of expanding the island, which is one of the many areas that make up Dragonlandia, a fantastic universe where the action of the described production takes place.

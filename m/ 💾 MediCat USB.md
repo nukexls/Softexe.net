@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) MediCat USB 18.10 - Free Download
 
-```sh
-MediCat USB is a free and life-saving rescue environment that allows you to repair your computer during an operating system failure or after malware infection.
-```
+> MediCat USB is a free and life-saving rescue environment that allows you to repair your computer during an operating system failure or after malware infection.
+
 [![MediCat USB](https://gallery.dpcdn.pl/imgc/Tools/90924/g_-_420x350_1.5_-_x9b2fabd9-b1a6-4143-b6b9-3ad1ede86603.png)](https://softexe.net/win/system/other/medicat-usb:hcpb.html)
 
 The described software has been made available in the form of a bootable ISO disk image, which should be placed on a USB stick (eg using the Rufus tool ), and then the computer should be started via it. MediCat USB allows the user to run a special edition of Windows 10, in which specialized tools designed to remove many problems with the operating system have been installed.

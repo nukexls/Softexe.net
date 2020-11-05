@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Intel+Processor+Diagnostic+Tool icon&w=40&h=40) Intel Processor Diagnostic Tool 4.1.4.36 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Intel Processor Diagnostic Tool 4.1.4.36 - Free Download
 
-```sh
-The Intel Processor Diagnostic Tool is a diagnostic tool for processors manufactured by Intel, which will test the operation and stability of your CPU.
-```
+> The Intel Processor Diagnostic Tool is a diagnostic tool for processors manufactured by Intel, which will test the operation and stability of your CPU.
+
 [![Intel Processor Diagnostic Tool](https://gallery.dpcdn.pl/imgc/Tools/82674/g_-_420x350_1.5_-_x241d4d06-27d7-47e8-98be-1b224976dda7.jpg)](https://softexe.net/win/system/diagnostics-tests/intel-processor-diagnostic-tool:haag.html)
 
 The user can choose one of the three modes of the Intel Processor Diagnostic Tool before starting the test: quick (Quick Test), full (Full Functional Test) and the maximum load (Burn In Test), as well as specify various parameters, including the time of loading the system or also the temperature tolerance of the processor. 

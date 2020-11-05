@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Doomsday+Engine icon&w=40&h=40) Doomsday Engine 2.0.3 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Doomsday Engine 2.0.3 - Free Download
 
-```sh
-Doomsday Engine is another, extremely refined attempt to restore the classic Doom and games based on the same engine to favor in a world where you've forgotten what it was DOS. Not everyone wants to be involved in running old hits under Windows, for example, so a thriving fan scene meets them, correcting technology errors from the original and the entire graphics.
-```
+> Doomsday Engine is another, extremely refined attempt to restore the classic Doom and games based on the same engine to favor in a world where you've forgotten what it was DOS. Not everyone wants to be involved in running old hits under Windows, for example, so a thriving fan scene meets them, correcting technology errors from the original and the entire graphics.
+
 [![Doomsday Engine](https://gallery.dpcdn.pl/imgc/Tools/63639/g_-_420x350_1.5_-_x20151118115811_0.jpg)](https://softexe.net/win/games-entertainment/shooters/doomsday-engine:pRdba.html)
 
 The initial configuration boils down to indicating various WAD files with individual data compatible with the game program plus any add-ons that are to be loaded automatically. Among other things, various 3D models are supported, replacing two-dimensional objects and opponents. After the start of the right fun, it immediately catches the eye with a much higher image resolution, great lighting effects, as well as full freedom in looking around. Doomsday Engine can do much more, however.

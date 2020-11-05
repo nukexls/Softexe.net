@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Rise+of+Incarnates icon&w=40&h=40) Rise of Incarnates  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Rise of Incarnates  - Free Download
 
-```sh
-Rise of Incarnates is a great futuristic TPP brawl that is the work of the Japanese studio Bandai Namco, known mainly from a series of games such as Tekken or SoulCalibur.
-```
+> Rise of Incarnates is a great futuristic TPP brawl that is the work of the Japanese studio Bandai Namco, known mainly from a series of games such as Tekken or SoulCalibur.
+
 [![Rise of Incarnates](https://gallery.dpcdn.pl/imgc/Tools/57199/g_-_420x350_1.5_-_x20150220162651_0.jpg)](https://softexe.net/win/system/archive-programs/rise-of-incarnates:pbecg.html)
 
 The creators have in an interesting way combined the aspects of comics with the real world. The elaborate and rather peculiar characters take part in an action in the area of ​​several well-known global metropolises (New York, San Francisco, London) ruined by a series of inexplicable cataclysms.

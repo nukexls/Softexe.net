@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/winaero-tweaker-7646.png) Winaero Tweaker 0.17.1.0 - Free Download
 
-```sh
-Winaero Tweaker is a portable system utility for customizing the appearance and additional functionality of Windows operating systems, including the "dozens"
-```
+> Winaero Tweaker is a portable system utility for customizing the appearance and additional functionality of Windows operating systems, including the "dozens"
+
 [![Winaero Tweaker](https://gallery.dpcdn.pl/imgc/Tools/57858/g_-_420x350_1.5_-_x20150326131338_0.png)](https://softexe.net/win/system/desktop/winaero-tweaker:gfdf.html)
 
 Winaero Tweaker is a portable system utility for customizing the appearance and additional functionality of Windows operating systems, including the "dozens". The program allows you to change the display of Aero themes colors, disk labels (letters), cursors and mouse pointers, sound notifications, window border widths, menus, icons, system fonts, automatic system updates, account activation and many other parameters.

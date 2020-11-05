@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/kaspersky-internet-security-2019-10204.png) Kaspersky Internet Security 2019 19.0.0.1088a  - Free Download
 
-```sh
-Kaspersky Internet Security is a security package that provides comprehensive protection for PCs against all types of threats.
-```
+> Kaspersky Internet Security is a security package that provides comprehensive protection for PCs against all types of threats.
+
 [![Kaspersky Internet Security 2019](https://gallery.dpcdn.pl/imgc/Tools/69/g_-_420x350_1.5_-_x20150729174644_0.png)](https://softexe.net/win/security-privacy/antivirus/kaspersky-internet-security-2019:pRbRd.html)
 
 It is based on the Kaspersky Anti-Virus antivirus program. It is also equipped with a personal firewall. Laptop users can define separate firewall modes for different networks - the Internet, local area network and trusted network. The program also allows you to work in "stealth mode", in which the user's computer will be completely invisible on the network. Antispam filter is supervised above the mail.

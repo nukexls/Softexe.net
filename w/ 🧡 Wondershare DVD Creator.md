@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/wondershare-dvd-creator-8969.png) Wondershare DVD Creator 6.3.1 - Free Download
 
-```sh
-Wondershare DVD Creator is an uncomplicated tool directed to home users, allowing to create effective slide shows from photos and various types of audio / video materials.
-```
+> Wondershare DVD Creator is an uncomplicated tool directed to home users, allowing to create effective slide shows from photos and various types of audio / video materials.
+
 [![Wondershare DVD Creator](https://gallery.dpcdn.pl/imgc/Tools/21152/g_-_420x350_1.5_-_x20130828220541_0.png)](https://softexe.net/win/multimedia/graphics-design/wondershare-dvd-creator:hafa.html)
 
 This program supports almost all of the most popular image file formats, video and soundtracks. After importing all materials to the project, the user has the ability to easily and conveniently edit particular aspects of the created slide show. The features offered by the application allow you to apply text to your photos, determine the effects of transitions, or enrich the presentation with a background sound. All introduced changes are visible in the preview in real time. The user can also view the end result in an integrated DVD player emulator at any time.

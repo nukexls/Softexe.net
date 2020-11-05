@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/mediapurge-8744.png) Mediapurge 7.11 - Free Download
 
-```sh
-MediaPurge is a free application that offers tools that allow you to manage your own multimedia library.
-```
+> MediaPurge is a free application that offers tools that allow you to manage your own multimedia library.
+
 [![Mediapurge](https://gallery.dpcdn.pl/imgc/Tools/71711/g_-_420x350_1.5_-_x20161003215913_0.png)](https://softexe.net/win/multimedia/other/mediapurge:hgdd.html)
 
 The tool allows you to find duplicate files thanks to the option of comparing two media based on size and tags. But that's not all, because MediaPurge can automatically edit, copy or delete ID3 tags, rename files based on tags or generate and assign tags with its name.

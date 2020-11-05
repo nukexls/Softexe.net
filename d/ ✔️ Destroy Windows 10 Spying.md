@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/destroy-windows-10-spying-1867.png) Destroy Windows 10 Spying 2.2.2.2 - Free Download
 
-```sh
-Destroy Windows 10 Spying is a small portable utility that allows you to quickly and easily disable telemetry parameters in Windows 7/8/10, which are responsible for tracking user activity and then sending detailed reports
-```
+> Destroy Windows 10 Spying is a small portable utility that allows you to quickly and easily disable telemetry parameters in Windows 7/8/10, which are responsible for tracking user activity and then sending detailed reports
+
 [![Destroy Windows 10 Spying](https://gallery.dpcdn.pl/imgc/Tools/62208/g_-_420x350_1.5_-_x20150929214808_0.png)](https://softexe.net/win/system/tweaking-optimizing/destroy-windows-10-spying:phfg.html)
 
 Destroy Windows 10 Spying is a small portable utility that allows you to quickly and easily disable telemetry parameters in Windows 7/8/10, which are responsible for tracking user activity and then sending detailed reports to Microsoft’s servers.

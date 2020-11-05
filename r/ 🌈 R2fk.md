@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=R2fk icon&w=40&h=40) R2fk 10.01.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) R2fk 10.01.0 - Free Download
 
-```sh
-The program of the Wroclaw company Reset2 to conduct full and simplified accounting.
-```
+> The program of the Wroclaw company Reset2 to conduct full and simplified accounting.
+
 [![R2fk](https://gallery.dpcdn.pl/imgc/Tools/29063/g_-_420x350_1.5_-_x20130927151320_0.png)](https://softexe.net/win/business/finance/r2fk:ppbdh.html)
 
 R2fk enables accounting in the form of full accounting or, optionally, in the form of a book of revenues and expenditures, or a flat-rate register of revenues, creation of VAT purchase and sale registers as well as storing information on fixed assets and equipment of the company.

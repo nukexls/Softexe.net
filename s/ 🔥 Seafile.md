@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/seafile-8256.png) Seafile 7.0.5 - Free Download
 
-```sh
-Seafile is a tool that allows you to share and synchronize files between multiple devices.
-```
+> Seafile is a tool that allows you to share and synchronize files between multiple devices.
+
 [![Seafile](https://gallery.dpcdn.pl/imgc/Tools/90966/g_-_420x350_1.5_-_x8d7bc4da-6468-4445-ab38-e446793677c1.jpg)](https://softexe.net/win/disks-files/compare-sync/seafile:hbef.html)
 
 The perfect solution for enterprises

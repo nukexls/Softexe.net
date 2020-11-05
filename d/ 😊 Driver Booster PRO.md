@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/driver-booster-pro-10095.png) Driver Booster PRO 5.1.0.557 - Free Download
 
-```sh
-Driver Booster PRO is an extended edition of an extremely popular tool designed for comprehensive device driver support in Windows. Thanks to it, it is possible to update outdated drivers, install missing components or back up drivers.
-```
+> Driver Booster PRO is an extended edition of an extremely popular tool designed for comprehensive device driver support in Windows. Thanks to it, it is possible to update outdated drivers, install missing components or back up drivers.
+
 [![Driver Booster PRO](https://gallery.dpcdn.pl/imgc/Tools/83201/g_-_420x350_1.5_-_xa9879b55-18f6-43e2-bac6-50d9acb3833d.png)](https://softexe.net/win/disks-files/hdd-utilities/driver-booster-pro:pRRae.html)
 
 The program is characterized by very simple operation and high speed of operation. Its main task is to scan the computer, detect outdated device drivers, and then update them. Driver Booster PRO perfectly handles non-standard devices that the user can not find drivers and / or other tools of this type have failed.

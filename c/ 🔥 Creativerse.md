@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/creativerse-11052.png) Creativerse 1.1 - Free Download
 
-```sh
-The phenomenal Minecraft game is constantly developed, but it's hard not to resist the impression that its clones are a bit more eager to modernize the game. The free Creativerse project not only offers a much better graphic frame in comparison to the original, but also a lot of novelties purely on the theme of enjoying the fun in the open world. Holders of fast PCs certainly will not complain about this product.
-```
+> The phenomenal Minecraft game is constantly developed, but it's hard not to resist the impression that its clones are a bit more eager to modernize the game. The free Creativerse project not only offers a much better graphic frame in comparison to the original, but also a lot of novelties purely on the theme of enjoying the fun in the open world. Holders of fast PCs certainly will not complain about this product.
+
 [![Creativerse](https://gallery.dpcdn.pl/imgc/Tools/64437/g_-_420x350_1.5_-_x20151228125958_0.jpg)](https://softexe.net/win/games-entertainment/shooters/creativerse:ppReb.html)
 
 The player is thrown into a huge sandbox, in which he can practically do anything. Extracting blocks and raw materials is of course the basis of the game. In addition, there are clashes with visually made monsters of all sorts, plus naturally preparing items from items collected along the way. Building construction is simple and accurate, even thanks to the option of rotating parts.

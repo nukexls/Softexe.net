@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/mindomo-8978.png) Mindomo 9.3.6 - Free Download
 
-```sh
-Mindomo is a free application for creating mind maps (so-called mind maps) that facilitate describing complex issues, projects, etc. in a comprehensible way.
-```
+> Mindomo is a free application for creating mind maps (so-called mind maps) that facilitate describing complex issues, projects, etc. in a comprehensible way.
+
 [![Mindomo](https://gallery.dpcdn.pl/imgc/Tools/80340/g_-_420x350_1.5_-_xd2a1ff0d-e8ee-48d8-9912-1f4e67284b47.png)](https://softexe.net/win/business/other/mindomo:hagh.html)
 
 The program is mainly addressed to students and students as a tool to improve the learning and memorizing process. However, it can also be used successfully for easy presentation of ideas and action plans. Thanks to the large possibilities beyond the standard creation of simple schemas, Mindomo also allows you to add various types of multimedia and links to external sources.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Fallout+Shelter icon&w=40&h=40) Fallout Shelter 1.10 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Fallout Shelter 1.10 - Free Download
 
-```sh
-Fallout Shelter is a game set in the world of the popular Fallout RPG series, transferred to the PC directly from mobile devices. It allows you to create and develop your own shelter, which brings it closer to the genre of simple economic games.
-```
+> Fallout Shelter is a game set in the world of the popular Fallout RPG series, transferred to the PC directly from mobile devices. It allows you to create and develop your own shelter, which brings it closer to the genre of simple economic games.
+
 [![Fallout Shelter](https://gallery.dpcdn.pl/imgc/Tools/69388/g_-_420x350_1.5_-_x20160714232158_0.png)](https://softexe.net/win/games-entertainment/simulators/fallout-shelter:pppad.html)
 
 The atmosphere of the series introduces us to a properly prepared menu. We start the adventure with the game by naming your crypt by giving it a number. Fallout Shelter allows you to have several crypts, each as a separate game. Traditionally, at the beginning we also have a short guide explaining the basic assumptions and dependencies.

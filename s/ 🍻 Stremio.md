@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/stremio-11395.png) Stremio 3.6.5 - Free Download
 
-```sh
-Stremio is an extensive multimedia software for movie lovers, TV series and programs, as well as other, diverse materials (e.g. those made available through YouTube).
-```
+> Stremio is an extensive multimedia software for movie lovers, TV series and programs, as well as other, diverse materials (e.g. those made available through YouTube).
+
 [![Stremio](https://gallery.dpcdn.pl/imgc/Tools/63928/g_-_420x350_1.5_-_x20151130200057_0.png)](https://softexe.net/win/multimedia/other/stremio:ppcae.html)
 
 With Stremio, we can organize and follow information on favorite TV series, movies and TV programs and download subtitles. After proper configuration of the tool, the mentioned content can be launched not only on the computer, but also on selected mobile devices.

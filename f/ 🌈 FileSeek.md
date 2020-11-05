@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/fileseek-2620.png) FileSeek 6.4 - Free Download
 
-```sh
-FileSeek is an advanced utility for searching files on your computer according to different criteria.
-```
+> FileSeek is an advanced utility for searching files on your computer according to different criteria.
+
 [![FileSeek](https://gallery.dpcdn.pl/imgc/Tools/80372/g_-_420x350_1.5_-_xe17d6947-eec4-46fe-bac3-4dbef2407255.jpg)](https://softexe.net/win/disks-files/file-search/fileseek:bfbR.html)
 
 FileSeek is an advanced utility for searching files on your computer by different criteria. Periodically, users encounter difficulties in finding any files that are lost on the PC. Manual search is very tedious, and it takes considerable time. It is better to use special programs for this, one of which is FileSeek.

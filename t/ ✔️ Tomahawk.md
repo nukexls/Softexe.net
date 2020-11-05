@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/tomahawk-10986.png) Tomahawk 0.8.4 - Free Download
 
-```sh
-Tomahawk is a media player for Windows focused on support for music available online, as well as cooperation with numerous additions.
-```
+> Tomahawk is a media player for Windows focused on support for music available online, as well as cooperation with numerous additions.
+
 [![Tomahawk](https:https://tse2.mm.bing.net/th?id=OIP.Lqg7ZsOf3ch-s88hbsAu6wHaFE&pid=Api)](https://softexe.net/win/multimedia/audio-video-players/tomahawk:pRahf.html)
 
 The program enables the playback of a wide range of materials from various sources. Using Tomahawk, we will open a library of songs from the computer's memory, as well as the server, the network, as well as popular services. We can then search and play content from YouTube or Skreemr and others. In addition, the program uses external tools like Playdar or Echonest (intelligent playlists). This allows, among other things, the use of suggestions on similar artists or genres. In this way, we can create playlists based on the length of the song, tags, song energy or volume.

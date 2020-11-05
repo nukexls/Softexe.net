@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/genopro-10147.png) GenoPro 2019 3.0.1.5 - Free Download
 
-```sh
-GenoPro is an extensive program for building graphic family trees in the form of genograms equipped with a mechanism for creating tabular reports and statistics about the family, available in the Polish language version.
-```
+> GenoPro is an extensive program for building graphic family trees in the form of genograms equipped with a mechanism for creating tabular reports and statistics about the family, available in the Polish language version.
+
 [![GenoPro](https://gallery.dpcdn.pl/imgc/Tools/11632/g_-_420x350_1.5_-_x20141217155513_0.png)](https://softexe.net/win/hobbies-lifestyle/other/genopro:pRpdg.html)
 
 We start work with GenoPro from a blank page, on which we can apply more people, and then combine them into pairs and add offspring. If we are not satisfied with manually adding people and relations between them, we can use the Family Assistant function, which will generate appropriate objects in the genogram immediately based on the data entered in the wizard.

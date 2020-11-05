@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/renee-becca-9223.png) Renee Becca 2019.7.46.276 - Free Download
 
-```sh
-Renee Becca is a backup and recovery tool.
-```
+> Renee Becca is a backup and recovery tool.
+
 [![Renee Becca](https://gallery.dpcdn.pl/imgc/Tools/85357/g_-_420x350_1.5_-_x5af4abdc-052c-4ca3-bf58-65d7a6c5fb8a.jpg)](https://softexe.net/win/disks-files/data-recovery/renee-becca:abbc.html)
 
 This program has been equipped with a very clear interface based on tabs. From the main window, we can choose one of the basic functionalities (backup, restore and cloning), as well as gain access to additional tools for disk management, HDD removal or a designated partition. It is also possible to recover data without a backup, but in this case the authors direct the user to the Renee Undeleter page from which the application can be downloaded.

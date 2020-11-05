@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=KaliBronek icon&w=40&h=40) KaliBronek 2.1.3 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) KaliBronek 2.1.3 - Free Download
 
-```sh
-KaliBronek is a tool for calibrating raster in a CAD environment, which in addition to the calibration itself also allows convenient editing and management of raster images.
-```
+> KaliBronek is a tool for calibrating raster in a CAD environment, which in addition to the calibration itself also allows convenient editing and management of raster images.
+
 [![KaliBronek](https:https://tse3.mm.bing.net/th?id=OIP.fdFbb-9ewjuAgjxwONt0YQHaGi&pid=Api)](https://softexe.net/win/business/other/kalibronek:pRhgb.html)
 
 The program uses a unique way of specifying customization points. It consists in plotting in CAD the usual lines connecting points on the raster with the target points in the drawing. This gives a lot of control over the calibration process and makes it easy to edit adjustment points. In addition, the entire process can be significantly accelerated in the case of maps containing a cross-mesh, thanks to a special tool for "quick calibration on the grid".

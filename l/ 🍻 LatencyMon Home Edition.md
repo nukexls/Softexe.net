@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=LatencyMon+Home+Edition icon&w=40&h=40) LatencyMon Home Edition 6.71 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) LatencyMon Home Edition 6.71 - Free Download
 
-```sh
-LatencyMon Home Edition is a free edition of the tool, with the help of which we can check what slows down our computer and makes it even difficult to watch multimedia files, including streamed online content. By checking the delays, we will identify possible culprits and we will know what exactly is wrong in the system.
-```
+> LatencyMon Home Edition is a free edition of the tool, with the help of which we can check what slows down our computer and makes it even difficult to watch multimedia files, including streamed online content. By checking the delays, we will identify possible culprits and we will know what exactly is wrong in the system.
+
 [![LatencyMon Home Edition](https://gallery.dpcdn.pl/imgc/Tools/59161/g_-_420x350_1.5_-_x20150530205715_0.jpg)](https://softexe.net/win/system/diagnostics-tests/latencymon-home-edition:pRppa.html)
 
 If you are dealing with clear, noticeable lags (delays) while watching video files and when performing different actions on them, then it is possible that one of the running processes or a malfunctioning driver is a problem. With this application you can track the cause of problems and analyze your system for occurring delays. All you need to do is run the monitoring and the program will start collecting all the information you need, presenting it in several tabs.

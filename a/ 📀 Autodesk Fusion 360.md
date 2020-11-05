@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/autodesk-fusion-360-8487.png) Autodesk Fusion 360 2.0.8749 - Free Download
 
-```sh
-Autodesk Fusion 360 is a complete, though simple solution for product design. In addition to modeling, you can perform a simulated strength test and prepare parts for production. Fusion 360 also allows team work and file sharing in the cloud.
-```
+> Autodesk Fusion 360 is a complete, though simple solution for product design. In addition to modeling, you can perform a simulated strength test and prepare parts for production. Fusion 360 also allows team work and file sharing in the cloud.
+
 [![Autodesk Fusion 360](https://gallery.dpcdn.pl/imgc/Tools/67300/g_-_420x350_1.5_-_x20160418155933_0.png)](https://softexe.net/win/multimedia/cad/autodesk-fusion-360:hdhg.html)
 
 Fusion 360 provides a complete collection of modeling tools, including sculpting, creating parametric models, working with voxels and a solid mesh. Parts and additional materials can be stored in the library. 

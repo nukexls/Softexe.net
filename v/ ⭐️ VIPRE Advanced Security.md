@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/vipre-advanced-security-10852.png) VIPRE Advanced Security 10.1.4.28 - Free Download
 
-```sh
-VIPRE Advanced Security is an application to protect your privacy during everyday use of the Internet. It can be a useful supplement to a traditional antivirus program.
-```
+> VIPRE Advanced Security is an application to protect your privacy during everyday use of the Internet. It can be a useful supplement to a traditional antivirus program.
+
 [![VIPRE Advanced Security](https:https://tse3.mm.bing.net/th?id=OIP.z7M1cHrwxEK7iDTETpH9vAHaFU&pid=Api)](https://softexe.net/win/security-privacy/data-protection/vipre-advanced-security:pRheb.html)
 
 VIPRE Advanced Security will minimize the risk of malware on your computer, protecting it against a variety of network threats, such as keyloggers, rootkits, Trojans and exploits. Not all such files will be detected by the antivirus program so fast that they can be safely removed before they start operating, which is why it is worth using an additional tool, which is VIPRE Advanced Security.

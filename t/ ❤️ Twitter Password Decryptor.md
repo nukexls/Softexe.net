@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/twitter-password-decryptor-9377.png) Twitter Password Decryptor 10.0 - Free Download
 
-```sh
-Twitter Password Decryptor is a small and free data recovery tool required to log in to Twitter.
-```
+> Twitter Password Decryptor is a small and free data recovery tool required to log in to Twitter.
+
 [![Twitter Password Decryptor](https://gallery.dpcdn.pl/imgc/Tools/55716/g_-_420x350_1.5_-_x20141128173330_0.png)](https://softexe.net/win/security-privacy/passwords/twitter-password-decryptor:acgg.html)
 
 The program allows you to recover your username and password to our profile on the Twitter social network, which is stored in your web browser. It allows you to efficiently search and decrypt the data you need, if in the past, we have successfully logged in to Twitter on the previous occasion. Twitter Password Decryptor automatically searches for supported applications on the computer, and then instantly recovers all logins and passwords from the information collected by it and presents them in the form of a list.

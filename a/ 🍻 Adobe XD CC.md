@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Adobe XD CC 29.0.32  - Free Download
 
-```sh
-Adobe Experience Design CC is a new program designed to design prototyping of web and mobile application interfaces. The program includes all the tools necessary to develop the interface and application behavior, including navigation and typography.
-```
+> Adobe Experience Design CC is a new program designed to design prototyping of web and mobile application interfaces. The program includes all the tools necessary to develop the interface and application behavior, including navigation and typography.
+
 [![Adobe XD CC](https:https://tse2.mm.bing.net/th?id=OIP.r8kdMEHsCQObNGBBzWgF-wHaE_&pid=Api)](https://softexe.net/win/development-it/web-applications/adobe-xd-cc:pRghc.html)
 
 The program was created from scratch for quick and convenient design of applications without programming. You can move between the view of the visual design and the prototype of the application and run it to test your ideas. Many tasks, such as creating nets or duplicating screens, have been automated. Changes are made in real time. In addition, you can create skeletons and instantly share projects with other team members using Adobe Creative Cloud solutions.

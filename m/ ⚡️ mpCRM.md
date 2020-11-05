@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=mpCRM icon&w=40&h=40) mpCRM 20.2.17 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) mpCRM 20.2.17 - Free Download
 
-```sh
-mpCRM is a CRM class program, a system for managing customer relations. It enables creating and processing a contact database (people, companies, partners), planning tasks related to them, keeping a contact history, organizing advertising campaigns, conducting mailings, etc.
-```
+> mpCRM is a CRM class program, a system for managing customer relations. It enables creating and processing a contact database (people, companies, partners), planning tasks related to them, keeping a contact history, organizing advertising campaigns, conducting mailings, etc.
+
 [![mpCRM](https://gallery.dpcdn.pl/imgc/Tools/54842/g_-_420x350_1.5_-_x20141017130808_0.png)](https://softexe.net/win/business/management/mpcrm:accg.html)
 
 MpCRM software has an integrated system for sending newsletters and mailings. Thanks to this, you do not need any additional applications or online solutions to carry out mailing campaigns. mpCRM also allows mass distribution of SMS messages. Thanks to this, you can easily run an SMS campaign. As one of the few solutions on the market, the program also allows you to receive SMS messages. To use this, you must have a valid account with our SMS partner.

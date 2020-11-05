@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) iTALC 3.0.3 - Free Download
 
-```sh
-iTALC (short for: intelligently Teaching And Learning with Computer) is a free tool for remote control and computer management, created for school computer rooms. It gives the teacher the opportunity to exercise comprehensive control over workstations running Windows and Linux.
-```
+> iTALC (short for: intelligently Teaching And Learning with Computer) is a free tool for remote control and computer management, created for school computer rooms. It gives the teacher the opportunity to exercise comprehensive control over workstations running Windows and Linux.
+
 [![iTALC](https:https://tse1.explicit.bing.net/th?id=OIP.hjKVSnVt9BnY-FwCjnphAgHaEK&pid=Api)](https://softexe.net/win/hobbies-lifestyle/other/italc:ppbbp.html)
 
 The program was written in C ++ using the Qt library. All available functions are implemented using the RFB protocol using a TCP connection. In most cases, iTALC is used to control computers located within a local area network, such as a school classroom, but it also allows the student to connect to the computer at home - a VPN connection is used for this purpose. The tool works well in mixed environments, including workstations with Windows and Linux.

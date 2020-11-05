@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/robomind-13098.png) RoboMind 4.3 - Free Download
 
-```sh
-RoboMind is an educational environment designed for younger computer users. It allows you to learn the basics of programming, as well as familiarize yourself with the basic principles of logic, computer science or robotics.
-```
+> RoboMind is an educational environment designed for younger computer users. It allows you to learn the basics of programming, as well as familiarize yourself with the basic principles of logic, computer science or robotics.
+
 [![RoboMind](https://gallery.dpcdn.pl/imgc/Tools/15289/g_-_420x350_1.5_-_x20130403174138_00.png)](https://softexe.net/win/hobbies-lifestyle/other/robomind:pcRah.html)
 
 The software was created to support technical education around the world. It is intended mainly for younger audiences - primary and junior high school students, allowing them to learn the basics of programming. Work, and in principle learning with the program is done by controlling the robot, which is tasked to perform various activities on the board.

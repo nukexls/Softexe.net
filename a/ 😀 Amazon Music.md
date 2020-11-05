@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/amazon-music-9088.png) Amazon Music 7.13.0.2210 - Free Download
 
-```sh
-Amazon Music is Amazon's official application for managing the song library, which also offers the opportunity to purchase new songs.
-```
+> Amazon Music is Amazon's official application for managing the song library, which also offers the opportunity to purchase new songs.
+
 [![Amazon Music](https:https://tse3.mm.bing.net/th?id=OIP.AHlIkurD7sfGX2MdEN1WUQHaEI&pid=Api)](https://softexe.net/win/multimedia/other/amazon-music:aRhh.html)
 
 From the main window of the Amazon Music program, we have access to two main tabs: your library and store, thanks to which we can switch freely. This division also applies to the search engine, which allows you to quickly locate the songs available through the Amazon Music service and located in our local collection.

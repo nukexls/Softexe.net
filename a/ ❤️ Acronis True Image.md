@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/acronis-true-image-193.png) Acronis True Image 2021 Build 30480 - Free Download
 
-```sh
-Acronis True Image is one of the most popular tools for creating accurate images of hard disks and individual Windows partitions, so that any data and applications can be restored at any time. Works with any storage device
-```
+> Acronis True Image is one of the most popular tools for creating accurate images of hard disks and individual Windows partitions, so that any data and applications can be restored at any time. Works with any storage device
+
 [![Acronis True Image](https://gallery.dpcdn.pl/imgc/Tools/198/g_-_420x350_1.5_-_x20140918181705_0.png)](https://softexe.net/win/disks-files/hdd-utilities/acronis-true-image:pac.html)
 
 Acronis True Image is a powerful tool for creating accurate images of hard disks and individual partitions, including absolutely all data, applications and operating systems that can be restored at any time on the same or another computer directly to Windows without rebooting!

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) CodeTyphon 7.20 - Free Download
 
-```sh
-CodeTyphon is a set of free tools designed to create native applications in the language of pascal for platforms such as Windows, Linux, Mac OS, WinCE, Android or iOS.
-```
+> CodeTyphon is a set of free tools designed to create native applications in the language of pascal for platforms such as Windows, Linux, Mac OS, WinCE, Android or iOS.
+
 [![CodeTyphon](https:https://tse4.mm.bing.net/th?id=OIP.RV-Heq1BAPK47-D6m6bAPgHaGH&pid=Api)](https://softexe.net/win/development-it/environments/codetyphon:hcfg.html)
 
 The CodeTyphon package includes Free IDE Lazarus development environment, FreePascal compiler and additional tools, free components and libraries along with full sources and sample applications. Lazarus is a Free Pascal compiled development environment (IDE) modeled on and compatible with the Borland - Delphi program and the Lazarus Component Library (LCL) libraries, which are the equivalent of VCL.

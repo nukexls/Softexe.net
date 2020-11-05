@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/meshmixer-10256.png) Meshmixer 3.5 - Free Download
 
-```sh
-Meshmixer is a program for preparing ready-made 3D models for printing. The program can combine several models into one, design supports, apply texture surfaces and fine-tune the details before printing.
-```
+> Meshmixer is a program for preparing ready-made 3D models for printing. The program can combine several models into one, design supports, apply texture surfaces and fine-tune the details before printing.
+
 [![Meshmixer](https://gallery.dpcdn.pl/imgc/Tools/67330/g_-_420x350_1.5_-_x20160419174439_0.png)](https://softexe.net/win/multimedia/graphics-design/meshmixer:pRbef.html)
 
 Models can be opened from the disk (in OBJ format), from the sample library or from the 123D cloud, and then arranged in the virtual chamber of the selected printer. They can also be resized to fit on the printing platform. 

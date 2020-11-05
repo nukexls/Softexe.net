@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/msi-afterburner-4516.png) MSI Afterburner 4.6.2 - Free Download
 
-```sh
-MSI Afterburner is a real find for a true overclocker with which you can overclock NVIDIA and AMD video cards. The utility includes tools for adjusting the rotational speed of the fans, the supply voltage of the GPU and the video memory
-```
+> MSI Afterburner is a real find for a true overclocker with which you can overclock NVIDIA and AMD video cards. The utility includes tools for adjusting the rotational speed of the fans, the supply voltage of the GPU and the video memory
+
 [![MSI Afterburner](https://gallery.dpcdn.pl/imgc/Tools/1790/g_-_420x350_1.5_-_x20110121003929_00.png)](https://softexe.net/win/system/monitoring/msi-afterburner:depf.html)
 
 MSI Afterburner is a functional utility from MSI, which is designed to overclock NVIDIA and AMD video cards. Using the program, you can adjust the power supply voltage of the GPU and the video memory, the core frequency, control the rotational speed of the fans, as well as monitor the status of the graphics card in real time, such as its current temperature, clock frequency, voltage, etc.

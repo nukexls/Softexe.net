@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Notezilla icon&w=40&h=40) Notezilla 8.0.41 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Notezilla 8.0.41 - Free Download
 
-```sh
-Notezilla is a useful tool that at first glance allows you to place colored cards with information on your Windows operating system desktop, but in fact offers much more options in this regard.
-```
+> Notezilla is a useful tool that at first glance allows you to place colored cards with information on your Windows operating system desktop, but in fact offers much more options in this regard.
+
 [![Notezilla](https:https://tse3.mm.bing.net/th?id=OIP.CgyXxGyyXanKdUikImCkRwHaJu&pid=Api)](https://softexe.net/win/system/other/notezilla:hgRR.html)
 
 The program offers the option of selecting the color of the card of a selected size, as well as adjusting the font and size of the text (it can be entered traditionally, but nothing prevents you from creating a bulleted list, for example). The created project can be placed on the desktop in a visible place, but that's not all, because Notezilla also allows you to add notes to text documents, folders, e-mails and websites.

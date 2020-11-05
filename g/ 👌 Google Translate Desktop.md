@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/google-translate-desktop-8169.png) Google Translate Desktop 1.93 - Free Download
 
-```sh
-Google Translate Desktop is a translating application that allows you to use Google Translator without having to launch a web browser.
-```
+> Google Translate Desktop is a translating application that allows you to use Google Translator without having to launch a web browser.
+
 [![Google Translate Desktop](https://gallery.dpcdn.pl/imgc/Tools/91017/g_-_420x350_1.5_-_xc81f75a8-807b-49d7-a157-564906bb308b.png)](https://softexe.net/win/education-science/languages/google-translate-desktop:hpfa.html)
 
 A small translator with support for over 50 languages

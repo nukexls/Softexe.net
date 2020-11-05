@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/sys-minion-8643.png) Sys Minion 1.6.24.0 - Free Download
 
-```sh
-Sys Minion is a program created to facilitate the use of advanced Windows functions usually available in text form for the command line. The application offers access to a dozen or so typical commands of this type, which in this case are run using traditional buttons from the menu with the user interface.
-```
+> Sys Minion is a program created to facilitate the use of advanced Windows functions usually available in text form for the command line. The application offers access to a dozen or so typical commands of this type, which in this case are run using traditional buttons from the menu with the user interface.
+
 [![Sys Minion](https://gallery.dpcdn.pl/imgc/Tools/77122/g_-_420x350_1.5_-_x20170808171111_0.png)](https://softexe.net/win/system/tweaking-optimizing/sys-minion:hfdc.html)
 
 In addition to the list of available options in the left part of the interface, we will also find here quite accurate descriptions of each of the functions that are displayed after selecting the command we are interested in. Unfortunately, at this moment it is not possible to modify the basic syntax (parameter changes).

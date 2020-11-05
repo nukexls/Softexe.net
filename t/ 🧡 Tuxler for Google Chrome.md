@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/tuxler-dla-google-chrome-10604.png) Tuxler for Google Chrome 2.1.2 - Free Download
 
-```sh
-Tuxler is a free VPN tool in the form of an overlay for Google Chrome, thanks to which we not only protect your privacy during everyday use of the network, but also gain access to all websites.
-```
+> Tuxler is a free VPN tool in the form of an overlay for Google Chrome, thanks to which we not only protect your privacy during everyday use of the network, but also gain access to all websites.
+
 [![Tuxler for Google Chrome](https:https://tse3.mm.bing.net/th?id=OIP.-tMd03tq8GyWKNjnNoPNpQHaEp&pid=Api)](https://softexe.net/win/internet/browser-add-ons/tuxler-for-google-chrome:pRfRd.html)
 
 Generally, it seems that every user can read the content of any web site, but in fact some of them are blocked for various reasons (eg to protect copyrights in a given territory). As a VPN client, Tuxler abolishes this limitation and at the same time makes the user anonymous.

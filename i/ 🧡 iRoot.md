@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/iroot-11180.png) iRoot 1.8.8 - Free Download
 
-```sh
-iRoot (formerly: vRoot) is a program for rooting with one button Android devices connected to a computer with a USB cable. Its interface is very simple, so everyone interested will be able to cope with this process.
-```
+> iRoot (formerly: vRoot) is a program for rooting with one button Android devices connected to a computer with a USB cable. Its interface is very simple, so everyone interested will be able to cope with this process.
+
 [![iRoot](https://gallery.dpcdn.pl/imgc/Tools/74137/g_-_420x350_1.5_-_x20170218223410_0.png)](https://softexe.net/win/hobbies-lifestyle/mobile/iroot:ppphR.html)
 
 Gaining root access will allow you to interfere in the operation of the Android system without any restrictions. The manufacturer informs that the program will cope with any Android device, but based on the mobile equivalent of the same application, it is possible to think that systems in versions 2.3 to 5.0 are supported.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/azuon-8138.png) Azuon 8.0.7508  - Free Download
 
-```sh
-Azuon is an interesting application that is certainly known to most people who travel frequently. It allows you to search the cheapest air connections between the selected locations in an easy way and taking into account many criteria.
-```
+> Azuon is an interesting application that is certainly known to most people who travel frequently. It allows you to search the cheapest air connections between the selected locations in an easy way and taking into account many criteria.
+
 [![Azuon](https://gallery.dpcdn.pl/imgc/Tools/57839/g_-_420x350_1.5_-_x20150325145331_0.png)](https://softexe.net/win/hobbies-lifestyle/other/azuon:hpch.html)
 
 The program is very simple and intuitive to use. In addition to the basic criteria of flight connections such as departure and arrival locations, number of transfers, checking return flights or time frames, it offers much more interesting options. We find among them the possibility of defining the number of travelers, filtering connections due to the cost of the flight, as well as performing payments with Visa cards.

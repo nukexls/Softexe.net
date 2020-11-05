@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/cyberlink-actiondirector-10700.png) CyberLink ActionDirector 3.0.2219.0 - Free Download
 
-```sh
-CyberLink ActionDirector is a powerful tool for creating movies recorded with the action camera. Thanks to it, we will prepare exciting and full of detail video materials in high image and sound quality.
-```
+> CyberLink ActionDirector is a powerful tool for creating movies recorded with the action camera. Thanks to it, we will prepare exciting and full of detail video materials in high image and sound quality.
+
 [![CyberLink ActionDirector](https:https://tse2.mm.bing.net/th?id=OIP.jQMLibW8c1It_ZXA1HQ-WgHaGo&pid=Api)](https://softexe.net/win/multimedia/video/cyberlink-actiondirector:pRgRR.html)
 
 All functions offered by CyberLink ActionDirector are available at your fingertips without having to "click through" between successive screens to find the options you need. Noteworthy is also fast video editing with a single button and an extremely neat, modern and at the same time clear user interface.

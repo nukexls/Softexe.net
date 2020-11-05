@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=DxO+Optics+Pro icon&w=40&h=40) DxO Optics Pro 11.4.2 Build 12373 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) DxO Optics Pro 11.4.2 Build 12373 - Free Download
 
-```sh
-DxO Optics Pro is an advanced electronic darkroom, a program for processing photos taken with a digital camera, which allows you to perform the entire process, from selecting photos to saving in the selected format. Unlike others, this program is very much based on the parameters of photographic equipment and thanks to this the processing parameters with its use are very well suited to the pictures.
-```
+> DxO Optics Pro is an advanced electronic darkroom, a program for processing photos taken with a digital camera, which allows you to perform the entire process, from selecting photos to saving in the selected format. Unlike others, this program is very much based on the parameters of photographic equipment and thanks to this the processing parameters with its use are very well suited to the pictures.
+
 [![DxO Optics Pro](https:https://tse4.mm.bing.net/th?id=OIP.OZTE8m7RXvNkxvuXylHvMAHaG8&pid=Api)](https://softexe.net/win/multimedia/graphics-design/dxo-optics-pro:pRhhc.html)
 
 Thanks to the extensive library of modules, DxO Optics is able to quickly and precisely remove the imperfections of images resulting from the construction of the camera and the lens. The filters were prepared in the DxO laboratory based on a very detailed analysis of the effects of work with combinations of cameras and lenses. Appropriate parameters allow to reduce the curvature and stretch of the image resulting from the use, for example, of a wide-angle lens, reduction of the vignette, sharpening and removal of chromatic aberrations. Of course, the same parameters can be used for many photos, thanks to which removing curves and discolorations from the entire session can be done with a few clicks.

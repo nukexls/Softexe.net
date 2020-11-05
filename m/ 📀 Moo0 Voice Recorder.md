@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/moo0-voice-recorder-10114.png) Moo0 Voice Recorder 1.46 - Free Download
 
-```sh
-Moo0 Voice Recorder is a very simple sound recorder for Windows, which allows you to capture and save any sounds from the operating environment and a microphone connected to the computer.
-```
+> Moo0 Voice Recorder is a very simple sound recorder for Windows, which allows you to capture and save any sounds from the operating environment and a microphone connected to the computer.
+
 [![Moo0 Voice Recorder](https://gallery.dpcdn.pl/imgc/Tools/15260/g_-_420x350_1.5_-_x20130402131438_00.png)](https://softexe.net/win/multimedia/other/moo0-voice-recorder:pRppd.html)
 
 The program allows you to work in as many as 3 different modes - Any PC Sound, Any PC Sound and Voice and Only Voice, which give you the ability to record sounds from your computer, computer sound and microphone signal, as well as only from a microphone. The captured audio track can be saved as MP3 or WAV files in quality from 32 to 320 kbps.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/neighbor-9807.png) Neighbor 1.1.0 - Free Download
 
-```sh
-Neighbor is a free BitTorrent client offering features that are not available in other applications of this type.
-```
+> Neighbor is a free BitTorrent client offering features that are not available in other applications of this type.
+
 [![Neighbor](https://gallery.dpcdn.pl/imgc/Tools/84916/g_-_420x350_1.5_-_x9a4b5637-bfa2-42bd-ad91-068b0b0b6b05.jpg)](https://softexe.net/win/internet/torrent-client/neighbor:ahRg.html)
 
 We will find here, among other things, the Neighbor protocol, thanks to which we will be able to take advantage of additional options, such as searching for torrents in other Neighbor clients or through the so-called. communities that operate on the principle of websites, where various torrents are stored (remote search of such files is possible). Neighbor also includes Webtorrent libraries, which makes the application not only support standard torrent network protocols.

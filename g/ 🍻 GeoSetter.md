@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/geosetter-10282.png) GeoSetter 3.5.1 - Free Download
 
-```sh
-GeoSetter is a free tool for Windows that allows you to display and manipulate data about the place where the image was taken and other information stored in metadata (IPTC / XMP / Exif) photography.
-```
+> GeoSetter is a free tool for Windows that allows you to display and manipulate data about the place where the image was taken and other information stored in metadata (IPTC / XMP / Exif) photography.
+
 [![GeoSetter](https://gallery.dpcdn.pl/imgc/Tools/32019/g_-_420x350_1.5_-_x20131024011741_0.png)](https://softexe.net/win/multimedia/other/geosetter:pRbhb.html)
 
 The program based on existing information displays on Google maps the exact location in which the photo was taken, also allowing the setting of geographical data based on a point on the map or geographic coordinates (length, width, height above sea level). The application can automatically supplement IPTC data and altitude values ​​by downloading coordinates from the Internet for a user-selected point on the map. GeoSetter allows synchronization of data collected within the program with NMEA, GPX, PLT, Sony LOG, IGC and other routes. It is also possible to export data to Google Earth.

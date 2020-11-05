@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Stickies 10.0d - Free Download
 
-```sh
-Stickies is a program that manages and displays on the screen stickers (windows) with information that resembles the appearance of yellow, self-adhesive Post-It® cards. Other programs of this type differ, among others the possibility of sending cards to another computer via a TCP / IP network or via an SMTP mail server. The program starts automatically when the operating system starts. Various program skins are available on the program's website.
-```
+> Stickies is a program that manages and displays on the screen stickers (windows) with information that resembles the appearance of yellow, self-adhesive Post-It® cards. Other programs of this type differ, among others the possibility of sending cards to another computer via a TCP / IP network or via an SMTP mail server. The program starts automatically when the operating system starts. Various program skins are available on the program's website.
+
 [![Stickies](https:https://tse2.mm.bing.net/th?id=OIP.Ye2rFDSWdoP35iGSAHJeswHaE1&pid=Api)](https://softexe.net/win/system/other/stickies:pRgRh.html)
 
 Basic features of the program

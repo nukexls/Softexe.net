@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/abcfaktury-8913.png) abcFaktury 19.12.9 - Free Download
 
-```sh
-abcFaktury is a billing program, with the possibility of issuing all types of commercial documents, notes, currency documents, as well as printing receipts and invoices on fiscal printers. abcFaktury can print on printers communicating with the Posnet, Thermal, Novitus, Elzab and Farex protocols.
-```
+> abcFaktury is a billing program, with the possibility of issuing all types of commercial documents, notes, currency documents, as well as printing receipts and invoices on fiscal printers. abcFaktury can print on printers communicating with the Posnet, Thermal, Novitus, Elzab and Farex protocols.
+
 [![abcFaktury](https://gallery.dpcdn.pl/imgc/Tools/76343/g_-_420x350_1.5_-_xd67fb0d9-6909-44aa-aa50-fcd539f7d1b7.png)](https://softexe.net/win/business/billing/abcfaktury:hapc.html)
 
 Attention! From January 1, 2018, the obligation to keep electronic VAT records and to submit them as a Uniform Control File (JPK) is introduced. The abcFaktura program is prepared for these changes and allows you to generate JPK-VAT, JPK-FA files.

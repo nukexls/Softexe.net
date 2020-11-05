@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/shotcut-8342.png) Shotcut 20.09.13 - Free Download
 
-```sh
-Shotcut is a free, open source application for non-linear video editing. The program allows you to quickly and easily edit clips, add special effects or render the final movie.
-```
+> Shotcut is a free, open source application for non-linear video editing. The program allows you to quickly and easily edit clips, add special effects or render the final movie.
+
 [![Shotcut](https://gallery.dpcdn.pl/imgc/Tools/17400/g_-_420x350_1.5_-_x20130628125431_00.png)](https://softexe.net/win/multimedia/video/shotcut:hcdb.html)
 
 The editor functions on a slightly different basis than the tools available on the market have accustomed us to. First of all, the application does not offer something like the time line on which we place video materials. In Shotcut we find a playlist of clips with defined time segments for rendering. Before adding a clip to the list of rendered materials, the user can apply several of the offered effects and filters.

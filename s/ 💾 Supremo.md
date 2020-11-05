@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/supremo-6687.png) Supremo 4.1.3.2348 - Free Download
 
-```sh
-Supremo is a tool for remote control of another computer, which will be a good helper for network administration, providing technical support via the Internet
-```
+> Supremo is a tool for remote control of another computer, which will be a good helper for network administration, providing technical support via the Internet
+
 [![Supremo](https://gallery.dpcdn.pl/imgc/Tools/21699/g_-_420x350_1.5_-_x20130906230403_0.png)](https://softexe.net/win/internet/network/supremo:ffhg.html)
 
 Supremo is a tool for remote control of another computer, which will be a good helper for network administration, providing online technical support, displaying your screen to other users, etc. The application does not require installation in the system and is immediately ready for use. You do not need to configure the firewall or router.

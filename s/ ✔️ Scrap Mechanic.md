@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Scrap Mechanic  - Free Download
 
-```sh
-Scrap Mechanic is an engineer simulator whose action takes place in an open world.
-```
+> Scrap Mechanic is an engineer simulator whose action takes place in an open world.
+
 [![Scrap Mechanic](https://gallery.dpcdn.pl/imgc/Tools/89629/g_-_420x350_1.5_-_xa1477e5d-8a0b-4127-bb97-9f0067fe69cd.jpg)](https://softexe.net/win/games-entertainment/simulators/scrap-mechanic:apdf.html)
 
 During the play, we explore a fully-automated agricultural planet, where we initially had to look after the robots that live in it. The space ship that our hero (or heroine) traveled accidently, but fortunately the protagonist escaped with his life. The problem is that the machines that were supposed to be dealt with were simply crazy in the world and are not willing to cooperate. The character we lead now begins a dramatic struggle for survival - this is the outline of the Scrap Mechanic, which will ultimately offer two modes: creative and survival (only the first of these is currently available).

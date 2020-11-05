@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/supercopier.gif) SuperCopier 2.2.4.5 - Free Download
 
-```sh
-SuperCopier - an application whose main purpose is to copy or move large amounts of data within multiple disks or a local network
-```
+> SuperCopier - an application whose main purpose is to copy or move large amounts of data within multiple disks or a local network
+
 [![SuperCopier](https://gallery.dpcdn.pl/imgc/Tools/80914/g_-_420x350_1.5_-_x980f6a05-a2f1-4396-aa6e-42e42830a6ee.jpg)](https://softexe.net/win/disks-files/file-managers/supercopier:ffgh.html)
 
 SuperCopier is an application whose main purpose is to copy or move large amounts of data within multiple disks or a local network.

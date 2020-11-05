@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/portraitpro-10638.png) PortraitPro 17.4.1 - Free Download
 
-```sh
-Portrait Professional is an advanced program for automatic portrait photo retouching, which combines great possibilities with the simplicity of the interface.
-```
+> Portrait Professional is an advanced program for automatic portrait photo retouching, which combines great possibilities with the simplicity of the interface.
+
 [![PortraitPro](https://gallery.dpcdn.pl/imgc/Tools/3016/g_-_420x350_1.5_-_x20110902144206_00.png)](https://softexe.net/win/multimedia/graphics-editors/portraitpro:pRfch.html)
 
 After marking the characteristic points of the face, the program allows you to embellish it with a single click. While maintaining the basic features of the face it is possible to align the eyes, give the face symmetry, slimming cheeks and chin. All actions require the user to only move the sliders representing the editing parameters. The "tuning" of the skin can be done in two ways. The whole can be improved with the option of automatic skin smoothing using the patented Clearskin technology, and for the local retouching of imperfections and wrinkles it is worth using the right brush. Changing the color of the lipstick, eyes and teeth whitening can also be done automatically, and additionally, it is possible to easily enlarge the pupils to obtain a more romantic portrait. 

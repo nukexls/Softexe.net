@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Twisted icon&w=40&h=40) Twisted  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Twisted  - Free Download
 
-```sh
-Twisted is an easy-to-follow, nice 2D platformer in which not only dexterity will count, but mainly good reflexes and perceptiveness. We are directing here the fate of a friendly chameleon whose mission is to reach the end of each of the following boards as soon as possible. Thanks to sophisticated ways of moving around and jumping over various obstacles, he is able to avoid contact with dangerous insects and other armed animals.
-```
+> Twisted is an easy-to-follow, nice 2D platformer in which not only dexterity will count, but mainly good reflexes and perceptiveness. We are directing here the fate of a friendly chameleon whose mission is to reach the end of each of the following boards as soon as possible. Thanks to sophisticated ways of moving around and jumping over various obstacles, he is able to avoid contact with dangerous insects and other armed animals.
+
 [![Twisted](https://gallery.dpcdn.pl/imgc/Tools/73138/g_-_420x350_1.5_-_x20161230152326_0.jpg)](https://softexe.net/win/games-entertainment/other/twisted:ppbca.html)
 
 The key, however, is to be happy to get to the finish line skillfully, quickly and most importantly, flawlessly changing body colors during practically the whole game, mainly when jumping from platform to platform.

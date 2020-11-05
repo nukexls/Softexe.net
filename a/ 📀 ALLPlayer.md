@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/allplayer-8710.png) ALLPlayer 8.8.3 - Free Download
 
-```sh
-ALLPlayer is the most downloaded, free program for watching movies and listening to music, which, thanks to the built-in codecs, can reproduce virtually any multimedia file format. Thanks to cooperation with the largest Napisy24.pl subtitle service, the program finds and downloads perfectly matched subtitles in every language.
-```
+> ALLPlayer is the most downloaded, free program for watching movies and listening to music, which, thanks to the built-in codecs, can reproduce virtually any multimedia file format. Thanks to cooperation with the largest Napisy24.pl subtitle service, the program finds and downloads perfectly matched subtitles in every language.
+
 [![ALLPlayer](https://gallery.dpcdn.pl/imgc/Tools/306/g_-_420x350_1.5_-_x20150429012328_0.png)](https://softexe.net/win/multimedia/audio-video-players/allplayer:hgpR.html)
 
 The application stands out for its modern and intuitive interface known more from the use of smartphones or tablets than from the Windows system. Thanks to this, all functions are easily accessible when they are needed. The newest program engine, in addition to improved support for the latest audio and video standards, such as 4K, UltraHD or WebM support, also introduces improvements in the use and quality of the displayed subtitles. By connecting to the leading service with Napisy24.pl subtitles and such databases as Napiprojekt.pl and Opensubtitles.org, ALLPlayer automatically downloads perfectly matched subtitles in the selected language.

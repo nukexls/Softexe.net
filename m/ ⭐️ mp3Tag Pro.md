@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/mp3tag-pro-8686.png) mp3Tag Pro 12 - Free Download
 
-```sh
-mp3Tag Pro is a tool for managing a collection of songs saved in the most popular format, ie MP3.
-```
+> mp3Tag Pro is a tool for managing a collection of songs saved in the most popular format, ie MP3.
+
 [![mp3Tag Pro](https://gallery.dpcdn.pl/imgc/Tools/83233/g_-_420x350_1.5_-_x9dd610b6-5a5f-4e42-92b8-78089a5d3d82.jpg)](https://softexe.net/win/multimedia/audio-utilities/mp3tag-pro:hfhf.html)
 
 If you want to take care of the order in the song library, it is worth to describe them with various tags in order to be able to quickly locate the relevant songs later. mp3Tag Pro allows you to download such information directly from the web (Amazon, FreeDB, Discogs, MusicBrainz), where you will also find covers, which also download to your computer's hard drive and display next to the list of pieces of the given artist or band. However, this is not all information about the files that are displayed, which will display the described tool. We will know the year of the release of the album, the list of songs, song lyrics and much more about favorite artists.

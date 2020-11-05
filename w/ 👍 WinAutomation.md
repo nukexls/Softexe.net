@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/winautomation-8523.png) WinAutomation 9.0.1 - Free Download
 
-```sh
-WinAutomation is a tool that - according to what its name suggests - allows you to automate operations performed by applications installed in the Windows operating system.
-```
+> WinAutomation is a tool that - according to what its name suggests - allows you to automate operations performed by applications installed in the Windows operating system.
+
 [![WinAutomation](https://gallery.dpcdn.pl/imgc/Tools/66035/g_-_420x350_1.5_-_x20160229212156_0.png)](https://softexe.net/win/system/control/winautomation:hebc.html)
 
 With WinAutomation, we can easily record and play the press of individual keys on the keyboard or mouse clicks while running any program. Thanks to this, we do not have to manually perform the same tasks, but we can run the registered macros and automate repetitive tasks in our daily work. In this respect, the application contains a whole host of functionalities that should satisfy every user.

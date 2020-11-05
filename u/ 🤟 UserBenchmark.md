@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=UserBenchmark icon&w=40&h=40) UserBenchmark 2.9.6 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) UserBenchmark 2.9.6 - Free Download
 
-```sh
-UserBenchmark is a free tool for measuring the performance of individual systems installed in your computer.
-```
+> UserBenchmark is a free tool for measuring the performance of individual systems installed in your computer.
+
 [![UserBenchmark](https:https://tse4.mm.bing.net/th?id=OIP.ZP8P5aPXmio17pMGH7vzuAHaD6&pid=Api)](https://softexe.net/win/system/diagnostics-tests/userbenchmark:agpe.html)
 
 Thanks to UserBenchmark, in less than a minute we can test the speed of the processor, graphic card, hard drive, SSD and portable memory that communicates with the PC via the USB connector. After the test, a comprehensive report appears on the screen (you can also compare the results on the manufacturer's website). As a result, we will receive a list of strengths and weaknesses of these systems, which will allow us to evaluate the performance of our computer.

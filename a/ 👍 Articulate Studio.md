@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/articulate-studio-11119.png) Articulate Studio '13 4.9.00 - Free Download
 
-```sh
-Articulate Studio is a suite of tools that allow you to create professional e-learning courses at a very fast pace.
-```
+> Articulate Studio is a suite of tools that allow you to create professional e-learning courses at a very fast pace.
+
 [![Articulate Studio](https://gallery.dpcdn.pl/imgc/Tools/63891/g_-_420x350_1.5_-_x20151130001818_0.png)](https://softexe.net/win/multimedia/graphics-design/articulate-studio:ppppa.html)
 
 The whole consists of four programs: Articulate Presenter '13 (preparation of extensive presentations), Articulate Quizmaker '13 (creating quizzes, surveys and surveys), Articulate Engage '13 (introducing interactive elements into courses without having to know the programming principles) and Articulate Replay ( conversion of presentations available in various formats to flash format). 

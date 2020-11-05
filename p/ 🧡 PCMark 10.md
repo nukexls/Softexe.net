@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=PCMark+10 icon&w=40&h=40) PCMark 10 2.1.2177 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) PCMark 10 2.1.2177 - Free Download
 
-```sh
-PCMark 10 is another version of a very popular application used for performance tests (benchmarks).
-```
+> PCMark 10 is another version of a very popular application used for performance tests (benchmarks).
+
 [![PCMark 10](https://gallery.dpcdn.pl/imgc/Tools/76984/g_-_420x350_1.5_-_x20170730173101_0.jpg)](https://softexe.net/win/system/diagnostics-tests/pcmark-10:hgcp.html)
 
 Although the described tool is very often used to check the performance of computer games, in fact PCMark 10 can also be used for other applications in testing our PC for operation in a specific environment (eg we will check the performance of the operating system itself, individual subassemblies or selected applications). 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/windows-update-minitool-7724.png) Windows Update MiniTool 07.01.2020 - Free Download
 
-```sh
-Windows Update MiniTool is an alternative to the standard Windows Update. With it, you can at any time find, select and install the necessary updates for your system. You can also delete installed updates and hide unwanted
-```
+> Windows Update MiniTool is an alternative to the standard Windows Update. With it, you can at any time find, select and install the necessary updates for your system. You can also delete installed updates and hide unwanted
+
 [![Windows Update MiniTool](https://gallery.dpcdn.pl/imgc/Tools/81519/g_-_420x350_1.5_-_x41c6f422-6fc7-48a1-bf11-5eea6ffb86f9.jpg)](https://softexe.net/win/system/updates-patches/windows-update-minitool:ggbd.html)
 
 Windows Update MiniTool is an alternative to the standard Windows Update. It searches for updates for your system, then you select the necessary ones and download them for subsequent installation.

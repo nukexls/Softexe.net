@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Grand Theft Auto V  - Free Download
 
-```sh
-Grand Theft Auto V is one of the best-selling games in the history of electronic entertainment (nearly 100 million copies worldwide).
-```
+> Grand Theft Auto V is one of the best-selling games in the history of electronic entertainment (nearly 100 million copies worldwide).
+
 [![Grand Theft Auto V](https://gallery.dpcdn.pl/imgc/Tools/84146/g_-_420x350_1.5_-_x2bcdd985-5785-44d6-9652-9f2b86d84db4.jpg)](https://softexe.net/win/games-entertainment/shooters/grand-theft-auto-v:aaRc.html)
 
 The earlier part of GTA had only one playable character, while in Grand Theft Auto V we have three main heroes, each with its own past, current goals and unique abilities. We learn about the history of Michael, Franklin and Trevor, acting both in Los Santos, where the vast majority of the plot campaign is taking place, as well as in the suburbs. During the game, we take part in spectacular shootings, dynamic chases, thefts, kidnappings, races and more.

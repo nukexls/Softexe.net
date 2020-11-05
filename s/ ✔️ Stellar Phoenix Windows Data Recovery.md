@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/stellar-phoenix-windows-data-recovery-9714.png) Stellar Phoenix Windows Data Recovery 8.0.0.0 Professional - Free Download
 
-```sh
-Stellar Phoenix Windows Data Recovery is an advanced software designed to recover data from a hard disk. Using the application, users can restore the necessary files and folders that have been removed from the system's disk or lost due to a computer crash.
-```
+> Stellar Phoenix Windows Data Recovery is an advanced software designed to recover data from a hard disk. Using the application, users can restore the necessary files and folders that have been removed from the system's disk or lost due to a computer crash.
+
 [![Stellar Phoenix Windows Data Recovery](https://gallery.dpcdn.pl/imgc/Tools/8482/g_-_420x350_1.5_-_x20170201113326_0.png)](https://softexe.net/win/disks-files/data-recovery/stellar-phoenix-windows-data-recovery:agpd.html)
 
 The program is characterized by a modern and transparent user interface. All functions have been arranged in such a way that they should not cause any problems while using the application. Among them, we find, among other things, tools to restore data deleted from the system tray or after formatting the hard disk.  

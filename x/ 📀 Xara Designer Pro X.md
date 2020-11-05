@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/xara-designer-pro-x-10899.png) Xara Designer Pro X  - Free Download
 
-```sh
-Xara Designer Pro is a professional and universal tool for fast graphic design, pages, DTP, drawing, creating vector graphics and basic image manipulation
-```
+> Xara Designer Pro is a professional and universal tool for fast graphic design, pages, DTP, drawing, creating vector graphics and basic image manipulation
+
 [![Xara Designer Pro X](https:https://tse4.mm.bing.net/th?id=OIP.QYK12MYXEmezAMKWJuhwSAHaEL&pid=Api)](https://softexe.net/win/multimedia/graphics-design/xara-designer-pro-x:pRhaa.html)
 
 The program is characterized by high efficiency of the engine rendering preview of created graphics, as well as a convenient interface, which translates into quick and trouble-free operation. Users can use the drag-and-drop method in many contexts and import media in multiple formats. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/balabolka-8371.png) Balabolka 2.15.0.753 - Free Download
 
-```sh
-Balabolka is a special tool for reading text.
-```
+> Balabolka is a special tool for reading text.
+
 [![Balabolka](https://gallery.dpcdn.pl/imgc/Tools/89849/g_-_420x350_1.5_-_x1dbf99b8-5774-4030-950e-54de0d30b71c.jpg)](https://softexe.net/win/multimedia/other/balabolka:hcgp.html)
 
 Although Balabolka offers a lot of useful functions, we can simply launch the program, paste the text and press "play" so that the application starts reading the indicated fragment. Among the file formats that Balabolka supports, we can find: AZW, AZW3, CHM, DjVu, DOC, DOCX, EML, EPUB, FB2, FB3, HTML, LIT, MOBI, ODP, ODS, ODT, PDB, PDF, PPT, PPTX, PRC, RTF, TCR, WPD, XLS and XLSX.

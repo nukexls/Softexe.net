@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/harmony-10565.png) Harmony 0.9.1 - Free Download
 
-```sh
-Harmony is a multimedia player thanks to which, with the help of one application, we will launch your libraries stored in various streaming services and computer hard disk.
-```
+> Harmony is a multimedia player thanks to which, with the help of one application, we will launch your libraries stored in various streaming services and computer hard disk.
+
 [![Harmony](https://gallery.dpcdn.pl/imgc/Tools/80775/g_-_420x350_1.5_-_x5e577178-80ad-405b-bd44-cba9606ba4c9.png)](https://softexe.net/win/multimedia/audio-video-players/harmony:pRefe.html)
 
 The tool supports the most popular digital music services, including Google Play Music, YouTube, Spotify, SoundCloud and Hype Machine. Importantly, individual operations performed using Harmony synchronize immediately with these services.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/seaside.gif) Seaside Multi Skype Launcher 1.29 - Free Download
 
-```sh
-Seaside Multi Skype Launcher is a very useful application for simultaneously running multiple Skype accounts on one computer.
-```
+> Seaside Multi Skype Launcher is a very useful application for simultaneously running multiple Skype accounts on one computer.
+
 [![Seaside Multi Skype Launcher](https://gallery.dpcdn.pl/imgc/Tools/65214/g_-_420x350_1.5_-_x20160131200909_0.png)](https://softexe.net/win/internet/voip/seaside-multi-skype-launcher:fRgd.html)
 
 Seaside Multi Skype Launcher is a very useful application for simultaneously running multiple Skype accounts on one computer.

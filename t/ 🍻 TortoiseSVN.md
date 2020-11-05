@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/tortoisesvn-8273.png) TortoiseSVN 1.13.1 - Free Download
 
-```sh
-TortoiseSVN is a free, open and easy-to-use Subversion client (SVN) addressed to the owners of computers with the Windows operating system.
-```
+> TortoiseSVN is a free, open and easy-to-use Subversion client (SVN) addressed to the owners of computers with the Windows operating system.
+
 [![TortoiseSVN](https://gallery.dpcdn.pl/imgc/Tools/79042/g_-_420x350_1.5_-_x3a00384c-ba9a-44a2-adb3-4e6ff5447f47.png)](https://softexe.net/win/development-it/version-control/tortoisesvn:hbgc.html)
 
 The tool is used for version control. It allows you to make changes and corrections while working on extended projects involving many people. TortoiseSVN offers the option of automatically uploading and merging files, as well as synchronizing data, which is especially useful when a large number of programmers are involved.

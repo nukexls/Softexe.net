@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/microsoft-office-2016-8662.png) Microsoft Office 2016 16.0.12430.20184 - Free Download
 
-```sh
-Office 2016 is the latest version of the office suite created by Microsoft. It includes a complete set of tools designed for both home users and demanding companies: a text editor, spreadsheet, presentation tools, notebook, expanded mail client, database application, as well as tools for DTP and creating forms.
-```
+> Office 2016 is the latest version of the office suite created by Microsoft. It includes a complete set of tools designed for both home users and demanding companies: a text editor, spreadsheet, presentation tools, notebook, expanded mail client, database application, as well as tools for DTP and creating forms.
+
 [![Microsoft Office 2016](https://gallery.dpcdn.pl/imgc/Tools/58655/g_-_420x350_1.5_-_x20150505172220_0.png)](https://softexe.net/win/business/office-suites/microsoft-office-2016:hffb.html)
 
 Microsoft Office is the most-popular office suite used by home users, numerous institutions as well as companies of all sizes. This package offers a set of tools that make it possible to perform almost any task related to documents and related data. Its additional advantages are better and better support for the touch interface, as well as the integration with the OneDrive cloud offered by Microsoft and allowing the synchronization of documents. The package includes applications: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft OneNote, Microsoft Outlook, Microsoft Access and Microsoft Publisher.

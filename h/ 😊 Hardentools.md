@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/hardentools-10705.png) Hardentools 1.0 - Free Download
 
-```sh
-Hardentools is a small program whose task is to increase security in Windows by deactivating some of the functions of Microsoft Office, Adobe Acrobat and the operating system itself. The service comes down to pressing one button.
-```
+> Hardentools is a small program whose task is to increase security in Windows by deactivating some of the functions of Microsoft Office, Adobe Acrobat and the operating system itself. The service comes down to pressing one button.
+
 [![Hardentools](https:https://tse2.mm.bing.net/th?id=OIP.bAxVPv-jIKkmyxGraHJ1qgHaGs&pid=Api)](https://softexe.net/win/security-privacy/other/hardentools:pRgRe.html)
 
 The application deactivates scripts in Windows, blocks autoruning and the ability to use the Command Line . Adobe Acrobat will no longer be able to load JavaScript scripts and run documents embedded in PDFs, while the Office suite will be deprived of macros, ActiveX controls and OLE object support.

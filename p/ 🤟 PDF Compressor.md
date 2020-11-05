@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) PDF Compressor 5.0.1 - Free Download
 
-```sh
-PDF Compressor is a tiny application for compressing documents saved in PDF format.
-```
+> PDF Compressor is a tiny application for compressing documents saved in PDF format.
+
 [![PDF Compressor](https://gallery.dpcdn.pl/imgc/Tools/89914/g_-_420x350_1.5_-_xd4593020-7b91-47c0-bf7c-5a98e8c24682.jpg)](https://softexe.net/win/system/pdf/pdf-compressor:aRdf.html)
 
 Sometimes we have multi-page PDF documents, the weight of which makes it impossible to send them by e-mail. In this situation, it is worth using PDF Compressor to resize the text file.

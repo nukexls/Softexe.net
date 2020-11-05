@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/screeny-professional-9772.png) Screeny Professional 4.8.9 - Free Download
 
-```sh
-Professional Screenshots is an extensive and very advanced program, by means of which we capture the contents of the desktop or window of the selected application, and then the captured material will be edited before recording in one of many available formats.
-```
+> Professional Screenshots is an extensive and very advanced program, by means of which we capture the contents of the desktop or window of the selected application, and then the captured material will be edited before recording in one of many available formats.
+
 [![Screeny Professional](https://gallery.dpcdn.pl/imgc/Tools/60756/g_-_420x350_1.5_-_x20150811203231_0.png)](https://softexe.net/win/multimedia/image-capture/screeny-professional:aggb.html)
 
 The application has a large number of profiles built in, which are sufficient for most typical applications of the program. We will find among them options that allow you to capture screenshots as the entire visible screen content or cut out using geometric figures, an automatic profile that automatically adjusts the area according to a given object or display only a contextual menu. Added to this is the ability to record video with sound.

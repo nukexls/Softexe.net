@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/cyberghost-vpn-1718.png) CyberGhost VPN 7.3.13.62 - Free Download
 
-```sh
-Make your web presence invisible with CyberGhost VPN - an application that provides anonymous use of the Internet, guarantees security and privacy during data transfer. When visiting sites, the real IP address will be changed
-```
+> Make your web presence invisible with CyberGhost VPN - an application that provides anonymous use of the Internet, guarantees security and privacy during data transfer. When visiting sites, the real IP address will be changed
+
 [![CyberGhost VPN](https://gallery.dpcdn.pl/imgc/Tools/1046/g_-_420x350_1.5_-_x20160514233030_0.png)](https://softexe.net/win/internet/anonymizers-vpn/cyberghost-vpn:pgph.html)
 
 CyberGhost VPN is a program for anonymous use of the Internet. This application will allow you to be invisible in the network and hide your data when visiting various sites and resources, which ensures complete confidentiality and security.

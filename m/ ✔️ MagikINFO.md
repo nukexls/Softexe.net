@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) MagikINFO 16.0 - Free Download
 
-```sh
-MagikINFO (formerly PCInfo) is a system for software audit and IT resource management in companies.
-```
+> MagikINFO (formerly PCInfo) is a system for software audit and IT resource management in companies.
+
 [![MagikINFO](https://gallery.dpcdn.pl/imgc/Tools/13735/g_-_420x350_1.5_-_x20131120210900_0.png)](https://softexe.net/win/business/management/magikinfo:aahf.html)
 
 The program allows you to automatically register software and hardware, during which we will get a report not only about the installed programs in the computers available in our network and information about the current hardware configuration, but also check the history of changes made on the computer between audits (both software and hardware), we will get accurate information about the operating system, whether we will generate our own reports.

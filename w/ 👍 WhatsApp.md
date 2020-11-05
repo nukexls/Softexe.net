@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/whatsapp-7604.png) WhatsApp 2.2035.14.0 - Free Download
 
-```sh
-WhatsApp is a desktop version of the popular mobile messenger. There is full synchronization with the application on your mobile device, supported by system notifications, work with hot keys, sharing photos, music and videos
-```
+> WhatsApp is a desktop version of the popular mobile messenger. There is full synchronization with the application on your mobile device, supported by system notifications, work with hot keys, sharing photos, music and videos
+
 [![WhatsApp](https://gallery.dpcdn.pl/imgc/Tools/67851/g_-_420x350_1.5_-_x20160511110252_0.png)](https://softexe.net/win/internet/messenger/whatsapp:gfRd.html)
 
 WhatsApp is a popular mobile communication application designed specifically for PC. Now you will always stay in touch, using a computer or phone, no matter where you are - at work or at home. The utility is simple and easy to use.

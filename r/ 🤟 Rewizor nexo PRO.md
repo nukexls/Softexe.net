@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Rewizor+nexo+PRO icon&w=40&h=40) Rewizor nexo PRO 31.1.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Rewizor nexo PRO 31.1.2 - Free Download
 
-```sh
-The Nexo PRO review is a modern program for conducting full accounting in small and medium-sized companies. It also works well in accounting offices.
-```
+> The Nexo PRO review is a modern program for conducting full accounting in small and medium-sized companies. It also works well in accounting offices.
+
 [![Rewizor nexo PRO](https://gallery.dpcdn.pl/imgc/Tools/48333/g_-_420x350_1.5_-_x20140311162501_0.png)](https://softexe.net/win/business/finance/rewizor-nexo-pro:heeb.html)
 
 The software is an extended version of the Nexo Audit , created for those who need a flexible, open financial and accounting system. In addition to the full functionality of the standard program includes many additional solutions. It allows use multi-level filing accounts, create own reports and printouts, describe business events in your own way (eg additional VAT transactions), analyze entries according to various features using the so-called own fields, or settle settlements in installments or register them according to their own types. Through the so-called extension points and the Realm for the Auditor it is possible to implement individual solutions tailored to the specifics of the company.

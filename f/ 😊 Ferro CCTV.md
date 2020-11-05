@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Ferro CCTV 3.6.2 - Free Download
 
-```sh
-Program for monitoring premises and open areas of the Polish company FERRO Software.
-```
+> Program for monitoring premises and open areas of the Polish company FERRO Software.
+
 [![Ferro CCTV](https://gallery.dpcdn.pl/imgc/Tools/145/g_-_420x350_1.5_-_x20100408113530.png)](https://softexe.net/win/multimedia/other/ferro-cctv:pbfaa.html)
 
 In combination with cameras (USB or connected via TV and video cards), it enables the creation of a fully professional monitoring system. It is an ideal solution for stores, gas stations, warehouses, as well as private properties. Ferro CCTV can record a video image at a rate of 1 to 25 frames / second, which can be used to record static and moving objects. The program can use popular DivX codecs, which in combination with motion detection and time-lapse recording, gives you the ability to store many months of recordings on your computer. The program also allows you to record sound.Ferro CCTV eliminates the inconvenience that can be encountered when using a traditional time-lapse video recorder (high price, frequent cassette change, long access time to recorded sessions). The Zoom function, unseen in traditional CCTV systems, allows you to closely view selected parts of the image. The monitoring system based on Ferro CCTV, due to low costs, easy operation and automatic recording options, can be used even in small companies.

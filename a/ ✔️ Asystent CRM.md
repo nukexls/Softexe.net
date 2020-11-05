@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Asystent CRM 2020 20.9.8 - Free Download
 
-```sh
-The CRM Assistant is a functional CRM class program for managing contact data.
-```
+> The CRM Assistant is a functional CRM class program for managing contact data.
+
 [![Asystent CRM](https://gallery.dpcdn.pl/imgc/Tools/1918/g_-_420x350_1.5_-_x20110131113012_00.jpg)](https://softexe.net/win/business/management/asystent-crm:hdpg.html)
 
 It enables printing of various reports and viewing extensive statistics. It is equipped with modules such as: contact details, correspondence book, task scheduling. The CRM Assistant allows you to create groups of contractors, design your own tables to store any data. Another possibility of the program includes: creating many databases, data synchronization, exporting data to known formats, including spreadsheets, the ability to work with USB portable devices.Selected possibilities of the program

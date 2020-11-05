@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) RadiAnt DICOM Viewer 4.6.9 - Free Download
 
-```sh
-RadiAnt DICOM Viewer is a very intuitive and easy-to-use DICOM-PACS viewer for medical images that scarcely consumes computer resources.
-```
+> RadiAnt DICOM Viewer is a very intuitive and easy-to-use DICOM-PACS viewer for medical images that scarcely consumes computer resources.
+
 [![RadiAnt DICOM Viewer](https://gallery.dpcdn.pl/imgc/Tools/89915/g_-_420x350_1.5_-_xea795ed1-d35b-4d8c-9656-5693f929d701.jpg)](https://softexe.net/win/multimedia/image-viewer/radiant-dicom-viewer:aRde.html)
 
 With the help of RadiAnt DICOM Viewer we can use many useful functions that enable image processing and measurements, such as: zooming and panning, setting brightness and contrast, negative mode, default window settings for computed tomography (eg pulmonary and bone), rotating by 90 or 180 degrees, mirroring (both in portrait and landscape), checking the angle (normal and Cobb angle) and many more.

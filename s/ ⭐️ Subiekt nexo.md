@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Subiekt+nexo icon&w=40&h=40) Subiekt nexo 31.1.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Subiekt nexo 31.1.2 - Free Download
 
-```sh
-Subiekt nexo is a program comprehensively supporting sales services in small and medium-sized companies - stores, wholesalers, workshops, service establishments, etc.
-```
+> Subiekt nexo is a program comprehensively supporting sales services in small and medium-sized companies - stores, wholesalers, workshops, service establishments, etc.
+
 [![Subiekt nexo](https://gallery.dpcdn.pl/imgc/Tools/48330/g_-_420x350_1.5_-_x20140311160217_0.png)](https://softexe.net/win/business/management/subiekt-nexo:heeR.html)
 
 The software provides support for all types of commercial documents (a special advantage is the advanced ordering system) and efficient warehouse management. It has an extensive financial part, thanks to which it is possible, among others performing cash and bank transactions or creating cash reports. Settlement modules allow you to record settlements, debt collection activities and the exchange rate table. The system part of the system allows for keeping advanced records of the assortment, customers, external devices, institutions, partners and employees.

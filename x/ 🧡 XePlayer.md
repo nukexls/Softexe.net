@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) XePlayer 6.0.1.0 - Free Download
 
-```sh
-XePlayer is an Android emulator, thanks to which we will launch various applications using this operating system on a computer with Windows installed.
-```
+> XePlayer is an Android emulator, thanks to which we will launch various applications using this operating system on a computer with Windows installed.
+
 [![XePlayer](https://gallery.dpcdn.pl/imgc/Tools/90257/g_-_420x350_1.5_-_x8ff8f07a-bdfa-4c05-92a5-263bca3fd044.jpg)](https://softexe.net/win/hobbies-lifestyle/mobile/xeplayer:habd.html)
 
 However, this is not all, of course, because XePlayer also has many other useful features, reserved so far only for smartphones and tablets working under the control of Android. Noteworthy is also the fact that XePlayer has exactly the same user interface that can be found on these portable devices, so after switching on the described tool we will see a well-known icon distribution on the screen.

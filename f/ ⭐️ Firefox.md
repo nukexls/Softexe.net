@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/firefox-2651.png) Firefox 81.0 - Free Download
 
-```sh
-Firefox for Odnoklassniki is a special version of the Fox customized for users of the Odnoklassniki social network. The standard page is a Console access to all major functions, providing complete freedom of communication.
-```
+> Firefox for Odnoklassniki is a special version of the Fox customized for users of the Odnoklassniki social network. The standard page is a Console access to all major functions, providing complete freedom of communication.
+
 [![Firefox](https:https://tehnot.com/wp-content/uploads/2017/11/firefox-57.jpg)](https://softexe.net/win/internet/browsers/firefox:bfep.html)
 
 Firefox for Odnoklassniki is a special version of the popular browser customized by the Mozilla team for users of the Odnoklassniki social network.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/hdcleaner-3246.png) HDCleaner 1.305 - Free Download
 
-```sh
-HDCleaner is a utility with which you can quickly clean up your hard disk from unnecessary files, clean the registry.
-```
+> HDCleaner is a utility with which you can quickly clean up your hard disk from unnecessary files, clean the registry.
+
 [![HDCleaner](https://gallery.dpcdn.pl/imgc/Tools/85796/g_-_420x350_1.5_-_x3dd49e0a-10bf-4411-b884-599e6d61ba8f.png)](https://softexe.net/win/disks-files/disk-cleanup/hdcleaner:cbdf.html)
 
 HDCleaner is a utility with which you can quickly clean up your hard disk from unnecessary files with the extensions BAK, CHK, GID, ~ * *, TMP. You can customize the program and expand the list of files to be deleted.

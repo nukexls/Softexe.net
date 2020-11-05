@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Mortal Kombat 11  - Free Download
 
-```sh
-Mortal Kombat 11 is a new version of the iconic fight known not only to console and computer lovers, but also to popular gaming machines in the 90s.
-```
+> Mortal Kombat 11 is a new version of the iconic fight known not only to console and computer lovers, but also to popular gaming machines in the 90s.
+
 [![Mortal Kombat 11](https://gallery.dpcdn.pl/imgc/Tools/90939/g_-_420x350_1.5_-_x240e17ff-655e-4f31-9e8a-72d5c0e7c872.jpg)](https://softexe.net/win/games-entertainment/fighting/mortal-kombat-11:hbhR.html)
 
 Classic game mechanics

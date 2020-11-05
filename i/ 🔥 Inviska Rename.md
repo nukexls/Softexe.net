@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Inviska Rename 11.0 - Free Download
 
-```sh
-Inviska Rename is a free application for renaming multiple files, supporting batch processing.
-```
+> Inviska Rename is a free application for renaming multiple files, supporting batch processing.
+
 [![Inviska Rename](https://gallery.dpcdn.pl/imgc/Tools/81774/g_-_420x350_1.5_-_xafe89122-cbaf-47c1-a4b7-3052590d8151.jpg)](https://softexe.net/win/system/other/inviska-rename:pRcah.html)
 
 The program allows you to enter, delete and modify text in the file name and extension. It is possible to change the name using the information contained in the music tags (supported tags are primarily mp3 ID3v2 and FLAC). However, this is not the end, because the program is also addressed to photographers and allows you to change the name based on Exif information contained in digital photographs.

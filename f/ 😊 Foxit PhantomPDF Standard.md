@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/foxit-phantompdf-standard-10867.png) Foxit PhantomPDF Standard 8.3.1 Build 21155 - Free Download
 
-```sh
-Foxit PhantomPDF Standard is a fully professional document management program in PDF format created by the popular Foxit Reader manufacturer. It offers functionality that allows you to comprehensively view, convert, edit or organize various types of PDF files.
-```
+> Foxit PhantomPDF Standard is a fully professional document management program in PDF format created by the popular Foxit Reader manufacturer. It offers functionality that allows you to comprehensively view, convert, edit or organize various types of PDF files.
+
 [![Foxit PhantomPDF Standard](https:https://tse1.mm.bing.net/th?id=OIP.ae8ZViMYWntmWe_-lOOboAHaE5&pid=Api)](https://softexe.net/win/multimedia/graphics-design/foxit-phantompdf-standard:pRhfg.html)
 
 The tool is a great alternative to even software such as Adobe Acrobat , perfectly suited to most tasks that home users or employees of small and medium-sized businesses encounter. The program has all the necessary functions that give the possibility of comfortable and efficient work with PDF files, while remaining a simple and intuitive solution to use.

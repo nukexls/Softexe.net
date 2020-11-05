@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/loaris-trojan-remover-8203.gif) Loaris Trojan Remover 3.1.43 - Free Download
 
-```sh
-Loaris Trojan Remover is a tool for getting rid of malicious software on a computer operating under the Windows operating system.
-```
+> Loaris Trojan Remover is a tool for getting rid of malicious software on a computer operating under the Windows operating system.
+
 [![Loaris Trojan Remover](https://gallery.dpcdn.pl/imgc/Tools/77900/g_-_420x350_1.5_-_x20170929223607_0.jpg)](https://softexe.net/win/security-privacy/antispyware/loaris-trojan-remover:hbRc.html)
 
 Thanks to the Loaris Trojan Remover, we will remove Trojan horses, malware, adware, spyware and other broadly understood viruses. The application allows you to perform a standard, full or custom scan. In the last case, it offers the possibility to define a destination that we want to check for the presence of malicious files. This is possible not only for the contents of the hard disk, but also for removable USB media or other portable memory.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Gestor+nexo icon&w=40&h=40) Gestor nexo 31.1.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Gestor nexo 31.1.2 - Free Download
 
-```sh
-Gestor nexo is a program that helps build lasting relationships with clients and manage work in the company.
-```
+> Gestor nexo is a program that helps build lasting relationships with clients and manage work in the company.
+
 [![Gestor nexo](https://gallery.dpcdn.pl/imgc/Tools/62650/g_-_420x350_1.5_-_x20151014212601_0.png)](https://softexe.net/win/business/management/gestor-nexo:heed.html)
 
 The application enables, among others: recording detailed customer data with the history of contacts, presenting and negotiating offers and conducting mail correspondence or bulk mailing via the built-in email client. It also works in the area of ​​the company, organizing and streamlining the work - allows you to plan tasks along with delegating them to employees, monitor progress in performing work, reserve public resources in the company (eg company vehicles).

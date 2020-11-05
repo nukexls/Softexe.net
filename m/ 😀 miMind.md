@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=miMind icon&w=40&h=40) miMind 2.15 Beta - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) miMind 2.15 Beta - Free Download
 
-```sh
-miMind is a tool for mapping thoughts that prove extremely useful both during learning and planning various activities.
-```
+> miMind is a tool for mapping thoughts that prove extremely useful both during learning and planning various activities.
+
 [![miMind](https://gallery.dpcdn.pl/imgc/Tools/86148/g_-_420x350_1.5_-_xe128090c-0877-44d4-a7a5-0f774d8677bd.jpg)](https://softexe.net/win/business/other/mimind:aeff.html)
 
 The program is available in the form of a clear and easy to use wizard that allows you to quickly prepare a mind map. Thanks to it, we will create it in just a few seconds, and when the need arises, we will properly expand the project by placing further clouds, lines and shapes (eg rectangles or circles) containing useful information.

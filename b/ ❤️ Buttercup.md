@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/buttercup-9097.png) Buttercup 1.20.5 - Free Download
 
-```sh
-Buttercup is a free tool for storing information about logins and passwords.
-```
+> Buttercup is a free tool for storing information about logins and passwords.
+
 [![Buttercup](https://gallery.dpcdn.pl/imgc/Tools/75994/g_-_420x350_1.5_-_x20170529151912_0.jpg)](https://softexe.net/win/system/other/buttercup:aRag.html)
 
 With it, in one place we will collect user names and passwords for e-mail account, credit card or popular social networking sites. Buttercup proves to be useful when we have many accounts in different places on the web, and we do not want to use one password (it is extremely dangerous), but from many complex sequences of characters that are difficult to remember.

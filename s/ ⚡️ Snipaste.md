@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/snipaste-10695.png) Snipaste 1.16.2 - Free Download
 
-```sh
-Snipaste is a small but functional program for taking screenshots. Against the background of competing proposals, it is distinguished by numerous editing options for casts, including the imposition of notes on them, and even censorship in the form of blurred areas.
-```
+> Snipaste is a small but functional program for taking screenshots. Against the background of competing proposals, it is distinguished by numerous editing options for casts, including the imposition of notes on them, and even censorship in the form of blurred areas.
+
 [![Snipaste](https:https://tse3.mm.bing.net/th?id=OIP.Q5wa6CjzQXKjPHfdHayepAHaGA&pid=Api)](https://softexe.net/win/multimedia/image-capture/snipaste:pRfae.html)
 
 The program's operation is similar to most applications of this type. The icon on the toolbar informs us about the operation. We can initiate a new snapshot by clicking on it or using the keyboard shortcut predefined in the options. During the execution of the dump, it is possible to manually select the area of ​​interest or to fit it to the full screen, the window of the active application, or other smaller elements of the system interface.

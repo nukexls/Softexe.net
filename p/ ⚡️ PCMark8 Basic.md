@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=PCMark8+Basic icon&w=40&h=40) PCMark8 Basic 2.10.901 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) PCMark8 Basic 2.10.901 - Free Download
 
-```sh
-PCMark8 is the latest edition of a suite of tools designed to test the performance of computers, laptops and tablets. Using it, we will carefully examine the performance of any workstation, check the capabilities of the underlying hardware components and even the battery.
-```
+> PCMark8 is the latest edition of a suite of tools designed to test the performance of computers, laptops and tablets. Using it, we will carefully examine the performance of any workstation, check the capabilities of the underlying hardware components and even the battery.
+
 [![PCMark8 Basic](https://gallery.dpcdn.pl/imgc/Tools/31929/g_-_420x350_1.5_-_x20131022121156_0.png)](https://softexe.net/win/system/diagnostics-tests/pcmark8-basic:pRpgR.html)
 
 The new edition of PCMark software is dedicated to computers running Windows 7 and 8. It offers 5 separate benchmark tests and is additionally equipped with tools for testing batteries and SSDs. All of them allow you to test the computer under different load, simulating the daily use of a computer to browse the web, watch movies, edit media or run modern and very demanding games.

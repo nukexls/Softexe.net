@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/benchme-11000.png) BenchMe Build 906 - Free Download
 
-```sh
-BenchMe is an exceptionally easy-to-use benchmark for drives that allows you to test the speed of reading data from SSD, HDD, but also portable memory and memory cards. It also displays information on whether the media supports selected control technologies, including SMART
-```
+> BenchMe is an exceptionally easy-to-use benchmark for drives that allows you to test the speed of reading data from SSD, HDD, but also portable memory and memory cards. It also displays information on whether the media supports selected control technologies, including SMART
+
 [![BenchMe](https:https://tse2.explicit.bing.net/th?id=OIP.YzvBZ-feTdjBiSgdVygPeQHaEK&pid=Api)](https://softexe.net/win/system/diagnostics-tests/benchme:ppRRR.html)
 
 Testing should start with indicating the list of media to be tested. It displays both all partitions of the computer (including volume names, which is not obvious in this type of software) and portable media connected to the computer.

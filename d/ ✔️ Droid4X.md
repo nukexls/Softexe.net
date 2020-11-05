@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/droid4x-2099.png) Droid4X 0.8.5 Beta - Free Download
 
-```sh
-Droid4X is an excellent Android OS emulator for running applications of this mobile OS on stationary PCs running Windows
-```
+> Droid4X is an excellent Android OS emulator for running applications of this mobile OS on stationary PCs running Windows
+
 [![Droid4X](https://gallery.dpcdn.pl/imgc/Tools/62864/g_-_420x350_1.5_-_x20151021223525_0.png)](https://softexe.net/win/system/emulators/droid4x:bRaa.html)
 
 Droid4X is an excellent Android OS emulator for running applications of this mobile OS on stationary PCs running Windows. Now, if you want to test some kind of game or program for your Android device, all you need to do is open Droid4X and download the desired application via Google Play or add a ready-made apk-file (drag-n-drop technology is supported).

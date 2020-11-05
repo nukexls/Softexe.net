@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/qq-player-8756.png) QQ Player 4.6.2.1089 - Free Download
 
-```sh
-QQ Player is a free and full-featured multimedia player that offers the ability to conveniently watch movies and perform many other activities on your computer, including compressing, converting, dividing / merging video materials or creating screenshots from each video being played.
-```
+> QQ Player is a free and full-featured multimedia player that offers the ability to conveniently watch movies and perform many other activities on your computer, including compressing, converting, dividing / merging video materials or creating screenshots from each video being played.
+
 [![QQ Player](https://gallery.dpcdn.pl/imgc/Tools/9701/g_-_420x350_1.5_-_x20120817102613_00.jpg)](https://softexe.net/win/multimedia/audio-video-players/qq-player:hgef.html)
 
 The player offers a lightweight and user-friendly interface, which, together with support for hardware acceleration, enables smooth and fast playback of video material stored in any multimedia format. It plays all video files without any interruptions and additionally supports three-dimensional movies. 

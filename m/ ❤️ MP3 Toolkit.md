@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/mp3-toolkit-8799.png) MP3 Toolkit 1.6.3 - Free Download
 
-```sh
-MP3 Toolkit is a free and powerful application containing many useful tools to perform various activities related to the MP3 file format. Supports the following audio and video formats: AAC, AC3, AMR, ASF, APE, AVI, FLAC, FLV, MP4, M4V, M4P, MOV, M4A, MP3, MPG, MTV, OGG, RM, WAV, SWF, WMV and WMA .
-```
+> MP3 Toolkit is a free and powerful application containing many useful tools to perform various activities related to the MP3 file format. Supports the following audio and video formats: AAC, AC3, AMR, ASF, APE, AVI, FLAC, FLV, MP4, M4V, M4P, MOV, M4A, MP3, MPG, MTV, OGG, RM, WAV, SWF, WMV and WMA .
+
 [![MP3 Toolkit](https://gallery.dpcdn.pl/imgc/Tools/9042/g_-_420x350_1.5_-_x20120615201500_00.jpg)](https://softexe.net/win/multimedia/audio-utilities/mp3-toolkit:hgaa.html)
 
 The program has been equipped with a modern mechanism for converting and unpacking multimedia files (audio and video) to MP3 format. Users can set the appropriate parameters in it before starting the processing. Among them we can find, among other things, the output format, bitrate, sampling frequency, audio channel and default directory in which the converted materials will be saved. 

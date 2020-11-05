@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/sound-normalizer-10540.png) Sound Normalizer 7.99.9 - Free Download
 
-```sh
-Sound Normalizer is an uncomplicated application designed to normalize and improve the quality of audio files in MP3, WAV, FLAC, OGG and APE formats. It also provides the ability to convert audio track and edit ID3-1 / 2 tags, Flac Tags and OGG Tags.
-```
+> Sound Normalizer is an uncomplicated application designed to normalize and improve the quality of audio files in MP3, WAV, FLAC, OGG and APE formats. It also provides the ability to convert audio track and edit ID3-1 / 2 tags, Flac Tags and OGG Tags.
+
 [![Sound Normalizer](https://gallery.dpcdn.pl/imgc/Tools/31972/g_-_420x350_1.5_-_x20131023013145_0.png)](https://softexe.net/win/multimedia/audio-utilities/sound-normalizer:pRedR.html)
 
 The tool offers the functions of automatic testing of indicated audio files and manual tuning of the volume level for left and right channels. After correct volume reduction, Sound Normalizer analyzes the file for RMS normalization. Using the application, it is also possible to manipulate the size of the file without having to convert the audio again.

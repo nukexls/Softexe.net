@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/goodsync-3128.png) GoodSync 11.3.3.3 - Free Download
 
-```sh
-GoodSync is a simple and reliable program for backing up and synchronizing files. Allows you to automatically synchronize email, contacts, photos, music and other important files between desktops and laptops
-```
+> GoodSync is a simple and reliable program for backing up and synchronizing files. Allows you to automatically synchronize email, contacts, photos, music and other important files between desktops and laptops
+
 [![GoodSync](https://gallery.dpcdn.pl/imgc/Tools/933/g_-_420x350_1.5_-_xca26412d-c704-4586-9792-438323890733.png)](https://softexe.net/win/disks-files/backup/goodsync:cpbh.html)
 
 GoodSync is a simple and reliable program for backing up and synchronizing files. Allows you to automatically synchronize e-mail, contacts, photos, music and other important files between desktop and laptop computers, Windows Mobile devices, removable drives, create backup copies on FTP and WebDAV servers.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/mischief-9753.png) Mischief 2.1.6 - Free Download
 
-```sh
-Mischief is a painting program that has gained fame thanks to an unlimited workspace that we can zoom in and out. The program works very well with graphic tablets and allows you to paint on layers.
-```
+> Mischief is a painting program that has gained fame thanks to an unlimited workspace that we can zoom in and out. The program works very well with graphic tablets and allows you to paint on layers.
+
 [![Mischief](https://gallery.dpcdn.pl/imgc/Tools/55607/g_-_420x350_1.5_-_x20141124130728_0.png)](https://softexe.net/win/multimedia/graphics-editors/mischief:agec.html)
 
 The program interface is very simple - it consists of a tray with tools and three palettes, allowing you to work on layers, choose brushes and manipulate the color. Each of these palettes can be enlarged to gain access to more possibilities.

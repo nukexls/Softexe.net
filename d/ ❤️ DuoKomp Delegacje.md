@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=DuoKomp+Delegacje icon&w=40&h=40) DuoKomp Delegacje 1.8 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) DuoKomp Delegacje 1.8 - Free Download
 
-```sh
-DuoKomp Delegations is a program designed for people running a business. Thanks to it, the user can settle the costs related to business trips of his employees. Depending on your needs, you can use a simplified or advanced interface.
-```
+> DuoKomp Delegations is a program designed for people running a business. Thanks to it, the user can settle the costs related to business trips of his employees. Depending on your needs, you can use a simplified or advanced interface.
+
 [![DuoKomp Delegacje](https:https://tse3.mm.bing.net/th?id=OIP.YGYD6-J5RQVoleuxTwX7GQHaFj&pid=Api)](https://softexe.net/win/business/other/duokomp-delegacje:pRaec.html)
 
 In the program, we settle the costs of domestic and foreign business trips without any problems. The tool perfectly deals not only with single trips, but also with travels to many places (eg several countries). Noteworthy is the presence of options for managing the database of delegations drawn up, cloning delegations and printing multiple documents simultaneously, automatic numbering of documents and dictionaries of delegated persons, travel routes, destinations and means of transport.

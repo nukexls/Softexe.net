@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/prey-8792.png) Prey 1.9.5 - Free Download
 
-```sh
-Prey is a small, free application whose task is to collect and send computer location data, which can help in the event of theft or loss. The operation of the service is very similar to laptop tracking technologies used by Lenovo, Fujitsu, Toshiba or Dell.
-```
+> Prey is a small, free application whose task is to collect and send computer location data, which can help in the event of theft or loss. The operation of the service is very similar to laptop tracking technologies used by Lenovo, Fujitsu, Toshiba or Dell.
+
 [![Prey](https://gallery.dpcdn.pl/imgc/Tools/1295/g_-_420x350_1.5_-_x20151110163543_0.png)](https://softexe.net/win/security-privacy/other/prey:hgab.html)
 
 Prey's operation is very simple. After installing the program you need to register on the server where you can register your computers. If one of them disappears, it should be marked on the service page. If the machine is connected to the Internet, the program will "call home" and provide the location of the computer. In addition, the program can provide a screen shot, a list of running programs, uptime and even a photo of a person using the computer, if it is equipped with a built-in camera. There is also the possibility of informing a person using a potentially stolen laptop about the possibility of finding it or launching an "alarm siren".

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Knowte icon&w=40&h=40) Knowte 2.0.4 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Knowte 2.0.4 - Free Download
 
-```sh
-Knowte is an elegant notebook in which you can create notebooks and save more notes in them. The program resembles OneNote, but it is much simpler and does not synchronize data with the cloud.
-```
+> Knowte is an elegant notebook in which you can create notebooks and save more notes in them. The program resembles OneNote, but it is much simpler and does not synchronize data with the cloud.
+
 [![Knowte](https://gallery.dpcdn.pl/imgc/Tools/69171/g_-_420x350_1.5_-_x20160704143642_0.png)](https://softexe.net/win/business/organizer/knowte:hfdf.html)
 
 The possibilities of formatting the text in Knowte are very poor. In the notes, you can place bulleted lists, links and format the text, but without the option to select fonts. You also can not include images in your notes. 

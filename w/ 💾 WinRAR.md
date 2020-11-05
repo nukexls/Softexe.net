@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/winrar-7795.png) WinRAR 5.91 - Free Download
 
-```sh
-WinRAR is a mega popular archiver that can handle almost any archive format (for example, RAR, ZIP, CAB, 7Z, JAR, ACE, TAR, ISO), and at the same time ensures decent speed and data compression ratio. Works with damaged archives
-```
+> WinRAR is a mega popular archiver that can handle almost any archive format (for example, RAR, ZIP, CAB, 7Z, JAR, ACE, TAR, ISO), and at the same time ensures decent speed and data compression ratio. Works with damaged archives
+
 [![WinRAR](https://gallery.dpcdn.pl/imgc/Tools/58/g_-_420x350_1.5_-_x20150409123436_0.png)](https://softexe.net/win/disks-files/compression/winrar:ggae.html)
 
 WinRAR - without this popular, very convenient and easy-to-use archiver, it is difficult to imagine everyday work with archives.

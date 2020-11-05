@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/avira-free-antivirus-8343.png) Avira Free Antivirus 15.0.2009.1960 - Free Download
 
-```sh
-Avira Free Antivirus is an effective, free program that comprehensively protects your system against threats. The program offers a scanner on demand, real-time protection and a firewall. The program is able to protect the user against modern threats such as ransomware, spyware and privacy violators.
-```
+> Avira Free Antivirus is an effective, free program that comprehensively protects your system against threats. The program offers a scanner on demand, real-time protection and a firewall. The program is able to protect the user against modern threats such as ransomware, spyware and privacy violators.
+
 [![Avira Free Antivirus](https://gallery.dpcdn.pl/imgc/Tools/265/g_-_420x350_1.5_-_x20170711135858_0.png)](https://softexe.net/win/security-privacy/antivirus/avira-free-antivirus:hcdc.html)
 
 The program has a simple, readable interface that allows you to quickly find out what mode the program is in, when the signature database was updated and when the last scan was performed, and in the section on real-time protection you can check what file was last scanned. The next operations can be planned in the schedule. In addition, you can easily view reports and decide what will happen to files that have been quarantined.

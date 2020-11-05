@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/iringg-9545.png) iRingg 1.3.10 - Free Download
 
-```sh
-iRingg is an uncomplicated application for creating ringtones.
-```
+> iRingg is an uncomplicated application for creating ringtones.
+
 [![iRingg](https://gallery.dpcdn.pl/imgc/Tools/86316/g_-_420x350_1.5_-_x3eb09aa8-5ece-49db-9e79-2986d12002a6.jpg)](https://softexe.net/win/hobbies-lifestyle/mobile/iringg:aede.html)
 
 As the program has been called iRingg, it is aimed mainly at iPhone owners. Nothing, however, prevents you to save your ringtones not in the memory of this Apple device, but on your computer's hard drive, and then copy them to your Android smartphone.

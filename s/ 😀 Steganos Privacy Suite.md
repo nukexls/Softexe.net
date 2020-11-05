@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/steganos-privacy-suite-9189.png) Steganos Privacy Suite 22.0 - Free Download
 
-```sh
-Steganos Privacy Suite offers the ability to encrypt data as well as collect user passwords, while allowing you to prevent user activity tracking while using the network.
-```
+> Steganos Privacy Suite offers the ability to encrypt data as well as collect user passwords, while allowing you to prevent user activity tracking while using the network.
+
 [![Steganos Privacy Suite](https://gallery.dpcdn.pl/imgc/Tools/77419/g_-_420x350_1.5_-_x20170831113531_0.png)](https://softexe.net/win/security-privacy/encryption/steganos-privacy-suite:apha.html)
 
 Particularly noteworthy in the case of Steganos Privacy Suite deserves the possibility of creating virtual safes, in which we store valuable files, such as company documents, important photos or video materials. To protect all data contained in the safe, password should be password protected (the application allows you to generate passwords extremely difficult to break). Importantly, the safe is automatically "closed" after logging out of the Windows operating system or when it goes into sleep mode.

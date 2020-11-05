@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/beniamin-9438.png) Beniamin 7.0 - Free Download
 
-```sh
-Beniamin is a program that allows family supervision in the access to various Internet-related services. First of all, the user can block access to websites in various ways.
-```
+> Beniamin is a program that allows family supervision in the access to various Internet-related services. First of all, the user can block access to websites in various ways.
+
 [![Beniamin](https://gallery.dpcdn.pl/imgc/Tools/2834/g_-_420x350_1.5_-_xb5a44f8c-cf78-4e38-85b0-e83a7049cb0c.png)](https://softexe.net/win/security-privacy/access-control/beniamin:adch.html)
 
 You can block access to erotic and pornographic websites, you can define your own blocking criteria (elimination of pages containing specific words), the program also allows you to define black and white lists - that is, a list of websites that a child can watch and pages that your child will not start. The program also contains a number of other options that can ensure safe use of the Internet for our child. An additional advantage of the program is extremely simple operation.

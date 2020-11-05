@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/vsdc-free-video-editor-8485.png) VSDC Free Video Editor 6.5.1.190 - Free Download
 
-```sh
-VSDC Free Video Editor is a free and noteworthy editor for non-linear video processing. The program allows you to create movies of any complexity and use in them interesting visual and sound effects.
-```
+> VSDC Free Video Editor is a free and noteworthy editor for non-linear video processing. The program allows you to create movies of any complexity and use in them interesting visual and sound effects.
+
 [![VSDC Free Video Editor](https://gallery.dpcdn.pl/imgc/Tools/13581/g_-_420x350_1.5_-_x20130314002152_00.png)](https://softexe.net/win/multimedia/video/vsdc-free-video-editor:hdhe.html)
 
 The application, despite its relatively small size, can compete with many competitive solutions of this type. Its uses are many, it can be successfully used for amateur editing of holiday movies or important family celebrations, creating slide shows, authoring or even converting clips between many popular formats. Importantly, the tool has a lot of functionality, while remaining very easy to use.

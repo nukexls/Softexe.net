@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/on1-photo-raw-9093.png) ON1 Photo RAW 2019.6 - Free Download
 
-```sh
-ON1 Photo RAW is a program for processing photos, retouching, styling and processing RAWs from digital cameras. The program is very fast, adapted to work with files saved by modern cameras and image processing systems.
-```
+> ON1 Photo RAW is a program for processing photos, retouching, styling and processing RAWs from digital cameras. The program is very fast, adapted to work with files saved by modern cameras and image processing systems.
+
 [![ON1 Photo RAW](https://gallery.dpcdn.pl/imgc/Tools/73021/g_-_420x350_1.5_-_x20161222141549_0.png)](https://softexe.net/win/multimedia/graphics-design/on1-photo-raw:aRac.html)
 
 ON1 Photo RAW is fast not only thanks to good optimization, but also thanks to a very convenient interface that requires very few steps to achieve the desired effect. It is also worth noting that this interface is not difficult and you can easily get used to it, both during transfer from another program and when learning from scratch. 

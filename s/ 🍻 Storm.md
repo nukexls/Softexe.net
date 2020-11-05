@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/storm-10744.png) Storm 0.3.9 - Free Download
 
-```sh
-Storm is a useful application for synchronizing files on different computers. It can be helpful, for example, in everyday work on several PCs.
-```
+> Storm is a useful application for synchronizing files on different computers. It can be helpful, for example, in everyday work on several PCs.
+
 [![Storm](https:https://tse3.mm.bing.net/th?id=OIP.RQ-TuPP81MB6UooXXYDdAQHaFj&pid=Api)](https://softexe.net/win/disks-files/compare-sync/storm:pRgdd.html)
 
 After installing the described tool, it appears in the Windows system tray. From here we can configure basic options. The program itself does not offer the main window, because its operation is "only" to synchronize files contained in the Storm folder on all computers.

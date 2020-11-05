@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/imazing-8806.png) iMazing 2.10.6 - Free Download
 
-```sh
-iMazing is a tool targeted at owners of all kinds of portable devices from Apple. It allows easy transfer of data between the computer and the iPhone, iPad, iPod or Apple TV.
-```
+> iMazing is a tool targeted at owners of all kinds of portable devices from Apple. It allows easy transfer of data between the computer and the iPhone, iPad, iPod or Apple TV.
+
 [![iMazing](https://gallery.dpcdn.pl/imgc/Tools/77106/g_-_420x350_1.5_-_x20170807160804_0.jpg)](https://softexe.net/win/hobbies-lifestyle/mobile/imazing:hhRf.html)
 
 The program allows you to use these devices as from external data storage. When connected to a computer, Windows detects them as standard hard drives and allows you to easily transfer files and folders between your computer and the iPhone. In addition, iMazing supports the "drag-and-drop" method which further improves the comfort of working with the application.

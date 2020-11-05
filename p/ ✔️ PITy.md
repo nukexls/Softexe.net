@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/pity-8452.png) PITy 2.2019.12.2  - Free Download
 
-```sh
-A program that supports filling in annual PIT tax declarations, which is very convenient to use.
-```
+> A program that supports filling in annual PIT tax declarations, which is very convenient to use.
+
 [![PITy](https://gallery.dpcdn.pl/imgc/Tools/131/g_-_420x350_1.5_-_x6f43afcd-1ed6-4db3-9be0-e23e6dcc2462.png)](https://softexe.net/win/business/home-accounting/pity:hdeb.html)
 
 With the help of the application, we can complete the testimony PIT-28, PIT-36, PIT-36L, PIT-37, PIT-38, PIT-39, PIT-16A and PIT-19A and a full range of attachments, and later print or submit completed declarations by Internet. The program performs calculations and the user has to fill only the necessary fields. The user does not even have to have information about the target Tax Office, he only chooses it from the list. Work on PIT can be saved and continued at any time. All forms have a built-in data transfer to the e-Deklaracje system.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Brother+DCP-1622WE+Driver icon&w=40&h=40) Brother DCP-1622WE Driver A1 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Brother DCP-1622WE Driver A1 - Free Download
 
-```sh
-Pakiet zawierający najnowsze sterowniki i oprogramowanie dla urządzenia wielofunkcyjnego Brother DCP-1622WE.
-```
+> Pakiet zawierający najnowsze sterowniki i oprogramowanie dla urządzenia wielofunkcyjnego Brother DCP-1622WE.
+
 [![Brother DCP-1622WE Driver](https:https://tse4.mm.bing.net/th?id=OIP.4fHanH72DcDht9a0ml7_8wHaFe&pid=Api)](https://softexe.net/win/system/drivers/brother-dcp-1622we-driver:afhR.html)
 
 

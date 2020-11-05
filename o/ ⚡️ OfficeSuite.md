@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/officesuite-8278.png) OfficeSuite 3.60.27485.0 - Free Download
 
-```sh
-OfficeSuite is an interesting alternative for the most popular office suite, namely Microsoft Office.
-```
+> OfficeSuite is an interesting alternative for the most popular office suite, namely Microsoft Office.
+
 [![OfficeSuite](https://gallery.dpcdn.pl/imgc/Tools/90943/g_-_420x350_1.5_-_x0686ed57-0aad-443f-b17e-03042ccb193a.jpg)](https://softexe.net/win/business/office-suites/officesuite:hbgh.html)
 
 What does OfficeSuite contain?

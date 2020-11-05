@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=DoNotSpy10 icon&w=40&h=40) DoNotSpy10 5.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) DoNotSpy10 5.2 - Free Download
 
-```sh
-DoNotSpy10 is a small application that allows you to quickly change all the relevant options available in Windows 10 for privacy reasons. It allows you to disable tracking elements and postpone automatic updates so that they are installed at other times.
-```
+> DoNotSpy10 is a small application that allows you to quickly change all the relevant options available in Windows 10 for privacy reasons. It allows you to disable tracking elements and postpone automatic updates so that they are installed at other times.
+
 [![DoNotSpy10](https://gallery.dpcdn.pl/imgc/Tools/60576/g_-_420x350_1.5_-_x20150805093449_0.png)](https://softexe.net/win/security-privacy/data-protection/donotspy10:afad.html)
 
 The application is extremely easy to use: it is enough to install it, run it and then select the elements to be switched off and confirm. At the beginning, the program suggests the execution of the system restore point - it is worth performing this operation in order to restore the system for proper operation in case of problems. Among the settings available in the application you will find, among others:

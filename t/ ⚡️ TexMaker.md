@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=TexMaker icon&w=40&h=40) TexMaker 5.0.4 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) TexMaker 5.0.4 - Free Download
 
-```sh
-TexMaker is a free and multi-platform LaTeX editor, offering all the necessary tools to create, among others technical documentation containing complicated mathematical formulas, etc.
-```
+> TexMaker is a free and multi-platform LaTeX editor, offering all the necessary tools to create, among others technical documentation containing complicated mathematical formulas, etc.
+
 [![TexMaker](https:https://tse4.mm.bing.net/th?id=OIP.j0hzAr5uZvk6HmffpN-qPgHaE1&pid=Api)](https://softexe.net/win/system/text-editors/texmaker:pRfgg.html)
 
 Despite the enormous possibilities, the program offers a user-friendly graphical interface, built on the basis of the Qt framework. It is characterized by high speed of operation, and since version 3.1 is also available in the Polish language version. Its big advantage is simple installation and configuration, allowing you to customize the tool to your own needs and preferences. TexMakera can be run on Windows, Linux and Mac OS. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/go-contact-sync-mod-10962.png) GO Contact Sync Mod 3.10.14 - Free Download
 
-```sh
-GO Contact Sync Mod is a tool for synchronizing the contact list between a Microsoft Outlook e-mail client and Gmail.
-```
+> GO Contact Sync Mod is a tool for synchronizing the contact list between a Microsoft Outlook e-mail client and Gmail.
+
 [![GO Contact Sync Mod](https:https://tse2.mm.bing.net/th?id=OIP.MDkipLJPOujMIeSaB3XhkwHaF-&pid=Api)](https://softexe.net/win/internet/e-mail/go-contact-sync-mod:pRafb.html)
 
 All you need to do to get started with GO Contact Sync Mod is to create a user profile and add the e-mail address associated with your Google e-mail account. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/hwmonitor-pro-8906.png) HWMonitor Pro 1.38 - Free Download
 
-```sh
-HWMonitor Pro is an extended edition of the HWMonitor tool designed to monitor the basic operating parameters of the underlying computer components.
-```
+> HWMonitor Pro is an extended edition of the HWMonitor tool designed to monitor the basic operating parameters of the underlying computer components.
+
 [![HWMonitor Pro](https://gallery.dpcdn.pl/imgc/Tools/81026/g_-_420x350_1.5_-_xe492266e-cfb4-42bd-9df1-6f65607b1e04.png)](https://softexe.net/win/system/diagnostics-tests/hwmonitor-pro:haRf.html)
 
 The program for reading these parameters uses special temperature sensors mounted on devices by their manufacturers. In the case of other information or components that have not been equipped with such sensors (including hard drives) required data are downloaded using SMART technology. HWMonitor is very often required to operate various types of system widgets whose task is to provide information about parameters conveniently computer work.

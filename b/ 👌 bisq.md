@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=bisq icon&w=40&h=40) bisq 0.6.5 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) bisq 0.6.5 - Free Download
 
-```sh
-Bisq (formerly Bitsquare) is a decentralized cryptocurrency exchange - bitcoin, monero, litecoin and others - which only mediates exchanges between its users. All funds remain in portfolios controlled only by their owners, and safe deposits are implemented by multi-signature bitcoin addresses. Of course, it is also possible to use traditional currencies (dollars, euros or zlotys) in transactions, for example using bank transfers (but not only).
-```
+> Bisq (formerly Bitsquare) is a decentralized cryptocurrency exchange - bitcoin, monero, litecoin and others - which only mediates exchanges between its users. All funds remain in portfolios controlled only by their owners, and safe deposits are implemented by multi-signature bitcoin addresses. Of course, it is also possible to use traditional currencies (dollars, euros or zlotys) in transactions, for example using bank transfers (but not only).
+
 [![bisq](https:https://tse4.mm.bing.net/th?id=OIP.knLuE7CnhqOSmZ06ejsAnAHaEn&pid=Api)](https://softexe.net/win/business/trade/bisq:pRffh.html)
 
 Developers of this open source project develop it completely according to the will of users - it is a decentralized organization in which binding decisions are made by shareholder voting, carried out using special BSQ tokens.

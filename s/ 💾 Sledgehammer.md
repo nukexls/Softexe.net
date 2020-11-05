@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Sledgehammer 2.6.0 - Free Download
 
-```sh
-Sledgehammer (formerly WUMT Wrapper Script) is a small tool to manage Windows 10 system updates.
-```
+> Sledgehammer (formerly WUMT Wrapper Script) is a small tool to manage Windows 10 system updates.
+
 [![Sledgehammer](https:https://tse4.mm.bing.net/th?id=OIP.RBaAUpQuQYwnlfuMvuFb0gEsDM&pid=Api)](https://softexe.net/win/system/system-tools/sledgehammer:hpgf.html)
 
 It enables complete blocking of the operating environment updates (for restarting), checking of available Windows patches and selective installation of selected components. Its functions will be useful in situations when we would like to avoid performance drops caused by updating Windows or restarting the computer caused by the update.

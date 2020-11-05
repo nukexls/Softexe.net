@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/sugarsync-file-manager-8317.png) SugarSync File Manager 3.11.2.3 - Free Download
 
-```sh
-SugarSync File Manager is a small and multi-platform SugarSync client application that allows you to synchronize and share data with other users via the Internet.
-```
+> SugarSync File Manager is a small and multi-platform SugarSync client application that allows you to synchronize and share data with other users via the Internet.
+
 [![SugarSync File Manager](https://gallery.dpcdn.pl/imgc/Tools/7896/g_-_420x350_1.5_-_x20130219134212_00.png)](https://softexe.net/win/internet/cloud-storage/sugarsync-file-manager:hcpg.html)
 
 The tool in conjunction with the aforementioned service is an excellent alternative to the currently popular Dropbox. It significantly facilitates data transfer to external servers, subsequent synchronization of data with any computer and sharing them with friends, and what is important allows you to work with each folder on the disk, and the service itself has no restrictions on the size of data transmitted. SugarSync File Manager supports proxies and also provides the option of defining data transfer rates so as not to interfere with other programs using the internet connection. Data transfer is carried out using the TLS (Transport Layer Security) protocol and they are stored in an encrypted form (using the 128-bit AES algorithm).

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Chrome+Delight icon&w=40&h=40) Chrome Delight 1.0.21 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Chrome Delight 1.0.21 - Free Download
 
-```sh
-Chrome Delight is an addition to Google Chrome, thanks to which, after launching a new tab in the browser, each time we will see a short, looped stop frame animation of an interesting landscape. There is also weather preview and shortcuts for applications, history and bookmarks.
-```
+> Chrome Delight is an addition to Google Chrome, thanks to which, after launching a new tab in the browser, each time we will see a short, looped stop frame animation of an interesting landscape. There is also weather preview and shortcuts for applications, history and bookmarks.
+
 [![Chrome Delight](https:https://tse3.mm.bing.net/th?id=OIP.1Z7aiXaCSeYF_bf57T_hxgHaE8&pid=Api)](https://softexe.net/win/internet/browser-add-ons/chrome-delight:pRhfe.html)
 
 In principle, the extension does not require any configuration to work, but interested parties have the opportunity to use several key settings. First of all, you can set the town where the weather will apply, but also affect the appearance of the new card window.

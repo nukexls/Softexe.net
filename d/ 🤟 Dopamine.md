@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/dopamine-10088.png) Dopamine 2.0.4 - Free Download
 
-```sh
-Dopamine is an aesthetic and very simple music player with the ability to manage a song library. The program will handle WAV, MP3, OGG, FLAC, WMA and M4A / AAC files.
-```
+> Dopamine is an aesthetic and very simple music player with the ability to manage a song library. The program will handle WAV, MP3, OGG, FLAC, WMA and M4A / AAC files.
+
 [![Dopamine](https://gallery.dpcdn.pl/imgc/Tools/69168/g_-_420x350_1.5_-_x20160704133834_0.png)](https://softexe.net/win/multimedia/audio-video-players/dopamine:pRRhh.html)
 
 After the first start of the program, you should indicate where the music files are located on the disc. Dopamine will automatically find all files that it can play and add them to the library, sorting by metadata. Dopamine lets you browse the collection by albums, genres, artists, separate songs, and lets you create your own playlists. There were plenty of options to rate songs with asterisks and edit metadata. 

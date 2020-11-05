@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/ccleaner-slim-8608.png) CCleaner Slim 5.70 - Free Download
 
-```sh
-CCleaner Slim is a version of the popular tool for optimizing the system and removing from the disk all kinds of unnecessary data, which has been deprived of an additional toolbar installed in the web browser. In addition, the Slim edition offers the same features as the standard edition.
-```
+> CCleaner Slim is a version of the popular tool for optimizing the system and removing from the disk all kinds of unnecessary data, which has been deprived of an additional toolbar installed in the web browser. In addition, the Slim edition offers the same features as the standard edition.
+
 [![CCleaner Slim](https://gallery.dpcdn.pl/imgc/Tools/43137/g_-_420x350_1.5_-_x20141201184615_0.png)](https://softexe.net/win/system/system-tools/ccleaner-slim:hfRh.html)
 
 The application allows, with a single click, to clear the remains of surfing the Internet including the list of websites visited and downloaded files, cookies (cookies) and temporary Internet files. In addition, CCleaner allows you to empty the contents of the basket, system clipboard, lists of recently launched programs, lists of recently opened documents (also in individual applications) and many more ...

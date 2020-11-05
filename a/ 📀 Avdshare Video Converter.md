@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/avdshare-video-converter-8673.png) Avdshare Video Converter 7.2.0.7268 - Free Download
 
-```sh
-Avdshare Video Converter is a tool for converting video.
-```
+> Avdshare Video Converter is a tool for converting video.
+
 [![Avdshare Video Converter](https://gallery.dpcdn.pl/imgc/Tools/90604/g_-_420x350_1.5_-_x99b4fca3-7428-48c9-93ee-82017ad21030.jpg)](https://softexe.net/win/multimedia/video/avdshare-video-converter:hfgc.html)
 
 With the support of Avdshare Video Converter, even less experienced customers will cope. All you need to do is add the selected files to the main program window by clicking the "add file" button and specifying the recording path of your videos. Then you have to use the "profile" function, where you define the output format, and then click the play icon located in the bottom right corner of the screen. After the conversion, Avdshare Video Converter will immediately open the folder window containing the file in the new format.

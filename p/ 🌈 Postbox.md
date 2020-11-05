@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Postbox icon&w=40&h=40) Postbox 7.0.28 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Postbox 7.0.28 - Free Download
 
-```sh
-Postbox is a mail client for Windows and Mac computers.
-```
+> Postbox is a mail client for Windows and Mac computers.
+
 [![Postbox](https://gallery.dpcdn.pl/imgc/Tools/1011/g_-_420x350_1.5_-_x20100617142852.png)](https://softexe.net/win/internet/e-mail/postbox:hcRc.html)
 
 The program in addition to the usual functions offers the possibility to create libraries containing email attachments. The user can search for files attached to electronic mail, send them to friends, or segregate. Postbox can import settings from the Mozilla Thunderbird mailbox, supports Gmail, POP, IMAP, RSS, mailing lists, as well as social networking sites such as Facebook or Twitter.

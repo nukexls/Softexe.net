@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) GeoOrganizer 1.0 - Free Download
 
-```sh
-GeoOrganizer is a useful tool for surveyors, allowing you to easily manage all documentation created during geodetic works. With its help, we report work to the starostes in accordance with the current rules.
-```
+> GeoOrganizer is a useful tool for surveyors, allowing you to easily manage all documentation created during geodetic works. With its help, we report work to the starostes in accordance with the current rules.
+
 [![GeoOrganizer](https://gallery.dpcdn.pl/imgc/Tools/75925/g_-_420x350_1.5_-_x20170524225121_0.jpg)](https://softexe.net/win/business/other/geoorganizer:ppRpb.html)
 
 The application allows you to conveniently collect databases of applications (centers), clients, landowners or contractors. It offers the possibility of addressing envelopes, maintaining a broadcasting book, using dictionaries of the type of submitted works, towns and streets, as well as creating documents based on templates shared by other users.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=MikroMap icon&w=40&h=40) MikroMap 5.7 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) MikroMap 5.7 - Free Download
 
-```sh
-MikroMap is a simple and cheap program for graphic creation of maps and geodesic sketches.
-```
+> MikroMap is a simple and cheap program for graphic creation of maps and geodesic sketches.
+
 [![MikroMap](https://gallery.dpcdn.pl/imgc/Tools/75938/g_-_420x350_1.5_-_x20170525144243_0.png)](https://softexe.net/win/business/other/mikromap:ahae.html)
 
 The application allows you to easily create projects using basic graphical tools such as points, symbols, lines, texts etc. It allows you to freely download coordinates from files in different formats, as well as to exchange data with WinKalk. It has modules to help you assemble frames and descriptions, create tables and contours, work on rasters, and also vectorize raster. MikroMap is a very good working tool for, among others registration studies and inventories.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/autodesk-revit-8690.png) Autodesk Revit 2020.2 - Free Download
 
-```sh
-Autodesk Revit is a professional program for building modeling and building information (BIM) in pre-loaded formats. In addition, Revit has the possibilities of architectural design, MEP engineering and construction, and the possibility of parametric design.
-```
+> Autodesk Revit is a professional program for building modeling and building information (BIM) in pre-loaded formats. In addition, Revit has the possibilities of architectural design, MEP engineering and construction, and the possibility of parametric design.
+
 [![Autodesk Revit](https://gallery.dpcdn.pl/imgc/Tools/68850/g_-_420x350_1.5_-_x20160620200728_0.png)](https://softexe.net/win/multimedia/cad/autodesk-revit:hfaR.html)
 
 Revit supports the entire design process from concept to construction and gives you a wide range of team work opportunities. Sharing resources allows different people in the team to work on the same project at the same time. Bidirectional element connections cause that changes made in one of the views will be introduced globally, in every place where the modified object appears. 

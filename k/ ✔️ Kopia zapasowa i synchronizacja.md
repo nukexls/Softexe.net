@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/kopia-zapasowa-i-synchronizacja-9734.png) Kopia zapasowa i synchronizacja 3.50 - Free Download
 
-```sh
-Backup and Sync (Google Backup and Sync) is a program for synchronizing data from Google Drive and Photo Services, which is a connection and direct successor of separate Drive and Photo clients. It enables automatic data transfer between a computer and a virtual disk in the cloud to provide additional data security.
-```
+> Backup and Sync (Google Backup and Sync) is a program for synchronizing data from Google Drive and Photo Services, which is a connection and direct successor of separate Drive and Photo clients. It enables automatic data transfer between a computer and a virtual disk in the cloud to provide additional data security.
+
 [![Kopia zapasowa i synchronizacja](https://gallery.dpcdn.pl/imgc/Tools/76721/g_-_420x350_1.5_-_x20170713125526_0.png)](https://softexe.net/win/internet/cloud-storage/kopia-zapasowa-i-synchronizacja:agcd.html)
 
 The application should not be a surprise to existing users of previous programs from Google. The options available in the settings are the same here, but their layout has been slightly changed, adding the division into tabs, and the main advantage of the program is simply to simplify the service by combining both services together.

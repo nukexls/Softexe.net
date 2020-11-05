@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/scratch-icon128.png) Scratch 3.4.0 - Free Download
 
-```sh
-Scratch Desktop is a platform for mastering the basic concepts and principles of programming, originally developed for primary and secondary school students.
-```
+> Scratch Desktop is a platform for mastering the basic concepts and principles of programming, originally developed for primary and secondary school students.
+
 [![Scratch](https:https://tse3.mm.bing.net/th?id=OIP.jEKyjYQXpAJ1iJ8_p390wwHaE1&pid=Api)](https://softexe.net/win/development-it/development-tools/scratch:fRpg.html)
 
 Scratch Desktop is a platform for mastering the basic concepts and principles of programming, originally developed for primary and secondary school students. This application is a visual object-oriented environment in which using the block principle you can create your own animation projects, games, various interactive stories and share them with other members of the network community.&nbsp;

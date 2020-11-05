@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Second+Life icon&w=40&h=40) Second Life 5.0.7 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Second Life 5.0.7 - Free Download
 
-```sh
-Although the creators of Second Life talk about their product as a social integration platform, in fact the project should be included in the group of MMO titles. There is simply no specific purpose here, the inhabitants of the virtual world live their lives on Linden Lab servers. Millions of users come to play every day, who want to feel something completely different for a moment, just like everyone else.
-```
+> Although the creators of Second Life talk about their product as a social integration platform, in fact the project should be included in the group of MMO titles. There is simply no specific purpose here, the inhabitants of the virtual world live their lives on Linden Lab servers. Millions of users come to play every day, who want to feel something completely different for a moment, just like everyone else.
+
 [![Second Life](https:https://tse4.explicit.bing.net/th?id=OIP.uC_3q9jaMPuH0R_SCLRygAHaHa&pid=Api)](https://softexe.net/win/games-entertainment/rpg/second-life:pRaff.html)
 
 Player's actions are not limited only to the creation of an avatar, ie a virtual alter ego, which will come to move across vast and diverse lands, but it can also actively influence the shape and appearance of the surroundings. Just download the free editor. Second Life is driven by 3D products of the members of this huge community, from the elements of clothes and interior decorations, to much more complex and larger objects. The world even has its own economy, with a digital currency exchangeable for real money. Of course, the funds to be spent are for thousands of items, in the spirit of such normal consumerism.

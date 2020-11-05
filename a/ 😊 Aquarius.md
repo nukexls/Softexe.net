@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Aquarius icon&w=40&h=40) Aquarius  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Aquarius  - Free Download
 
-```sh
-Aquarius is an atmospheric and at first glance uncomplicated 2.5D adventure that takes us straight into the darkest waters of the deepest oceans, unknown by humanity.
-```
+> Aquarius is an atmospheric and at first glance uncomplicated 2.5D adventure that takes us straight into the darkest waters of the deepest oceans, unknown by humanity.
+
 [![Aquarius](https://gallery.dpcdn.pl/imgc/Tools/52800/g_-_420x350_1.5_-_x20140716181931_0.jpg)](https://softexe.net/win/games-entertainment/adventure/aquarius:pbfae.html)
 
 Sitting at the controls of a small but well-armed submarine, we get the task of finding an antidote for a virus that has been in the human race for a long time. Apparently the medicine is inside a cruel pounding, which, apart from being hidden, does not show any willingness to cooperate.

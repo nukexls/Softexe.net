@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/faktura-jpk-9171.png) Faktura-JPK 5.7.93.1073 - Free Download
 
-```sh
-Faktura-JPK is a program for issuing invoices with warehouse support and JPK, created on the basis of a proven NT-based Invoice, taken from our catalog several thousand times. Compared to its original, it is devoid of support for some of the more sophisticated functions, but it does provide a wealth of features that allow you to display a wide variety of invoices and, importantly, it is available for readers of the portal free programs (details below)!
-```
+> Faktura-JPK is a program for issuing invoices with warehouse support and JPK, created on the basis of a proven NT-based Invoice, taken from our catalog several thousand times. Compared to its original, it is devoid of support for some of the more sophisticated functions, but it does provide a wealth of features that allow you to display a wide variety of invoices and, importantly, it is available for readers of the portal free programs (details below)!
+
 [![Faktura-JPK](https://gallery.dpcdn.pl/imgc/Tools/79851/g_-_420x350_1.5_-_x69e52d52-b5ce-48a7-a297-da04961f63d3.png)](https://softexe.net/win/business/billing/faktura-jpk:apgp.html)
 
 The intuitive interface makes it easy to print a VAT invoice quickly, and over 20 templates give the possibility to adjust the printout to the individual preferences of the user. The program supports dual currency sales, export invoices and WDT, receipts, advance and summary invoices, RR invoices, corrections. VAT invoices can also be quickly issued to receipts printed using the system. The contractor's details are automatically filled in after entering his NIP number.

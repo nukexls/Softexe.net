@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Cemu - Wii U emulator 1.16.1 - Free Download
 
-```sh
-Cemu is the first in the world console of the eighth generation console, specifically Nintendo Wii U. Requirements are big - at least efficient Core i5 and 6 GB RAM, graphics card Nvidia or AMD with support for OpenGL 4.0 (and if possible, OpenGL 4.5), 64- Windows bit (7, 8.1 or 10).
-```
+> Cemu is the first in the world console of the eighth generation console, specifically Nintendo Wii U. Requirements are big - at least efficient Core i5 and 6 GB RAM, graphics card Nvidia or AMD with support for OpenGL 4.0 (and if possible, OpenGL 4.5), 64- Windows bit (7, 8.1 or 10).
+
 [![Cemu - Wii U emulator](https://gallery.dpcdn.pl/imgc/Tools/74715/g_-_420x350_1.5_-_x20170316194650_0.jpg)](https://softexe.net/win/games-entertainment/emulators/cemu-wii-u-emulator:hpga.html)
 
 In return, we get the ability to run games smoothly even in 4K resolution (although it's better to have 1080 Ti). The DRC (GamePad), Pro Controller and Classic Controller controllers are also emulated, the keyboard and USB controllers are partially supported.

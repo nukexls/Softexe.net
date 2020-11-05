@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/tomtom-home-8972.png) TomTom HOME 2.20.12.112 - Free Download
 
-```sh
-TomTom HOME is an application designed to install and update maps and other elements on TomTom navigation devices.
-```
+> TomTom HOME is an application designed to install and update maps and other elements on TomTom navigation devices.
+
 [![TomTom HOME](https://gallery.dpcdn.pl/imgc/Tools/60874/g_-_420x350_1.5_-_x20150814135602_0.png)](https://softexe.net/win/hobbies-lifestyle/mobile/tomtom-home:hagb.html)
 
 Through the program, we can purchase new maps and accessories, and then copy them directly to the device or memory card in the computer reader. If we have a valid subscription and log in to the program, we can freely download the available updates and also synchronize them with the device or card. In addition to the maps themselves, TomTom also allows you to purchase or download free of pilot's voice, information about speed cameras, navigation facilities and MapShare map corrections developed on the basis of data provided by the driver community.

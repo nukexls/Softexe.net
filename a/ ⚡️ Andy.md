@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/andy-8632.png) Andy 47.260 - Free Download
 
-```sh
-Andy is a free Android emulator, thanks to which, on a computer with a Windows or Mac OS X operating system, we will use the application of available exclusions on mobile devices.
-```
+> Andy is a free Android emulator, thanks to which, on a computer with a Windows or Mac OS X operating system, we will use the application of available exclusions on mobile devices.
+
 [![Andy](https://gallery.dpcdn.pl/imgc/Tools/63062/g_-_420x350_1.5_-_x20151028154911_0.png)](https://softexe.net/win/hobbies-lifestyle/mobile/andy:hfcb.html)
 
 The program has been designed so that its users can feel just like the owners of Android phones. Andy offers an interface well-known from smartphones, and also allows you to use the Google Play store, where you will find not only hundreds of games and programs (including free ones). After downloading, we will run them from the desktop of our operating system without any problem.

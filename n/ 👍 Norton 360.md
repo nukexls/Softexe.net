@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Norton 360 2014 21.6.0.32 - Free Download
 
-```sh
-Norton 360 combines the functionality of the programs of Norton Internet Security and Norton AntiVirus with the addition of the ability to backup important data.
-```
+> Norton 360 combines the functionality of the programs of Norton Internet Security and Norton AntiVirus with the addition of the ability to backup important data.
+
 [![Norton 360](https://gallery.dpcdn.pl/imgc/Tools/109/g_-_420x350_1.5_-_x20130909214825_0.png)](https://softexe.net/win/security-privacy/firewalls/norton-360:dgad.html)
 
 Norton 360 combines the functionality of the programs of Norton Internet Security and Norton AntiVirus with the addition of the ability to backup important data.

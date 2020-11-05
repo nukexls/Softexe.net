@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/minetime-8504.png) MineTime 1.7.1 - Free Download
 
-```sh
-MineTime is a free calendar for computer users with a Windows operating system.
-```
+> MineTime is a free calendar for computer users with a Windows operating system.
+
 [![MineTime](https://gallery.dpcdn.pl/imgc/Tools/83671/g_-_420x350_1.5_-_x9b395a48-c7de-41fd-afd1-d84605aad5db.jpg)](https://softexe.net/win/business/calendars/minetime:heRd.html)
 
 Thanks to this program, we will be able to organize your time easily and quickly by introducing various information to the desktop calendar. MineTime works with the most popular services, so we can import data from Google Calendar, Outlook, Microsoft Exchange, iCloud and any service using CalDAV.

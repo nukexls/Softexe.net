@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/affinity-photo-9576.png) Affinity Photo 1.7.0 - Free Download
 
-```sh
-Affinity Photo is a program for editing raster graphics, and above all, calling and retouching photos and assembling photomontages. Affinity Photo quite well handles opening and saving Photoshop files (PSD), as well as RAWs from various digital cameras, along with color profiles and lens geometry for many of them.
-```
+> Affinity Photo is a program for editing raster graphics, and above all, calling and retouching photos and assembling photomontages. Affinity Photo quite well handles opening and saving Photoshop files (PSD), as well as RAWs from various digital cameras, along with color profiles and lens geometry for many of them.
+
 [![Affinity Photo](https://gallery.dpcdn.pl/imgc/Tools/72354/g_-_420x350_1.5_-_x20161110151224_0.png)](https://softexe.net/win/multimedia/graphics-design/affinity-photo:aegf.html)
 
 The Affinity Photo window has been divided into specific tasks: calling, post-production, forming, tone mapping (HDR) and export. The development module has been equipped not only with the possibility of color correction and detail extraction, but also allows you to improve the camera's imperfections, remove distortions and aberrations, and take advantage of advanced image stuttering.

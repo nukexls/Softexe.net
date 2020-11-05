@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/router-password-decryptor-10889.png) Router Password Decryptor 6.0 - Free Download
 
-```sh
-Router Password Decryptor is a small and free tool for recovering from modem configuration files or router data access to device settings, WEP keys, as well as WPA / WPA2 passwords.
-```
+> Router Password Decryptor is a small and free tool for recovering from modem configuration files or router data access to device settings, WEP keys, as well as WPA / WPA2 passwords.
+
 [![Router Password Decryptor](https:https://tse4.explicit.bing.net/th?id=OIP.AQ_y5fH7I5R-KrENqQ-8iwHaE5&pid=Api)](https://softexe.net/win/security-privacy/passwords/router-password-decryptor:pRhha.html)
 
 The program allows you to recover all the most important data that is required to configure the router, and thus connect to, for example, the Internet or home wireless network. For this purpose, it is required to have access to the router configuration file, in which Router Password Decryptor will automatically search for the appropriate information and then decrypt it, thus enabling its reading.

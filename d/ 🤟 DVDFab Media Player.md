@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/dvdfab-media-player-10726.png) DVDFab Media Player 3.2.0.1 - Free Download
 
-```sh
-DVDFab Media Player is an interesting, although not very popular position in our country among DVD / Blu-ray movie players. Allows you to view video content stored on discs, as well as those saved on hard disk, ISO images, etc.
-```
+> DVDFab Media Player is an interesting, although not very popular position in our country among DVD / Blu-ray movie players. Allows you to view video content stored on discs, as well as those saved on hard disk, ISO images, etc.
+
 [![DVDFab Media Player](https:https://tse1.mm.bing.net/th?id=OIP.qQZoaQe_miRfWyldVwcEIAHaE6&pid=Api)](https://softexe.net/win/multimedia/audio-video-players/dvdfab-media-player:pRgbf.html)
 
 The program can be proud of its high speed of operation and loading of the films selected by the user. It successfully manages the extensive menu of DVD / BD media, as well as smoothly play video protected by the Cinavia system. Other important advantages of the player are the ergonomic and clear graphical interface, the functions of creating screenshots from the movie, options for adjusting the basic parameters of the displayed image (brightness, contrast and saturation) and its size / proportion. There was also a playlist mechanism, support for multilingual media and subtitling support. Thanks to the graphic theme system, everyone can conveniently customize the look of the player to their own preferences.

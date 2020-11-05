@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=openCanvas icon&w=40&h=40) openCanvas 7.0.25 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) openCanvas 7.0.25 - Free Download
 
-```sh
-openCanvas is a painting application from Japan. The program is particularly popular among manga drawing artists, though not only directed at them. Its functions can be successfully used for drawing in any style.
-```
+> openCanvas is a painting application from Japan. The program is particularly popular among manga drawing artists, though not only directed at them. Its functions can be successfully used for drawing in any style.
+
 [![openCanvas](https://gallery.dpcdn.pl/imgc/Tools/2643/g_-_420x350_1.5_-_x20110415125953_00.png)](https://softexe.net/win/multimedia/graphics-editors/opencanvas:haeg.html)
 
 We will find here classic tools, such as a pencil, a calligraphy pen, watercolors, pastels and oil paints. You can also create your own brushes by changing the parameters supplied with the program or using a bitmap as a brush. Interestingly, this program has the ability to color in a way typical for comics, that is, with a raster pattern typical for printing. openCanvas offers a wide range of raster shape configuration options, including unusual patterns such as circles, and quite a wide range of standard options: rhomboids, dots, circles, chessboard, grid, lines, etc. openCanvas works very well with a pen tablet. The tools used in the program are pressure-sensitive, so drawing in it is very natural. If you are drawing with the mouse, it is worth using the version introduced in version 5 a system that facilitates drawing curves (it is activated by brush settings). 

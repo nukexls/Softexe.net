@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/corsair-link-8228.png) Corsair Link 4.9.9.3 - Free Download
 
-```sh
-Corsair Link is a useful tool whose task is to monitor the operating parameters of the computer's subassemblies. From its level, we will get information about the processor, RAM or graphics.
-```
+> Corsair Link is a useful tool whose task is to monitor the operating parameters of the computer's subassemblies. From its level, we will get information about the processor, RAM or graphics.
+
 [![Corsair Link](https://gallery.dpcdn.pl/imgc/Tools/75806/g_-_420x350_1.5_-_x20170518122929_0.jpg)](https://softexe.net/win/system/diagnostics-tests/corsair-link:hbbh.html)
 
 The huge advantage of the program is a refined and clear graphical interface, as well as simplicity of use. Corsair Link presents the data in an accessible way about the degree of processor usage, temperature of individual cores, the frequency of RAM operation or the temperature of the graphics card (both built-in on the motherboard, as well as the dedicated one) and the hard disk.

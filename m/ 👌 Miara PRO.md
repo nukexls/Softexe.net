@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Miara+PRO icon&w=40&h=40) Miara PRO 1.7.100.7 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Miara PRO 1.7.100.7 - Free Download
 
-```sh
-The PRO measure is a simple tool designed to prepare lots based on CAD projects.
-```
+> The PRO measure is a simple tool designed to prepare lots based on CAD projects.
+
 [![Miara PRO](https://gallery.dpcdn.pl/imgc/Tools/68209/g_-_420x350_1.5_-_x20160524110642_0.png)](https://softexe.net/win/business/other/miara-pro:aRba.html)
 
 The application supports technical documents in DWG, DXF or DRAW formats and enables work with the use of layers. What's more, it gives you the ability to apply several layers of redundancy objects, whose background can be any selected layers of the project. Sizes can also be removed after loading drawings or photos saved in the most popular graphic formats: JPG, BMP, GIF, PNG and TIFF.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Kickresume icon&w=40&h=40) Kickresume 2.8.1.1 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Kickresume 2.8.1.1 - Free Download
 
-```sh
-Kickresume is an add-on to Google Chrome web browser, which can be an interesting proposition for users looking for a job. The tool allows you to quickly create your own CV and share it with potential employers.
-```
+> Kickresume is an add-on to Google Chrome web browser, which can be an interesting proposition for users looking for a job. The tool allows you to quickly create your own CV and share it with potential employers.
+
 [![Kickresume](https:https://tse1.mm.bing.net/th?id=OIP.sX8o7XkJVMKhnSA_7ATndwFVC3&pid=Api)](https://softexe.net/win/internet/browser-add-ons/kickresume:ppccc.html)
 
 The program is available in the free version and Premium version, and as you can easily guess, the free edition of Kickresume offers much less functionality. Nevertheless, it contains several templates to choose from so that ready-made projects can be quickly completed with the necessary personal data, information about your education path and professional experience and skills.

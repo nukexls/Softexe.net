@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Forza Horizon 3  - Free Download
 
-```sh
-Forza Horizon 3 is an arcade racing game. The driving model is very easy to learn, and thanks to many levels of difficulty everyone will find something for themselves.
-```
+> Forza Horizon 3 is an arcade racing game. The driving model is very easy to learn, and thanks to many levels of difficulty everyone will find something for themselves.
+
 [![Forza Horizon 3](https://gallery.dpcdn.pl/imgc/Tools/83679/g_-_420x350_1.5_-_x39518d7c-2b20-4d97-95da-019892ac3b6e.jpg)](https://softexe.net/win/games-entertainment/race/forza-horizon-3:pRRbd.html)
 
 This time the Horizon Festival takes place in Australia, where left-hand traffic is in force. In the open world, not only beautiful landscapes await us, but also numerous challenges. Overcoming next rivals in competitions and one-on-one duels, as well as collecting collectibles (eg rebate tables) brings the player closer to the goal of winning the Horizon Festival.

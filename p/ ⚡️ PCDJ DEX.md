@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/pcdj-dex-9539.png) PCDJ DEX 3.13.0.5 - Free Download
 
-```sh
-PCDJ DEX is a professional tool for DJs and musicians, designed for mixing sounds and music on a computer. The application is characterized by a huge number of different functions that support the creation and mixing of sounds. In addition, it reads the entire contents of Audio CDs and supports the most popular formats of MP3, OGG, AVI, MOV, MKV, FLAC, M4A and many more.
-```
+> PCDJ DEX is a professional tool for DJs and musicians, designed for mixing sounds and music on a computer. The application is characterized by a huge number of different functions that support the creation and mixing of sounds. In addition, it reads the entire contents of Audio CDs and supports the most popular formats of MP3, OGG, AVI, MOV, MKV, FLAC, M4A and many more.
+
 [![PCDJ DEX](https://gallery.dpcdn.pl/imgc/Tools/8303/g_-_420x350_1.5_-_x20120420105547_00.png)](https://softexe.net/win/multimedia/audio-sound/pcdj-dex:aeca.html)
 
 In the program, we can create and mix music using ready-made loops, sound files (samples), an acoustic spectrum analyzer, and using various effects to manipulate the sound being played. In addition, we'll find the necessary Beat Skip function to skip along the length and breadth of the song without falling out of the rhythm. It is also worth mentioning the tool for simulating work with a vinyl record, which has additional effects of slowing down or playing from the back of any music piece. 

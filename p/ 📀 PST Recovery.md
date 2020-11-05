@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=PST+Recovery icon&w=40&h=40) PST Recovery 7.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) PST Recovery 7.0 - Free Download
 
-```sh
-PST Recovery is a tool used for recovering lost PST files from Microsoft Outlook.
-```
+> PST Recovery is a tool used for recovering lost PST files from Microsoft Outlook.
+
 [![PST Recovery](https://gallery.dpcdn.pl/imgc/Tools/85898/g_-_420x350_1.5_-_x2d294294-6ee9-4615-bbd7-4775045f1db3.jpg)](https://softexe.net/win/disks-files/data-recovery/pst-recovery:afcb.html)
 
 The program is aimed at people who use the popular Outlook to handle their e-mail account. Thanks to PST Recovery, they will be able to restore valuable data, including of course messages, attachments, contact lists, calendar entries and many, many more. It is also possible to quickly recover PST files that have been previously encrypted or are password protected.

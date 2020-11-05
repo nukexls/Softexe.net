@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=FlightGear+Flight+Simulator icon&w=40&h=40) FlightGear Flight Simulator 2018 3.5 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) FlightGear Flight Simulator 2018 3.5 - Free Download
 
-```sh
-FlightGear Flight Simulator is a free flight simulator developed for several decades, which has huge crowds of fans around the world. As an open source project, the project has even paid followers, but the original is only one. From the beginning the game was developed in the spirit of fans for fans and as such it was made available to the public without any problems. Naturally, many modifications and additions were made along the way.
-```
+> FlightGear Flight Simulator is a free flight simulator developed for several decades, which has huge crowds of fans around the world. As an open source project, the project has even paid followers, but the original is only one. From the beginning the game was developed in the spirit of fans for fans and as such it was made available to the public without any problems. Naturally, many modifications and additions were made along the way.
+
 [![FlightGear Flight Simulator](https://gallery.dpcdn.pl/imgc/Tools/64202/g_-_420x350_1.5_-_x20151214132917_0.jpg)](https://softexe.net/win/games-entertainment/simulators/flightgear-flight-simulator:aepa.html)
 
 The product was built on the basis of a realistic engine that is supposed to faithfully hand over a pilot of various air units. It started with airplanes, but helicopters and even space shuttles quickly arrived. It was connected with a beautiful terrain generator that supports vegetation, water, three-dimensional clouds and variable lighting conditions, depending on the time of day. He does not complain about the graphics.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/zipware-9737.png) Zipware 1.6.0.0 - Free Download
 
-```sh
-Zipware is a simple to use and fast-acting program for compressing and decompressing data in various formats, available absolutely free.
-```
+> Zipware is a simple to use and fast-acting program for compressing and decompressing data in various formats, available absolutely free.
+
 [![Zipware](https://gallery.dpcdn.pl/imgc/Tools/61223/g_-_420x350_1.5_-_x20150825202428_0.png)](https://softexe.net/win/disks-files/compression/zipware:agcg.html)
 
 The program has a simplified but functional user interface, which should not cause problems in the service of even beginners and with limited knowledge about the operation of this type of application. Zipware offers automatic integration with the system at the context menu level and program settings as the default for opening archives in supported formats.

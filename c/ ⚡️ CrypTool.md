@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/cryptool-10412.png) CrypTool 2.1 - Free Download
 
-```sh
-CrypTool is a free and open tool, thanks to which anyone interested can get acquainted with the operation of algorithms and cryptographic protocols. The program allows, for example, encryption and decryption using modern solutions such as AES, but also testing classical ciphers as a Caesar key. The tool also allows cryptographic analysis.
-```
+> CrypTool is a free and open tool, thanks to which anyone interested can get acquainted with the operation of algorithms and cryptographic protocols. The program allows, for example, encryption and decryption using modern solutions such as AES, but also testing classical ciphers as a Caesar key. The tool also allows cryptographic analysis.
+
 [![CrypTool](https://gallery.dpcdn.pl/imgc/Tools/54742/g_-_420x350_1.5_-_x20141013122141_0.png)](https://softexe.net/win/security-privacy/other/cryptool:pRdpb.html)
 
 The application uses in its interface a ribbon known from the Microsoft Office suite, its service should not be difficult. By default, a wizard is launched, thanks to which we can select the operations we are interested in. They have been grouped into coding / decoding (including encryption), cryptanalysis, shortcut functions, math functions, various types of code, as well as additional tools. Thanks to CrypTool, we can get to know classic algorithms like: Cezar, Vigenere, XOR, Scytale, Enigma, ADFGVX and Transposition crypts.

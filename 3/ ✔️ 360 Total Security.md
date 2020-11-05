@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/360-total-security-46.png) 360 Total Security 10.8.0.1112 - Free Download
 
-```sh
-360 Total Security is a powerful antivirus solution that can not only protect your computer from all sorts of threats and unwanted programs, but also provides additional opportunities for optimizing and cleaning your PC for more stable and fast work.
-```
+> 360 Total Security is a powerful antivirus solution that can not only protect your computer from all sorts of threats and unwanted programs, but also provides additional opportunities for optimizing and cleaning your PC for more stable and fast work.
+
 [![360 Total Security](https://gallery.dpcdn.pl/imgc/Tools/50645/g_-_420x350_1.5_-_x20141110214901_0.png)](https://softexe.net/win/security-privacy/antivirus/360-total-security:df.html)
 
 360 Total Security is a powerful antivirus solution that can not only protect your computer from all sorts of threats and unwanted programs, but also provides additional opportunities for optimizing and cleaning your PC for more stable and fast work.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/bitdefender-antivirus-plus-9850.png) Bitdefender Antivirus Plus 2021 - Free Download
 
-```sh
-Bitdefender Antivirus Plus is an easy-to-use and effective antivirus program with low hardware requirements. With the help of specialized modules, Bitdefender constantly monitors file systems, registry and Internet activity.
-```
+> Bitdefender Antivirus Plus is an easy-to-use and effective antivirus program with low hardware requirements. With the help of specialized modules, Bitdefender constantly monitors file systems, registry and Internet activity.
+
 [![Bitdefender Antivirus Plus](https://gallery.dpcdn.pl/imgc/Tools/59/g_-_420x350_1.5_-_x20150916130601_0.png)](https://softexe.net/win/security-privacy/antivirus/bitdefender-antivirus-plus:aheR.html)
 
 The program has a useful function of conservative blocking, which allows the user to independently decide what programs will be able to make changes in the Windows registry. Bitdefender Antivirus Plus also allows you to store suspicious / infected files in a secure "quarantine", the contents of which can be sent to the Bitdefender Lab for more detailed analysis.

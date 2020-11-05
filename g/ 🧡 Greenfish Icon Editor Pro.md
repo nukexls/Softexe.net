@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/greenfish-icon-editor-pro-10995.png) Greenfish Icon Editor Pro 3.6 - Free Download
 
-```sh
-Greenfish Icon Editor Pro (abbreviated as GFIE Pro) is a powerful, open source tool for creating and editing icons. The application can also be used to process animated images, icon libraries and digital photos.
-```
+> Greenfish Icon Editor Pro (abbreviated as GFIE Pro) is a powerful, open source tool for creating and editing icons. The application can also be used to process animated images, icon libraries and digital photos.
+
 [![Greenfish Icon Editor Pro](https:https://tse1.mm.bing.net/th?id=OIP.p_IO_vcnAXLYP3o2wOcHEgHaHK&pid=Api)](https://softexe.net/win/multimedia/graphics-editors/greenfish-icon-editor-pro:pRaae.html)
 
 The tool is really nothing but a graphics program with extensive capabilities, which has been adapted to create and edit icons for Windows and Mac. It can also be successfully used for processing all kinds of graphics, and thanks to the support of the layer mechanism, it allows you to work on more complex graphic designs consisting of many independent elements.

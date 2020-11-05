@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Xshell 6.0 Build 0204 - Free Download
 
-```sh
-Xshell is a client of SSH protocols (also with X11 relay support), Telnet, Rlogin and serial transmission. The program is based on the popular PuTTY code, but has a much more extensive interface and richer configuration.
-```
+> Xshell is a client of SSH protocols (also with X11 relay support), Telnet, Rlogin and serial transmission. The program is based on the popular PuTTY code, but has a much more extensive interface and richer configuration.
+
 [![Xshell](https://gallery.dpcdn.pl/imgc/Tools/1456/g_-_420x350_1.5_-_x20110111151205_00.png)](https://softexe.net/win/internet/network/xshell:abRR.html)
 
 In addition to being able to connect to other machines, Xshell also has a local console that is very similar to the Windows command line, but it can be opened as a tab in the program window and used for color schemes. The terminal fully supports UTF8, thanks to which it is possible to work in many languages. With SSH connections it is possible to set up encrypted tunnels and port forwarding, which can be conveniently monitored from the Xshella level. An interesting addition is Compose Bar - a bar that allows you to enter commands locally and then send them to one or more open sessions in a given window. Frequently used commands or shell scripts can be saved and placed on the button bar. Of course, the content of this bar can be customized to suit your needs. 

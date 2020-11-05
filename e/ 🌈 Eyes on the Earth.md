@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Eyes on the Earth 2018.12 - Free Download
 
-```sh
-Eyes on the Earth is a program by the NASA research center - Jet Propulsion Laboratory (JPL), through which we can observe Earth from NASA's orbital satellite.
-```
+> Eyes on the Earth is a program by the NASA research center - Jet Propulsion Laboratory (JPL), through which we can observe Earth from NASA's orbital satellite.
+
 [![Eyes on the Earth](https://gallery.dpcdn.pl/imgc/Tools/89126/g_-_420x350_1.5_-_xfe3dd045-ddad-4137-8144-42f6330e1c85.jpg)](https://softexe.net/win/education-science/physics/eyes-on-the-earth:acba.html)
 
 Eyes on the Earth allows you to display images in both two and three dimensions. Switching between the tabs visible at the top of the screen, you can see the global temperature, sea level, carbon dioxide concentration in the atmosphere and more.

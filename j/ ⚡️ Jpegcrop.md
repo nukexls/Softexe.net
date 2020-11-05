@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Jpegcrop icon&w=40&h=40) Jpegcrop 2019.11 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Jpegcrop 2019.11 - Free Download
 
-```sh
-Jpegcrop is an uncomplicated tool for editing files saved in the most popular graphic format, ie JPG.
-```
+> Jpegcrop is an uncomplicated tool for editing files saved in the most popular graphic format, ie JPG.
+
 [![Jpegcrop](https:https://tse3.mm.bing.net/th?id=OIP.pFUvXgB0fwr308h79m0pAwHaEK&pid=Api)](https://softexe.net/win/multimedia/other/jpegcrop:pRgha.html)
 
 The program primarily allows you to crop, rotate and crop images, but also offers several other functions. With the help of the application, we will not only remove unnecessary fragments of a given photo or graphic, but also add an additional filter with a gray effect, zoom in or out the photo and remove unnecessary edges. We will do all these operations without losing the quality of the source file.

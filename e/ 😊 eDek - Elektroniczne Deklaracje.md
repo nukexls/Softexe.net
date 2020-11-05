@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) eDek - Elektroniczne Deklaracje 5.4.19 - Free Download
 
-```sh
-eDek - Electronic Declarations is a program used to create and manage tax returns.
-```
+> eDek - Electronic Declarations is a program used to create and manage tax returns.
+
 [![eDek - Elektroniczne Deklaracje](https://gallery.dpcdn.pl/imgc/Tools/461/g_-_420x350_1.5_-_x20091103154049.PNG)](https://softexe.net/win/business/management/edek-elektroniczne-deklaracje:hpaf.html)
 
 It enables filling in many types of declarations (including AZ-O, CIT, IFT, NIP, OPL, ORD, PCC, PIT, POG, SD, UPL, US, VAT, VZM, WZP, WZS, ZAS and ZAW), sending electronic declarations to the e-Deklaracje system and collection receipts, printing on blank sheets of paper and ready forms, supervising with bank transfer orders, creating copies \ corrections of existing declarations, grouping and management of declarations according to various criteria, as well as keeping a list of entities together with information by registered.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Sandboxie icon&w=40&h=40) Sandboxie 5.33.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Sandboxie 5.33.2 - Free Download
 
-```sh
-Sandboxie is a program designed to protect your computer against potentially harmful effects of the selected application.
-```
+> Sandboxie is a program designed to protect your computer against potentially harmful effects of the selected application.
+
 [![Sandboxie](https://gallery.dpcdn.pl/imgc/Tools/470/g_-_420x350_1.5_-_x20091109174522.jpg)](https://softexe.net/win/security-privacy/other/sandboxie:aRhp.html)
 
 The software creates a special "protection sphere" in which we can place many popular programs such as web browsers, mail clients, instant messengers or P2P programs - any changes made to the system by monitored applications can be undone. What's more, Sandboxie allows you to impose numerous restrictions on access to the network, drivers, files and other resources in the protected space.

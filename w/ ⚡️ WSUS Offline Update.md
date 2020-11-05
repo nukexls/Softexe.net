@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) WSUS Offline Update 12.0 - Free Download
 
-```sh
-WSUS Offline Update is an indispensable program for users who need to install the latest updates for Windows and Microsoft Office on a computer with no Internet connection (in offline mode)
-```
+> WSUS Offline Update is an indispensable program for users who need to install the latest updates for Windows and Microsoft Office on a computer with no Internet connection (in offline mode)
+
 [![WSUS Offline Update](https://gallery.dpcdn.pl/imgc/Tools/2060/g_-_420x350_1.5_-_x20110226212148_00.png)](https://softexe.net/win/system/updates-patches/wsus-offline-update:gabp.html)
 
 WSUS Offline Update is an indispensable program for users who need to install the latest updates for Windows and Microsoft Office on a computer with no Internet connection (in offline mode). The utility allows you to download updates for multilingual versions of Windows Vista / 7/8 / 8.1 / 10, Microsoft Office 2003 SP3 / 2007 SP3 / 2010 SP1, and for each location you can download individual updates.

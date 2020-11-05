@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/fortissimo-11144.png) Fortissimo 1.0 Build 9.3 - Free Download
 
-```sh
-Fortissimo is a relatively light, simple but useful audio player that has support for the most common audio formats, the ability to create and edit playlists and change the appearance through the system of skins.
-```
+> Fortissimo is a relatively light, simple but useful audio player that has support for the most common audio formats, the ability to create and edit playlists and change the appearance through the system of skins.
+
 [![Fortissimo](https://gallery.dpcdn.pl/imgc/Tools/60707/g_-_420x350_1.5_-_x20150810203537_0.png)](https://softexe.net/win/system/archive-programs/fortissimo:pppdd.html)
 
 The application does not belong to the most extensive players on the market, nor does it look overly interesting - but it just does what it needs, that is, it plays music stored in MP3, MP2, WMA, MID and WAV formats. This provides support in most cases, but music owners in somewhat more exotic formats at the moment struck Fortissimo for the lack of support for their multimedia libraries. At the first start-up, it is worth to indicate the default music folder so that the program can scan the indicated source - it must be admitted that it takes a really short time even with large music sets.

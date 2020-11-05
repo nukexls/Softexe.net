@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Europa Universalis IV  - Free Download
 
-```sh
-Europa Universalis IV is an extensive strategy game in which we can guide a chosen state, and then make it soon become a powerful empire. Paradox Interactive, a company specializing in productions belonging to the said genre, is responsible for the game.
-```
+> Europa Universalis IV is an extensive strategy game in which we can guide a chosen state, and then make it soon become a powerful empire. Paradox Interactive, a company specializing in productions belonging to the said genre, is responsible for the game.
+
 [![Europa Universalis IV](https://gallery.dpcdn.pl/imgc/Tools/89680/g_-_420x350_1.5_-_x2cb40e45-d0af-464f-b844-9dcc4105b2a8.jpg)](https://softexe.net/win/games-entertainment/strategies/europa-universalis-iv:apbp.html)
 
 Players will play the ruler and will rule their country over 300 years, making many important decisions that will affect the further course of the game. Only from the choices made will depend on how we will perceive other governmenters, as well as society. Europa Universalis IV offers great freedom of action, providing virtually unlimited possibilities.

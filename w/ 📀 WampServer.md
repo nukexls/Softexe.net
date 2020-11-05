@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/wampserver-8640.png) WampServer 3.1.7 - Free Download
 
-```sh
-WampServer is a free, integrated web package, with the help of which you can easily run your own web server on your computer. It can be successfully used to test PHP scripts, as well as hosting small websites and web applications.
-```
+> WampServer is a free, integrated web package, with the help of which you can easily run your own web server on your computer. It can be successfully used to test PHP scripts, as well as hosting small websites and web applications.
+
 [![WampServer](https:https://tse1.mm.bing.net/th?id=OIP.nxsTgF2Drm8AQJK4-X1_UQHaE_&pid=Api)](https://softexe.net/win/development-it/server/wampserver:hfdR.html)
 
 The WampServer package is the perfect solution for beginning webmasters, but not only. It allows you to run a fully-functioning web server in just a few minutes, without the inconvenient configuration that occurs when you install the HTTP server, databases, etc.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) All in One Runtimes 2.5.0 - Free Download
 
-```sh
-All in One Runtimes is a special package for the Windows operating system (both 32-bit and 64-bit), which contains all the necessary components needed to run all programs.
-```
+> All in One Runtimes is a special package for the Windows operating system (both 32-bit and 64-bit), which contains all the necessary components needed to run all programs.
+
 [![All in One Runtimes](https:https://tse2.mm.bing.net/th?id=OIP.0jmbS1ZucqrkWA38fFuePQEsEi&pid=Api)](https://softexe.net/win/system/system-tools/all-in-one-runtimes:pRdhc.html)
 
 The described tool saves a lot of time on the part of the user, who does not have to search for individual components on the Internet, but can download them from one place in the form of a set. All in One Runtimes is very easy to use and its operation is limited to just a few clicks, which makes the program also addressed to less experienced recipients. Interestingly, the installer detects already available components, so they will not be installed again.

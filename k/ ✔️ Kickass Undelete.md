@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/kickass-undelete-9496.png) Kickass Undelete 1.5.5 - Free Download
 
-```sh
-Kickass Undelete is a free file recovery tool on a computer with a Windows operating system.
-```
+> Kickass Undelete is a free file recovery tool on a computer with a Windows operating system.
+
 [![Kickass Undelete](https://gallery.dpcdn.pl/imgc/Tools/79887/g_-_420x350_1.5_-_xa8ce0a61-5265-466b-a810-e31d63a4ce80.jpg)](https://softexe.net/win/disks-files/data-recovery/kickass-undelete:adaf.html)
 
 The program is addressed to people who accidentally deleted necessary documents, video materials, sound files or any other data. Kickass Undelete supports FAT and NTFS file systems, allowing you to recover data not only from your PC's hard drive, but also from other media (flash drives, SD cards, etc.).

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/wintohdd-7821.png) WinToHDD 4.4 - Free Download
 
-```sh
-WinToHDD is a handy tool for installing, reinstalling and cloning the current Windows operating system. Does not require a CD / DVD-ROM or USB-drives. The settings of the application will be clear even to a beginner without any special knowledge.
-```
+> WinToHDD is a handy tool for installing, reinstalling and cloning the current Windows operating system. Does not require a CD / DVD-ROM or USB-drives. The settings of the application will be clear even to a beginner without any special knowledge.
+
 [![WinToHDD](https://gallery.dpcdn.pl/imgc/Tools/77794/g_-_420x350_1.5_-_x20170922192129_0.png)](https://softexe.net/win/system/boot-managers/wintohdd:ghbp.html)
 
 WinToHDD is a simple utility for installing, reinstalling and cloning the current Windows operating system without using a CD / DVD-ROM or USB-drives. The program is very easy to configure and does not require any special knowledge. The main menu is a window with three main operations:

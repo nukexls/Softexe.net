@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/superposition-benchmark-8516.png) SUPERPOSITION Benchmark 1.1 - Free Download
 
-```sh
-SUPERPOSITION Benchmark is a tool enabling to run video card tests using the Unreal Engine 2 technology.
-```
+> SUPERPOSITION Benchmark is a tool enabling to run video card tests using the Unreal Engine 2 technology.
+
 [![SUPERPOSITION Benchmark](https://gallery.dpcdn.pl/imgc/Tools/84760/g_-_420x350_1.5_-_x560ff8b1-28b0-4acc-8f63-3a42c62c8a8b.jpg)](https://softexe.net/win/system/diagnostics-tests/superposition-benchmark:hepf.html)
 
 SUPERPOSITION Benchmark offers two modes of operation: benchmark and game, thanks to which we will check what our GPUs can afford. Before starting the benchmark SUPERPOSITION Benchmark will allow you to determine the image resolution (the range is extremely wide, from 720p up to 8K), as well as selecting DirectX or OpenGL.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/samplitude-music-studio-10006.png) Samplitude Music Studio 2019 - Free Download
 
-```sh
-Samplitude Music Studio is a professional music creation program. You can record successive tracks, compose, mix, use synthesizers, samples and finally perform final mastering of tracks.
-```
+> Samplitude Music Studio is a professional music creation program. You can record successive tracks, compose, mix, use synthesizers, samples and finally perform final mastering of tracks.
+
 [![Samplitude Music Studio](https://gallery.dpcdn.pl/imgc/Tools/71558/g_-_420x350_1.5_-_x20160926163602_0.png)](https://softexe.net/win/multimedia/audio-sound/samplitude-music-studio:pRRRf.html)
 
 Samplitude Music Studio contains several virtual music guides that can be used for production. There is also an advanced drum machine and sampler. The mastering plugins, filters and acoustic effects have been integrated into the program interface, thanks to which the work is easy and intuitive. 

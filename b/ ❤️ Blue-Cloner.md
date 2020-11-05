@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/blue-cloner-8704.png) Blue-Cloner 2020 9.50 Build 836 - Free Download
 
-```sh
-Blue-Cloner is an extensive software for backing up data saved on Blu-Ray media. It allows you to copy data to Blu-Ray, DVD, AVCHD discs or to the computer's hard disk.
-```
+> Blue-Cloner is an extensive software for backing up data saved on Blu-Ray media. It allows you to copy data to Blu-Ray, DVD, AVCHD discs or to the computer's hard disk.
+
 [![Blue-Cloner](https://gallery.dpcdn.pl/imgc/Tools/63153/g_-_420x350_1.5_-_x20151031143824_0.png)](https://softexe.net/win/multimedia/video/blue-cloner:hgRd.html)
 
 This program allows you to convert files saved on a Blu-Ray disc to DVD-5/9 format, folders, ISO images, and - of course - allows you to create a 1: 1 copy of any media. All of course without losing quality. In addition, files available on your computer's hard drive can be burned to any Blu-Ray media, provided that we have the right drive.

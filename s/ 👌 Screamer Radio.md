@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/screamer-radio-6018.png) Screamer Radio 2019-11-22 - Free Download
 
-```sh
-Screamer Radio is free and one of the best programs for listening to Internet radio stations with the ability to record to MP3 format without loss of quality.
-```
+> Screamer Radio is free and one of the best programs for listening to Internet radio stations with the ability to record to MP3 format without loss of quality.
+
 [![Screamer Radio](https://gallery.dpcdn.pl/imgc/Tools/1290/g_-_420x350_1.5_-_x92e66eae-0ad1-4fff-8d26-ee695d79b6d5.png)](https://softexe.net/win/internet/radio-tv-players/screamer-radio:fRph.html)
 
 Screamer Radio is free and one of the best programs for listening to Internet radio stations from around the world with the ability to record in MP3 format without loss of quality. 

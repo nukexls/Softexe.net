@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Leonardo icon&w=40&h=40) Leonardo 0.14.50 Beta - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Leonardo 0.14.50 Beta - Free Download
 
-```sh
-Leonardo is a useful tool for drawing and painting images on a computer with a Windows operating system.
-```
+> Leonardo is a useful tool for drawing and painting images on a computer with a Windows operating system.
+
 [![Leonardo](https://gallery.dpcdn.pl/imgc/Tools/84860/g_-_420x350_1.5_-_xce722734-afe3-41b1-ad92-ecc6b6b39c7e.jpg)](https://softexe.net/win/multimedia/graphics-editors/leonardo:ahpe.html)
 
 The program allows you to create your own work from scratch, and import it from a hard disk or any other media, if you have your own project in Leonardo format, or * .leo (other extensions are not supported). The tool limits the user only in this regard. In addition, the area of ​​drawing or painting is infinite, and additional solutions effectively facilitate work.

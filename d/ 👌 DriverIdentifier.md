@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/driveridentifier-9937.png) DriverIdentifier 5.2 - Free Download
 
-```sh
-DriverIdentifier is a free tool for operating device drivers in Windows. Thanks to it, we can easily update obsolete or install missing drivers for components installed in a desktop computer or laptop.
-```
+> DriverIdentifier is a free tool for operating device drivers in Windows. Thanks to it, we can easily update obsolete or install missing drivers for components installed in a desktop computer or laptop.
+
 [![DriverIdentifier](https://gallery.dpcdn.pl/imgc/Tools/83970/g_-_420x350_1.5_-_xc7d2fad3-9044-4b02-a596-ca9ca4e4682f.png)](https://softexe.net/win/disks-files/hdd-utilities/driveridentifier:aacg.html)
 
 The program is addressed to less experienced recipients or users who do not want to search and install drivers themselves on the websites of equipment manufacturers. It can be helpful in case we would like to update previously installed drivers to the latest version (because, for example, there are problems with devices) or when we do not have any drivers for a given device.

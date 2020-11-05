@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Switch Sound File Converter 8.18 - Free Download
 
-```sh
-Switch Sound File Converter is a small and fast tool for converting music files that works perfectly with both individual songs and entire albums.
-```
+> Switch Sound File Converter is a small and fast tool for converting music files that works perfectly with both individual songs and entire albums.
+
 [![Switch Sound File Converter](https://gallery.dpcdn.pl/imgc/Tools/2547/g_-_420x350_1.5_-_x20110407170113_00.jpg)](https://softexe.net/win/multimedia/audio-utilities/switch-sound-file-converter:hbad.html)
 
 With its help, we can easily convert almost any sound file to formats compatible with stationary DVD players, iPod \ iPhone \ PSP devices and most phone models. Switch Sound File Converter enables conversion to the most popular output formats - AAC, AIFF, AIF, AMR, APE, AU, FLAC, GSM, M3U, M4A, MP3, MPC, OGG, PLS, RAW, RSS, SPX, VOX, WAV, WMA and WPL. The program also allows you to rip soundtracks from movies.

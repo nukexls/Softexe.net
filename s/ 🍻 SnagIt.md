@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/snagit.gif) SnagIt 20.1.4 Build 6413 - Free Download
 
-```sh
-SnagIt is the main purpose of the program - taking screenshots from the monitor screen, and SnagIt can not only take static graphic "snapshots" of the selected area, but also, for example, record what is happening on the screen in the video, as well as capture a picture
-```
+> SnagIt is the main purpose of the program - taking screenshots from the monitor screen, and SnagIt can not only take static graphic "snapshots" of the selected area, but also, for example, record what is happening on the screen in the video, as well as capture a picture
+
 [![SnagIt](https:https://tse1.mm.bing.net/th?id=OIP.XIzifN6rgFU9VnvHhPRMpAHaFP&pid=Api)](https://softexe.net/win/multimedia/graphics-design/snagit:fcbf.html)
 
 SnagIt - the main purpose of the program is to take screenshots from the monitor screen, and it can not only take static graphic "snapshots" of the selected area, but also, for example, record what is happening on the screen in video, as well as capture a picture from applications using Direct X, DirectDraw and Direct 3D.

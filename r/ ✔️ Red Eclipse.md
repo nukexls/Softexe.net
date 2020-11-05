@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Red+Eclipse icon&w=40&h=40) Red Eclipse 2.0.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Red Eclipse 2.0.0 - Free Download
 
-```sh
-Red Eclipse is a multiplatform, free FPS game based on the Cube 2 engine, deliberately reminiscent of such titles as Quake III Arena or Cube 2: Sauerbraten; and as in it, the first thing that captivates in Red Eclipse is dynamics, energy and, above all, smoothness of the game.
-```
+> Red Eclipse is a multiplatform, free FPS game based on the Cube 2 engine, deliberately reminiscent of such titles as Quake III Arena or Cube 2: Sauerbraten; and as in it, the first thing that captivates in Red Eclipse is dynamics, energy and, above all, smoothness of the game.
+
 [![Red Eclipse](https:https://tse4.mm.bing.net/th?id=OIP.j6UHCTxPBbS5tMMmnxuQ0gHaE7&pid=Api)](https://softexe.net/win/games-entertainment/shooters/red-eclipse:pRgpp.html)
 
 Another similarity with which we will meet in Red Eclipse is its ease of use. Already at the first turn-on, we quickly start to orientate ourselves in the structure of the game. It has a transparent menu and an understandable interface even for less experienced players. We easily track one of several available modes and choose the one in which we feel like a small demolition.

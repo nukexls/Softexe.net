@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/czas-pracy-ewidencja-9572.png) Czas Pracy Ewidencja 4.2.4 - Free Download
 
-```sh
-Work Time Records is an application used for quick and easy registration of employees' working time, settlement of business trips, holidays and overtime.
-```
+> Work Time Records is an application used for quick and easy registration of employees' working time, settlement of business trips, holidays and overtime.
+
 [![Czas Pracy Ewidencja](https://gallery.dpcdn.pl/imgc/Tools/62910/g_-_420x350_1.5_-_x20151022224358_0.png)](https://softexe.net/win/business/other/czas-pracy-ewidencja:aegb.html)
 
 The program was created on the order of one of Polish companies. It has been adapted to work in Polish realities and is compliant with Polish labor law. He informs his superiors on an ongoing basis about the presence of employees at the workplace, as well as on trips and vacations. Each employee has his own account, where he independently registers working time within the permitted scope and in accordance with the labor code.

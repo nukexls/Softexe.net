@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/cucusoft-net-guard-12827.png) Cucusoft Net Guard 2.3.4.1 - Free Download
 
-```sh
-Cucusoft Net Guard is a free and extremely useful tool for all users using the Internet, as well as for administrators of local or community networks. Using the program, we can control and monitor the use of the Internet connection in real time.
-```
+> Cucusoft Net Guard is a free and extremely useful tool for all users using the Internet, as well as for administrators of local or community networks. Using the program, we can control and monitor the use of the Internet connection in real time.
+
 [![Cucusoft Net Guard](https://gallery.dpcdn.pl/imgc/Tools/9791/g_-_420x350_1.5_-_x20120822182935_00.jpg)](https://softexe.net/win/internet/other/cucusoft-net-guard:pbhbg.html)
 
 Using the program, we can allocate the monthly limit of data transfer and from the created chart read the most important information about the used file transfer in a given month. In addition, Cucusoft Net Guard displays which programs most downloaded or sent data to the Internet. 

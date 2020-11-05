@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/houdini-apprentice-8396.png) Houdini Apprentice 18.0.348 - Free Download
 
-```sh
-Houdini Apprentice is a free version of the modeling, rendering, animation and special effects program for movies - Houdini FX. This version is targeted at students, hobbyists and artists who want to create for their own needs.
-```
+> Houdini Apprentice is a free version of the modeling, rendering, animation and special effects program for movies - Houdini FX. This version is targeted at students, hobbyists and artists who want to create for their own needs.
+
 [![Houdini Apprentice](https://gallery.dpcdn.pl/imgc/Tools/1928/g_-_420x350_1.5_-_x20110131160127_00.jpg)](https://softexe.net/win/multimedia/graphics-design/houdini-apprentice:hcaf.html)
 
 The package offers all the necessary functions needed to create 3D graphics, including the ability to model, create a skeleton of characters for animation, setting lighting, and simulation of molecular phenomena, physics of rigid bodies, liquids and light materials, such as character clothes. The program has the ability to import models from many file formats used in the industry, including the FBX format developed by Autodesk and presented in 2011 by Sony and Lucasfilm ALEMBIC, which enables easy cooperation of applications with other 3D environments.

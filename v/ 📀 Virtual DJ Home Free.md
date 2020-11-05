@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/virtual-dj-home-free-8352.png) Virtual DJ Home Free 2021 build 6067 - Free Download
 
-```sh
-Virtual DJ is a free version of advanced software for creating music by mixing different pieces, adding effects, samples and sound sources that can compete with professional mixing devices.
-```
+> Virtual DJ is a free version of advanced software for creating music by mixing different pieces, adding effects, samples and sound sources that can compete with professional mixing devices.
+
 [![Virtual DJ Home Free](https://gallery.dpcdn.pl/imgc/Tools/178/g_-_420x350_1.5_-_x20100421181001.png)](https://softexe.net/win/multimedia/audio-sound/virtual-dj-home-free:hceb.html)
 
 Virtual DJ has a rich, but very accessible user interface, simulating a mixer table - a DJ work tool. On the main screen, the program shows two players working in parallel on independent tracks, visualizations of individual sound channels, a database of available music with the possibility of convenient viewing and searching for materials. Instead of a browser, the user can enable panels for applying effects, controls for sound sources or recording options. In addition, we find here some useful additions, such as a processor activity monitor and a clock.

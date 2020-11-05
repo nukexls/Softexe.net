@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/optimik-8448.png) Optimik 4.05 - Free Download
 
-```sh
-Optimik is a valued program for optimizing material consumption in the production of furniture, stonework and tinwork as well as finishing works. The program allows to prepare cutting boards of furniture boards, boards, sheets, glass, stone sheets, logs, countertops and window sills. Optimik has been adapted to work with panel saws.
-```
+> Optimik is a valued program for optimizing material consumption in the production of furniture, stonework and tinwork as well as finishing works. The program allows to prepare cutting boards of furniture boards, boards, sheets, glass, stone sheets, logs, countertops and window sills. Optimik has been adapted to work with panel saws.
+
 [![Optimik](https://gallery.dpcdn.pl/imgc/Tools/68263/g_-_420x350_1.5_-_x20160525170232_0.png)](https://softexe.net/win/business/finance/optimik:hddh.html)
 
 Optimik allows you to enter projects and orders to the base, along with all the necessary materials, such as putties, angles, tapes and the like. After entering the order, you can prepare optimal cuts, which will save material, optimize cuts and estimate the time of order execution. Production orders can be exported with files for CNC machines.

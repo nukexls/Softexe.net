@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/faktura-vat-2019-start-8619.png) Faktura VAT 2019 START 19.1.38 - Free Download
 
-```sh
-VAT invoice 2019 START is a simple invoicing program for small and medium companies, enabling the issuing of sales documents such as VAT invoices, receipts, invoices, corrections or orders.
-```
+> VAT invoice 2019 START is a simple invoicing program for small and medium companies, enabling the issuing of sales documents such as VAT invoices, receipts, invoices, corrections or orders.
+
 [![Faktura VAT 2019 START](https://gallery.dpcdn.pl/imgc/Tools/72616/g_-_420x350_1.5_-_x20161129011429_0.png)](https://softexe.net/win/business/billing/faktura-vat-2019-start:hfpa.html)
 
 The application has been equipped with a set of basic tools that allow to significantly improve the functioning of a small enterprise. In addition to servicing all types of sales documents, it enables cash registers and transfers, management of the list of contractors and offered products, creation of price lists, VAT registration as well as generating various sales reports, etc.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/auslogics-windows-slimmer-8829.png) Auslogics Windows Slimmer 2.5.0.1 - Free Download
 
-```sh
-Auslogics Windows Slimmer is a free (for non-commercial use) tool designed to optimize Windows 7/8/10 systems.
-```
+> Auslogics Windows Slimmer is a free (for non-commercial use) tool designed to optimize Windows 7/8/10 systems.
+
 [![Auslogics Windows Slimmer](https://gallery.dpcdn.pl/imgc/Tools/81087/g_-_420x350_1.5_-_xb55b6e18-33cd-4872-af06-5b69aa10ac09.png)](https://softexe.net/win/system/system-tools/auslogics-windows-slimmer:hhba.html)
 
 The program consists of 3 modules, in which we find functions that mainly remove unnecessary components from the hard disk. Systematic use of them will allow the user not only to recover unnecessarily busy space on the computer disk, but also will have a positive effect on the performance of the Windows system and the programs and games installed in it.

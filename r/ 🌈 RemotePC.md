@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/remotepc-8392.png) RemotePC 7.6.32 - Free Download
 
-```sh
-RemotePC allows you to access remotely connected computers 24 hours a day, 7 days a week. Thanks to that, we can use them anywhere at any time.
-```
+> RemotePC allows you to access remotely connected computers 24 hours a day, 7 days a week. Thanks to that, we can use them anywhere at any time.
+
 [![RemotePC](https://gallery.dpcdn.pl/imgc/Tools/90801/g_-_420x350_1.5_-_xb3ce94c4-7b0f-494f-93ea-363ca144a3e8.jpg)](https://softexe.net/win/internet/network/remotepc:hcab.html)
 
 Always available

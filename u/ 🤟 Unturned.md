@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Unturned icon&w=40&h=40) Unturned  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Unturned  - Free Download
 
-```sh
-Unturned is a sandbox action game that is unique in many respects. It's not only a successful combination of Minecraft with a fight for survival in a virtual world full of hungry zombies, but also a science that when you really want something, you can be successful. The title is the work of one talented programmer. When his first version appeared, young Nelson Sexton, the producer of this game, was less than 16 years old.
-```
+> Unturned is a sandbox action game that is unique in many respects. It's not only a successful combination of Minecraft with a fight for survival in a virtual world full of hungry zombies, but also a science that when you really want something, you can be successful. The title is the work of one talented programmer. When his first version appeared, young Nelson Sexton, the producer of this game, was less than 16 years old.
+
 [![Unturned](https://gallery.dpcdn.pl/imgc/Tools/62281/g_-_420x350_1.5_-_x20151001163128_0.jpg)](https://softexe.net/win/games-entertainment/shooters/unturned:ppcfg.html)
 
 The product is reminiscent of a popular angular hit, mainly due to the especially economical graphics. The colorful locations, therefore, enjoy the eyes with colors rather than the details of the objects and characters. The player is thrown on the selected server and must simply survive in a sinister environment. At first, he has nothing to defend, so he thinks and looks around for useful items. Good weaponry is not the end of worries, because Unturned also has a gameplay system that takes into account factors such as hunger, thirst, disease or chilling.

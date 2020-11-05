@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/evga-precision-x-10286.png) EVGA Precision X 6.2.7 - Free Download
 
-```sh
-EVGA Precision X is a popular program designed for overclocking and monitoring the work of graphics cards. The application supports not only graphic layouts from EVGA, but also greatly deals with cards from other manufacturers. EVGA Precision X is an extremely useful tool for users equipped with components belonging to NVIDIA.
-```
+> EVGA Precision X is a popular program designed for overclocking and monitoring the work of graphics cards. The application supports not only graphic layouts from EVGA, but also greatly deals with cards from other manufacturers. EVGA Precision X is an extremely useful tool for users equipped with components belonging to NVIDIA.
+
 [![EVGA Precision X](https://gallery.dpcdn.pl/imgc/Tools/9228/g_-_420x350_1.5_-_x20150915190228_0.png)](https://softexe.net/win/system/diagnostics-tests/evga-precision-x:pRbhf.html)
 
 Using the EVGA Precision X program, we can easily increase the clock speed and voltage of the GPU processor, clock memory and freely control the speed of rotation in the mounted fan. In this way, you can quickly and accurately overclock the graphics card, thereby increasing its performance.  

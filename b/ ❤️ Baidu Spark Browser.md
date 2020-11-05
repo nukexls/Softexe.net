@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/baidu-spark-browser-11064.png) Baidu Spark Browser 43.23.1000.500 - Free Download
 
-```sh
-Baidu Spark Browser is a little known in our country, but the most noteworthy web browser based on the Chromium project. In addition to the standard functionality, we will find a set of some interesting tools in it that will allow us to download torrents or clips from YouTube etc. from the level of the program.
-```
+> Baidu Spark Browser is a little known in our country, but the most noteworthy web browser based on the Chromium project. In addition to the standard functionality, we will find a set of some interesting tools in it that will allow us to download torrents or clips from YouTube etc. from the level of the program.
+
 [![Baidu Spark Browser](https://gallery.dpcdn.pl/imgc/Tools/51052/g_-_420x350_1.5_-_x20140512172744_0.png)](https://softexe.net/win/internet/browsers/baidu-spark-browser:ppRfd.html)
 
 Like most browsers created on the basis of an existing solution, Baidu Spark Browser also contains the majority of proven solutions known from protoplasts. These include a minimalist graphical interface in which the largest possible area in the program window is to display the content of the website, integrated download manager, card mechanism and anonymous browsing of incognito sites. In addition, the creators introduced in Baidu Spark Browser a set of some really interesting solutions that further increase the comfort and convenience of using the browser.

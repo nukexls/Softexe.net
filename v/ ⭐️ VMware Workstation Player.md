@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=VMware+Workstation+Player icon&w=40&h=40) VMware Workstation Player 15.5.5 Build 16285975 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) VMware Workstation Player 15.5.5 Build 16285975 - Free Download
 
-```sh
-VMware Player is a free program designed to create, but also to run previously prepared virtual machines with 32 or 64-bit operating system.
-```
+> VMware Player is a free program designed to create, but also to run previously prepared virtual machines with 32 or 64-bit operating system.
+
 [![VMware Workstation Player](https://gallery.dpcdn.pl/imgc/Tools/2148/g_-_420x350_1.5_-_x20141202141212_0.png)](https://softexe.net/win/system/virtualization/vmware-workstation-player:hgea.html)
 
 The tool allows you to run over 200 supported operating systems - including different versions of Windows and Linux distributions. This solution allows you to test a selected system or new software on a computer in a specially isolated environment, without worrying about the potential consequences in the native system. At the same time, the environment running under VMware Player is characterized by much faster speed and efficiency compared to, for example, the Windows XP mode built into Windows 7. The program allows you to handle up to 8 processor cores and 32 GB RAM for each of the virtual machines. 

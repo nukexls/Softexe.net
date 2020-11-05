@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Formicide icon&w=40&h=40) Formicide 1.1.6374.36967 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Formicide 1.1.6374.36967 - Free Download
 
-```sh
-Formicide is a free 2D shooter game based on the skill and dynamics of the action based on the convention of the famous Worms. Cult worms were decided to replace here with ants, and the turn-based system of the game change to the struggles in real time, which significantly affects the unpredictability and even greater attractiveness of the game.
-```
+> Formicide is a free 2D shooter game based on the skill and dynamics of the action based on the convention of the famous Worms. Cult worms were decided to replace here with ants, and the turn-based system of the game change to the struggles in real time, which significantly affects the unpredictability and even greater attractiveness of the game.
+
 [![Formicide](https:https://tse1.mm.bing.net/th?id=OIP.Yw5eUunFmquClyfIiXc8RQHaEK&pid=Api)](https://softexe.net/win/games-entertainment/shooters/formicide:pRafg.html)
 
 In addition to the aforementioned innovations, eight character classes (including a sniper, hunter, engineer, soldier) have been added to give each match a diverse character. The individual characteristics and abilities of individual ants add to each other different impressions, but at the same time they require a slightly different strategy and tactics in the fight.

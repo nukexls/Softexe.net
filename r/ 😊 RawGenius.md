@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) RawGenius 1.73 - Free Download
 
-```sh
-RawGenius is used to generate reports on GPS measurements based on RAW, RW5 and CSV files.
-```
+> RawGenius is used to generate reports on GPS measurements based on RAW, RW5 and CSV files.
+
 [![RawGenius](https://gallery.dpcdn.pl/imgc/Tools/77320/g_-_420x350_1.5_-_x20170825141917_0.jpg)](https://softexe.net/win/business/other/rawgenius:pRfRh.html)
 
 The tool has been optimized for creating RTN / RTK measurement reports for geodetic documentation centers. The generated report is in line with the draft G-1.12 guidelines, it can be easily adapted to the specific requirements of the center or the user's needs.

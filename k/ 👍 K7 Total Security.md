@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) K7 Total Security 16.0.0.293 - Free Download
 
-```sh
-K7 Total Security provides complete protection during everyday computer work. The tool offers numerous options that will increase security while using the network, as well as secure data on the hard disk.
-```
+> K7 Total Security provides complete protection during everyday computer work. The tool offers numerous options that will increase security while using the network, as well as secure data on the hard disk.
+
 [![K7 Total Security](https://gallery.dpcdn.pl/imgc/Tools/76982/g_-_420x350_1.5_-_x20170730170116_0.jpg)](https://softexe.net/win/security-privacy/antivirus/k7-total-security:hfbe.html)
 
 The program is addressed only to home users who would like to protect information shared on the Internet (eg credit card number provided during online transactions) and valuable files (eg confidential documents sent to the company). K7 Total Security scans our HDD in real time through the use of technology "in the cloud", thanks to which the database always remains current.

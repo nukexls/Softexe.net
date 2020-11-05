@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/origin-4996.png) Origin 10.5.84 - Free Download
 
-```sh
-Origin is a free application for downloading video games from Electronic Arts. This is the center of digital games, where you can find great games and exclusive deals.
-```
+> Origin is a free application for downloading video games from Electronic Arts. This is the center of digital games, where you can find great games and exclusive deals.
+
 [![Origin](https://gallery.dpcdn.pl/imgc/Tools/12094/g_-_420x350_1.5_-_x20121227165905_00.png)](https://softexe.net/win/games-entertainment/other/origin:daaf.html)
 
 Origin is a free application for downloading video games from Electronic Arts. This is the center of digital games where you can find awesome games and exclusive deals.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Affinity+Designer icon&w=40&h=40) Affinity Designer 1.5.4 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Affinity Designer 1.5.4 - Free Download
 
-```sh
-Affinity Designer is a vector graphics creation program, specially designed for designers. The program is able to some extent to open Photoshop, Illustrator and PDF files for editing.
-```
+> Affinity Designer is a vector graphics creation program, specially designed for designers. The program is able to some extent to open Photoshop, Illustrator and PDF files for editing.
+
 [![Affinity Designer](https://gallery.dpcdn.pl/imgc/Tools/69080/g_-_420x350_1.5_-_x20160630120636_0.png)](https://softexe.net/win/multimedia/graphics-design/affinity-designer:aegg.html)
 
 The tools available in the Affinity Designer do not differ significantly from what we find in other vector graphics programs. The tray has a tool for selecting nodes, classic pen and pencil, gradient fill, transparency settings, tools for entering text and placing text on curves, trimming, arc control tool and guides. The tools are completed with a collection of ready-made shapes on which you can perform Boolean operations.

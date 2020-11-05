@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/music-collection-4550.png) Music Collection 3.2.8.0 - Free Download
 
-```sh
-Music Collection is a good program for creating your own music collection on a computer and its convenient management.
-```
+> Music Collection is a good program for creating your own music collection on a computer and its convenient management.
+
 [![Music Collection](https://gallery.dpcdn.pl/imgc/Tools/60948/g_-_420x350_1.5_-_x20160511210653_0.png)](https://softexe.net/win/disks-files/catalogers/music-collection:deeR.html)
 
 Music Collection is a good program for creating your own music collection on a computer and its convenient management. All information about existing compositions can be edited and modified. At the same time, it is entered either manually or downloaded from the Internet, which significantly saves time and prevents from possible errors. Successfully implemented search for the desired track or album using a variety of filters - by artist, genre, title, etc.

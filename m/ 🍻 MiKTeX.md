@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/miktex-11173.png) MiKTeX 2.9.7086 - Free Download
 
-```sh
-MiKTeX is a set of tools for the submission of text, in particular, mathematical and scientific records. Programs included in the package are the implementation of TeX and LaTeX systems for Windows.
-```
+> MiKTeX is a set of tools for the submission of text, in particular, mathematical and scientific records. Programs included in the package are the implementation of TeX and LaTeX systems for Windows.
+
 [![MiKTeX](https://gallery.dpcdn.pl/imgc/Tools/71387/g_-_420x350_1.5_-_x20160915132618_0.png)](https://softexe.net/win/multimedia/graphics-design/miktex:pppgc.html)
 
 MiKTeX contains everything you need to submit text in LaTeX or TeX language and to generate documents. There are styles, fonts and compiled programs that will help in publishing.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/google-chrome-enterprise-9199.png) Google Chrome Enterprise 80.0.3987.116 - Free Download
 
-```sh
-Google Chrome Enterprise is a web browser that has been prepared for administrators, enabling them to work in remote mode.
-```
+> Google Chrome Enterprise is a web browser that has been prepared for administrators, enabling them to work in remote mode.
+
 [![Google Chrome Enterprise](https://gallery.dpcdn.pl/imgc/Tools/88844/g_-_420x350_1.5_-_xc3c51dac-4a5c-4863-8a18-50ea31f860fd.jpg)](https://softexe.net/win/internet/browsers/google-chrome-enterprise:apaa.html)
 
 The tool seems to look the same as the traditional version of Google Chrome, but in fact the Enterprise version has a number of options not available in the standard edition of the application. People using this program can count on regular updates (they are automatically installed), so that they will always have the latest security patches. It is also important that such a solution guarantees administrators constant access to advanced technologies.

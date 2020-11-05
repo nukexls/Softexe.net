@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Ashampoo+Backup+2018 icon&w=40&h=40) Ashampoo Backup 2018 11.10 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Ashampoo Backup 2018 11.10 - Free Download
 
-```sh
-Ashampoo Backup 2018 is an easy-to-use tool for backing up your computer, which under the simple interface conceals a lot of possibilities. You can use it to back up whole partitions. If a serious system failure occurs, the backup can be restored using an automatically created rescue medium.
-```
+> Ashampoo Backup 2018 is an easy-to-use tool for backing up your computer, which under the simple interface conceals a lot of possibilities. You can use it to back up whole partitions. If a serious system failure occurs, the backup can be restored using an automatically created rescue medium.
+
 [![Ashampoo Backup 2018](https://gallery.dpcdn.pl/imgc/Tools/82536/g_-_420x350_1.5_-_xb208f54b-406d-4fda-8404-8c9b042128e5.png)](https://softexe.net/win/disks-files/data-recovery/ashampoo-backup-2018:pRbed.html)
 
 The user has to choose only the partition, the target location, set the backup schedule and that's all. From now, Ashampoo Backup 2018 will back up in the background without overloading the system resources.

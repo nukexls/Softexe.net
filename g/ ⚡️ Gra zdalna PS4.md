@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Gra zdalna PS4 3.0.0.9250 - Free Download
 
-```sh
-Remote Game PS4 (PS4 Remote Play) is an application for computers with Windows and Mac OS operating systems, thanks to which we can launch the PlayStation 4 console in remote mode.
-```
+> Remote Game PS4 (PS4 Remote Play) is an application for computers with Windows and Mac OS operating systems, thanks to which we can launch the PlayStation 4 console in remote mode.
+
 [![Gra zdalna PS4](https://gallery.dpcdn.pl/imgc/Tools/81415/g_-_420x350_1.5_-_x6340d369-ca64-4027-abca-b56984ae17a9.jpg)](https://softexe.net/win/system/other/gra-zdalna-ps4:ahbg.html)
 
 After running the tool on your computer, you need to follow the instructions on the screen and turn on the console at the right moment to pair it with our PC. From that moment on PC, using the described application, we will be able to perform the same activities as on PS4, i.e. play, browse friends lists, achievements or PlayStation Store content.

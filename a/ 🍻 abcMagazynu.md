@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=abcMagazynu icon&w=40&h=40) abcMagazynu 20.6.17 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) abcMagazynu 20.6.17 - Free Download
 
-```sh
-abcMagazynu is an intuitive but extensive program for running warehouses.
-```
+> abcMagazynu is an intuitive but extensive program for running warehouses.
+
 [![abcMagazynu](https://gallery.dpcdn.pl/imgc/Tools/77659/g_-_420x350_1.5_-_x20170917173337_0.jpg)](https://softexe.net/win/business/management/abcmagazynu:haca.html)
 
 Attention! From January 1, 2018, the obligation to keep electronic VAT records and to submit them as a Uniform Control File (JPK) is introduced. The abcMagazyn program is prepared for these changes and allows you to generate JPK-MAG files.

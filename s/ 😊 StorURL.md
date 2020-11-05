@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/storurl-8961.png) StorURL 3.0.25.4 - Free Download
 
-```sh
-StorURL is a free tool for storing the addresses of your favorite websites.
-```
+> StorURL is a free tool for storing the addresses of your favorite websites.
+
 [![StorURL](https://gallery.dpcdn.pl/imgc/Tools/76389/g_-_420x350_1.5_-_x20170621221857_0.jpg)](https://softexe.net/win/system/other/storurl:hafp.html)
 
 The program is characterized by the simplicity of use. After starting the application, we only need to create a new database (which can be password protected) in the selected destination path. It is worth noting that there is an option to create a backup, which may be useful during hard disk failure.

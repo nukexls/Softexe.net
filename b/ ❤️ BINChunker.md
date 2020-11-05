@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) BINChunker 1.70 - Free Download
 
-```sh
-BINChunker is a very simple and effective tool designed to convert disk images from the BIN format to ISO files.
-```
+> BINChunker is a very simple and effective tool designed to convert disk images from the BIN format to ISO files.
+
 [![BINChunker](https:https://tse3.mm.bing.net/th?id=OIP.wNdOSPU06LGco39JmcvN2QHaGd&pid=Api)](https://softexe.net/win/system/other/binchunker:pRfhd.html)
 
 

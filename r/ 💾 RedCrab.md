@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/redcrab-8157.png) RedCrab 7.14 - Free Download
 
-```sh
-RedCrab is a free and at the same time extended scientific calculator, equipped with a full-screen formula editor.
-```
+> RedCrab is a free and at the same time extended scientific calculator, equipped with a full-screen formula editor.
+
 [![RedCrab](https://gallery.dpcdn.pl/imgc/Tools/9265/g_-_420x350_1.5_-_x20120714201513_00.jpg)](https://softexe.net/win/business/calculators/redcrab:hpeg.html)
 
 Writing various formulas and mathematical actions using the program is extremely simple and intuitive, and all this thanks to an innovative editor in which all mathematical operations are performed on a virtual sheet of paper.

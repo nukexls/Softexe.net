@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/telegram-desktop-8532.png) Telegram Desktop 2.3.1 - Free Download
 
-```sh
-Telegram Desktop is an instant messenger that allows you to send text messages, photos, videos and files saved in various formats (doc, zip, mp3, etc.), as well as creating groups of up to 200 users.
-```
+> Telegram Desktop is an instant messenger that allows you to send text messages, photos, videos and files saved in various formats (doc, zip, mp3, etc.), as well as creating groups of up to 200 users.
+
 [![Telegram Desktop](https://gallery.dpcdn.pl/imgc/Tools/73393/g_-_420x350_1.5_-_x20170112193601_0.jpeg)](https://softexe.net/win/internet/messenger/telegram-desktop:hecb.html)
 
 The application is addressed mainly to enterprises and small businesses whose employees communicate with each other via the Internet using computers, tablets or smartphones. It works on Windows, Linux, Mac OS X, iOS, Android and Windows Phone systems. It can be an interesting alternative to the popular WhatsApp, which is available only on mobile platforms. In contrast, it is based on the cloud, thanks to which we can access the archive of messages and contact lists from several devices at the same time.

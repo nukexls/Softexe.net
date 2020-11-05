@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/hard-disk-sentinel-pro-8896.png) Hard Disk Sentinel Pro 5.60 - Free Download
 
-```sh
-Hard Disk Sentinel (HDSentinel) is one of the most advanced tools aimed at analyzing and monitoring the state of HDD and SSD disks installed in a computer.
-```
+> Hard Disk Sentinel (HDSentinel) is one of the most advanced tools aimed at analyzing and monitoring the state of HDD and SSD disks installed in a computer.
+
 [![Hard Disk Sentinel Pro](https://gallery.dpcdn.pl/imgc/Tools/16877/g_-_420x350_1.5_-_x20130606030510_00.png)](https://softexe.net/win/system/diagnostics-tests/hard-disk-sentinel-pro:hhaf.html)
 
 The program allows you to test, diagnose and, if possible, also repair problems occurring during the operation of the hard disk. It can not only detect errors on the data carrier, but also decreases the device's performance. Hard Disk Sentinel provides detailed information about the disk, tips on how to take care of the device's status, alerts about detected problems or reports comparing various media parameters.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) DivX Plus 10.8.8 - Free Download
 
-```sh
-Extremely popular package of components necessary to play movies in HD resolutions encoded with MPEG-4, H.264 video codecs and MP3, AC3, ACC, Vorbis and DTS audio.
-```
+> Extremely popular package of components necessary to play movies in HD resolutions encoded with MPEG-4, H.264 video codecs and MP3, AC3, ACC, Vorbis and DTS audio.
+
 [![DivX Plus](https://gallery.dpcdn.pl/imgc/Tools/1392/g_-_420x350_1.5_-_x20110104155814_00.png)](https://softexe.net/win/multimedia/codecs/divx-plus:addb.html)
 
 DivX Plus 8 gives you the opportunity to watch multimedia in the most popular formats: .divx, .avi, .mp4, .mov, .rmvb, .wmv or .mkv and others via any player installed on your computer, such as Windows Media Player. In addition to the codecs themselves, it also includes the DivX Plus Converter tool for converting video content between different formats and simple DivX Plus Player and DivX Plus Web Player.

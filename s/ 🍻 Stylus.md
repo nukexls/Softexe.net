@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/stylus-10054.png) Stylus 1.4.13 - Free Download
 
-```sh
-Stylus is an extension to browsers, with which it is possible to modify the appearance of websites. The program updates cascading style sheets (CSS) on a regular basis and displays the website in the way the user wants.
-```
+> Stylus is an extension to browsers, with which it is possible to modify the appearance of websites. The program updates cascading style sheets (CSS) on a regular basis and displays the website in the way the user wants.
+
 [![Stylus](https://gallery.dpcdn.pl/imgc/Tools/83491/g_-_420x350_1.5_-_xe04b02c4-3cae-4a19-8df2-6bf6f460a0ab.png)](https://softexe.net/win/internet/browser-add-ons/stylus:pRRed.html)
 
 You can create new styles yourself or download ready-made proposals from the Internet. The Stylus application is based on the original version of the popular Stylish extension, which has recently disappeared from stores with browser add-ons.

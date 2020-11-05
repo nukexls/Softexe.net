@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/photofiltre-studio-x-9554.png) PhotoFiltre Studio X 10.14.1 - Free Download
 
-```sh
-PhotoFiltre Studio X is a powerful tool that allows you to edit various graphic files. With its help, we will be able to primarily take care of photo retouching, but not only - the manufacturer took care of the availability of options for less and more demanding users.
-```
+> PhotoFiltre Studio X is a powerful tool that allows you to edit various graphic files. With its help, we will be able to primarily take care of photo retouching, but not only - the manufacturer took care of the availability of options for less and more demanding users.
+
 [![PhotoFiltre Studio X](https://gallery.dpcdn.pl/imgc/Tools/63059/g_-_420x350_1.5_-_x20151028143024_0.png)](https://softexe.net/win/multimedia/graphics-design/photofiltre-studio-x:aeed.html)
 
 The program is characterized by a transparent, though relatively rich interface. Most of the screen occupies a window in which the selected photograph is located. We can perform basic image modifications, including resizing, adding frames, cropping, adding shadows, increasing brightness or changing contrast, red-eye reduction, and entering a short text (e.g., a signature).

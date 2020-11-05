@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/deskpdf-studio-xe-8663.jpg) deskPDF Studio XE 6.1.8.866 - Free Download
 
-```sh
-deskPDF Studio XE is a professional software for creating, editing, converting and securing documents in PDF format. Thanks to its enormous possibilities, it is a remarkable alternative to the popular Adobe Acrobat.
-```
+> deskPDF Studio XE is a professional software for creating, editing, converting and securing documents in PDF format. Thanks to its enormous possibilities, it is a remarkable alternative to the popular Adobe Acrobat.
+
 [![deskPDF Studio XE](https://gallery.dpcdn.pl/imgc/Tools/53116/g_-_420x350_1.5_-_x20170725132554_0.png)](https://softexe.net/win/multimedia/graphics-design/deskpdf-studio-xe:hffc.html)
 
 The program allows you to perform many advanced editing works and remains very easy to use. All functions and tools available in it are affordable even for less experienced users. The editing takes place in conjunction with the preview of changes in real time, which means that we can keep up to date on the computer screen every change introduced. The deskPDF Studio XE capabilities have been appreciated by many users and companies around the world - including Lamborghini, Xerox, Sony, Intel, IBM and even Microsoft.

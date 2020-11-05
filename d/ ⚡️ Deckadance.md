@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/deckadance-10862.png) Deckadance 2.72 - Free Download
 
-```sh
-Deckadance is a powerful music application designed for DJs, which work both as a standalone application and host for other VST plugins, and as a plugin for VSTI.
-```
+> Deckadance is a powerful music application designed for DJs, which work both as a standalone application and host for other VST plugins, and as a plugin for VSTI.
+
 [![Deckadance](https:https://tse3.mm.bing.net/th?id=OIP.ouekPcuILMklgu_XeFRvWAHaHb&pid=Api)](https://softexe.net/win/multimedia/audio-sound/deckadance:pRhfb.html)
 
 The program has a fairly simple and intuitive user interface that simultaneously offers all the necessary options, but does not overdo it with an excess of effects and colorful knobs. The application window consists of a "DJ" section at the top, with the help of which we can mix music and the bottom panel in which there is a musical collection that we can use at any time.

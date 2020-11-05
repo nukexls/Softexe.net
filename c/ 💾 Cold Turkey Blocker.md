@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/cold-turkey-blocker-9524.png) Cold Turkey Blocker 3.10 - Free Download
 
-```sh
-Cold Turkey Blocker is a special tool for blocking various websites and programs.
-```
+> Cold Turkey Blocker is a special tool for blocking various websites and programs.
+
 [![Cold Turkey Blocker](https://gallery.dpcdn.pl/imgc/Tools/86143/g_-_420x350_1.5_-_x5464576a-eca9-408f-bcad-83de218d7896.jpg)](https://softexe.net/win/security-privacy/other/cold-turkey-blocker:aebd.html)
 
 Thanks to the features offered by this application, we will be able to focus entirely on the work. Cold Turkey Blocker is available as an extension to the web browser (it does not work with Internet Explorer and Edge), which allows you to block access to everything that distracts us in the performance of duties on the computer. These can be websites, applications, notifications and more.

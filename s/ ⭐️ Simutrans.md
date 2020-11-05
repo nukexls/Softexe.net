@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Simutrans icon&w=40&h=40) Simutrans 120.2.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Simutrans 120.2.2 - Free Download
 
-```sh
-Simutrans is a free economic game that draws inspiration from the classic Transport Tycoon. The introduced modifications and a number of other changes make the game much harder.
-```
+> Simutrans is a free economic game that draws inspiration from the classic Transport Tycoon. The introduced modifications and a number of other changes make the game much harder.
+
 [![Simutrans](https:https://tse3.mm.bing.net/th?id=OIP.y031dSjHSgpbFBatxKMcRwHaGQ&pid=Api)](https://softexe.net/win/games-entertainment/strategies/simutrans:pRddR.html)
 
 We play as a transport tycoon that must take care of the city's infrastructure by building roads, establishing transport routes and purchasing buses, trains or planes to service individual metering channels. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/linx-10388.png) LinX 0.6.5 - Free Download
 
-```sh
-LinX is a small but fully effective tool designed to test the performance and stability of a computer running Windows.
-```
+> LinX is a small but fully effective tool designed to test the performance and stability of a computer running Windows.
+
 [![LinX](https://gallery.dpcdn.pl/imgc/Tools/81831/g_-_420x350_1.5_-_x367c22e0-1e09-4ddc-b5a9-87cf649f089b.png)](https://softexe.net/win/system/diagnostics-tests/linx:pRchh.html)
 
 The program bases its operation on complicated mathematical calculations, to which it is subjected, inter alia, to CPU unit mounted in the computer. After starting the tool, the user has the option of defining the degree of complexity of calculations, the amount of operating memory allocated to them and the time for their execution.

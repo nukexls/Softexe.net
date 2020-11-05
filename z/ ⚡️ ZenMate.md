@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/zenmate-icon128.png) ZenMate 6.6.3 - Free Download
 
-```sh
-ZenMate is a browser plugin that is a VPN client for ensuring secure and confidential surfing on the Internet.
-```
+> ZenMate is a browser plugin that is a VPN client for ensuring secure and confidential surfing on the Internet.
+
 [![ZenMate](https://gallery.dpcdn.pl/imgc/Tools/61398/g_-_420x350_1.5_-_x20150831233347_0.png)](https://softexe.net/win/internet/anonymizers-vpn/zenmate:hRgb.html)
 
 ZenMate &nbsp;VPN&nbsp; is a plugin for Google Chrome, Opera and Mozilla Firefox browsers, which is a VPN client for ensuring safe and confidential surfing on the Internet. By installing this extension, you can visit sites that are banned in your region, get traffic protection and Wi-Fi connections, avoid leakage of private data, etc.

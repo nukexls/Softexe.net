@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) get2Clouds 1.0.1.85 - Free Download
 
-```sh
-get2Clouds is a tool for very easy and quick sharing of files using the cloud.
-```
+> get2Clouds is a tool for very easy and quick sharing of files using the cloud.
+
 [![get2Clouds](https://gallery.dpcdn.pl/imgc/Tools/82629/g_-_420x350_1.5_-_x1b4e6a71-01b9-4506-a442-32298eda4486.jpg)](https://softexe.net/win/internet/cloud-storage/get2clouds:hbpR.html)
 
 The program supports the following services: Google Drive, Dropbox, Telecom Cloud, Microsoft SkyDrive, SugarSync, Box and several others. Of course, it is required to have an account in the service from which we intend to make use of using get2Clouds. In the main program window we can place data both by browsing the list of files and using the "drag and drop" function.

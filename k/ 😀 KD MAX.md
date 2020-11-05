@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/kd-max-10952.png) KD MAX v6 - Free Download
 
-```sh
-KD Max is a program for designing kitchens, kitchen furniture and built-in wardrobes, designed for interior designers and furniture manufacturers. You can create single furniture in it, and thanks to additional libraries from other manufacturers, also visualizations of kitchens, bathrooms, bedrooms and other rooms.
-```
+> KD Max is a program for designing kitchens, kitchen furniture and built-in wardrobes, designed for interior designers and furniture manufacturers. You can create single furniture in it, and thanks to additional libraries from other manufacturers, also visualizations of kitchens, bathrooms, bedrooms and other rooms.
+
 [![KD MAX](https:https://tse3.mm.bing.net/th?id=OIP.iPpx6T7ZqijwHKMyDgpWzAHaEk&pid=Api)](https://softexe.net/win/multimedia/graphics-design/kd-max:pRaeb.html)
 
 At KD Max, you can use the ready database of facilities and build any box furniture and built-in wardrobes. The designer has the freedom to create shapes and sizes of furniture, whereby the program can automatically insert countertops, pedestals and slats, as well as automatically change all the fronts and handles in the design. During the design, the program detects collisions and allows automatic attraction of the elements. 

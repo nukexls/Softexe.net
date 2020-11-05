@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/usb-secure-8255.png) USB Secure 2.1.8 - Free Download
 
-```sh
-USB Secure allows password protection of any USB media. Thanks to that we will be sure that unauthorized persons will not gain access to our files.
-```
+> USB Secure allows password protection of any USB media. Thanks to that we will be sure that unauthorized persons will not gain access to our files.
+
 [![USB Secure](https://gallery.dpcdn.pl/imgc/Tools/90968/g_-_420x350_1.5_-_x0806bfcd-4095-49d2-a095-83f770b5b403.jpg)](https://softexe.net/win/security-privacy/other/usb-secure:hbee.html)
 
 Securing access to pendrive and other USB storage devices

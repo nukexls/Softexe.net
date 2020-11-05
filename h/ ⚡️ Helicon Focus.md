@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/helicon-focus-8378.png) Helicon Focus 7.6.4 - Free Download
 
-```sh
-Helicon Focus is a professional tool addressed to photographers who take pictures in macro or microscopic technique. Nevertheless, it may also be used for processing other types of photographs (portraits, landscapes, architecture, etc.), enabling the user to sharpen and enhance the details of photographs on different plans of the frame.
-```
+> Helicon Focus is a professional tool addressed to photographers who take pictures in macro or microscopic technique. Nevertheless, it may also be used for processing other types of photographs (portraits, landscapes, architecture, etc.), enabling the user to sharpen and enhance the details of photographs on different plans of the frame.
+
 [![Helicon Focus](https://gallery.dpcdn.pl/imgc/Tools/54324/g_-_420x350_1.5_-_x20140922163647_0.png)](https://softexe.net/win/multimedia/graphics-editors/helicon-focus:hcgh.html)
 
 The software is based on the focus stacking method, which allows you to increase depth of field based on a series of photos of the same frame. It performs operations to separate the sharp areas of individual photographs, and then combine them into a new image with greater depth of field. This technique is addressed mainly to people who take photos in close proximity (eg insects, plants and other small objects) using a tripod.

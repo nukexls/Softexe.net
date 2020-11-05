@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/deep-freeze-standard-8201.jpg) Deep Freeze Standard 8.56.020.5542 - Free Download
 
-```sh
-Deep Freeze Standard is an unusual application that protects individual hard disk partitions along with the operating system from unauthorized changes.
-```
+> Deep Freeze Standard is an unusual application that protects individual hard disk partitions along with the operating system from unauthorized changes.
+
 [![Deep Freeze Standard](https://gallery.dpcdn.pl/imgc/Tools/9860/g_-_420x350_1.5_-_x20120827104520_00.jpg)](https://softexe.net/win/security-privacy/other/deep-freeze-standard:hbRp.html)
 
 The program secures "freezing" selected hard disk partitions, and then remembers all introduced changes and Windows settings. From now on, all changes made by the user in the system will be completely removed after restarting the computer. 

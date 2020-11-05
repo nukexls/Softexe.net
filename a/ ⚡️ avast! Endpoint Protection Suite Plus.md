@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/avast-endpoint-protection-suite-plus-11117.png) avast! Endpoint Protection Suite Plus 10.2.1609.558 - Free Download
 
-```sh
-avast! Endpoint Protection Plus is an extended edition of antivirus software targeting small and medium enterprises. In addition to antivirus and antispyware protection, it offers a built-in firewall that protects computers in the company from modification or theft of valuable data by hackers.
-```
+> avast! Endpoint Protection Plus is an extended edition of antivirus software targeting small and medium enterprises. In addition to antivirus and antispyware protection, it offers a built-in firewall that protects computers in the company from modification or theft of valuable data by hackers.
+
 [![avast! Endpoint Protection Suite Plus](https://gallery.dpcdn.pl/imgc/Tools/50274/g_-_420x350_1.5_-_x20140410180315_0.png)](https://softexe.net/win/security-privacy/antivirus/avast-endpoint-protection-suite-plus:ppppg.html)
 
 The foundation of avast! Endpoint Protection is an antivirus engine and antispyware module used also in consumer editions of security software of this Czech manufacturer. They provide protection against all kinds of harmful components, and thanks to the use of advanced algorithms based on learning systems, they are able to process new viruses much faster than in previous editions of software. In addition, the user has a firewall running in the background that prevents hackers from using heuristic and behavioral analysis and a white list of secure applications.

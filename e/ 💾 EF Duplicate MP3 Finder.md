@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) EF Duplicate MP3 Finder 20.09 - Free Download
 
-```sh
-EF Duplicate MP3 Finder is a program to search for duplicate audio files. More precisely: the same music files, so we can find unnecessary "clones" and delete them, thus regaining the same free space on the disk.
-```
+> EF Duplicate MP3 Finder is a program to search for duplicate audio files. More precisely: the same music files, so we can find unnecessary "clones" and delete them, thus regaining the same free space on the disk.
+
 [![EF Duplicate MP3 Finder](https://gallery.dpcdn.pl/imgc/Tools/61409/g_-_420x350_1.5_-_x20150901111934_0.png)](https://softexe.net/win/disks-files/other/ef-duplicate-mp3-finder:hfpc.html)
 
 Application support is very simple, even in the absence of the Polish language version. At the very beginning, the user can set a preset, a set (later easily editable) of information on the basis of which the program will look for duplicates. You can search for a lot of folders and search filters, such as comparing album names, genres, BPM, etc. People looking for more advanced options will not be disappointed to see, among others, the ability to check files after modification date, selected attributes, and even length.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/slidedog-9209.png) SlideDog 2.1.5 - Free Download
 
-```sh
-SlideDog is a free edition of an interesting and innovative tool that allows you to conveniently create and display multimedia presentations consisting of a set of photos, video materials, PDF documents or PowerPoint presentations.
-```
+> SlideDog is a free edition of an interesting and innovative tool that allows you to conveniently create and display multimedia presentations consisting of a set of photos, video materials, PDF documents or PowerPoint presentations.
+
 [![SlideDog](https://gallery.dpcdn.pl/imgc/Tools/46250/g_-_420x350_1.5_-_x20140211161108_0.png)](https://softexe.net/win/multimedia/graphics-design/slidedog:abRa.html)
 
 The application on the background of the competition is distinguished by a carefully crafted and intuitive graphical interface, in which individual options are within reach at every stage of work on the project. The created presentation can include files located on the local hard disk, materials available online, as well as video clips directly from YouTube. The very process of creating a presentation is very simple and is limited to importing materials and then organizing them on the timeline.

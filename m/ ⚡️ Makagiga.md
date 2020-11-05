@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Makagiga icon&w=40&h=40) Makagiga 6.12 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Makagiga 6.12 - Free Download
 
-```sh
-Makagiga is a free and multiplatform application that acts as a personal organizer. It combines task manager, calendar, note editor, RSS reader and statistics system, allowing for efficient management of time and tasks to be performed.
-```
+> Makagiga is a free and multiplatform application that acts as a personal organizer. It combines task manager, calendar, note editor, RSS reader and statistics system, allowing for efficient management of time and tasks to be performed.
+
 [![Makagiga](https:https://tse4.mm.bing.net/th?id=OIP.gEk1_aYiXwa_x8ORMjrOgQEsCX&pid=Api)](https://softexe.net/win/business/organizer/makagiga:pRfge.html)
 
 The possibilities of the application do not end there. Makagiga, thanks to the system of plugins, can carry out calculations (by connecting with Wolfram Alpha) and display maps (OpenStreetMap). The program can also display Polish holidays in the calendar, present the current weather, highlight the code's syntax, manage document templates or generate QR codes.

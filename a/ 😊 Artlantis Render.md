@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/artlantis-render-10323.png) Artlantis Render 7.0.2.1 - Free Download
 
-```sh
-Artlantis Render is an independent engine rendering photorealistic, physically correct images, designed for architects and interior designers. Its great advantage is the ability to make changes in the lighting of the scene in real time in the preview window.
-```
+> Artlantis Render is an independent engine rendering photorealistic, physically correct images, designed for architects and interior designers. Its great advantage is the ability to make changes in the lighting of the scene in real time in the preview window.
+
 [![Artlantis Render](https://gallery.dpcdn.pl/imgc/Tools/68756/g_-_420x350_1.5_-_x20160615185136_0.png)](https://softexe.net/win/multimedia/graphics-design/artlantis-render:pRcbc.html)
 
 Artlantis Render allows you to work with natural and artificial light (IES, neon and many others), with natural lighting can be adjusted to the time of year and day. We can choose between spatial and perspective cameras as well as post-production effects such as vignettes, white balance settings and photographic filters. 

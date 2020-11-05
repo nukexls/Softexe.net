@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/everedit-10481.png) EverEdit 4.2.0.4457 - Free Download
 
-```sh
-EverEdit is a professional, yet very light and easy to use text editor dedicated to programmers and web developers. It can be successfully used as a replacement for the system notepad, offering all the functions necessary for coding.
-```
+> EverEdit is a professional, yet very light and easy to use text editor dedicated to programmers and web developers. It can be successfully used as a replacement for the system notepad, offering all the functions necessary for coding.
+
 [![EverEdit](https://gallery.dpcdn.pl/imgc/Tools/17956/g_-_420x350_1.5_-_x20130725001854_00.png)](https://softexe.net/win/development-it/editors/everedit:pRdhp.html)
 
 The graphical interface of the application does not differ significantly from the solutions used by the competition. We find in it a well-thought-out division and arrangement of individual elements, the mechanism of independent cards, enabling work with many files simultaneously, and most importantly, most of them can be freely adapted to your preferences.

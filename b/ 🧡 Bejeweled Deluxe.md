@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Bejeweled Deluxe 1.861 - Free Download
 
-```sh
-Bejeweled Deluxe is an absolute classic of the genre, if the suggestions for people playing on the computer only from time to time go. He introduced this title to salons and spread the idea of ​​matching at least three identical elements to remove all of the screen. The game is very casual, although the simple idea underlying the production can draw people of all ages.
-```
+> Bejeweled Deluxe is an absolute classic of the genre, if the suggestions for people playing on the computer only from time to time go. He introduced this title to salons and spread the idea of ​​matching at least three identical elements to remove all of the screen. The game is very casual, although the simple idea underlying the production can draw people of all ages.
+
 [![Bejeweled Deluxe](https://gallery.dpcdn.pl/imgc/Tools/66100/g_-_420x350_1.5_-_x20160302140404_1.jpg)](https://softexe.net/win/games-entertainment/arcade-action/bejeweled-deluxe:ppgRg.html)
 
 Each subsequent level is always randomly arranged elements. They are arranged in horizontal and vertical rows. The objects are adjusted by swapping two adjoining places. The change will come to no end only if we bring together the same or more elements as a result. Naturally, we play on points. It is especially valuable to delete several lines one by one.

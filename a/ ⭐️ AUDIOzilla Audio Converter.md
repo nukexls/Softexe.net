@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/audiozilla-audio-converter-11186.png) AUDIOzilla Audio Converter 1.2 - Free Download
 
-```sh
-AUDIOzilla Audio Converter is an application designed to convert audio files. The program is characterized by speed and ease of use.
-```
+> AUDIOzilla Audio Converter is an application designed to convert audio files. The program is characterized by speed and ease of use.
+
 [![AUDIOzilla Audio Converter](https://gallery.dpcdn.pl/imgc/Tools/12338/g_-_420x350_1.5_-_x20130110162710_00.png)](https://softexe.net/win/multimedia/audio-utilities/audiozilla-audio-converter:ppphf.html)
 
 To start the operation of changing the audio file format, it is enough to right click in Windows Explorer on the selected file - then the program will start to convert to one of the selected formats, such as MP3, M4A, AAC, OGG, WMA, FLAC, AU, WAV, AIFF, MP2, AC3, AU, APE, MPC, MOD, VOC, CAF, RAW, PCM, GSM, VOX, WV.

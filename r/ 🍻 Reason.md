@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/reason-8511.png) Reason 11.3.3 - Free Download
 
-```sh
-Reason is a very complex, virtual recording studio used to create music on a computer. It has all the tools (instruments, effects, modules) that are necessary to record, compose and mix various sounds.
-```
+> Reason is a very complex, virtual recording studio used to create music on a computer. It has all the tools (instruments, effects, modules) that are necessary to record, compose and mix various sounds.
+
 [![Reason](https://gallery.dpcdn.pl/imgc/Tools/63861/g_-_420x350_1.5_-_x20151127181542_0.jpg)](https://softexe.net/win/multimedia/audio-sound/reason:hepp.html)
 
 The most important feature of Reason is a stand equipped with instruments and effects that can be added and removed from the stand using a special program option. Thanks to that we will adjust the contents of the stand to your own preferences and we will have access to the necessary tools at your fingertips. When we finish work on our work, an advanced sound editor will be extremely useful, which will allow you to detect any malfunctions or unnecessary pauses.

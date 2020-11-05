@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/screenshu-11094.png) screenSHU 3.0.5 - Free Download
 
-```sh
-screenSHU is a small tool for efficiently creating and sharing screenshots online.
-```
+> screenSHU is a small tool for efficiently creating and sharing screenshots online.
+
 [![screenSHU](https://gallery.dpcdn.pl/imgc/Tools/15897/g_-_420x350_1.5_-_x20130504173031_00.png)](https://softexe.net/win/multimedia/image-capture/screenshu:ppRad.html)
 
 The program allows you to freely create screenshots of the entire screen or the area indicated by us, e.g. windows of any application. Right after the creation of the screen it is automatically sent to external servers, so we can easily share it with friends (link to the image is available at the top of the window) or publish in the form of an entry on Facebook and Twitter. The process of saving graphics in a computing cloud, as the developers of the tool say, takes less than a second.

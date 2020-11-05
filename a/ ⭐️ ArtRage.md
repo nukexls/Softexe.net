@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/artrage-9949.png) ArtRage 6.1.2 - Free Download
 
-```sh
-ArtRage is an easy-to-use but very powerful tool for painting images and drawing on a computer.
-```
+> ArtRage is an easy-to-use but very powerful tool for painting images and drawing on a computer.
+
 [![ArtRage](https://gallery.dpcdn.pl/imgc/Tools/2670/g_-_420x350_1.5_-_x20140911145413_0.png)](https://softexe.net/win/multimedia/graphics-editors/artrage:aada.html)
 
 The program provides very good digital equivalents of oil paints, watercolors, airbrushes, rapitographs, pencils, oil pastels, markers and oil pastels. There are also auxiliary tools, such as a spatula, an eraser, a tube of paint and brocade, a palette for mixing colors and the unique Gloop pen- a tool similar to a nib with transparent ink, which you can make "blots" and interesting outlines. There were also typically digital tools, such as cloning, color sampler, selection, layers and the ability to transform an already drawn image. The program also allows painting symmetrical with respect to several axes. The tools are imitated in a very realistic way, it allows you to mix paints already in the drawing and to overlap different tools, and yet the program is relatively light. As a substrate, you can choose several types of paper and canvas.

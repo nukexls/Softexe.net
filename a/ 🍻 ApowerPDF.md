@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/apowerpdf-8390.png) ApowerPDF 5.1.0.716 - Free Download
 
-```sh
-ApowerPDF is a program for handling documents saved in PDF format, which allows, above all, creating, viewing and editing files.
-```
+> ApowerPDF is a program for handling documents saved in PDF format, which allows, above all, creating, viewing and editing files.
+
 [![ApowerPDF](https://gallery.dpcdn.pl/imgc/Tools/90791/g_-_420x350_1.5_-_x9104fc21-a04a-4f95-8182-049e4133fb64.jpg)](https://softexe.net/win/system/pdf/apowerpdf:hcaR.html)
 
 Display modes

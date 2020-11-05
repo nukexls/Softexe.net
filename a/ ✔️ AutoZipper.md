@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/autozipper-9298.png) AutoZipper 1.0 - Free Download
 
-```sh
-AutoZipper is a free tool that will significantly speed up the creation of file archives.
-```
+> AutoZipper is a free tool that will significantly speed up the creation of file archives.
+
 [![AutoZipper](https://gallery.dpcdn.pl/imgc/Tools/89235/g_-_420x350_1.5_-_x3ddc4392-266e-4a32-9b5f-268e8458dca1.jpg)](https://softexe.net/win/disks-files/compression/autozipper:abah.html)
 
 Sometimes we place many different documents in one archive, and after making changes in a given text, it is necessary to find all the materials again in order to add them again to the compressed set. This process can be significantly simplified and accelerated using the AutoZipper program.

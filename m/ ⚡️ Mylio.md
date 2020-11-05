@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/mylio-8481.png) Mylio 3.7.6249 - Free Download
 
-```sh
-Mylio is a modern and refined graphic browser targeted at amateur digital photography. In addition to the basic function of cataloging graphic libraries, it also offers the ability to edit images and synchronize graphic sets between multiple devices.
-```
+> Mylio is a modern and refined graphic browser targeted at amateur digital photography. In addition to the basic function of cataloging graphic libraries, it also offers the ability to edit images and synchronize graphic sets between multiple devices.
+
 [![Mylio](https://gallery.dpcdn.pl/imgc/Tools/65774/g_-_420x350_1.5_-_x20160221121432_0.png)](https://softexe.net/win/multimedia/graphics-design/mylio:hdhp.html)
 
 The application is very convenient to use and at the same time is characterized by high speed of operation even for larger libraries with photos. It offers almost all the necessary tools to easily organize family photo collections, etc. At the user's disposal was the ability to create albums from previously loaded image files, manage metadata stored in photos and search for individual copies on their basis. Mylio easily allows you to define people in the pictures and the location where they were taken. Of course, it is also possible to search albums based on these criteria.

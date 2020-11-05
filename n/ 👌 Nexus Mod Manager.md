@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/nexus-mod-manager-8940.png) Nexus Mod Manager 0.65.11 - Free Download
 
-```sh
-Nexus Mod Manager is an application for managing mods shared by fans through the Nexus website.
-```
+> Nexus Mod Manager is an application for managing mods shared by fans through the Nexus website.
+
 [![Nexus Mod Manager](https://gallery.dpcdn.pl/imgc/Tools/90196/g_-_420x350_1.5_-_x58408d72-f157-4f91-bab4-58530864baa6.jpg)](https://softexe.net/win/hobbies-lifestyle/mobile/nexus-mod-manager:hadR.html)
 
 Nexus Mod Manager not only allows you to download mods (using the built-in download manager), but also allows you to install, update and modify files.

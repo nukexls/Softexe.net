@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Alt icon&w=40&h=40) Alt 0.9.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Alt 0.9.0 - Free Download
 
-```sh
-Alt1 can be an interesting alternative to the system calculator, especially if in addition to standard calculations, we also perform advanced mathematical operations.
-```
+> Alt1 can be an interesting alternative to the system calculator, especially if in addition to standard calculations, we also perform advanced mathematical operations.
+
 [![Alt](https://gallery.dpcdn.pl/imgc/Tools/85390/g_-_420x350_1.5_-_x6346cbc1-5a3d-4f39-92f3-41f6d11c5b13.jpg)](https://softexe.net/win/business/calculators/alt:agce.html)
 
 After running Alt1, it appears in the system tray, from which we can call it in two ways: either by clicking the program icon with the left mouse button or using the simple "ALT + 1" button combination. Importantly, by entering various values ​​in the program window, we no longer need to click on any confirmation button, because all calculations are done in real time.

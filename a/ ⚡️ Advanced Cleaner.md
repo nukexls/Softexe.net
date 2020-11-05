@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Advanced+Cleaner icon&w=40&h=40) Advanced Cleaner 4.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Advanced Cleaner 4.0 - Free Download
 
-```sh
-Advanced Cleaner includes free antivirus software and an optimization tool to remove unnecessary files. The program also allows you to solve numerous problems in the Windows operating system.
-```
+> Advanced Cleaner includes free antivirus software and an optimization tool to remove unnecessary files. The program also allows you to solve numerous problems in the Windows operating system.
+
 [![Advanced Cleaner](https://gallery.dpcdn.pl/imgc/Tools/80774/g_-_420x350_1.5_-_xf22a155b-9da4-4001-9b99-d91701abbb89.png)](https://softexe.net/win/security-privacy/other/advanced-cleaner:pRfRg.html)
 
 Advanced Cleaner can be a useful add-on for anti-virus software, but in no case should it replace specialized virus-killing applications. Despite everything, the program copes well with broadly understood viruses, including malware and suspicious files.

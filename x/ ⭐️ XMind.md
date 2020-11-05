@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=XMind icon&w=40&h=40) XMind 8.0 Update 3 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) XMind 8.0 Update 3 - Free Download
 
-```sh
-XMind is a powerful tool for creating mind maps, which can be successfully used, for example, when learning a difficult test or exam, making it easier to remember individual issues.
-```
+> XMind is a powerful tool for creating mind maps, which can be successfully used, for example, when learning a difficult test or exam, making it easier to remember individual issues.
+
 [![XMind](https:https://tse1.mm.bing.net/th?id=OIP.6r1gS8wnCkoJ7tsz08arSgHaFi&pid=Api)](https://softexe.net/win/business/other/xmind:pRhdR.html)
 
 Thanks to the various functionalities offered by Xmind, we can prepare exactly the map of thoughts that we need, introducing new issues and creating connections between them. The key information in our document can also be distinguished by the appropriate color. In addition, all types of templates, graphic themes, clipart, shapes and tags are available. The authors also allow you to add short notes that allow you to describe the subject in detail.

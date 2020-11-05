@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=mRej2+-+rejestracja+wizyt icon&w=40&h=40) mRej2 - rejestracja wizyt 2.67c - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) mRej2 - rejestracja wizyt 2.67c - Free Download
 
-```sh
-mRej2 is a complex terminology organizer connected to a database that supports the management of visits, services, repairs, tests carried out by employees or doctors.
-```
+> mRej2 is a complex terminology organizer connected to a database that supports the management of visits, services, repairs, tests carried out by employees or doctors.
+
 [![mRej2 - rejestracja wizyt](https://gallery.dpcdn.pl/imgc/Tools/73667/g_-_420x350_1.5_-_x20170126170607_0.png)](https://softexe.net/win/business/finance/mrej2-rejestracja-wizyt:ppppp.html)
 
 The program combines the functionality of the calendar with the view of occupied and available dates and allows you to plan work time, taking into account numerous details. The main options of the program enable patient management, calendar (annual and hourly), registration of visits (in adding new and controlling the current, filtering and statistics), defining the hours of work of the plant and specific employees, as well as browsing the database.

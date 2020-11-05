@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Freeter icon&w=40&h=40) Freeter 1.2.1 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Freeter 1.2.1 - Free Download
 
-```sh
-Freeter is a very useful tool that facilitates the organization of work in both smaller and larger companies. The program will also find its applications among freelancers.
-```
+> Freeter is a very useful tool that facilitates the organization of work in both smaller and larger companies. The program will also find its applications among freelancers.
+
 [![Freeter](https://gallery.dpcdn.pl/imgc/Tools/81480/g_-_420x350_1.5_-_x50c9d287-3717-4fbe-ab85-9bd277134c43.jpg)](https://softexe.net/win/business/other/freeter:pRdfR.html)
 
 The application allows you to add various objects, including text frames, images, links to websites or to-do lists. Freeter also allows you to place a directory tree, so you can quickly locate the necessary files without having to run Windows Explorer.

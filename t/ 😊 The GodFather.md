@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=The+GodFather icon&w=40&h=40) The GodFather 0.89 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) The GodFather 0.89 - Free Download
 
-```sh
-An extensive, free program for cataloging music files. It quickly searches all your files and allows you to get information about them from online databases.
-```
+> An extensive, free program for cataloging music files. It quickly searches all your files and allows you to get information about them from online databases.
+
 [![The GodFather](https:https://tse2.mm.bing.net/th?id=OIP.gUNPxVvwtck7S2eu0Wp7JQHaFj&pid=Api)](https://softexe.net/win/multimedia/audio-utilities/the-godfather:pRheg.html)
 
 The GodFather gives the possibility of a single or serial change of the so-called TAGs, ie detailed information about a given song (supported standards are: ID3v1, ID3v2, APEv2 and comments Ogg Vorbis). The described files can be cataloged according to many different criteria. The program also allows you to create playlists, export the list of owned resources to XLS or HTML files, and also has a built-in player.

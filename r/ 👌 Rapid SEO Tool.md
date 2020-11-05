@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/rapid-seo-tool-10416.png) Rapid SEO Tool 2.8 - Free Download
 
-```sh
-Rapid SEO Tool is a simple tool for webmasters designed to support the positioning of websites in search engines. It allows you to raise the position of a website in a search engine without having specialist knowledge or to compare the positions of selected websites in terms of a given keyword.
-```
+> Rapid SEO Tool is a simple tool for webmasters designed to support the positioning of websites in search engines. It allows you to raise the position of a website in a search engine without having specialist knowledge or to compare the positions of selected websites in terms of a given keyword.
+
 [![Rapid SEO Tool](https://gallery.dpcdn.pl/imgc/Tools/21199/g_-_420x350_1.5_-_x20130829160055_0.png)](https://softexe.net/win/development-it/development-tools/rapid-seo-tool:pRdpf.html)
 
 The software is targeted rather to novice users, but it can also help the work of webmasters and people involved in optimization and positioning. With its help, we will check the position of the selected website in search engines for a given phrase, as well as compare the results with competing websites with similar topics, but not only.

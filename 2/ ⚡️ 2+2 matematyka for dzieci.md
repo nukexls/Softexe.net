@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) 2+2 matematyka for dzieci 2.2 - Free Download
 
-```sh
-2 + 2 mathematics for children is a program that will allow you to easily and quickly master the basic principles of the queen of sciences.
-```
+> 2 + 2 mathematics for children is a program that will allow you to easily and quickly master the basic principles of the queen of sciences.
+
 [![2+2 matematyka for dzieci](https://gallery.dpcdn.pl/imgc/Tools/90788/g_-_420x350_1.5_-_x923bc1a6-452d-4f61-9967-1909b7cf2e8e.jpg)](https://softexe.net/win/education-science/maths/2-2-matematyka-for-dzieci:hdgg.html)
 
 Let's start with the basics

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/xperia-companion-9184.png) Xperia Companion 2.10.1.0  - Free Download
 
-```sh
-Xperia Companion (formerly Sony PC Companion) is, as the name suggests, a set of Sony phone management software (Ericsson).
-```
+> Xperia Companion (formerly Sony PC Companion) is, as the name suggests, a set of Sony phone management software (Ericsson).
+
 [![Xperia Companion](https://gallery.dpcdn.pl/imgc/Tools/2891/g_-_420x350_1.5_-_x20160530230302_0.png)](https://softexe.net/win/hobbies-lifestyle/mobile/xperia-companion:aphd.html)
 
 It allows not only managing files and multimedia on the device from a computer, but also accessing applications made available by the manufacturer or operator, updating the telephone software and online user support, technical support and various types of instructions. The program significantly improves the search, as well as installing software on the device, which was issued by the manufacturer and the mobile network operator.

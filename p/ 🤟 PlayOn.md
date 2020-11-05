@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/playon-8460.png) PlayOn 4.5.83 - Free Download
 
-```sh
-PlayOn is a program that allows you to watch TV via the Internet.
-```
+> PlayOn is a program that allows you to watch TV via the Internet.
+
 [![PlayOn](https://gallery.dpcdn.pl/imgc/Tools/63922/g_-_420x350_1.5_-_x20151130182451_0.png)](https://softexe.net/win/multimedia/other/playon:hdfR.html)
 
 The tool allows you to play selected programs on a personal computer and offers the function of streaming the image to the TV screen using a wireless connection. Just connect the TV to the device that allows you to stream the image, such as Chromecast, Roku, PlayStation, Xbox and Wii.

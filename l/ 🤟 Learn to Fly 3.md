@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Learn to Fly 3 1.2.10 - Free Download
 
-```sh
-Learn to Fly 3 is a new edition of adventures of an amateur penguin flying in a nice climate. Thanks to unlimited imagination and the possibilities the game offers, we are able to provide the hero with a really large dose of positive emotions.
-```
+> Learn to Fly 3 is a new edition of adventures of an amateur penguin flying in a nice climate. Thanks to unlimited imagination and the possibilities the game offers, we are able to provide the hero with a really large dose of positive emotions.
+
 [![Learn to Fly 3](https://gallery.dpcdn.pl/imgc/Tools/75832/g_-_420x350_1.5_-_x20170519132748_0.jpg)](https://softexe.net/win/games-entertainment/strategies/learn-to-fly-3:ppRcp.html)
 
 The game consists of 4 modes: Story, in which we systematically improve the ship and try to fly as high as possible, Payload - here we focus on engine power and lift weights up, Classic, where for a change we fight for distance, which profoundly affects the type of used strategy and Sandbox - a trial, experiment and play mode with mixing all available properties and attributes.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/autodesk-maya-lt-9829.png) Autodesk Maya LT 2020 - Free Download
 
-```sh
-Maya LT is a cheaper and poorer version of Autodesk Maya for 3D modeling, prepared especially for the gaming industry and independent game developers.
-```
+> Maya LT is a cheaper and poorer version of Autodesk Maya for 3D modeling, prepared especially for the gaming industry and independent game developers.
+
 [![Autodesk Maya LT](https://gallery.dpcdn.pl/imgc/Tools/69014/g_-_420x350_1.5_-_x20160628163908_0.png)](https://softexe.net/win/multimedia/graphics-design/autodesk-maya-lt:ahba.html)
 
 Maya LT has been prepared for modeling and animating elements that can be useful in games - above all characters, tools for them and environments. We will, of course, find well-known and valued tools, such as NURBS solids, subdivisions and the same carving tools as in the original. There are also high-quality tools optimizing models for mobile games, allowing simplifying the grids and choosing the level of detail of the models.

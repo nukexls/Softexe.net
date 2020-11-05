@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/autopano-giga-9828.jpg) Autopano Giga 4.4.2 - Free Download
 
-```sh
-Autopano Giga is a professional program for creating panoramic photos on your computer.
-```
+> Autopano Giga is a professional program for creating panoramic photos on your computer.
+
 [![Autopano Giga](https://gallery.dpcdn.pl/imgc/Tools/9423/g_-_420x350_1.5_-_x20150402154825_0.png)](https://softexe.net/win/multimedia/graphics-design/autopano-giga:ahbh.html)
 
 Using the application, we can glue different images into one whole and create professional panoramas - spherical, cylindrical, mosaic or planar. Autopano Giga also allows you to combine images in larger graphic formats that were taken with standard and wide-angle lenses. 

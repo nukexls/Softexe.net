@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/videopad-video-editor-pro-8498.jpg) VideoPad Video Editor Pro 8.77 - Free Download
 
-```sh
-VideoPad Video Editor Pro is an easy-to-use and fast video editor that allows you to create professionally-presenting videos at home, enriched with interesting effects and transitions, music and your own narration.
-```
+> VideoPad Video Editor Pro is an easy-to-use and fast video editor that allows you to create professionally-presenting videos at home, enriched with interesting effects and transitions, music and your own narration.
+
 [![VideoPad Video Editor Pro](https://gallery.dpcdn.pl/imgc/Tools/1039/g_-_420x350_1.5_-_x20130116103135_00.png)](https://softexe.net/win/multimedia/video/videopad-video-editor-pro:hdah.html)
 
 Audio, video and graphics files can be used for editing in many popular formats. In addition, the program allows you to record images directly from a DV, VHS camera or a regular webcam. All loaded materials are placed on a list, from which we can freely move them and arrange them on the timeline (support for the drag-and-drop method). There is a set of simple transitions, effects as well as functions for adding signatures and reduction of basic image properties (brightness, contrast, etc.).

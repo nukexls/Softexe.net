@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Cydia Impactor 0.9.52 - Free Download
 
-```sh
-Cydia Impactor is a universal tool for installing software on mobile devices with iOS and Android systems, bypassing the normal installation mechanisms (so-called sideloading). With it, you can install .IPA (iOS) and .APK (Android) files.
-```
+> Cydia Impactor is a universal tool for installing software on mobile devices with iOS and Android systems, bypassing the normal installation mechanisms (so-called sideloading). With it, you can install .IPA (iOS) and .APK (Android) files.
+
 [![Cydia Impactor](https://gallery.dpcdn.pl/imgc/Tools/79820/g_-_420x350_1.5_-_xef4946b8-b811-45ba-8e88-4744ddb42700.png)](https://softexe.net/win/hobbies-lifestyle/mobile/cydia-impactor:affc.html)
 
 The program also allows access to the shell of the mobile device, debugging the device with iOS, unlocking, uploading the image Fastboot, remote application launch, signing IPA files, removing Xcode certificates and erasing the App ID. However, the main application of Cydia Impactor seems to be loading jailbreaks on iOS.

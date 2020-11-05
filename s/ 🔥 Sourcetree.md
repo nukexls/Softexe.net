@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/sourcetree-9099.png) Sourcetree 3.3.8 - Free Download
 
-```sh
-Sourcetree is a free client application of such version control systems as Git, Mercurial and BitBucket.
-```
+> Sourcetree is a free client application of such version control systems as Git, Mercurial and BitBucket.
+
 [![Sourcetree](https://gallery.dpcdn.pl/imgc/Tools/80783/g_-_420x350_1.5_-_x0c923d11-a314-48e6-821f-6eefa27f157c.png)](https://softexe.net/win/development-it/version-control/sourcetree:aRaa.html)
 
 The tool offers a simple and intuitive graphical interface that significantly simplifies the management of repositories by visualizing them. It can be successfully used with small, amateur programming tasks, as well as those more extensive, commercial projects. In the case of the latter, the function of reviewing changes, saving work in the clipboard or selection is worth noting.

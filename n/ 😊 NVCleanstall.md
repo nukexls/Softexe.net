@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) NVCleanstall 0.2.0.0 - Free Download
 
-```sh
-NVCleanstall is a very useful, very light tool from the creators of the popular GPU-Z, which allows you to customize the installation of the GeForce card driver and is also an alternative to the original upgrade module in the GeForce Experience.
-```
+> NVCleanstall is a very useful, very light tool from the creators of the popular GPU-Z, which allows you to customize the installation of the GeForce card driver and is also an alternative to the original upgrade module in the GeForce Experience.
+
 [![NVCleanstall](https://gallery.dpcdn.pl/imgc/Tools/89669/g_-_420x350_1.5_-_xf2bc4b7c-ca4c-4184-9308-fecac75be6d6.JPG)](https://softexe.net/win/disks-files/hdd-utilities/nvcleanstall:apbh.html)
 
 Using NVCleanstall, we can choose exactly what driver components should be installed. The default installer always installs the full package, even if your graphics card model does not allow you to use the function, or you do not want to do it yourself. In addition, the application can remove telemetry used by Nvidia.

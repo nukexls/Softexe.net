@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/portraitpro-body-11372.png) PortraitPro Body 1.1.9 - Free Download
 
-```sh
-PortraitPro Body is a retouching program designed to work with the whole body, issued by PortraitPro authors. The advantage of the program is fast work - in a few minutes you can slim and shape the body, gently change position, smooth the skin and the muscles of the model or model.
-```
+> PortraitPro Body is a retouching program designed to work with the whole body, issued by PortraitPro authors. The advantage of the program is fast work - in a few minutes you can slim and shape the body, gently change position, smooth the skin and the muscles of the model or model.
+
 [![PortraitPro Body](https://gallery.dpcdn.pl/imgc/Tools/71155/g_-_420x350_1.5_-_x20160905190839_0.png)](https://softexe.net/win/multimedia/graphics-editors/portraitpro-body:ppcgb.html)
 
 The program is very intuitive. At the beginning, the face, joints and contours of the body of the model or model should be marked with special guides. Further corrections can be made with the help of easy-to-use sliders, thus determining the thickness and length of the limbs, waist height, roundness of shapes, shoulder width and the like, different for men and women. The parameters are quite detailed to give the possibility to refine the shapes of the body in the picture. Of course, you sometimes have to reckon with the fact that the background will be slightly disturbed after changing the shape of the character.

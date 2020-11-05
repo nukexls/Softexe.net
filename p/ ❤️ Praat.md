@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/praat-8134.png) Praat 6.1.14 - Free Download
 
-```sh
-Praat is a free program for experienced users, which is used to analyze speech of selected sound recordings and to improve phonetics.
-```
+> Praat is a free program for experienced users, which is used to analyze speech of selected sound recordings and to improve phonetics.
+
 [![Praat](https:https://tse1.mm.bing.net/th?id=OIP.k7-KTy0ImXoC8f6F04yDAQHaGX&pid=Api)](https://softexe.net/win/education-science/languages/praat:hpcd.html)
 
 When you start working with Praat, you can load any sound file (stereo or mono) saved on your computer's hard drive or record it using a microphone and built-in tools. It is important, however, that the file size should not exceed 2 gigabytes and last no more than 3 hours.

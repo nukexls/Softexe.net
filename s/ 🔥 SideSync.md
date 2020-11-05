@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/sidesync-10057.png) SideSync 4.7.5.203 - Free Download
 
-```sh
-SideSync is a practical tool targeted at owners of Samsung mobile devices and enabling screen and data sharing directly between a smartphone or tablet and a computer.
-```
+> SideSync is a practical tool targeted at owners of Samsung mobile devices and enabling screen and data sharing directly between a smartphone or tablet and a computer.
+
 [![SideSync](https://gallery.dpcdn.pl/imgc/Tools/77855/g_-_420x350_1.5_-_x20170927141622_0.png)](https://softexe.net/win/hobbies-lifestyle/mobile/sidesync:pRReg.html)
 
 Thanks to this relatively small and simple application it becomes possible to controlling a mobile device from a computer. Without any major problems, we can make voice calls or reply to SMS messages without using physical contact with the device, using the mouse and keyboard connected to the computer. The user is informed about all incoming calls and texts via the on-screen window.

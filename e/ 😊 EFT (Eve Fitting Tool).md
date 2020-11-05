@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/eft-eve-fitting-tool-11300.png) EFT (Eve Fitting Tool) 2.35 - Free Download
 
-```sh
-EFT is the most popular program for arranging ship equipment (fit) in EVE Online. The program allows you to download information about the character and plan and save equipment that this character can use.
-```
+> EFT is the most popular program for arranging ship equipment (fit) in EVE Online. The program allows you to download information about the character and plan and save equipment that this character can use.
+
 [![EFT (Eve Fitting Tool)](https://gallery.dpcdn.pl/imgc/Tools/72387/g_-_420x350_1.5_-_x20161114132323_0.png)](https://softexe.net/win/system/other/eft-eve-fitting-tool:ppcRR.html)
 
 After importing the form using the API key, the EFT account allows you to arrange sets of modules for different ships and different characters. The application allows, of course, to view already known skills and certificates of each of the imported characters. 

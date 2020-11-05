@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Kdenlive icon&w=40&h=40) Kdenlive 20.08.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Kdenlive 20.08.0 - Free Download
 
-```sh
-Kdenlive is a non-linear, extensive video editing program that uses the FFmpeg library as a base, thus without the need to convert it supports most popular audio and video formats. The program is developed on the basis of open sources.
-```
+> Kdenlive is a non-linear, extensive video editing program that uses the FFmpeg library as a base, thus without the need to convert it supports most popular audio and video formats. The program is developed on the basis of open sources.
+
 [![Kdenlive](https:https://tse1.explicit.bing.net/th?id=OIP.YCFcrYn5qOD7ByVD1jFmiwHaEo&pid=Api)](https://softexe.net/win/multimedia/video/kdenlive:pRhcg.html)
 
 The application interface simultaneously displays many elements, including a preview, timeline with support for multiple video and audio tracks, a list of effects and transitions along with settings, as well as available in the multimedia project. The layout and width of individual windows can be individually adapted to your needs. Interestingly, we will also find a dozen or so color themes.

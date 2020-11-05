@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/winarchiver-9732.png) WinArchiver 4.7 - Free Download
 
-```sh
-WinArchiver is a functional data compression program that allows you to conveniently create and manage the contents of compressed archives. It offers support for most of the most popular archive formats - ZIP, RAR, 7Z, ARJ, CAB and many others, also allowing comprehensive support for disk images.
-```
+> WinArchiver is a functional data compression program that allows you to conveniently create and manage the contents of compressed archives. It offers support for most of the most popular archive formats - ZIP, RAR, 7Z, ARJ, CAB and many others, also allowing comprehensive support for disk images.
+
 [![WinArchiver](https://gallery.dpcdn.pl/imgc/Tools/17249/g_-_420x350_1.5_-_x20130621170233_00.png)](https://softexe.net/win/disks-files/compression/winarchiver:agcb.html)
 
 The application offers an interface and functionality similar to that you can find in the most-known programs of this type - WinRAR or WinZip. WinArchiver has the option of opening, creating and managing the contents of compressed files, as well as securing access to them with a password. In addition, rather unheard of, the program is equipped with a set of functions for handling disk images. They enable burning images to discs, creating images from files on the disc, as well as creating virtual drives (up to 23) and mounting images and archives in them.

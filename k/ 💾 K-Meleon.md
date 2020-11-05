@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/k-meleon-3741.png) K-Meleon 75.1 - Free Download
 
-```sh
-K-Meleon is a fast, easy and fully customizable browser on the Gecko engine, which is used in the popular Mozilla Firefox
-```
+> K-Meleon is a fast, easy and fully customizable browser on the Gecko engine, which is used in the popular Mozilla Firefox
+
 [![K-Meleon](https://gallery.dpcdn.pl/imgc/Tools/2170/g_-_420x350_1.5_-_x20141007155013_0.png)](https://softexe.net/win/internet/browsers/k-meleon:cgdp.html)
 
 K-Meleon is a fast, light and fully customizable browser on the Gecko engine, which is used in the popular Mozilla Firefox. This web browser can be a good alternative not only to Firefox, but also to other browsers, offering minimal use of system resources, protected browsing and an additional set of useful tools.

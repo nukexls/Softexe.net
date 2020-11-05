@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Calligra Suite 2.6.2 - Free Download
 
-```sh
-Calligra Suite is a free, open source office suite that contains a text editor, spreadsheet editor, database editor and presentation editor.
-```
+> Calligra Suite is a free, open source office suite that contains a text editor, spreadsheet editor, database editor and presentation editor.
+
 [![Calligra Suite](https:https://tse1.mm.bing.net/th?id=OIP.5yRG17oVhUSm2y-9w2wY-AHaEK&pid=Api)](https://softexe.net/win/system/text-editors/calligra-suite:pbhf.html)
 
 Calligra Suite is a free, open source office suite that contains a text editor, spreadsheet editor, database editor and presentation editor. In addition, Calligra Suite has project management tools and a graphical editor.

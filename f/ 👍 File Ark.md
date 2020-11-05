@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/file-ark-8672.png) File Ark 1.0 - Free Download
 
-```sh
-File Ark is a tool for storing data "in the cloud", thanks to which we will save some space on physical media.
-```
+> File Ark is a tool for storing data "in the cloud", thanks to which we will save some space on physical media.
+
 [![File Ark](https://gallery.dpcdn.pl/imgc/Tools/90606/g_-_420x350_1.5_-_x2007eadf-6eac-420d-b121-5f74cc781635.jpg)](https://softexe.net/win/internet/cloud-storage/file-ark:hfgb.html)
 
 The free version of the application offers 1 GB of disk space, but you will also find paid variants here: for 200 GB of space you should pay $ 5 per month (almost PLN 20), while 1 TB is an expense of $ 20 (over PLN 76).

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/grammarly-dla-microsoft-edge-9567.png) Grammarly for Microsoft Edge 1.114.1947.0 - Free Download
 
-```sh
-Grammarly is a useful addition for Microsoft Edge, which is targeted at people publishing various types of texts on the Internet in English.
-```
+> Grammarly is a useful addition for Microsoft Edge, which is targeted at people publishing various types of texts on the Internet in English.
+
 [![Grammarly for Microsoft Edge](https://gallery.dpcdn.pl/imgc/Tools/80693/g_-_420x350_1.5_-_x020f5d88-517f-4387-b65b-e4c1ad38705b.png)](https://softexe.net/win/internet/browser-add-ons/grammarly-for-microsoft-edge:aefg.html)
 
 The extension adds spelling and grammar checking to the browser, allowing you to avoid accidental errors. Grammarly deals well with detecting words used in the wrong context, as well as various types of typos, no punctuation or other grammatical errors. Any errors in the edited texts are recorded in real time by underlining together with information about the proposed amendments.

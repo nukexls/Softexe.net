@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=8K+Player icon&w=40&h=40) 8K Player 4.2.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) 8K Player 4.2.0 - Free Download
 
-```sh
-8K Player is a very easy-to-use media player with a lossless image quality in high definition.
-```
+> 8K Player is a very easy-to-use media player with a lossless image quality in high definition.
+
 [![8K Player](https://gallery.dpcdn.pl/imgc/Tools/82775/g_-_420x350_1.5_-_xf7126902-cc6d-4754-b56f-5cdafa0e2a68.jpg)](https://softexe.net/win/multimedia/audio-video-players/8k-player:pRpgf.html)
 
 The tool allows you to run movies saved on Blu-Ray and DVD media, as well as in the form of ISO files or from folders located on the hard disk. 8K Player supports both 1080p, Full HD, Ultra HD, 4K, 5K and 8K video. The program copes well with MOV, MKV, AVI, FLV, WMV, MP4, M4V, ASF, VOB, MTS and M2TS formats, as well as the movie's audio track saved as AVCHD, FLAC, AAC, MP3, OGG, WAV, WMA, AC3 or Dolby Digital and DTS 5.1 / 7.1.

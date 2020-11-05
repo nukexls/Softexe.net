@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Marble 2.2.0 - Free Download
 
-```sh
-Marble is an interesting tool that allows you to display a three-dimensional model of the globe or moon, available for Windows, Linux and Mac OS.
-```
+> Marble is an interesting tool that allows you to display a three-dimensional model of the globe or moon, available for Windows, Linux and Mac OS.
+
 [![Marble](https://gallery.dpcdn.pl/imgc/Tools/7387/g_-_420x350_1.5_-_x20120210110600_00.png)](https://softexe.net/win/education-science/other/marble:ppRfh.html)
 
 The program is an excellent alternative to Google Earth . It allows you to display three-dimensional models in as many as 10 different themes (views) - including using maps OpenStreetMap, satellite model, historical model, atlas, maps including temperature in summer and winter, etc. Marble gives the possibility of projection of maps in the form of a globe, a standard (flat) map and the so-called Transverse Mercator.

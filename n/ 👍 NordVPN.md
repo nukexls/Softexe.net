@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/nordvpn-8279.png) NordVPN 6.27.11.0 - Free Download
 
-```sh
-NordVPN is a tool for those who value privacy during everyday use of the Internet.
-```
+> NordVPN is a tool for those who value privacy during everyday use of the Internet.
+
 [![NordVPN](https://gallery.dpcdn.pl/imgc/Tools/90940/g_-_420x350_1.5_-_x28c3d76f-51f7-4f02-93dc-c59873b3e58d.jpg)](https://softexe.net/win/security-privacy/data-protection/nordvpn:hbga.html)
 
 What can NordVPN do?

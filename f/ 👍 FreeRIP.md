@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/freerip-10173.jpg) FreeRIP 5.7.1.2 - Free Download
 
-```sh
-FreeRIP is a free version of the popular program for ripping and converting music from CDs.
-```
+> FreeRIP is a free version of the popular program for ripping and converting music from CDs.
+
 [![FreeRIP](https://gallery.dpcdn.pl/imgc/Tools/9501/g_-_420x350_1.5_-_x20120730170845_00.jpg)](https://softexe.net/win/multimedia/audio-utilities/freerip:pRpgc.html)
 
 The application is easy to use and most importantly it reads audio files from the discs and then saves to one of the selected digital formats - WMA, MP3, OGG, WAV or VOBIS. It also supports the modern FLAC format, which plays music in lossless audio compression. Adjusts the volume and sound quality during conversion and allows you to rip more tracks to one audio file. 

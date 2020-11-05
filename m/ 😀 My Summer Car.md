@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) My Summer Car  - Free Download
 
-```sh
-My Summer Car is an extensive simulator of the independent Amistech Games studio, thanks to which we can build our own car using hundreds of available parts.
-```
+> My Summer Car is an extensive simulator of the independent Amistech Games studio, thanks to which we can build our own car using hundreds of available parts.
+
 [![My Summer Car](https://gallery.dpcdn.pl/imgc/Tools/90245/g_-_420x350_1.5_-_x569505b6-f29e-4eb1-9ecf-4182d1b40d1f.jpg)](https://softexe.net/win/games-entertainment/simulators/my-summer-car:hacR.html)
 
 However, this is not the end of fun, because in My Summer Car an advanced driving model is available, as a result of which we can test our car on the road. Contrary to what the name suggests, the described production also provides many other means of transport, such as for example boats, which we can control. "Dłubanie" under the hood is obviously not everything that My Summer Car has to offer, because the creators have also prepared other attractions, including even the possibility of bathing in the sauna.

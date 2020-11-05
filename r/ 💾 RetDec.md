@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=RetDec icon&w=40&h=40) RetDec 3.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) RetDec 3.0 - Free Download
 
-```sh
-RetDec (Retargetable Decompiler) is a generic decompiler for executable files and machine code that can turn them into source code in C or a simplified version of Python.
-```
+> RetDec (Retargetable Decompiler) is a generic decompiler for executable files and machine code that can turn them into source code in C or a simplified version of Python.
+
 [![RetDec](https:https://tse4.mm.bing.net/th?id=OIP.Lw156Kfs4_80j6blkEPDigHaE5&pid=Api)](https://softexe.net/win/development-it/development-tools/retdec:pRgcb.html)
 
 This tool primarily for reverse engineering the tool supports file formats ELF, PE, Mach-O, COFF, AR (archive), Intel HEX and clean machine code. It also supports 32-bit Intel x86, ARM, MIPS, PIC32 and PowerPC architectures.

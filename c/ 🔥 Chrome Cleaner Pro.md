@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/chrome-cleaner-pro-8607.png) Chrome Cleaner Pro 1.1.1 - Free Download
 
-```sh
-Chrome Cleaner Pro is a plugin for Google Chrome, thanks to which we will make this web browser work much faster.
-```
+> Chrome Cleaner Pro is a plugin for Google Chrome, thanks to which we will make this web browser work much faster.
+
 [![Chrome Cleaner Pro](https://gallery.dpcdn.pl/imgc/Tools/90669/g_-_420x350_1.5_-_x04e0ad69-2a22-4fa1-a600-9960d6de6223.jpg)](https://softexe.net/win/internet/browser-add-ons/chrome-cleaner-pro:hfRg.html)
 
 After starting Chrome Cleaner Pro, we will be able to choose what data we want to delete (e.g. search history, cookies, extensions, temporary files), and define whether we intend to get rid of all stored information from the last hour or from a longer period (e.g. day).

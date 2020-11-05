@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/fps-monitor-9185.png) FPS Monitor 5.0.2.0 - Free Download
 
-```sh
-FPS Monitor, contrary to what the name suggests, is used not only to display the number of frames per second.
-```
+> FPS Monitor, contrary to what the name suggests, is used not only to display the number of frames per second.
+
 [![FPS Monitor](https://gallery.dpcdn.pl/imgc/Tools/82558/g_-_420x350_1.5_-_x7642db24-350f-4905-9f88-9d2560d71a34.jpg)](https://softexe.net/win/system/other/fps-monitor:aphe.html)
 
 Steam, Origin, as well as other programs offered by the largest digital games stores, offer access to applications that allow you to display the number of FPSs in a given title. That is why FPS Monitor offers something more than the iconic Fraps, thanks to which we could find out how smoothly the running production works. This tool, along with the number of frames per second, also presents detailed information about the work of the CPU, GPU, RAM, network connection and more.

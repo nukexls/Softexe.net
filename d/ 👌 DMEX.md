@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/dmex-10762.png) DMEX 1.2.6 - Free Download
 
-```sh
-DMEX is an add-on to the Windows Explorer, which extends some of its capabilities, among others, to functions related to the placement of windows on the desktop and file operations such as renaming, moving between directories, selective selection and synchronization between folders.
-```
+> DMEX is an add-on to the Windows Explorer, which extends some of its capabilities, among others, to functions related to the placement of windows on the desktop and file operations such as renaming, moving between directories, selective selection and synchronization between folders.
+
 [![DMEX](https:https://tse2.mm.bing.net/th?id=OIP.wXIUCexBkmKUTZbaxCFwkADuEG&pid=Api)](https://softexe.net/win/disks-files/file-managers/dmex:pRgfb.html)
 
 Application functions are available in the form of a small, classic context menu, which is launched after pressing a combination of keys Ctrl + F1on the keyboard at any level of the system Explorer.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/unreal-commander.gif) Unreal Commander 3.57 Build 1479 - Free Download
 
-```sh
-Unreal Commander is a free and powerful two-pane file manager. May be a good alternative to the well-known Total Commander
-```
+> Unreal Commander is a free and powerful two-pane file manager. May be a good alternative to the well-known Total Commander
+
 [![Unreal Commander](https://gallery.dpcdn.pl/imgc/Tools/76/g_-_420x350_1.5_-_x20100815124325.png)](https://softexe.net/win/disks-files/file-managers/unreal-commander:gbRe.html)
 
 Unreal Commander is a free and powerful two-pane file manager. It can be a good alternative to the well-known Total Commander.

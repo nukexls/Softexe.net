@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Heroes+of+the+Storm icon&w=40&h=40) Heroes of the Storm 24.5 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Heroes of the Storm 24.5 - Free Download
 
-```sh
-Heroes of the Storm is a dream come true for Blizzard game fans. In this free MOBA production you will join team battles in the arenas with the participation of highly recognizable heroes from the most popular productions of the company. You can choose from a number of characters from such recognized series as WarCraft, StarCraft, Diablo, MMO World of Warcraft or even the once-highly-valued The Lost Vikings, or logic game.
-```
+> Heroes of the Storm is a dream come true for Blizzard game fans. In this free MOBA production you will join team battles in the arenas with the participation of highly recognizable heroes from the most popular productions of the company. You can choose from a number of characters from such recognized series as WarCraft, StarCraft, Diablo, MMO World of Warcraft or even the once-highly-valued The Lost Vikings, or logic game.
+
 [![Heroes of the Storm](https://gallery.dpcdn.pl/imgc/Tools/60626/g_-_420x350_1.5_-_x20150806182456_0.jpg)](https://softexe.net/win/games-entertainment/rpg/heroes-of-the-storm:ppRgb.html)
 
 Unlike the competition, Heroes of The Storm focuses on short but extremely exciting network battles. The designers of the title made efforts that the meetings did not last here on average longer than a quarter of an hour. At the same time, they devised fun without the use of special objects, promoting their work as friendly to those who did not have time to bite into much more complex MOBA projects. Essentially, the heroes do not combine too much, they only start fighting.

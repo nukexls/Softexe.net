@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/adobe-dng-converter-8707.png) Adobe DNG Converter 12.4 - Free Download
 
-```sh
-Adobe DNG Converter is a useful tool for photographers, enabling convenient conversion of RAW files from various types of digital cameras to the Universal Digital Negative (DNG) format developed and developed by Adobe. With files of this type you can work in Camera Raw, Lightroom and many other programs for photographers.
-```
+> Adobe DNG Converter is a useful tool for photographers, enabling convenient conversion of RAW files from various types of digital cameras to the Universal Digital Negative (DNG) format developed and developed by Adobe. With files of this type you can work in Camera Raw, Lightroom and many other programs for photographers.
+
 [![Adobe DNG Converter](https://gallery.dpcdn.pl/imgc/Tools/60423/g_-_420x350_1.5_-_x20150729140917_0.png)](https://softexe.net/win/multimedia/graphics-editors/adobe-dng-converter:hgRg.html)
 
 The DNG format has been developed to standardize the ways in which digital camera images are recorded and to bring order to RAW formats. Thanks to the introduction of one open format, all photos from different cameras can be opened in any program that supports DNG, even if it is not equipped with the ability to read files from a given camera.

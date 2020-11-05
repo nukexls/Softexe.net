@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Sophos Home 2.1.11 - Free Download
 
-```sh
-Sophos Home is a tool for users of personal computers that protects them against malware, inappropriate content and widely understood viruses.
-```
+> Sophos Home is a tool for users of personal computers that protects them against malware, inappropriate content and widely understood viruses.
+
 [![Sophos Home](https://gallery.dpcdn.pl/imgc/Tools/68427/g_-_420x350_1.5_-_x20160602115849_0.png)](https://softexe.net/win/security-privacy/antivirus/sophos-home:aphf.html)
 
 Using Sophos Home is possible after creating a free account and logging on to the official website of the producer (https://home.sophos.com/reg) using a web browser (Microsoft Edge, Microsoft Internet Explorer 10 or newer, Apple Safari, Google Chrome and Mozilla Firefox) from which you can freely manage application settings. Importantly, the tool does not support the Opera.

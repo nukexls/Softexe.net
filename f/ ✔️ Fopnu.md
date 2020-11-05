@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/fopnu-10310.png) Fopnu 1.45  - Free Download
 
-```sh
-Fopnu is a P2P client with the same name, developed by the authors of the BitTorrent client named Tixati. Fopnu is a fully decentralized network, without indexing search results and without passing on other users' searches. Connections are carried out by UDP and fully encrypted.
-```
+> Fopnu is a P2P client with the same name, developed by the authors of the BitTorrent client named Tixati. Fopnu is a fully decentralized network, without indexing search results and without passing on other users' searches. Connections are carried out by UDP and fully encrypted.
+
 [![Fopnu](https://gallery.dpcdn.pl/imgc/Tools/77179/g_-_420x350_1.5_-_x20170814155630_0.png)](https://softexe.net/win/internet/torrent-client/fopnu:pRcpR.html)
 
 The Fopnu client is similar to older eMule clients. In separate tabs, you can view download statistics, select your own files for sharing, search resources shared by other users, monitor connections and download. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/7/hide.me-vpn-3311.png) hide.me VPN 3.2.0 - Free Download
 
-```sh
-hide.me VPN - a VPN client for Windows with a set of unique features that set it apart from other solutions.
-```
+> hide.me VPN - a VPN client for Windows with a set of unique features that set it apart from other solutions.
+
 [![hide.me VPN](https:https://tse1.mm.bing.net/th?id=OIP.OhryzM_UDLVXTxkisfi70wHaFx&pid=Api)](https://softexe.net/win/internet/anonymizers-vpn/hide.me-vpn:ccpp.html)
 
 hide.me VPN is a VPN client for Windows with a set of unique features that set it apart from other solutions.

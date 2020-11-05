@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/maxdatagenius-9421.png) MaxDataGenius 1.9.6.22 - Free Download
 
-```sh
-MaxDataGenius is a powerful data recovery tool.
-```
+> MaxDataGenius is a powerful data recovery tool.
+
 [![MaxDataGenius](https://gallery.dpcdn.pl/imgc/Tools/82589/g_-_420x350_1.5_-_x33360f62-4934-497e-9dde-7a686588f621.jpg)](https://softexe.net/win/disks-files/data-recovery/maxdatagenius:adbp.html)
 
 Regardless of whether we accidentally removed the necessary documents or lost them as a result of media failure or virus attack, MaxDataGenius will allow us to easily and quickly restore the data. The supported file systems include: FAT12 / 16/32, exFAT, NTFS, CDFS / ISO9660, HFS +, ext2 / 3/4, ReiserFS, JFS, RAW, VMDK, ReFS and UFS / XFS / ZFS /.

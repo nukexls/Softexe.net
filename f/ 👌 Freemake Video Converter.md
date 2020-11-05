@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/freemake-video-converter-8334.png) Freemake Video Converter 4.1.11.75 - Free Download
 
-```sh
-Freemake Video Converter is a comprehensive and free tool for converting movies, music and graphics between the most popular formats.
-```
+> Freemake Video Converter is a comprehensive and free tool for converting movies, music and graphics between the most popular formats.
+
 [![Freemake Video Converter](https://gallery.dpcdn.pl/imgc/Tools/1090/g_-_420x350_1.5_-_x20171027122850_0.png)](https://softexe.net/win/multimedia/video/freemake-video-converter:hccd.html)
 
 Freemake Video Converter offers a set of useful features that allow you to rip DVD-Video media, burn DVDs, create slideshows and visualizations for songs, basic video editing, and send clips to YouTube directly from the application. The advantage of the program, in addition to the rich functionality, is a large ease of use, as well as a polished and user-friendly graphical interface. After starting the program, we choose the type of multimedia with which we want to work, load the files and indicate the output format. Depending on the option chosen in the last step, the application offers various work options.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/alternate-archiver-511.png) Alternate Archiver 3.980 - Free Download
 
-```sh
-Alternate Archiver - a kind of file manager that contains all the necessary functions and tools for working with files and restoring order on your PC
-```
+> Alternate Archiver - a kind of file manager that contains all the necessary functions and tools for working with files and restoring order on your PC
+
 [![Alternate Archiver](https:https://tse4.explicit.bing.net/th?id=OIP.SzF5If8x8oh7Fn4pQr7X9gHaFG&pid=Api)](https://softexe.net/win/disks-files/compression/alternate-archiver:epp.html)
 
 Alternate Archiver is a kind of file manager that contains all the necessary functions and tools for working with files and restoring order on your PC. Here you can rename, copy, delete, move and sort files, change the time they were created, search and do many other operations.

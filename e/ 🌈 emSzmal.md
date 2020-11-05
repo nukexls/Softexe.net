@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/emszmal-8130.png) emSzmal 3.20.0828.1000 - Free Download
 
-```sh
-emSzmal 3 is another version of a well-known financial management application that allows storing information on financial operations, as well as importing statements directly from the websites of selected banks.
-```
+> emSzmal 3 is another version of a well-known financial management application that allows storing information on financial operations, as well as importing statements directly from the websites of selected banks.
+
 [![emSzmal](https://gallery.dpcdn.pl/imgc/Tools/13691/g_-_420x350_1.5_-_x20150916174909_0.png)](https://softexe.net/win/business/finance/emszmal:hpcR.html)
 
 In this edition of the program, we can define any number of accounts from different banks at once, as well as add bills unrelated to any particular bank. All accounts can be freely grouped, and the financial resources accumulated on them are visible in the form of summaries for each group separately. The function of automatic checking of account balances ensures that the information presented is up-to-date without any additional interference from the user. It also informs you about changes to the invoice via e-mail or other user-selected notifications. In the accounts, we can add / edit and delete operations independently, also in this case the program will take care of updating balances on accounts.

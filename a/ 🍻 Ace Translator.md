@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/ace-translator-172.png) Ace Translator 16.3.0.1630 - Free Download
 
-```sh
-Ace Translator is a powerful enough online translator that makes it easy to translate emails, chat messages, websites web pages and other text files between major international languages.
-```
+> Ace Translator is a powerful enough online translator that makes it easy to translate emails, chat messages, websites web pages and other text files between major international languages.
+
 [![Ace Translator](https:https://tse2.mm.bing.net/th?id=OIP.zJ8CQ7YBJx1nhSq_Qxv1RgHaF7&pid=Api)](https://softexe.net/win/system/text/ace-translator:pgb.html)
 
 Ace Translator is a powerful enough online translator that makes it easy to translate emails, chat messages, websites web pages and other text files between major international languages.

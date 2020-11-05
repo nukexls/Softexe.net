@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/pc-building-simulator-11120.png) PC Building Simulator pre alpha - Free Download
 
-```sh
-PC Building Simulator is a PC game submission simulator.
-```
+> PC Building Simulator is a PC game submission simulator.
+
 [![PC Building Simulator](https://gallery.dpcdn.pl/imgc/Tools/74695/g_-_420x350_1.5_-_x20170316115948_0.jpg)](https://softexe.net/win/games-entertainment/simulators/pc-building-simulator:pppbR.html)
 
 The game features precisely targeted models of specific elements that can be mounted in a PC. The library is quite rich, but you have to bear in mind that not all configurations will make sense. The game is at an early stage of development and the priority was to refine the action. 

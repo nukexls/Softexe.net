@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/tdsskiller-8581.png) TDSSKiller 3.1.0.28 - Free Download
 
-```sh
-TDSSKiller is created by Kaspersky, a small and effective tool designed to fight against rootkits in Windows systems. It allows you to remove from the computer the Rootkit.Win32.TDSS family malware, malware that infects the system during its startup and many other components that are perfectly hidden in the system by anti-viruses and the user itself.
-```
+> TDSSKiller is created by Kaspersky, a small and effective tool designed to fight against rootkits in Windows systems. It allows you to remove from the computer the Rootkit.Win32.TDSS family malware, malware that infects the system during its startup and many other components that are perfectly hidden in the system by anti-viruses and the user itself.
+
 [![TDSSKiller](https:https://tse4.mm.bing.net/th?id=OIP.0f6t93rlVZJG60Wg-3LO8QHaFw&pid=Api)](https://softexe.net/win/security-privacy/scanners/tdsskiller:hehp.html)
 
 Rootkits are malicious software that can perfectly hide in Windows against security applications. Thanks to the interception and appropriate use of low-level system functions (Windows API), it can camouflage both your presence on the computer, as well as any processes, folders, files, registry entries, etc. It happens that rootkits can install own drivers and services in the system.

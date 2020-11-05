@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/cloudbacko-pro-9595.png) CloudBacko Pro 3.7.0.0 - Free Download
 
-```sh
-CloudBacko Pro is nothing more than an easy-to-use tool that allows you to backup selected files or entire directories.
-```
+> CloudBacko Pro is nothing more than an easy-to-use tool that allows you to backup selected files or entire directories.
+
 [![CloudBacko Pro](https://gallery.dpcdn.pl/imgc/Tools/86031/g_-_420x350_1.5_-_x1b44bd9c-6ab6-40fa-b9b4-24548ceda5d2.jpg)](https://softexe.net/win/disks-files/data-recovery/cloudbacko-pro:aeae.html)
 
 In the case of CloudBacko Pro, a clear interface based on fashionable tiles known for example from the Windows 10 operating system deserves attention. By default, the user can perform a back-up of the desktop content as well as the Documents and Favorites folders, but there is no obstacle to selecting the data yourself what will be in the backup. It is also worth mentioning that the application also includes a restore function.

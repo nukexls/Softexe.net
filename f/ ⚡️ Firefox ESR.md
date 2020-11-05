@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/firefox-esr-2653.png) Firefox ESR 78.2.0 - Free Download
 
-```sh
-Firefox ESR (Extended Support Release) - version of the popular Mozilla Firefox browser with an extended support period. The release period is much longer than usual. Only updates covering security holes are released for it.
-```
+> Firefox ESR (Extended Support Release) - version of the popular Mozilla Firefox browser with an extended support period. The release period is much longer than usual. Only updates covering security holes are released for it.
+
 [![Firefox ESR](https://gallery.dpcdn.pl/imgc/Tools/81166/g_-_420x350_1.5_-_xcbc4a940-eee0-4f28-820d-3a9cc08a6b63.png)](https://softexe.net/win/internet/browsers/firefox-esr:bfec.html)
 
 Firefox ESR (Extended Support Release) - version of the popular Mozilla Firefox browser with an extended support period.

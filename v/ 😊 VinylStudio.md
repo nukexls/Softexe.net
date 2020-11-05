@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/vinylstudio-9785.png) VinylStudio 11.0.7 - Free Download
 
-```sh
-VinylStudio is a fully functional tool, used to comprehensively process analogue sound to a digital form. By using it, we will successfully convert recordings from audio cassettes or vinyl records to AIFF, FLAC, MP3, OGG or WAV files.
-```
+> VinylStudio is a fully functional tool, used to comprehensively process analogue sound to a digital form. By using it, we will successfully convert recordings from audio cassettes or vinyl records to AIFF, FLAC, MP3, OGG or WAV files.
+
 [![VinylStudio](https://gallery.dpcdn.pl/imgc/Tools/14997/g_-_420x350_1.5_-_x20130321005745_00.png)](https://softexe.net/win/multimedia/audio-utilities/vinylstudio:aghe.html)
 
 The program has been equipped with all the necessary functions that allow not only to capture and save the audio signal, but also to divide the recorded soundtrack into parts and to remove all unwanted sounds from it. For the user, apart from the audio recorder, there is a built-in editor for dividing the recording into individual tracks and a tool for "cleansing" the sound from all kinds of squeaks, noises and glitches.

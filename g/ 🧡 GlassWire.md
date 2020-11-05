@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/glasswire-9080.png) GlassWire 2.2.241 - Free Download
 
-```sh
-GlassWire is a free tool designed for monitoring and analyzing network activity. It allows you to easily view applications, processes and system services using a network connection, block selected Internet access or browse statistics of incoming and outgoing transfers in a given period.
-```
+> GlassWire is a free tool designed for monitoring and analyzing network activity. It allows you to easily view applications, processes and system services using a network connection, block selected Internet access or browse statistics of incoming and outgoing transfers in a given period.
+
 [![GlassWire](https://gallery.dpcdn.pl/imgc/Tools/54106/g_-_420x350_1.5_-_x20140911223917_0.png)](https://softexe.net/win/internet/other/glasswire:aRhR.html)
 
 The program is characterized by simple operation and a modern and refined graphic interface, whose appearance can be changed thanks to the support of motifs. All available functions are arranged in special tabs. We find tools and options among them, used for graphical analysis of incoming and outgoing transfers, operation of the built-in firewall, monitoring the amount of data sent to / from the network, as well as notifying the user about the components connecting to the Internet.

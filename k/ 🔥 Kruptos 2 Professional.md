@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/kruptos-2-professional-10871.png) Kruptos 2 Professional 7.0.1.0 - Free Download
 
-```sh
-Kruptos 2 Professional is a program for users who want to protect their files. It does not require specialized knowledge and is very easy to use.
-```
+> Kruptos 2 Professional is a program for users who want to protect their files. It does not require specialized knowledge and is very easy to use.
+
 [![Kruptos 2 Professional](https:https://tse4.explicit.bing.net/th?id=OIP.wAxTFAZ_V5ih3LSh1M5PqAHaFA&pid=Api)](https://softexe.net/win/security-privacy/encryption/kruptos-2-professional:pRhgp.html)
 
 Performing data encryption operations is limited to selecting a file (eg personal information, commercial data, credit card numbers, tax returns, photos, videos) that we want to encrypt and click on the encryption icon. In addition, there is also the possibility of securely sharing encrypted files between your computer, iPhone and iCloud, as well as using encryption and file sharing via Google Drive, Dropbox and OneDrive.

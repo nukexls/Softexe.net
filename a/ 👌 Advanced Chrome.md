@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/advanced-chrome-8595.png) Advanced Chrome 74.0.3860.0 - Free Download
 
-```sh
-Advanced Chrome is an improved edition of the well-known web browser, Google Chrome. The tool is based on the Chromium engine and offers several important features not available in the original version of the application.
-```
+> Advanced Chrome is an improved edition of the well-known web browser, Google Chrome. The tool is based on the Chromium engine and offers several important features not available in the original version of the application.
+
 [![Advanced Chrome](https://gallery.dpcdn.pl/imgc/Tools/90410/g_-_420x350_1.5_-_xf641adf3-4ddc-432e-8610-70c31c79fd1a.jpg)](https://softexe.net/win/internet/browsers/advanced-chrome:heae.html)
 
 When you run Advanced Chrome, you can not see drastic changes to Google Chrome, but you only need a moment to see even the modified look of the tab bar and the improved contrast of individual elements of the user interface.

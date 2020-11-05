@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/chromium-os-cloudready-10876.png) Chromium OS (CloudReady) 48.1.26 - Free Download
 
-```sh
-Chromium OS (CloudReady) is a virtual virtual machine, thanks to which you can run an operating system based on the Chromium browser using a manager (eg VirtualBox).
-```
+> Chromium OS (CloudReady) is a virtual virtual machine, thanks to which you can run an operating system based on the Chromium browser using a manager (eg VirtualBox).
+
 [![Chromium OS (CloudReady)](https:https://tse2.mm.bing.net/th?id=OIP.uw2ovM7RZXeys_Tw7sWkSQHaEK&pid=Api)](https://softexe.net/win/system/virtualization/chromium-os-cloudready:pRhgf.html)
 
 The Neverware company is responsible for the preparation of the machine, which provides its own builds of Chrome OS in the free version (Home version without an administration console) and in commercial variants. On its pages you can find images thanks to which the system can be installed on your computer's hard drive.

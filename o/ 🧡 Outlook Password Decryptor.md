@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/outlook-password-decryptor-9025.png) Outlook Password Decryptor 9.0 - Free Download
 
-```sh
-Outlook Password Decryptor is a small and free tool for recovering lost passwords for mailboxes in Microsoft Outlook and Outlook Express.
-```
+> Outlook Password Decryptor is a small and free tool for recovering lost passwords for mailboxes in Microsoft Outlook and Outlook Express.
+
 [![Outlook Password Decryptor](https://gallery.dpcdn.pl/imgc/Tools/15023/g_-_420x350_1.5_-_x20130321195755_00.png)](https://softexe.net/win/security-privacy/passwords/outlook-password-decryptor:aRbe.html)
 
 The program allows you to recover the username and password that we defined in the mail client to log in to our mailbox, provided that we selected the option to remember the password during authentication on the mail server. In this case, said data is stored locally in the system registry as encrypted strings, and Outlook Password Decryptor allows you to decrypt and read them.

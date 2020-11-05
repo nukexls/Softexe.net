@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/league-of-legends-8683.png) League of Legends 10.13 - Free Download
 
-```sh
-League of Legends is a MOBA (Massive Multiplayer Online Battle Arena) created based on a modification to the WarCraft III game entitled Defense of the Ancients (DotA). The production is available for free (financial model free-to-play), but offers the opportunity to buy items to use during the game for real money (micro-transactions).
-```
+> League of Legends is a MOBA (Massive Multiplayer Online Battle Arena) created based on a modification to the WarCraft III game entitled Defense of the Ancients (DotA). The production is available for free (financial model free-to-play), but offers the opportunity to buy items to use during the game for real money (micro-transactions).
+
 [![League of Legends](https://gallery.dpcdn.pl/imgc/Tools/51548/g_-_420x350_1.5_-_x20140529155229_0.png)](https://softexe.net/win/games-entertainment/rpg/league-of-legends:hfhc.html)
 
 The game combines RPG (role playing game) and RTS (real-time strategy) games, offering access to such modes as Summoner's Rift (the most popular option, two five-person teams fighting in the jungle), Twisted Treeline (two teams of three heroes, small skirmishes) and Howling Abyss (two five-person teams fight each other in one avenue, the key to success is cooperation). 

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=FMOD+Studio icon&w=40&h=40) FMOD Studio 1.10.11 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) FMOD Studio 1.10.11 - Free Download
 
-```sh
-FMOD Studio is a software that allows you to create sound in video games and various applications. It is used by both less and more experienced users.
-```
+> FMOD Studio is a software that allows you to create sound in video games and various applications. It is used by both less and more experienced users.
+
 [![FMOD Studio](https:https://tse1.mm.bing.net/th?id=OIP.MifITy6IijZSoWp6Rcm5-wHaEF&pid=Api)](https://softexe.net/win/multimedia/audio-sound/fmod-studio:apdh.html)
 
 Tools can definitely overwhelm the number of options - in the end, we have to deal with a very extensive tool. The main window of the program is occupied by a multi-track timeline, the place where we create our works. An important element of the interface is also a special screen that allows you to quickly preview the sound.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) DVDFab HD Decrypter 11.1.0.5 - Free Download
 
-```sh
-DVDFab HD Decrypter is a free version of the advanced DVDFab Platinum program designed for copying, converting and burning DVDs.
-```
+> DVDFab HD Decrypter is a free version of the advanced DVDFab Platinum program designed for copying, converting and burning DVDs.
+
 [![DVDFab HD Decrypter](https://gallery.dpcdn.pl/imgc/Tools/241/g_-_420x350_1.5_-_x20100823123350.png)](https://softexe.net/win/system/cd-dvd/dvdfab-hd-decrypter:hpec.html)
 
 The application has much lower functionality compared to the commercial equivalent, allowing only copying the contents of DVDs to the computer disk. BluFab HD Decrypter also allows you to remove CSS, RC, RCE, APS, UOPs, ARccOS, RipGuard, FluxDVD, CORE X2 and AACS security supported by HD-DVD and Blu-Ray discs. The program on the background of the competition is distinguished primarily by the speed of copying data, which lasts on average from 10-20 minutes.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=no%24psx icon&w=40&h=40) no$psx 2.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) no$psx 2.0 - Free Download
 
-```sh
-no $ psx (Playstation PSone nightash) is a PlayStation console emulator designed for Windows. Unlike competing solutions, the application works on the basis of a free PSX BIOS clone, which is often characterized by better performance in game emulation than the original version.
-```
+> no $ psx (Playstation PSone nightash) is a PlayStation console emulator designed for Windows. Unlike competing solutions, the application works on the basis of a free PSX BIOS clone, which is often characterized by better performance in game emulation than the original version.
+
 [![no$psx](https:https://tse3.mm.bing.net/th?id=OIP.RnQZlxXZs25q2u8ofou0vAHaEo&pid=Api)](https://softexe.net/win/games-entertainment/emulators/no-psx:pRhhh.html)
 
 Using the no $ psx emulator, we'll be able to run most of the most popular titles released on the PlayStation. Among them are games like Tony Hawk's Pro Skater 2, Tekken 3, Gran Turismo, Final Fantasy IX, ISS Pro Evolution, Chrono Cross, Metal Gear Solid, Gran Turismo 2, Street Fighter Alpha 3 and Castlevania: Symphony of the Night.

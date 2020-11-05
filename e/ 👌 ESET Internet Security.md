@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/eset-internet-security-8540.png) ESET Internet Security 13.2.18.0 - Free Download
 
-```sh
-ESET Internet Security is ESET's security package, the successor to the prized Smart Security, integrating in one solution the latest version of ESET NOD32 antivirus and antispyware, firewall, anti-spam filter, parental control and banking, protection in case of laptop theft and more.
-```
+> ESET Internet Security is ESET's security package, the successor to the prized Smart Security, integrating in one solution the latest version of ESET NOD32 antivirus and antispyware, firewall, anti-spam filter, parental control and banking, protection in case of laptop theft and more.
+
 [![ESET Internet Security](https://gallery.dpcdn.pl/imgc/Tools/174/g_-_420x350_1.5_-_x20171026104115_0.png)](https://softexe.net/win/security-privacy/antivirus/eset-internet-security:hedR.html)
 
 The program emphasizes the ease of use and the lowest possible number of settings and notifications, assuming that the majority of users expect from this type of tool primarily unnoticeable work in the background.

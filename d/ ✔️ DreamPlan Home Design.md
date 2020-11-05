@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/dreamplan-home-design-8717.png) DreamPlan Home Design 5.42 - Free Download
 
-```sh
-DreamPlan Home Design is a tool that allows you to design houses, gardens and landscapes in full three dimensions. The program is addressed not only to architects, but also to regular users planning to renovate or buy a new home.
-```
+> DreamPlan Home Design is a tool that allows you to design houses, gardens and landscapes in full three dimensions. The program is addressed not only to architects, but also to regular users planning to renovate or buy a new home.
+
 [![DreamPlan Home Design](https://gallery.dpcdn.pl/imgc/Tools/73826/g_-_420x350_1.5_-_x20170202232819_0.png)](https://softexe.net/win/multimedia/graphics-design/dreamplan-home-design:hgpg.html)
 
 Using DreamPlan Home Design is not complicated, so less experienced users will manage the program. With the help of this tool, we can very easily and quickly arrange the layout of the rooms of our house, flat or apartment, and even the placement of furniture in individual rooms.

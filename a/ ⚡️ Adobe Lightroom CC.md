@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/adobe-lightroom-cc-9484.png) Adobe Lightroom CC 2.1 - Free Download
 
-```sh
-Adobe Lightroom CC is a program for photographers, where you can catalog photos, process RAWs and prepare photos for publication or printing. The program fully synchronizes with the Creative Cloud, and through it with versions for other operating systems.
-```
+> Adobe Lightroom CC is a program for photographers, where you can catalog photos, process RAWs and prepare photos for publication or printing. The program fully synchronizes with the Creative Cloud, and through it with versions for other operating systems.
+
 [![Adobe Lightroom CC](https://gallery.dpcdn.pl/imgc/Tools/78205/g_-_420x350_1.5_-_x20171018183659_0.png)](https://softexe.net/win/multimedia/graphics-design/adobe-lightroom-cc:adhd.html)
 
 The program allows you to view and catalog photos after import to the library, where the files from it are synchronized with the cloud - also digital negatives (RAW, DNG and others). The library is available on all devices within a single Adobe ID account, and can be easily shared with others. 

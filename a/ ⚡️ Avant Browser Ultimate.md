@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/avant-browser-ultimate-9788.png) Avant Browser Ultimate 2019 Build 2 - Free Download
 
-```sh
-Avant Browser Ultimate is an incredibly fast web browser. In this edition, Ultimate also includes Internet Explorer, Chrome and Firefox rendering engines, which we can switch between at any time.
-```
+> Avant Browser Ultimate is an incredibly fast web browser. In this edition, Ultimate also includes Internet Explorer, Chrome and Firefox rendering engines, which we can switch between at any time.
+
 [![Avant Browser Ultimate](https://gallery.dpcdn.pl/imgc/Tools/85110/g_-_420x350_1.5_-_x3636ecbb-64c7-47ed-a2d8-9edfda3497eb.jpg)](https://softexe.net/win/internet/browsers/avant-browser-ultimate:aghh.html)
 
 The tool is available for free and has been downloaded for any ads (not including those that will appear on the websites you visit, but we can block them using the built-in adblock), not to mention viruses in spyware. Avant Browser Ultimate minimally burdens the resources of our computer, including primarily the processor and RAM (other browsers need much more memory than Avant Browser Ultimate).

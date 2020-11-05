@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/ultra-adware-killer-8362.png) Ultra Adware Killer 8.0.0.0 - Free Download
 
-```sh
-Ultra Adware Killer is a tool to remove all kinds of adware and malware components from computers running under Windows.
-```
+> Ultra Adware Killer is a tool to remove all kinds of adware and malware components from computers running under Windows.
+
 [![Ultra Adware Killer](https://gallery.dpcdn.pl/imgc/Tools/89401/g_-_420x350_1.5_-_x1d0b22d1-2a55-4d67-ba5a-784a48bca897.png)](https://softexe.net/win/security-privacy/other/ultra-adware-killer:hcfb.html)
 
 It successfully manages potentially unwanted applications (PUPs), toolbars, advertisements, unwanted search engine providers or browser plug-ins. The program also allows you to fight against malicious programs, Trojans, rootkits, ransomware and all other forms of malware.

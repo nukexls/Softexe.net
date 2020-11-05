@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) ExtractFace 6.3.4 - Free Download
 
-```sh
-ExtractFace is a tool addressed to Facebook users enabling the extraction of data placed on this social network.
-```
+> ExtractFace is a tool addressed to Facebook users enabling the extraction of data placed on this social network.
+
 [![ExtractFace](https://gallery.dpcdn.pl/imgc/Tools/82017/g_-_420x350_1.5_-_x649603d0-5eb5-45bf-a7ed-9ba509f667ff.png)](https://softexe.net/win/system/other/extractface:pRcec.html)
 
 If we would like to download from Facebok all the materials that we have made available, including, for example, photos or videos, it would require a lot of dedication from us. We would have to download each file manually, spending a lot of time on performing repetitive activities, which we can save by using the ExtractFace program.

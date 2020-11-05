@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=DJ+Jukebox icon&w=40&h=40) DJ Jukebox 25.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) DJ Jukebox 25.0 - Free Download
 
-```sh
-DJ Jukebox is a tool that allows you to manage a library of music and other audio files on your computer's hard drive.
-```
+> DJ Jukebox is a tool that allows you to manage a library of music and other audio files on your computer's hard drive.
+
 [![DJ Jukebox](https://gallery.dpcdn.pl/imgc/Tools/77897/g_-_420x350_1.5_-_x20170929220814_0.jpg)](https://softexe.net/win/multimedia/audio-utilities/dj-jukebox:appa.html)
 
 Using this application, we will not only put all the songs in one place, from which we can manage them properly, but also create playlists of individual songs. Interestingly, DJ Jukebox can play songs randomly or based on user ratings (those with lower notes will be run less often or not at all, while the loved "cuts" program will include much more often).

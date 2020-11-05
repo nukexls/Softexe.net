@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/edraw-max-8886.png) Edraw Max 9.4.1 - Free Download
 
-```sh
-Edraw Max is a comprehensive tool for creating various types of diagrams, diagrams and charts. It allows you to conveniently create a presentation graphic that is useful for both private and corporate purposes.
-```
+> Edraw Max is a comprehensive tool for creating various types of diagrams, diagrams and charts. It allows you to conveniently create a presentation graphic that is useful for both private and corporate purposes.
+
 [![Edraw Max](https://gallery.dpcdn.pl/imgc/Tools/9811/g_-_420x350_1.5_-_x20120823180549_00.png)](https://softexe.net/win/multimedia/graphics-design/edraw-max:hhhf.html)
 
 The program is characterized by extensive capabilities while maintaining an intuitive and easy to use graphical interface. It includes as many as 5000 various vector symbols that can be used while working on your own project. In conjunction with the templates available in Edraw Max, we will create attractive diagrams or diagrams, effectively presenting the information contained in them.

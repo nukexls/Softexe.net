@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/gmvault-10560.png) Gmvault 1.9.1 - Free Download
 
-```sh
-Gmvault is a tool for backing up your Gmail account. It allows you to create a data backup and allows you to store it on your computer's hard drive.
-```
+> Gmvault is a tool for backing up your Gmail account. It allows you to create a data backup and allows you to store it on your computer's hard drive.
+
 [![Gmvault](https://gallery.dpcdn.pl/imgc/Tools/81057/g_-_420x350_1.5_-_x2524aed0-37f3-45ef-8b48-ee915c1be612.jpg)](https://softexe.net/win/disks-files/data-recovery/gmvault:pRefR.html)
 
 It would seem that the backup of data from Gmail does not make the biggest sense, because we are dealing with the service offered by one of the most powerful companies in the world, Google, but it is worth to protect yourself and prepare a backup eg. If you block our account to mail e. In this situation, Gmvault comes with the help, which allows you to create a back-up of the entire contents of your e-mail in one directory.

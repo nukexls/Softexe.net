@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/powergrep-9600.png) PowerGREP 5.2.2 - Free Download
 
-```sh
-PowerGREP is a tool used to search for files saved on your computer's hard drive or on the network. It is definitely easier to use than most other such applications for Windows.
-```
+> PowerGREP is a tool used to search for files saved on your computer's hard drive or on the network. It is definitely easier to use than most other such applications for Windows.
+
 [![PowerGREP](https://gallery.dpcdn.pl/imgc/Tools/52946/g_-_420x350_1.5_-_x20140722231728_0.png)](https://softexe.net/win/disks-files/other/powergrep:afRR.html)
 
 With this program, the user can quickly find the necessary files, folders, archives, Microsoft Word documents, Microsoft Excel sheets, Lotus 1-2-3 and Quattro Pro, files saved in PDF format, as well as OpenOffice office suite documents. Of course, this is not all - the application is great at finding other content placed on the hard disk or other data stores.

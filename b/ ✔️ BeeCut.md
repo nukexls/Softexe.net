@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/beecut-8190.png) BeeCut 1.6.5.10 - Free Download
 
-```sh
-BeeCut is a video processing program that will appeal to less experienced users. In addition to the intuitive interface available in Polish, it offers a wide range of tools, effects and ready-made templates, with the help of which we can easily create interesting videos for family presentations, online publications, etc.
-```
+> BeeCut is a video processing program that will appeal to less experienced users. In addition to the intuitive interface available in Polish, it offers a wide range of tools, effects and ready-made templates, with the help of which we can easily create interesting videos for family presentations, online publications, etc.
+
 [![BeeCut](https://gallery.dpcdn.pl/imgc/Tools/90995/g_-_420x350_1.5_-_x7d3b728c-b927-4c3a-9492-d995761708c0.jpg)](https://softexe.net/win/multimedia/video/beecut:hpaR.html)
 
 Installation using the timeline

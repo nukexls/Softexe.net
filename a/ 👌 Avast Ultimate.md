@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/avast-ultimate-10796.png) Avast Ultimate 2018 - Free Download
 
-```sh
-Avast ultimate is a package containing four Avasta products necessary to provide comprehensive computer protection and privacy. The package provides protection against malware and ransomware, prevents tracking, protects private data, provides easy password management and includes advanced tools for cleaning and accelerating the system.
-```
+> Avast ultimate is a package containing four Avasta products necessary to provide comprehensive computer protection and privacy. The package provides protection against malware and ransomware, prevents tracking, protects private data, provides easy password management and includes advanced tools for cleaning and accelerating the system.
+
 [![Avast Ultimate](https:https://tse4.mm.bing.net/th?id=OIP.9rnpg3hTOM_FtMM5vHvJHgHaE_&pid=Api)](https://softexe.net/win/security-privacy/antivirus/avast-ultimate:pRgaf.html)
 
 The package includes: 

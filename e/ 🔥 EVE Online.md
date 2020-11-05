@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=EVE+Online icon&w=40&h=40) EVE Online 15.02.1127751 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) EVE Online 15.02.1127751 - Free Download
 
-```sh
-EVE Online is played on a huge space scale MMO, in which thousands of players simultaneously operate in a virtual universe created and developed by the CCP Games studio. Only here you will be witnessing great battles for important sectors for a whole host of spacecraft, which will then permanently affect the shape of the digital galaxy. This world has its own economy, as well as the balance of political forces.
-```
+> EVE Online is played on a huge space scale MMO, in which thousands of players simultaneously operate in a virtual universe created and developed by the CCP Games studio. Only here you will be witnessing great battles for important sectors for a whole host of spacecraft, which will then permanently affect the shape of the digital galaxy. This world has its own economy, as well as the balance of political forces.
+
 [![EVE Online](https://gallery.dpcdn.pl/imgc/Tools/61202/g_-_420x350_1.5_-_x20150825153609_0.jpg)](https://softexe.net/win/games-entertainment/rpg/eve-online:pppbb.html)
 
 The action is set for thousands of years in the future, when after the depletion of natural resources on Earth began, mankind went en masse to conquer the stars. She discovered a completely new galaxy from which, as a result of the unfortunate consequences of fate, she could not return later. That is how the colonization of the so-called New Eden began by the survivors divided into several major factions. The player decides to belong to one of them, but first create a character, choosing one of the available races and refining the look of your pilot. It will be an alter ego of the user.

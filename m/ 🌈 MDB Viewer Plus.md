@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=MDB+Viewer+Plus icon&w=40&h=40) MDB Viewer Plus 2.63 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) MDB Viewer Plus 2.63 - Free Download
 
-```sh
-MDB Viewer Plus is one of the few, completely free applications for viewing, creating and editing databases created using the Microsoft Access tool. It contains all necessary functions for convenient operation and supports MDB and ACCDB file formats.
-```
+> MDB Viewer Plus is one of the few, completely free applications for viewing, creating and editing databases created using the Microsoft Access tool. It contains all necessary functions for convenient operation and supports MDB and ACCDB file formats.
+
 [![MDB Viewer Plus](https://gallery.dpcdn.pl/imgc/Tools/22102/g_-_420x350_1.5_-_x20130910180825_0.png)](https://softexe.net/win/business/documents/mdb-viewer-plus:agfR.html)
 
 The program gives the user the opportunity to work with Microsoft Access databases, without requiring the installation of any additional components - including the said Access. It is based on the Microsoft Data Access Components (MDAC) component , which by default is a component of Windows. MDB Viewer Plus can not only open MDB / ACCDB files, what to edit them, and create new databases from scratch.

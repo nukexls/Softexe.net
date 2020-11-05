@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=SAMozatrudnienie icon&w=40&h=40) SAMozatrudnienie 20.1 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) SAMozatrudnienie 20.1 - Free Download
 
-```sh
-SAMontemplation is a software for comprehensive one-man business activity, directed to people who are VAT payers or exempt from this tax, which are settled on the basis of the KPiR or lump sum.
-```
+> SAMontemplation is a software for comprehensive one-man business activity, directed to people who are VAT payers or exempt from this tax, which are settled on the basis of the KPiR or lump sum.
+
 [![SAMozatrudnienie](https://gallery.dpcdn.pl/imgc/Tools/77768/g_-_420x350_1.5_-_x20170921171805_0.png)](https://softexe.net/win/business/management/samozatrudnienie:acgc.html)
 
 Among the large number of program functions, the most important ones are the options for keeping the Book of Revenue and Expenditure or settlement based on a lump sum from registered income, sales register and VAT purchases prepared on a monthly basis, memorial and quarterly and cash accounting, including turnover from several sources. 

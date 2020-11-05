@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) AllMediaServer 1.5 - Free Download
 
-```sh
-AllMediaServer is a free media server, which can also be treated as an extensive playlist to view and manage media files on your computer.
-```
+> AllMediaServer is a free media server, which can also be treated as an extensive playlist to view and manage media files on your computer.
+
 [![AllMediaServer](https://gallery.dpcdn.pl/imgc/Tools/9826/g_-_420x350_1.5_-_x20120824114815_00.jpg)](https://softexe.net/win/multimedia/other/allmediaserver:pbaaa.html)
 
 ALLMediaServer is a convenient to use DLNA and ALLShare file server that allows you to stream various multimedia files to TV sets or portable devices connected to a local area network (Ethernet or WiFi). 

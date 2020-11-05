@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/lightzone-10717.png) LightZone 4.1.8 - Free Download
 
-```sh
-LightZone is an open source digital darkroom program in which we will perform the necessary steps to extract the best possible images from RAW files from the camera. The program consists of a file browser and an editing module.
-```
+> LightZone is an open source digital darkroom program in which we will perform the necessary steps to extract the best possible images from RAW files from the camera. The program consists of a file browser and an editing module.
+
 [![LightZone](https:https://tse3.mm.bing.net/th?id=OIP.VbxDC5Rx2UGBpHHIYdWGiAHaEp&pid=Api)](https://softexe.net/win/multimedia/graphics-design/lightzone:pRgpg.html)
 
 The LightZone file viewer allows you to navigate the directory tree, presents thumbnails of the images found in them and allows you to take a closer look at the selected images. Here we can also modify metadata, give images to the assessment and collect them in stacks. Immediately in the browser you can use the template to call the image and instantly get a JPG file with the selected effect, and also export the file collection with a slightly larger selection of parameters as JPEG or TIFF. You can also rotate the picture here. 

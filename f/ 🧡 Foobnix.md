@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/foobnix-10625.png) Foobnix 2.6.11 - Free Download
 
-```sh
-Foobnix is ​​a multimedia player that supports the most popular file formats, in particular: MP3, MP4, AAC, Audio CD, WMA, Vorbis, FLAC, WavPack, WAV, AIFF, Musepack, Speex, AU and SND.
-```
+> Foobnix is ​​a multimedia player that supports the most popular file formats, in particular: MP3, MP4, AAC, Audio CD, WMA, Vorbis, FLAC, WavPack, WAV, AIFF, Musepack, Speex, AU and SND.
+
 [![Foobnix](https://gallery.dpcdn.pl/imgc/Tools/80712/g_-_420x350_1.5_-_xf4749c0b-76a4-4501-b795-5c8b4e932702.jpg)](https://softexe.net/win/multimedia/audio-video-players/foobnix:pRfbe.html)
 
 In addition to standard options, such as creating your own song library and starting, stopping or selecting more songs, Foobnix provides a number of additional functionalities. The user can listen to various radio stations from around the world, enjoy the possibility of integration with the popular last.fm streaming service and the not-so-popular Russian social network service Vkontakte.

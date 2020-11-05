@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Stilt Fella 1.01 - Free Download
 
-```sh
-The various simulators will always be in the center of attention of independent game developers. Stilt Fella proudly represents the genre, allowing us to play someone who moves on stilts. Although many probably guessed that this art is not the easiest one, only this interesting project lets you appreciate the circus performers. Suddenly, an inconspicuous hole in the path of passage goes up to a precipice.
-```
+> The various simulators will always be in the center of attention of independent game developers. Stilt Fella proudly represents the genre, allowing us to play someone who moves on stilts. Although many probably guessed that this art is not the easiest one, only this interesting project lets you appreciate the circus performers. Suddenly, an inconspicuous hole in the path of passage goes up to a precipice.
+
 [![Stilt Fella](https://gallery.dpcdn.pl/imgc/Tools/65627/g_-_420x350_1.5_-_x20160215152156_0.jpg)](https://softexe.net/win/games-entertainment/simulators/stilt-fella:pphRc.html)
 
 We direct the character with the help of keyboard and mouse. The former is responsible for tilting forward and backward, as well as raising the left or right leg. The mouse from the railways is responsible for the appropriate setting of the stilt. All this together should be neatly combined, because it will be difficult to get up from too wide a leg apart, and if we forget to pull straight ahead, we will simply fall backwards.

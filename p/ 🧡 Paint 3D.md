@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/paint-3d-10073.png) Paint 3D 5.1806.20057.0 - Free Download
 
-```sh
-Paint 3D is a new, improved version of the iconic graphic program from Microsoft, which was addressed mainly to owners of computers with the Windows 10 operating system, but also works on older versions of "windows".
-```
+> Paint 3D is a new, improved version of the iconic graphic program from Microsoft, which was addressed mainly to owners of computers with the Windows 10 operating system, but also works on older versions of "windows".
+
 [![Paint 3D](https://gallery.dpcdn.pl/imgc/Tools/82678/g_-_420x350_1.5_-_xf9a2c0cf-2eaa-4256-a29c-ab10b4321811.jpg)](https://softexe.net/win/multimedia/graphics-design/paint-3d:pRRgc.html)
 
 As the name suggests, the application allows you to prepare three-dimensional objects. They can be models of figures, figures or various elements of the landscape. Paint 3D also offers the option of creating sketches using the 3D effect. In addition to numerous tools addressed to work in three-dimensional mode, the tool also received many new types of brushes.

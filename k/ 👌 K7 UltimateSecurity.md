@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) K7 UltimateSecurity 16.0.0.293 - Free Download
 
-```sh
-K7 UltimateSecurity is the richest edition of the security suite from K7 Computing Pvt, characterized by rich functionality and, what is important, speed of operation and low demand for system resources.
-```
+> K7 UltimateSecurity is the richest edition of the security suite from K7 Computing Pvt, characterized by rich functionality and, what is important, speed of operation and low demand for system resources.
+
 [![K7 UltimateSecurity](https://gallery.dpcdn.pl/imgc/Tools/7015/g_-_420x350_1.5_-_x20111228145551_00.png)](https://softexe.net/win/security-privacy/antivirus/k7-ultimatesecurity:hfbg.html)
 
 The program has all the necessary functions for comprehensive protection of the computer when using the Internet, connecting with local networks, using e-mail, external data media, etc. Built-in real-time scanner and on-demand scanner offers proactive protection against Zero-Day attacks, can detect vulnerabilities as well as malicious exploits in PDF documents. 

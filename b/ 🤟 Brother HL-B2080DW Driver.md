@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Brother+HL-B2080DW+Driver icon&w=40&h=40) Brother HL-B2080DW Driver D1 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Brother HL-B2080DW Driver D1 - Free Download
 
-```sh
-Pakiet sterowników dla drukarki laserowej Brother HL-B2080DW.
-```
+> Pakiet sterowników dla drukarki laserowej Brother HL-B2080DW.
+
 [![Brother HL-B2080DW Driver](https:https://tse4.mm.bing.net/th?id=OIP.4fHanH72DcDht9a0ml7_8wHaFe&pid=Api)](https://softexe.net/win/system/drivers/brother-hl-b2080dw-driver:adRp.html)
 
 

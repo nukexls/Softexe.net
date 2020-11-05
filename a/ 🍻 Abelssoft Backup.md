@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/abelssoft-backup-9778.jpg) Abelssoft Backup 2019 19.9.06 - Free Download
 
-```sh
-Abelssoft Backup is an extremely simple application designed for quick backup of data located on the hard disk.
-```
+> Abelssoft Backup is an extremely simple application designed for quick backup of data located on the hard disk.
+
 [![Abelssoft Backup](https://gallery.dpcdn.pl/imgc/Tools/7318/g_-_420x350_1.5_-_x20120201110918_00.png)](https://softexe.net/win/disks-files/data-recovery/abelssoft-backup:aggh.html)
 
 The program allows you to back up specific types of documents including graphics, music and video files, text documents, PowerPoint presentations, emails etc. as well as selected folders or specific files. Backups can be created both manually and automatically.

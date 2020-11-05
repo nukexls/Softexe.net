@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Password+Manager+XP icon&w=40&h=40) Password Manager XP 4.0.790 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Password Manager XP 4.0.790 - Free Download
 
-```sh
-Password Manager XP is an interesting program that allows secure storage of passwords and confidential information in the form of encrypted databases.
-```
+> Password Manager XP is an interesting program that allows secure storage of passwords and confidential information in the form of encrypted databases.
+
 [![Password Manager XP](https://gallery.dpcdn.pl/imgc/Tools/2751/g_-_420x350_1.5_-_x20110426160444_00.jpg)](https://softexe.net/win/system/other/password-manager-xp:hdhf.html)
 
 The program, in addition to a friendly and intuitive graphical interface, is equipped with a number of useful functions - including built-in password generator, support for multiple databases, the ability to save information by several users, permissions, restricting access to specific batches of confidential information and the ability to work with a database within computers on the network and integration with a web browser.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/network-scanner-9141.png) Network Scanner 5.5.0 - Free Download
 
-```sh
-Network Scanner is a free, yet quite advanced tool designed to scan networks for open IP, SNMP and NetBIOS ports. Due to its use, it is a program designed for more advanced users, system administrators, etc.
-```
+> Network Scanner is a free, yet quite advanced tool designed to scan networks for open IP, SNMP and NetBIOS ports. Due to its use, it is a program designed for more advanced users, system administrators, etc.
+
 [![Network Scanner](https://gallery.dpcdn.pl/imgc/Tools/59260/g_-_420x350_1.5_-_x20150604173743_0.png)](https://softexe.net/win/internet/other/network-scanner:apdp.html)
 
 The program provides a wide range of information, giving them all as part of a simple user interface, the main part of which is a table containing all collected data. The application scans the computers present in the network and provides information such as IP addresses and physical (MAC) addresses, checks the status of TCP and UDP ports, shared resources and services, and more.

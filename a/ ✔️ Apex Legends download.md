@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Apex Legends download  - Free Download
 
-```sh
-Apex Legends is a new competitor for Playerunknown's Battlegrounds (PUBG) and Fortnite. The game is available for free download.
-```
+> Apex Legends is a new competitor for Playerunknown's Battlegrounds (PUBG) and Fortnite. The game is available for free download.
+
 [![Apex Legends download](https://gallery.dpcdn.pl/imgc/Tools/89651/g_-_420x350_1.5_-_xe1d9b42e-8229-4fcf-b80c-6fcc6f454a6c.jpg)](https://softexe.net/win/games-entertainment/shooters/apex-legends-download:apcc.html)
 
 Apex Legends is battle royale from the first person perspective, but we do not act alone in it. Instead, we must join one of twenty teams (in each of three players) and cooperate with the team members. The clash ends when only one team is left on the battlefield. Apex Legends offers only multiplayer and does not contain a story campaign, but the history of some characters will be known during the network game.

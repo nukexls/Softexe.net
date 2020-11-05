@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/zoom-player-free-9303.png) Zoom Player FREE 14.5.0 - Free Download
 
-```sh
-Zoom Player FREE is a multimedia player for Windows, which we can customize according to your preferences. The program uses Smart Play technology, offering support for a wide range of audio and video file formats, high operational stability and performance at work.
-```
+> Zoom Player FREE is a multimedia player for Windows, which we can customize according to your preferences. The program uses Smart Play technology, offering support for a wide range of audio and video file formats, high operational stability and performance at work.
+
 [![Zoom Player FREE](https://gallery.dpcdn.pl/imgc/Tools/51277/g_-_420x350_1.5_-_x20140520201929_0.png)](https://softexe.net/win/multimedia/audio-video-players/zoom-player-free:acRc.html)
 
 In addition to the standard functions, Zoom Player FREE has been equipped with a user interface available on the entire screen, which we can operate with only five buttons, such as: up, down, left, right, select. With it at your fingertips we have access to all options, namely, media library, file browser, playlist editor, color settings, equalizer, bookmarks, playback history and many more.

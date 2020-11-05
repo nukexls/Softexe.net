@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/jnes-11188.png) Jnes 1.2.1 - Free Download
 
-```sh
-Jnes is an NES emulator (Nintendo Entertainment System) for Windows and Android operating systems. So you can use it both on your desktop, laptop and portable devices, including on smartphones or tablets.
-```
+> Jnes is an NES emulator (Nintendo Entertainment System) for Windows and Android operating systems. So you can use it both on your desktop, laptop and portable devices, including on smartphones or tablets.
+
 [![Jnes](https://gallery.dpcdn.pl/imgc/Tools/51583/g_-_420x350_1.5_-_x20140530155644_0.png)](https://softexe.net/win/games-entertainment/emulators/jnes:ppphh.html)
 
 The program emulates both graphics and sounds in launched productions, offering the opportunity to play alone or with other players in the multiplayer mode. In the case of Android 4.0 or newer it is necessary to turn on Bluetooth, while on the emulator the emulator uses the Kailler tool. Jnes is compatible with PAL (Europe) and NTSC (United States, Japan) games.

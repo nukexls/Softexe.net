@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/5/corelcad-9187.png) CorelCAD 2020 - Free Download
 
-```sh
-CorelCAD is a program that Corel has entered the market for computer-aided design software. CorelCAD fully supports the popular DWG format, and we'll find all the tools and functions needed for 2D and 3D design. In addition, Corel has introduced several innovative features, such as the ability to include handwritten and voice notes in the project (available only on Windows) and compatibility with CorelDRAW and Corel DESIGNER.
-```
+> CorelCAD is a program that Corel has entered the market for computer-aided design software. CorelCAD fully supports the popular DWG format, and we'll find all the tools and functions needed for 2D and 3D design. In addition, Corel has introduced several innovative features, such as the ability to include handwritten and voice notes in the project (available only on Windows) and compatibility with CorelDRAW and Corel DESIGNER.
+
 [![CorelCAD](https://gallery.dpcdn.pl/imgc/Tools/2880/g_-_420x350_1.5_-_x20110523103844_00.png)](https://softexe.net/win/multimedia/cad/corelcad:aphg.html)
 
 Supported file formats

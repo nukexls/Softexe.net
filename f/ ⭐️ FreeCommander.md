@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) FreeCommander XE 2020 Build 810a - Free Download
 
-```sh
-Polish and as the name suggests, a free file manager. It is based on the standard interface philosophy, i.e. two panels initiated in Norton Commander.
-```
+> Polish and as the name suggests, a free file manager. It is based on the standard interface philosophy, i.e. two panels initiated in Norton Commander.
+
 [![FreeCommander](https://gallery.dpcdn.pl/imgc/Tools/1349/g_-_420x350_1.5_-_x20101229131921_00.png)](https://softexe.net/win/disks-files/file-managers/freecommander:acdh.html)
 
 freeCommander is not as extensive as the most popular tool in this group of programs - Total Commander - but it offers many features that are not found in other free file managers. These include support for compressed files, built-in file shredder, the ability to easily divide files, create and verify MD5 checksums, a built-in image file browser, and the ability to preview their thumbnails.

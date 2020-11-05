@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/nimbus-screen-capture-9328.png) Nimbus Screen Capture 4.6.0 - Free Download
 
-```sh
-Nimbus Screen Capture is an uncomplicated but useful application for taking screenshots and registering user activities on your computer.
-```
+> Nimbus Screen Capture is an uncomplicated but useful application for taking screenshots and registering user activities on your computer.
+
 [![Nimbus Screen Capture](https://gallery.dpcdn.pl/imgc/Tools/89128/g_-_420x350_1.5_-_x93230d5c-4bc7-4669-a803-67b6bdd5550b.jpg)](https://softexe.net/win/multimedia/image-capture/nimbus-screen-capture:acbh.html)
 
 After launching Nimbus Screen Capture, it is automatically minimized to the system tray, from which we can "call it" right mouse button or use it using various keyboard shortcuts.

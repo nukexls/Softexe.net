@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/windows-device-recovery-tool-9875.png) Windows Device Recovery Tool 3.14.7501 - Free Download
 
-```sh
-Windows Device Recovery Tool is the official Microsoft tool for resetting and recovering software on phones with the Windows Phone 8 operating system or newer.
-```
+> Windows Device Recovery Tool is the official Microsoft tool for resetting and recovering software on phones with the Windows Phone 8 operating system or newer.
+
 [![Windows Device Recovery Tool](https://gallery.dpcdn.pl/imgc/Tools/84356/g_-_420x350_1.5_-_x76bb775d-fb62-4683-9a13-371abfa6755f.jpg)](https://softexe.net/win/hobbies-lifestyle/mobile/windows-device-recovery-tool:ahge.html)
 
 This desktop application is targeted at users of Acer, Alcatel, BLU, HTC (One M8 and 8X), LG, Lumia, NEO, UniStrong, VAIO and Yezz phones, as well as HP devices. However, before we decide to use the Windows Device Recovery Tool, we must try to restart or reset the phone. If these steps do not solve our problem, there is nothing else we can do to install the described tool.

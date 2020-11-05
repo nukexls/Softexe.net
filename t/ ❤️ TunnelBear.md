@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/tunnelbear-7063.png) TunnelBear 4.2.12 - Free Download
 
-```sh
-TunnelBear is a cross-platform VPN client that allows you to safely surf the Internet, hide confidential data from prying eyes and gain access to websites prohibited in your country.
-```
+> TunnelBear is a cross-platform VPN client that allows you to safely surf the Internet, hide confidential data from prying eyes and gain access to websites prohibited in your country.
+
 [![TunnelBear](https://gallery.dpcdn.pl/imgc/Tools/59790/g_-_420x350_1.5_-_x20170703124743_0.png)](https://softexe.net/win/internet/anonymizers-vpn/tunnelbear:gRfc.html)
 
 TunnelBear is a cross-platform VPN client that allows you to safely surf the Internet, hide confidential data from prying eyes and gain access to websites prohibited in your country.

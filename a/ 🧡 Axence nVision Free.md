@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/4/axence-nvision-free-10801.png) Axence nVision Free  - Free Download
 
-```sh
-Axence nVision Free is a functionally limited but free (also in commercial applications) edition of software for managing IT infrastructure. It enables mapping and monitoring of unlimited number of devices as well as basic functions of user monitoring, inventory, helpdesk and access control for devices for 25 computers.
-```
+> Axence nVision Free is a functionally limited but free (also in commercial applications) edition of software for managing IT infrastructure. It enables mapping and monitoring of unlimited number of devices as well as basic functions of user monitoring, inventory, helpdesk and access control for devices for 25 computers.
+
 [![Axence nVision Free](https:https://tse3.mm.bing.net/th?id=OIP.KWY5S4X7V7nA8NOrOQ0TkgHaFV&pid=Api)](https://softexe.net/win/system/archive-programs/axence-nvision-free:pRhRp.html)
 
 The tool is addressed to all kinds of enterprises and institutions, offering tools for network detection and visualization, network monitoring, hardware and software inventory, user activity monitoring, access control of devices and data carriers, assistance to employees, as well as alerting and reporting to the system administrator different types of events.

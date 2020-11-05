@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/smoothvideo-project-8757.png) SmoothVideo Project 4.3.0.196 - Free Download
 
-```sh
-SmoothVideo Project is a program that allows you to get a very clear and extremely smooth image in movies. The technology used by this tool has so far been known only to the owners of expensive equipment with appropriate functionalities, but now computer owners can also use it to install this free application.
-```
+> SmoothVideo Project is a program that allows you to get a very clear and extremely smooth image in movies. The technology used by this tool has so far been known only to the owners of expensive equipment with appropriate functionalities, but now computer owners can also use it to install this free application.
+
 [![SmoothVideo Project](https://gallery.dpcdn.pl/imgc/Tools/62805/g_-_420x350_1.5_-_x20151020170328_0.png)](https://softexe.net/win/multimedia/other/smoothvideo-project:hgeg.html)
 
 The program allows you to watch video on a computer using frame interpolation. Under this not much talking concept lies a fairly clever mechanism - it turns out that the SmoothVideo Project generates intermediate frames of animation between those that are already available, thus creating an extremely fluid image. Frame interpolation should be perfectly known to people who run movies whether on high-end PCs or projectors. In the case of this program, a computer with a mid-range processor and almost any graphics card is enough.

@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Drzewo+Genealogiczne+II icon&w=40&h=40) Drzewo Genealogiczne II 4.4.1.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Drzewo Genealogiczne II 4.4.1.0 - Free Download
 
-```sh
-Genealogical Tree is an application supporting the creation and imaging of genealogical data.
-```
+> Genealogical Tree is an application supporting the creation and imaging of genealogical data.
+
 [![Drzewo Genealogiczne II](https://gallery.dpcdn.pl/imgc/Tools/210/g_-_420x350_1.5_-_x20090908110936.PNG)](https://softexe.net/win/hobbies-lifestyle/other/drzewo-genealogiczne-ii:hchh.html)
 
 The program has been equipped with a number of functions that allow you to easily build even complex family lines, allows you to enter photos and information about events from the lives of people. The program has been equipped with mechanisms to verify the correctness of data entered and privacy protection (selected data can be automatically removed from publications and printouts).

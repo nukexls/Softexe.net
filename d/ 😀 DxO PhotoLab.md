@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/dxo-photolab-8702.png) DxO PhotoLab 3.1.1.4314 - Free Download
 
-```sh
-DxO PhotoLab is a professional electronic darkroom, which is a program for processing photos taken with a digital camera, which allows you to perform the entire process, from selecting the best photos from the session, through correction and retouch, to saving their chosen size and format. Unlike others, this program is very much based on the parameters of photographic equipment and thanks to this, the processing parameters with its use are very well suited to specific photos.
-```
+> DxO PhotoLab is a professional electronic darkroom, which is a program for processing photos taken with a digital camera, which allows you to perform the entire process, from selecting the best photos from the session, through correction and retouch, to saving their chosen size and format. Unlike others, this program is very much based on the parameters of photographic equipment and thanks to this, the processing parameters with its use are very well suited to specific photos.
+
 [![DxO PhotoLab](https://gallery.dpcdn.pl/imgc/Tools/85563/g_-_420x350_1.5_-_xb6f363bb-88db-4237-b1e9-e6fedddc92fa.png)](https://softexe.net/win/multimedia/graphics-design/dxo-photolab:hgRb.html)
 
 Thanks to the extensive library of DxO modules, PhotoLab is able to quickly and precisely remove photo imperfections resulting from the construction of the camera and the lens. The filters were prepared in the DxO laboratory based on a very detailed analysis of the effects of work with combinations of cameras and lenses. Appropriate parameters allow to reduce the curvature and stretch of the image resulting from the use, for example, of a wide-angle lens, reduction of the vignette, sharpening and removal of chromatic aberrations. Of course, the same parameters can be used for many photos, thanks to which removing curves and discolorations from the entire session can be done with a few clicks.

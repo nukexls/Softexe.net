@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/clip-studio-paint-ex-manga-studio-11159.png) Clip Studio Paint Ex (Manga Studio) 1.6.2 - Free Download
 
-```sh
-Clip Studio Ex, formerly known as Manga Studio, is a specialized drawing program designed to create manga, but it also works well when creating a different type of comics. We will find tools necessary for drawing precise contours, coloring, shading, as well as digital equivalents of raster.
-```
+> Clip Studio Ex, formerly known as Manga Studio, is a specialized drawing program designed to create manga, but it also works well when creating a different type of comics. We will find tools necessary for drawing precise contours, coloring, shading, as well as digital equivalents of raster.
+
 [![Clip Studio Paint Ex (Manga Studio)](https://gallery.dpcdn.pl/imgc/Tools/63579/g_-_420x350_1.5_-_x20151116144500_0.png)](https://softexe.net/win/multimedia/graphics-editors/clip-studio-paint-ex-manga-studio:pppea.html)
 
 In Manga Studio we have various types of freehand drawing pens, several types of nibs and finishes for contours, paints and colored pencils, airbrushes, several elastics, as well as stamps with characteristic patterns. The behavior of the tools is close to their natural patterns, so you can mix paints, smudge pencils, and calligraphy. 

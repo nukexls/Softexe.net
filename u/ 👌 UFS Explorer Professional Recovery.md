@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/ufs-explorer-professional-recovery-7124.png) UFS Explorer Professional Recovery 7.16 - Free Download
 
-```sh
-UFS Explorer Professional Recovery - a set of professional data recovery tools that support a large number of file systems, operating systems, and various types of drives: from simplest to complex composite storage
-```
+> UFS Explorer Professional Recovery - a set of professional data recovery tools that support a large number of file systems, operating systems, and various types of drives: from simplest to complex composite storage
+
 [![UFS Explorer Professional Recovery](https://gallery.dpcdn.pl/imgc/Tools/58990/g_-_420x350_1.5_-_x20150521180046_0.jpg)](https://softexe.net/win/disks-files/data-recovery/ufs-explorer-professional-recovery:gpbd.html)
 
 UFS Explorer Professional Recovery is a set of professional data recovery tools that support a large number of file systems, operating systems and various types of drives: from simplest to complex composite storage (RAID arrays of different levels).

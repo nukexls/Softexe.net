@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/dj-promixer-free-home-edition-11331.png) DJ ProMixer Free Home Edition 2.0 - Free Download
 
-```sh
-DJ ProMixer Free Home Edition is a free version of an extremely powerful program designed for mixing and creating music on your computer. Unlike other applications of the same type, it allows you to record sounds, as well as download and convert various videos from YouTube.
-```
+> DJ ProMixer Free Home Edition is a free version of an extremely powerful program designed for mixing and creating music on your computer. Unlike other applications of the same type, it allows you to record sounds, as well as download and convert various videos from YouTube.
+
 [![DJ ProMixer Free Home Edition](https://gallery.dpcdn.pl/imgc/Tools/8801/g_-_420x350_1.5_-_x20120525100531_00.jpg)](https://softexe.net/win/multimedia/audio-sound/dj-promixer-free-home-edition:ppccp.html)
 
 After the first start of the program, you need to fully configure the sound settings. We can choose to input / output audio stream (ASIO) and Direct Sound. In addition, we choose the default device (headphones, speakers) and sound channels for the virtual mixer. It is worth adding that the application supports almost all the most popular devices for DJs (Midi controllers, turntables).

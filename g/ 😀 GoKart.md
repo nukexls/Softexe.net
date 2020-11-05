@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=GoKart icon&w=40&h=40) GoKart 2.5 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) GoKart 2.5 - Free Download
 
-```sh
-GoKart is a very easy to use geodetic tool in CAD environment (including MicroStation, AutoCAD and IntelliCAD and others).
-```
+> GoKart is a very easy to use geodetic tool in CAD environment (including MicroStation, AutoCAD and IntelliCAD and others).
+
 [![GoKart](https:https://tse4.mm.bing.net/th?id=OIP.91dZl-iIU7LMZLHldg1oDgHaE7&pid=Api)](https://softexe.net/win/business/other/gokart:pRfpb.html)
 
 The software is characterized by the ability to create object and vector maps, the option of import / export in GML BDOT500, GESUT, EGiB, BDSOG, PRPOG, PRG, compliance with instructions K-1 (1998 or 1995) and D-19 with 2000, as well as a database of definitions of map elements, which allows editing definitions and creating custom configurations.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/qcad-8980.png) QCad 3.25.2 - Free Download
 
-```sh
-QCad is a commercial program for computer-aided design with a long tradition, whose development was temporarily stopped in 2009. In October 1999, Ribbonsoft began work on the CAM Expert program, which became the basis of QCada developed since May 2002.
-```
+> QCad is a commercial program for computer-aided design with a long tradition, whose development was temporarily stopped in 2009. In October 1999, Ribbonsoft began work on the CAM Expert program, which became the basis of QCada developed since May 2002.
+
 [![QCad](https://gallery.dpcdn.pl/imgc/Tools/3006/g_-_420x350_1.5_-_x20110829121150_00.jpg)](https://softexe.net/win/multimedia/cad/qcad:hahR.html)
 
 The program offers all the necessary tools to design, from editing shapes, through scoops and text tools to the ability to attract shapes, advanced functions of zooming the view and interesting functions modifying existing objects. Objects can be placed on layers and grouped.

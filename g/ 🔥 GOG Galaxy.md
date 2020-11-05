@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/gog-galaxy-8423.png) GOG Galaxy 2.0 - Free Download
 
-```sh
-GOG Galaxy is a completely optional program for handling games purchased on the GOG.com digital platform. The tool allows you to perform operations such as buying, downloading and installing games, and then allows you to run them.
-```
+> GOG Galaxy is a completely optional program for handling games purchased on the GOG.com digital platform. The tool allows you to perform operations such as buying, downloading and installing games, and then allows you to run them.
+
 [![GOG Galaxy](https://gallery.dpcdn.pl/imgc/Tools/62219/g_-_420x350_1.5_-_x20150929235653_0.png)](https://softexe.net/win/hobbies-lifestyle/other/gog-galaxy:hdbc.html)
 
 All games available on the GOG.com platform are unprotected, so you can run them offline (without internet access). In addition, there is nothing to prevent you from backing up the installation file and put it on any medium (such as a disc, external hard disk or memory card).  

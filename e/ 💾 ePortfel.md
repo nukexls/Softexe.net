@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=ePortfel icon&w=40&h=40) ePortfel 3.8.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) ePortfel 3.8.2 - Free Download
 
-```sh
-ePortfel is a personal finance management program.
-```
+> ePortfel is a personal finance management program.
+
 [![ePortfel](https://gallery.dpcdn.pl/imgc/Tools/325/g_-_420x350_1.5_-_x20090907132701.png)](https://softexe.net/win/business/finance/eportfel:ppcRc.html)
 
 The application allows you to record expenses and revenues with a description of transactions and create categories of any depth of nesting. An interesting feature is the ability to download transaction history from the mBank internet bank.

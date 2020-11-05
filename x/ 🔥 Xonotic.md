@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Xonotic icon&w=40&h=40) Xonotic 0.8.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Xonotic 0.8.2 - Free Download
 
-```sh
-Xonotic is a completely free, networked FPS that is the direct successor of Nexuiz, a project taken basically entirely by the community interested in the further development of the game. The title goes back to the times of Quake 1, which is evidenced by the fact that Xonotic operates on a heavily modified and modernized version of the engine of this game.
-```
+> Xonotic is a completely free, networked FPS that is the direct successor of Nexuiz, a project taken basically entirely by the community interested in the further development of the game. The title goes back to the times of Quake 1, which is evidenced by the fact that Xonotic operates on a heavily modified and modernized version of the engine of this game.
+
 [![Xonotic](https:https://tse4.mm.bing.net/th?id=OIP.u_EQieUnTCRfX9-Rw9gfLAHaEo&pid=Api)](https://softexe.net/win/games-entertainment/shooters/xonotic:pRacR.html)
 
 His network, peculiar character of the game and the entire game mechanics is very similar to Unreal Tournament, Cube, OpenAren or the already mentioned Quake. Originally, Xonotic was to be a continuation of the Nexuiz project but over time and along with the progress of work on the game, it acquired independence and many individual features, and this made it recognized as a completely separate and autonomous position in the entire genre set.

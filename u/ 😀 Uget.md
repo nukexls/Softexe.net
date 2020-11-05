@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Uget 2.2.2 - Free Download
 
-```sh
-Uget is a completely free, cross-platform file download accelerator.
-```
+> Uget is a completely free, cross-platform file download accelerator.
+
 [![Uget](https://gallery.dpcdn.pl/imgc/Tools/2736/g_-_420x350_1.5_-_x20110422161145_00.jpg)](https://softexe.net/win/internet/file-downloader/uget:pRegR.html)
 
 The program allows you to download files shared, among others, using HTTP and FTP protocols. It has all the possibilities that can be found in such programs, including resuming downloads after broken or wrong connections, clipboard monitoring, logging, proxy support, creating categories of downloaded files, their serial download and queuing.

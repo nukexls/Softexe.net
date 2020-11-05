@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/andreamosaic-9908.png) AndreaMosaic 3.39 - Free Download
 
-```sh
-AndreaMosaic allows you to create mosaics using any images (eg user's photos).
-```
+> AndreaMosaic allows you to create mosaics using any images (eg user's photos).
+
 [![AndreaMosaic](https://gallery.dpcdn.pl/imgc/Tools/75425/g_-_420x350_1.5_-_x20170424134311_0.jpg)](https://softexe.net/win/multimedia/graphics-design/andreamosaic:aaRh.html)
 
 Before we open the main program window, we will have to choose the type of mosaic we intend to prepare. In addition to traditional tiles in a square or rectangle, AndreaMosaic allows you to create a mosaic using a freeze frame from the selected movie. It should be noted that the only supported format is JPG.

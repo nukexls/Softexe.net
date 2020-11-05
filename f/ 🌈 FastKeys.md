@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/fastkeys-8561.png) FastKeys 4.25 - Free Download
 
-```sh
-FastKeys is an easy-to-use program thanks to which we can automate various activities performed on the computer, both at work and during playing.
-```
+> FastKeys is an easy-to-use program thanks to which we can automate various activities performed on the computer, both at work and during playing.
+
 [![FastKeys](https://gallery.dpcdn.pl/imgc/Tools/63863/g_-_420x350_1.5_-_x20151127185747_0.png)](https://softexe.net/win/system/control/fastkeys:hefp.html)
 
 A very useful option, especially for people who write long articles on a computer, is a text expander. We can quickly enter specific phrases using defined letters, which saves a lot of time. FastKeys allows you to use this functionality in any applications installed on your hard drive.

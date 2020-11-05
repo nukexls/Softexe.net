@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/d/osarmor-8839.png) OSArmor 1.4.3 - Free Download
 
-```sh
-OSArmor is a tool to protect your computer against malware.
-```
+> OSArmor is a tool to protect your computer against malware.
+
 [![OSArmor](https://gallery.dpcdn.pl/imgc/Tools/79990/g_-_420x350_1.5_-_xd4e97a4f-a4d8-453b-9973-59219b81f99c.jpg)](https://softexe.net/win/security-privacy/other/osarmor:hhca.html)
 
 The program deals with monitoring and blocking suspicious processes on a computer with the Windows operating system. This allows you to prevent infections caused by malware, ransomware and other unwanted files. The full list of processes that OSArmor is able to dispose of is located on the official website of the manufacturer.

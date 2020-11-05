@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Tribler 7.5.2 - Free Download
 
-```sh
-Tribler is a kind of torrent client that allows you to safely download files from other users of the service using the "peer-to-peer" function
-```
+> Tribler is a kind of torrent client that allows you to safely download files from other users of the service using the "peer-to-peer" function
+
 [![Tribler](https://gallery.dpcdn.pl/imgc/Tools/1242/g_-_420x350_1.5_-_x20101209141600.png)](https://softexe.net/win/internet/file-upload/tribler:gRcc.html)
 
 Tribler is a kind of torrent client that allows you to safely download files from other users of the service using the "peer-to-peer" function. Now, to download the desired torrent, there is no need to register on some trackers, maintain the ratio of reception / return, etc. - just enter the name of the desired file, and if another user of the network has it, then you can download it without further ado.

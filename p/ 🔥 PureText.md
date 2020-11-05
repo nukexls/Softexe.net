@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=PureText icon&w=40&h=40) PureText 6.2 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) PureText 6.2 - Free Download
 
-```sh
-PureText is an application whose task is to remove formatting from a fragment of text copied to the clipboard.
-```
+> PureText is an application whose task is to remove formatting from a fragment of text copied to the clipboard.
+
 [![PureText](https:https://tse4.mm.bing.net/th?id=OIP.agTKTPtjfNIOoDXbBaNOHAHaE6&pid=Api)](https://softexe.net/win/business/other/puretext:acbg.html)
 
 This is not the end, because PureText can also automatically paste the contents of the clipboard into the currently open window. The tool can be useful among users who copy various pieces of documents between programs, and do not want to manually delete formatting each time (in the long run it is time-consuming, so PureText saves valuable minutes).

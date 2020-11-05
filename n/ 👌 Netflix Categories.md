@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/netflix-categories-11198.png) Netflix Categories 0.1.1 - Free Download
 
-```sh
-Netflix Categories - an extension to the Google Chrome browser that gives you access to the full list of all movie categories available on Netflix. This allows for much more detailed narrowing down of film searches than the basic set of genres, which is made available in the web application of the website.
-```
+> Netflix Categories - an extension to the Google Chrome browser that gives you access to the full list of all movie categories available on Netflix. This allows for much more detailed narrowing down of film searches than the basic set of genres, which is made available in the web application of the website.
+
 [![Netflix Categories](https://gallery.dpcdn.pl/imgc/Tools/73891/g_-_420x350_1.5_-_x20170206170026_0.png)](https://softexe.net/win/internet/browser-add-ons/netflix-categories:pppah.html)
 
 The add-on uses the official list of Netflix categories for operation. On a daily basis, however, it works in the background, giving users only part of the species. The full list is very extensive and allows you to browse a good database of movies on the site. All you need to do is press the add-on icon visible on the browser toolbar after installation, so you can start browsing the full database.

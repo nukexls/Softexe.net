@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/ashampoo-backup-pro-8230.png) Ashampoo Backup Pro 14 - Free Download
 
-```sh
-Ashampoo Backup Pro is an advanced program that offers numerous options for backing up data.
-```
+> Ashampoo Backup Pro is an advanced program that offers numerous options for backing up data.
+
 [![Ashampoo Backup Pro](https://gallery.dpcdn.pl/imgc/Tools/66571/g_-_420x350_1.5_-_x20170314212000_0.png)](https://softexe.net/win/disks-files/data-recovery/ashampoo-backup-pro:hbcR.html)
 
 The user has a variety of incremental backups at his disposal, he can also adjust to his own needs the period in which data should be stored and choose their format. Of course, a time schedule is also available to the user to determine when exactly and with what frequency to be created.

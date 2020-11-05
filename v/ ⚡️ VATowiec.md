@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=VATowiec icon&w=40&h=40) VATowiec 4.16 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) VATowiec 4.16 - Free Download
 
-```sh
-A free financial and accounting program with warehouse and sales support.
-```
+> A free financial and accounting program with warehouse and sales support.
+
 [![VATowiec](https://gallery.dpcdn.pl/imgc/Tools/2328/g_-_420x350_1.5_-_x20110321142609_00.jpg)](https://softexe.net/win/business/finance/vatowiec:acdR.html)
 
 The VAT operator allows you to run both simplified and full accountancy (multi-annual chart of accounts, balance sheet, turnover), sales and VAT registers, fixed assets and equipment records, ticket office and bank accounts, settlement of vehicle operation costs, production with picking and many more. The program also allows you to issue invoices (including serial), support for many warehouses, maintain a catalog of goods and services, etc. The big advantage of the program is multilingualism and multi-currency (bank, cash, settlements, FK) with the possibility of invoicing in several languages. The VAT taxman also has a number of other interesting functions, such as, for example, booking up to any period (no period locks in place, blocking the period).

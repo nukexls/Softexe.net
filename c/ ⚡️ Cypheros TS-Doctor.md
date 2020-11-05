@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/6/cypheros-ts-doctor-8432.png) Cypheros TS-Doctor 3.0.26 - Free Download
 
-```sh
-Cypheros TS-Doctor is a universal tool for the processing and repair of video materials recorded using TV receivers, satellite or antenna. It offers interesting functionality, while remaining very simple to use.
-```
+> Cypheros TS-Doctor is a universal tool for the processing and repair of video materials recorded using TV receivers, satellite or antenna. It offers interesting functionality, while remaining very simple to use.
+
 [![Cypheros TS-Doctor](https://gallery.dpcdn.pl/imgc/Tools/48962/g_-_420x350_1.5_-_x20140330014348_0.png)](https://softexe.net/win/multimedia/video/cypheros-ts-doctor:hdcb.html)
 
 The program correctly supports the majority of commonly used standards (DVB-S, DVB-C and DVB-T). It has a large set of features that help us compose video footage, remove unnecessary ads (the tool has an automatic ad recognition mechanism), and check the video for errors and offset any issues that prevent the playback of the movie on a stationary DVD player. Speech, among others about malfunctions in the smoothness of audio / video playback, lack of video synchronization with sound, etc.

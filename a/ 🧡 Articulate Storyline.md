@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/articulate-storyline-11053.png) Articulate Storyline 2.12.336.0 - Free Download
 
-```sh
-Articulate Storyline is a powerful tool that is used to create professional e-learning courses and various multimedia presentations.
-```
+> Articulate Storyline is a powerful tool that is used to create professional e-learning courses and various multimedia presentations.
+
 [![Articulate Storyline](https://gallery.dpcdn.pl/imgc/Tools/63886/g_-_420x350_1.5_-_x20151129215706_0.png)](https://softexe.net/win/multimedia/graphics-design/articulate-storyline:ppRec.html)
 
 Although, after launching the program, it may seem that Articulate Storyline was created for experienced recipients, creators have designed it so that it is also accessible to beginners. To use the tool, you do not need to have any programming skills - you can start working immediately.

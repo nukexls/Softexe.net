@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/tweakpower-8453.png) TweakPower 1.154 - Free Download
 
-```sh
-TweakPower is a multifunctional tool that offers numerous options to speed up the operation of the Windows operating system and increase the efficiency of popular "windows".
-```
+> TweakPower is a multifunctional tool that offers numerous options to speed up the operation of the Windows operating system and increase the efficiency of popular "windows".
+
 [![TweakPower](https://gallery.dpcdn.pl/imgc/Tools/77012/g_-_420x350_1.5_-_x20170731220134_0.jpg)](https://softexe.net/win/system/system-tools/tweakpower:hdec.html)
 
 Thanks to TweakPower, we can not only remove unnecessary tools, fix errors on disks, as well as problems present in the Windows operating system, but also manage the list of programs run with the computer and defragment the hard disk. After performing these operations, we will certainly feel that applications load much faster, games run more smoothly, and copying files takes less time.

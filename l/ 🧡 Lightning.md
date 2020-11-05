@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/lightning-9188.png) Lightning 68.4.2 - Free Download
 
-```sh
-Lightning is a small and popular plug-in that adds a fully functional calendar to the Mozilla Thunderbird e-mail program.
-```
+> Lightning is a small and popular plug-in that adds a fully functional calendar to the Mozilla Thunderbird e-mail program.
+
 [![Lightning](https://gallery.dpcdn.pl/imgc/Tools/9188/g_-_420x350_1.5_-_x20120704134829_00.png)](https://softexe.net/win/internet/e-mail/lightning:aphh.html)
 
 The new calendar is distinguished by an unusual, intuitive and legible interface that integrates perfectly with the email client Mozilla Thunderbird. In addition, the Lightning plugin adds a new bar to the program, displaying the current date and informing about upcoming events. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/9/anydesk-624.png) AnyDesk 6.0.8 - Free Download
 
-```sh
-AnyDesk is a free application that is intended for remote access to a computer. There is the possibility of administration, access to all files, folders, photos, music on a remote PC, complete privacy and access security
-```
+> AnyDesk is a free application that is intended for remote access to a computer. There is the possibility of administration, access to all files, folders, photos, music on a remote PC, complete privacy and access security
+
 [![AnyDesk](https://gallery.dpcdn.pl/imgc/Tools/53252/g_-_420x350_1.5_-_x20140806112723_0.png)](https://softexe.net/win/internet/network/anydesk:fbd.html)
 
 AnyDesk is an excellent innovative application from the team of German developers AnyDesk Software for remote access to the computer you need. A distinctive feature of this tool is the high performance of the connection, which allows you to administer efficiently, quickly, conveniently and comfortably on a remote machine without visible delays.

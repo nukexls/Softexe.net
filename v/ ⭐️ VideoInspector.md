@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/videoinspector-8956.png) VideoInspector 2.15.3.147 - Free Download
 
-```sh
-VideoInspector is a small and very easy to use program providing detailed information about the selected video file. Among them, we can find data about the audio and video codecs and filters required for its reproduction.
-```
+> VideoInspector is a small and very easy to use program providing detailed information about the selected video file. Among them, we can find data about the audio and video codecs and filters required for its reproduction.
+
 [![VideoInspector](https://gallery.dpcdn.pl/imgc/Tools/63035/g_-_420x350_1.5_-_x20151028000108_0.png)](https://softexe.net/win/multimedia/other/videoinspector:haef.html)
 
 The tool can be used successfully to identify codecs that are required to play a given video material. In addition to the detection of missing components, VideoInspector also allows you to download them from the Internet. 

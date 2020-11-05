@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/aiseesoft-free-video-converter-9477.png) Aiseesoft Free Video Converter 2.0.28 - Free Download
 
-```sh
-Aiseesoft Free Video Converter is a free application designed to convert video content between the most popular formats, as well as files compatible with most mobile devices.
-```
+> Aiseesoft Free Video Converter is a free application designed to convert video content between the most popular formats, as well as files compatible with most mobile devices.
+
 [![Aiseesoft Free Video Converter](https://gallery.dpcdn.pl/imgc/Tools/86841/g_-_420x350_1.5_-_xac43ce0c-18e3-4203-a31c-645e44ea2273.png)](https://softexe.net/win/multimedia/video/aiseesoft-free-video-converter:adgg.html)
 
 The creators assure that the tool copes well with the support of over 300 most popular video formats, among which we will find, among others, MP4, AVI, MOV, WMV, MKV, FLV, MPG, TS, 3GP, ASF, VOB and many more. Despite a somewhat misleading name, Aiseesoft Free Video Converter also allows you to convert audio files between MP3, AAC, AC3, AIFF, M4R, WAV, WMA, AMR, AU, FLAC, MP2, M4A, OGG, etc. Applications have a set of predefined settings for smartphones , tablets or game consoles.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/phonerescue-for-android-9592.png) PhoneRescue for Android 3.7.0 - Free Download
 
-```sh
-PhoneRescue for Android is a tool that allows you to recover lost files from smartphones and tablets running Android.
-```
+> PhoneRescue for Android is a tool that allows you to recover lost files from smartphones and tablets running Android.
+
 [![PhoneRescue for Android](https://gallery.dpcdn.pl/imgc/Tools/84096/g_-_420x350_1.5_-_xb17c2449-aec9-4a49-8d61-7d3c52528fb6.jpg)](https://softexe.net/win/disks-files/data-recovery/phonerescue-for-android:aeab.html)
 
 After starting PhoneRescue for Android, you must connect your Android device to your computer via the USB connector. You should also activate the USB debugging function located in the programming options of your smartphone or tablet, and check whether your equipment works in airplane mode.

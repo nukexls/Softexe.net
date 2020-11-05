@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Handy Backup 8.1.3.19 - Free Download
 
-```sh
-Handy Backup is an easy-to-use program for automatically creating copies of your documents and data, which can be stored on any device (both external and internal, including CD-RW) or uploaded to an FTP server
-```
+> Handy Backup is an easy-to-use program for automatically creating copies of your documents and data, which can be stored on any device (both external and internal, including CD-RW) or uploaded to an FTP server
+
 [![Handy Backup](https://gallery.dpcdn.pl/imgc/Tools/2646/g_-_420x350_1.5_-_x20110415151654_00.jpg)](https://softexe.net/win/disks-files/backup/handy-backup:cbpg.html)
 
 Handy Backup is an easy-to-use program for automatically creating copies of your documents and data, which can be stored on any device (both external and internal, including on CD-RW) or uploaded to an FTP server. With the help of special add-ons, you can save not only individual files and folders, but also emails from MS Outlook, the registry or ICQ correspondence. It supports data synchronization, there are also other useful options.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/hitfilm-express-8431.png) HitFilm Express 15.1.10413.07203 - Free Download
 
-```sh
-HitFilm Express is a program designed for non-linear video editing and creating animations and special effects for home production. Beginning users will appreciate the simplicity of the tool and a rich base of effects, the result of which can be seen immediately after dragging them to a clip placed on the timeline.
-```
+> HitFilm Express is a program designed for non-linear video editing and creating animations and special effects for home production. Beginning users will appreciate the simplicity of the tool and a rich base of effects, the result of which can be seen immediately after dragging them to a clip placed on the timeline.
+
 [![HitFilm Express](https://gallery.dpcdn.pl/imgc/Tools/2961/g_-_420x350_1.5_-_x20110721104656_00.png)](https://softexe.net/win/multimedia/video/hitfilm-express:hdcp.html)
 
 Just like professional tools for creating video, HitFilm Express also allows you to edit multiple tracks simultaneously. Similar to the paid version, most of the most popular video, audio and graphics formats can be used to work with the program. HitFilm supports, among others formats such as WMV, MP4, AVI, MOV or MXF. In the case of FX facilities, the creators gave us over 100 effects, which can also be mixed to create interesting and unique effects in their home productions.

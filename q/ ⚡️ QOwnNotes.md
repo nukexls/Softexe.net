@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/b/qownnotes-8205.png) QOwnNotes 20.9.3 - Free Download
 
-```sh
-QOwnNotes is a free (open-source) word processor with markdown support and the option to manage a to-do list.
-```
+> QOwnNotes is a free (open-source) word processor with markdown support and the option to manage a to-do list.
+
 [![QOwnNotes](https://gallery.dpcdn.pl/imgc/Tools/85706/g_-_420x350_1.5_-_x56d32efb-a25f-44b8-bbcf-4df8b929afd9.jpg)](https://softexe.net/win/system/text-editors/qownnotes:hbRe.html)
 
 Individual user documents prepared using QOwnNotes are stored on the computer hard drive in the form of ordinary text files with the option of encrypting them. Notes can not only create and save, but also delete and share. There is also an option to restore previous versions of given files. If we have a large database, we can easily find the necessary content using the built-in search engine. The function will also make it easier for us to use keyboard shortcuts.

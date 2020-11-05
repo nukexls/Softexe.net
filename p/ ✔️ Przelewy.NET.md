@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Przelewy.NET 0.1.8.7 - Free Download
 
-```sh
-Przelewy.NET is a free tool for making bank transfers. Thanks to it, we will make transfers not only to private individuals, but also we will commission payments to ZUS or the Tax Office.
-```
+> Przelewy.NET is a free tool for making bank transfers. Thanks to it, we will make transfers not only to private individuals, but also we will commission payments to ZUS or the Tax Office.
+
 [![Przelewy.NET](https:)](https://softexe.net/win/hobbies-lifestyle/other/przelewy.net:pRaRa.html)
 
 The legible interface means that all users will be able to master the Przelewy.NET application. The tool allows you to define any number of bank transfers, as well as determine the declaration and type of premium paid to ZUS or a specific tax authority in a situation when we will send money to the Tax Office. Of course, there are also basic operations related to the possibility of adding, editing or deleting entries.

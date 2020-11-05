@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Lenovo+OneKey+Recovery icon&w=40&h=40) Lenovo OneKey Recovery 8.0.0.1219 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Lenovo OneKey Recovery 8.0.0.1219 - Free Download
 
-```sh
-Lenovo OneKey Recovery is a tool for backing up and restoring Windows directed to owners of Lenovo laptop computers with the OneKey function.
-```
+> Lenovo OneKey Recovery is a tool for backing up and restoring Windows directed to owners of Lenovo laptop computers with the OneKey function.
+
 [![Lenovo OneKey Recovery](https://gallery.dpcdn.pl/imgc/Tools/81100/g_-_420x350_1.5_-_xe1218f78-eb1c-4c8a-b743-25103236f4f7.png)](https://softexe.net/win/disks-files/data-recovery/lenovo-onekey-recovery:pReep.html)
 
 The program allows you to easily restore the operating system to factory settings when there are any problems with its correct operation. It uses for this purpose a special, hidden partition containing the name Recovery, which stores all the necessary files to reset the system, as well as backups.

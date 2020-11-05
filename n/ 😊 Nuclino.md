@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Nuclino icon&w=40&h=40) Nuclino 1.3.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Nuclino 1.3.0 - Free Download
 
-```sh
-Nuclino is a unified workspace for placing various notes, tasks or any other objects in real time. The tool will find its application not only in companies, but also for example during group work on school projects.
-```
+> Nuclino is a unified workspace for placing various notes, tasks or any other objects in real time. The tool will find its application not only in companies, but also for example during group work on school projects.
+
 [![Nuclino](https://gallery.dpcdn.pl/imgc/Tools/83053/g_-_420x350_1.5_-_x1876b288-f180-417e-83ea-d81065b938c3.jpg)](https://softexe.net/win/business/organizer/nuclino:hhfc.html)
 
 This program can be easily adapted to your needs. Nuclino offers the possibility to enter text, provide it with numerous graphics, movies, blocks of code, attachments and more. All objects added are immediately shared with other logged-in users, and when one of them edits a given part of the workspace, the others can view it at the same time.

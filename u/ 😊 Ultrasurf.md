@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/8/ultrasurf-7162.png) Ultrasurf 19.02 - Free Download
 
-```sh
-Ultrasurf is a utility that provides anonymous surfing and provides privacy on the Internet. Hides IP address and location, clears search history, cookies, allows you to overcome blocking on the Internet
-```
+> Ultrasurf is a utility that provides anonymous surfing and provides privacy on the Internet. Hides IP address and location, clears search history, cookies, allows you to overcome blocking on the Internet
+
 [![Ultrasurf](https://gallery.dpcdn.pl/imgc/Tools/64483/g_-_420x350_1.5_-_x20151229174940_0.png)](https://softexe.net/win/internet/anonymizers-vpn/ultrasurf:gpfb.html)
 
 Ultrasurf is a free program designed to bypass site blocking. The utility provides anonymous surfing and provides privacy on the Internet. It can increase the level of security when browsing the web, hides the IP address and location, clears the search history, cookies, allows you to overcome blocking on the Internet, etc.

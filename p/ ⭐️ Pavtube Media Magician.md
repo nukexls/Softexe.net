@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/pavtube-media-magician-10329.png) Pavtube Media Magician 1.0.0 build 751 - Free Download
 
-```sh
-Pavtube Media Magician is a tool for amateur editing and video editing, which is supported by a large number of input and output formats.
-```
+> Pavtube Media Magician is a tool for amateur editing and video editing, which is supported by a large number of input and output formats.
+
 [![Pavtube Media Magician](https://gallery.dpcdn.pl/imgc/Tools/82144/g_-_420x350_1.5_-_x7e83ece8-399d-4b8e-8bc1-e1d5b7031a74.png)](https://softexe.net/win/multimedia/video/pavtube-media-magician:pRcba.html)
 
 Just like competitive programs designed for beginner users, in this case the work with the application is based on the multimedia library and a special timeline. After loading all video materials (or recording via webcam), they should be placed using the drag-and-drop method on the mentioned timeline. The user has at his disposal tools allowing to cut and connect individual clips conveniently, apply effects to them, and improve their quality by using blur / sharpen filters, aging and correction of basic image attributes (brightness, contrast, saturation, etc.).

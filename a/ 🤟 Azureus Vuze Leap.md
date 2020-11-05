@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/azureus-vuze-leap-11273.png) Azureus Vuze Leap 2.6.0.1 - Free Download
 
-```sh
-Azureus Vuze Leap is a largely simplified version of the popular P2P client that allows you to easily download data (software, multimedia, graphics) from the Internet shared by other users.
-```
+> Azureus Vuze Leap is a largely simplified version of the popular P2P client that allows you to easily download data (software, multimedia, graphics) from the Internet shared by other users.
+
 [![Azureus Vuze Leap](https://gallery.dpcdn.pl/imgc/Tools/57889/g_-_420x350_1.5_-_x20150327153448_0.png)](https://softexe.net/win/internet/torrent-client/azureus-vuze-leap:ppbgc.html)
 
 The program will certainly satisfy most beginners, expecting solutions of this type of maximum simplicity of use and configuration. Its capabilities have been reduced to a minimum to what the application is also fast and consumes small amounts of system resources.

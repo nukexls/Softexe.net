@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/2/teamviewer-6815.png) TeamViewer 15.8.4.0 - Free Download
 
-```sh
-TeamViewer is an application for administering remote computers and servers using secure data transfer channels with key exchange and session AES encryption. There is an opportunity to show the screen to other users, file transfer
-```
+> TeamViewer is an application for administering remote computers and servers using secure data transfer channels with key exchange and session AES encryption. There is an opportunity to show the screen to other users, file transfer
+
 [![TeamViewer](https://gallery.dpcdn.pl/imgc/Tools/2168/g_-_420x350_1.5_-_x20141202113620_0.png)](https://softexe.net/win/internet/network/teamviewer:fhpe.html)
 
 TeamViewer is an easy-to-use program for remote access to computers bypassing firewalls, blocked ports, and also NAT-routing of local IP addresses. In addition, it is possible to show your own desktop and presentations to other users, as well as transfer files. The program uses secure data transfer channels with key exchange and AES session encryption. 

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Vim 8.2.1651 - Free Download
 
-```sh
-Vim (VI iMproved) is a clone of the VI text editor developed by Bram Moolenaar, available on many platforms.
-```
+> Vim (VI iMproved) is a clone of the VI text editor developed by Bram Moolenaar, available on many platforms.
+
 [![Vim](https://gallery.dpcdn.pl/imgc/Tools/1991/g_-_420x350_1.5_-_x20110209111854_00.jpg)](https://softexe.net/win/system/text-editors/vim:pRbeb.html)
 
 Vim distinguishes itself with an ascetic user interface that hides extended functionality. Vim allows, among others on: simultaneous editing of multiple files in separate windows (buffers), undoing to thousands of recently performed operations and moving back to the place in time in the life of the file. Another advantages are multi-chaos, support for syntax highlighting of both programming languages ​​and, for example, LaTeX, an extensive system of work automation with text using regular expressions.

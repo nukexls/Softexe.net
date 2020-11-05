@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/c/faktura-vat-2019-standard-8620.png) Faktura VAT 2019 STANDARD 19.1.38 - Free Download
 
-```sh
-VAT invoice 2019 STANDARD is a professional invoicing program for small and medium-sized companies that run production, service and commercial activities that serve both individual and mass clients (also for transport companies).
-```
+> VAT invoice 2019 STANDARD is a professional invoicing program for small and medium-sized companies that run production, service and commercial activities that serve both individual and mass clients (also for transport companies).
+
 [![Faktura VAT 2019 STANDARD](https://gallery.dpcdn.pl/imgc/Tools/72618/g_-_420x350_1.5_-_x20161129105700_0.png)](https://softexe.net/win/business/billing/faktura-vat-2019-standard:hfbR.html)
 
 Application possibilities besides the basic invoicing function also include options for serial and recurring printing (subscription invoices), handling of multiple entities in one program (eg accounting offices), cash registers and transfers, preparation of postal printed forms, KP and KW, management of the list of contractors and offered goods, creating price lists, registering VAT and generating various sales reports, etc.

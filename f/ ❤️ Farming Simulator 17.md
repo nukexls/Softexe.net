@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Farming+Simulator+17 icon&w=40&h=40) Farming Simulator 17  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Farming Simulator 17  - Free Download
 
-```sh
-Farming Simulator 17 is a new game from a series of popular farm simulators.
-```
+> Farming Simulator 17 is a new game from a series of popular farm simulators.
+
 [![Farming Simulator 17](https://gallery.dpcdn.pl/imgc/Tools/90254/g_-_420x350_1.5_-_xaaa1afd5-7379-4f5f-b4e7-d5c3bcede3e3.jpg)](https://softexe.net/win/games-entertainment/simulators/farming-simulator-17:habg.html)
 
 When it comes to fundamental assumptions in game mechanics, Farming Simulator 17 offers what fans of previous hits of the cycle know. Once again, we play the role of the owner of the farm, and our task is to develop our company. We must therefore grow animals (including cows, pigs, sheep, chickens) and grow plants (eg sunflowers), and then transport the crops and sell them in order to earn money.

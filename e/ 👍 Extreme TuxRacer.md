@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Extreme+TuxRacer icon&w=40&h=40) Extreme TuxRacer 0.7.4 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Extreme TuxRacer 0.7.4 - Free Download
 
-```sh
-Extreme TuxRacer is another free game with penguin, which is a well-known mascot of Linux systems. This free design offers fun just in time for long winter evenings, especially when the snow is still missing outside the window. The rules of the game are uncomplicated, so the title is ideal even for younger computer players. With great joy they will glide down the frozen slopes on their stomachs.
-```
+> Extreme TuxRacer is another free game with penguin, which is a well-known mascot of Linux systems. This free design offers fun just in time for long winter evenings, especially when the snow is still missing outside the window. The rules of the game are uncomplicated, so the title is ideal even for younger computer players. With great joy they will glide down the frozen slopes on their stomachs.
+
 [![Extreme TuxRacer](https://gallery.dpcdn.pl/imgc/Tools/64414/g_-_420x350_1.5_-_x20151224010226_0.jpg)](https://softexe.net/win/games-entertainment/race/extreme-tuxracer:pRdcb.html)
 
 Apart from Tuks, there are several other pets to choose from. The character-controlled character has two tasks. First of all, he must get to the finish in the best possible time. This is not enough to win. One should also collect a certain number of fish along the way. The further away, the more difficult it is, because the subsequent routes are more and more twisted, and the weather also often limits visibility on the slope.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Angry Birds Rio 2.2.0 - Free Download
 
-```sh
-Angry Birds Rio is another product that is the result of marketing cooperation in film promotion. As the name suggests, it's about the animated series Rio for children, telling the story of various animals, but with the birds at the forefront. The well-known fun mechanics of the saga of the feathered piglets were remodeled a bit to fit the subject of cinema images produced in 3D technology.
-```
+> Angry Birds Rio is another product that is the result of marketing cooperation in film promotion. As the name suggests, it's about the animated series Rio for children, telling the story of various animals, but with the birds at the forefront. The well-known fun mechanics of the saga of the feathered piglets were remodeled a bit to fit the subject of cinema images produced in 3D technology.
+
 [![Angry Birds Rio](https://gallery.dpcdn.pl/imgc/Tools/64194/g_-_420x350_1.5_-_x20151214114930_1.jpg)](https://softexe.net/win/games-entertainment/arcade-action/angry-birds-rio:pbRab.html)
 
 We are still firing a slingshot to get rid of selected goals set in the next stages. Depending on the tasks related to a given part of Rio, it may be a need to break up the cages with imprisoned exotic birds or, say, liquidate the evil monkeys that replace pigs. Of course, in the next levels the player has to deal with more and more complex constructions.

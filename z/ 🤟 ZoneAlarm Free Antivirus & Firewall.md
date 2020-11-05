@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=ZoneAlarm+Free+Antivirus+%26+Firewall icon&w=40&h=40) ZoneAlarm Free Antivirus & Firewall 15.8.125.18466 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) ZoneAlarm Free Antivirus & Firewall 15.8.125.18466 - Free Download
 
-```sh
-ZoneAlarm Free Antivirus + Firewall is a free package that protects your computer against viruses and other online threats. It includes an advanced antivirus module, two firewalls and several other tools supporting the protection of the operating system.
-```
+> ZoneAlarm Free Antivirus + Firewall is a free package that protects your computer against viruses and other online threats. It includes an advanced antivirus module, two firewalls and several other tools supporting the protection of the operating system.
+
 [![ZoneAlarm Free Antivirus & Firewall](https://gallery.dpcdn.pl/imgc/Tools/118/g_-_420x350_1.5_-_x20100525120309.png)](https://softexe.net/win/security-privacy/firewalls/zonealarm-free-antivirus-firewall:hpdb.html)
 
 The program does not take too much system resources and in addition is light, fast and extremely easy to use. Built-in antivirus module detects, blocks and instantly removes viruses, spyware, Trojan horses, worms, bots and rootkits. In addition, it prevents virus infection at the kernel level of the system kernel and has the ability to conduct a thorough behavioral analysis to detect various pests on the computer. 

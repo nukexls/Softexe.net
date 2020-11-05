@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/firefox-multi-account-containers-10825.png) Firefox Multi-Account Containers 4.0.1 - Free Download
 
-```sh
-Firefox Multi-Account Containers is the official extension to Firefox, which allows you to use isolated containers for the simultaneous use of multiple accounts on the same sites, simultaneously within a single browser window.
-```
+> Firefox Multi-Account Containers is the official extension to Firefox, which allows you to use isolated containers for the simultaneous use of multiple accounts on the same sites, simultaneously within a single browser window.
+
 [![Firefox Multi-Account Containers](https:https://tse4.mm.bing.net/th?id=OIP.orL0s2d_j3VzqsDsxNCpIAHaEo&pid=Api)](https://softexe.net/win/internet/browser-add-ons/firefox-multi-account-containers:pRhbe.html)
 
 An additional advantage is the ability to conveniently divide sites into different containers, where each one is assigned different colors, icons and descriptions, which will visually separate related pages, for example, from learning from professional ones.

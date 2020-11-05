@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/e/museeks-10351.png) Museeks 0.9.4 - Free Download
 
-```sh
-Museeks is a free and multiplatform media player.
-```
+> Museeks is a free and multiplatform media player.
+
 [![Museeks](https://gallery.dpcdn.pl/imgc/Tools/80501/g_-_420x350_1.5_-_xe6db7947-1522-4a03-988e-7fc12311642f.jpg)](https://softexe.net/win/multimedia/audio-video-players/museeks:pRcep.html)
 
 The tool is characterized by a minimalist interface and simplicity of use. Musseks' tasks include mainly playing and stopping selected music. Thanks to the built-in search engine, we can quickly locate selected songs, play them or add them to the selected playlist.

@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/a/paintstorm-studio-10536.png) Paintstorm Studio 2.43 - Free Download
 
-```sh
-Paintstorm Studio is an advanced graphic tool, designed especially for those talented people who love to use a brush. The creators set themselves the goal to create the best virtual brush painting applications on the market.
-```
+> Paintstorm Studio is an advanced graphic tool, designed especially for those talented people who love to use a brush. The creators set themselves the goal to create the best virtual brush painting applications on the market.
+
 [![Paintstorm Studio](https://gallery.dpcdn.pl/imgc/Tools/59537/g_-_420x350_1.5_-_x20150618221353_0.png)](https://softexe.net/win/multimedia/graphics-editors/paintstorm-studio:pRecf.html)
 
 Despite the huge number of options - the same ones associated with different types of brushes and their customization can be counted in hundreds - the program is quite intuitive to use and does not require reading the user manual to become familiar with it. As mentioned above, there are quite a lot of functions, many of them related to various brushes, which can be further modified to better reflect the individual style of the user.

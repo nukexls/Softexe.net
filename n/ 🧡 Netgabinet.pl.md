@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Netgabinet.pl icon&w=40&h=40) Netgabinet.pl 1.66 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Netgabinet.pl 1.66 - Free Download
 
-```sh
-Netgabinet.pl is an electronic system supporting the creation of medical records and prescribing medicines. The application facilitates and supports the creation of full medical documentation along with the registration of patients, a list of visits, issuing prescriptions, as well as generating medical reports and reports.
-```
+> Netgabinet.pl is an electronic system supporting the creation of medical records and prescribing medicines. The application facilitates and supports the creation of full medical documentation along with the registration of patients, a list of visits, issuing prescriptions, as well as generating medical reports and reports.
+
 [![Netgabinet.pl](https://gallery.dpcdn.pl/imgc/Tools/9544/g_-_420x350_1.5_-_x20120802144447_00.jpg)](https://softexe.net/win/business/finance/netgabinet.pl:ahhf.html)
 
 The program has a readable and fully functional user interface, in which we will find special modules to support the creation and supplementation of documentation. The user can manage the doctor's work time, define working hours, the number of patients to be taken and register patients using an electronic schedule.

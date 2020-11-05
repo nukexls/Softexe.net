@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=Dashlane icon&w=40&h=40) Dashlane 6.2035.0 - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) Dashlane 6.2035.0 - Free Download
 
-```sh
-Dashlane is used to store logins, passwords and credit card numbers. All information entered into the application is secure because it uses the AES-256 encryption algorithm.
-```
+> Dashlane is used to store logins, passwords and credit card numbers. All information entered into the application is secure because it uses the AES-256 encryption algorithm.
+
 [![Dashlane](https:https://tse3.mm.bing.net/th?id=OIP.0qoGp0iRapQsvXR7EyHengHaFQ&pid=Api)](https://softexe.net/win/system/other/dashlane:hepe.html)
 
 The user interface of the described tool is clear and modern. On the left we have access to the list of individual options (eg password management or network payments), while on the right, in a larger window, we can get to know the details of the entered data. Dashlane also includes a search engine, thanks to which we will get access to the information you need in a very quick way.

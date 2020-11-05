@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/f/free-video-to-mp3-converter-10644.png) Free Video to MP3 Converter 5.1.8.310 - Free Download
 
-```sh
-Free Video to MP3 Converter is a free tool used to extract the audio track from the indicated video material and write it to the disc in MP3 format.
-```
+> Free Video to MP3 Converter is a free tool used to extract the audio track from the indicated video material and write it to the disc in MP3 format.
+
 [![Free Video to MP3 Converter](https://gallery.dpcdn.pl/imgc/Tools/57910/g_-_420x350_1.5_-_x20150328185412_0.png)](https://softexe.net/win/multimedia/video/free-video-to-mp3-converter:pRfdd.html)
 
 The program is characterized by simple operation and high speed of operation. He successfully manages the processing of individual multimedia as well as entire sets of them. Despite the somewhat misleading name, the tool allows you to convert audio to M4A, M4R, ACC, WAV, WMA, OGG, FLAC, APE formats and MP3 already mentioned in various qualities, as well as to generate M3U playlists.

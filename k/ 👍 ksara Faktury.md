@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/1/ksara-faktury-10633.png) ksara Faktury 2.53 - Free Download
 
-```sh
-ksara Invoices is an intuitive invoicing program dedicated to the SME sector. The advantage of the program is the service of an unlimited number of sellers under one license.
-```
+> ksara Invoices is an intuitive invoicing program dedicated to the SME sector. The advantage of the program is the service of an unlimited number of sellers under one license.
+
 [![ksara Faktury](https:https://tse4.mm.bing.net/th?id=OIP.XlkfktYU4bTiHaL1Smb61AHaFu&pid=Api)](https://softexe.net/win/business/billing/ksara-faktury:pRfcc.html)
 
 ksara Invoices allow you to issue VAT invoices, VAT MP, VAT RR, proforma invoices, reverse invoices, invoices and final invoices, with a margin, as well as duplicates and correcting documents. You can also issue currency invoices with the value of VAT in PLN and bills and freely select the numbering system. There was a sales and payment record, so you can find outstanding contractors. The program supports currencies: PLN, EUR, USD, AUD, CAD, CHF, GBP, JPY and RUB. Product prices can be given net and gross. Each seller can have several bank accounts assigned.

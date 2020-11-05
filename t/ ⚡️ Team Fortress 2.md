@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/win.gif) Team Fortress 2  - Free Download
 
-```sh
-Team Fortress 2 is a team multiplayer FPS which is a continuation of the famous Team Fortress Classic. However, it gave up the realistic approach to gameplay and the best possible reproduction of reality.
-```
+> Team Fortress 2 is a team multiplayer FPS which is a continuation of the famous Team Fortress Classic. However, it gave up the realistic approach to gameplay and the best possible reproduction of reality.
+
 [![Team Fortress 2](https://gallery.dpcdn.pl/imgc/Tools/63499/g_-_420x350_1.5_-_x20151112111302_0.jpg)](https://softexe.net/win/games-entertainment/shooters/team-fortress-2:pcdgc.html)
 
 Thanks to the use of the new Source engine, the creators managed to move away from the effects of the modern world, giving the game a comedic, ironic atmosphere and being doused with a comic sauce. Everything is exaggerated here with the intention of giving not only a grotesque aftertaste, but also highlighting all the most important, individual psychomotor qualities of each character.

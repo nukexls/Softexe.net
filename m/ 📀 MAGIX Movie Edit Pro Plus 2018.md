@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/magix-movie-edit-pro-plus-2018-10793.png) MAGIX Movie Edit Pro Plus 2018 17.0.1.127 - Free Download
 
-```sh
-MAGIX Movie Edit Pro Plus is an advanced program for editing movies with an intuitive interface. The program allows you to arrange a project on 99 image and sound paths, it can handle the assembly of 4K and 360 ° panoramic materials.
-```
+> MAGIX Movie Edit Pro Plus is an advanced program for editing movies with an intuitive interface. The program allows you to arrange a project on 99 image and sound paths, it can handle the assembly of 4K and 360 ° panoramic materials.
+
 [![MAGIX Movie Edit Pro Plus 2018](https:https://tse4.mm.bing.net/th?id=OIP.3vdtefk0WD77YxGlZWxntwHaJ2&pid=Api)](https://softexe.net/win/multimedia/video/magix-movie-edit-pro-plus-2018:pRgac.html)
 
 The program's interface has been designed to ensure that the clips can be clipped precisely at low cost. The program can also mount the supplied films to the music. There are several hundred effects, transitions, inputs, outputs and subtitle templates available for the user, which can be further adapted. 

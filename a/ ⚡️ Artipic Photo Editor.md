@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/3/artipic-photo-editor-9034.png) Artipic Photo Editor 2.9.2 - Free Download
 
-```sh
-Artipic Photo Editor is a photo editor, thanks to which we will perform a retouch operation of the selected photo very quickly (eg remove the red-eye effect).
-```
+> Artipic Photo Editor is a photo editor, thanks to which we will perform a retouch operation of the selected photo very quickly (eg remove the red-eye effect).
+
 [![Artipic Photo Editor](https://gallery.dpcdn.pl/imgc/Tools/69085/g_-_420x350_1.5_-_x20160630130943_0.png)](https://softexe.net/win/multimedia/graphics-design/artipic-photo-editor:aRcd.html)
 
 In a situation where we want to edit many files, Artipic Photo Editor allows you to work in batch mode. All you have to do is select the available images or even entire folders, specify the editing rules (eg rotate the image by 90 degrees) and click the button to start the operation. The program offers the function of saving batch mode settings, which you can use later without having to redefine the settings.

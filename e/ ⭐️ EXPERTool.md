@@ -1,8 +1,7 @@
-# ![](https://tse2.mm.bing.net/th?q=EXPERTool icon&w=40&h=40) EXPERTool 10.32  - Free Download
+# ![](https://cdn.softexe.net/static/icon/win.gif) EXPERTool 10.32  - Free Download
 
-```sh
-EXPERTool is a free tool for NVIDIA graphic card holders that allows you to monitor and overclock the GPU and update the BIOS.
-```
+> EXPERTool is a free tool for NVIDIA graphic card holders that allows you to monitor and overclock the GPU and update the BIOS.
+
 [![EXPERTool](https://gallery.dpcdn.pl/imgc/Tools/90508/g_-_420x350_1.5_-_x7821070d-3682-4371-a4f1-83c115be28e4.jpg)](https://softexe.net/win/system/diagnostics-tests/expertool:hgeR.html)
 
 Although it is better to entrust advanced users with the above activities, EXPERTool is very easy to use. It is worth adding that the program also allows you to check the temperature of the graphics card, use the core and memory and allows you to monitor the work of the fan.

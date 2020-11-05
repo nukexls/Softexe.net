@@ -1,8 +1,7 @@
 # ![](https://cdn.softexe.net/static/icon/0/monosnap-4423.png) Monosnap 3.6.36 - Free Download
 
-```sh
-Monosnap is a "cloud" service for quickly and conveniently receiving screenshots and sending them to friends and colleagues. Allows you to take screenshots of the active window, the entire screen or part of it
-```
+> Monosnap is a "cloud" service for quickly and conveniently receiving screenshots and sending them to friends and colleagues. Allows you to take screenshots of the active window, the entire screen or part of it
+
 [![Monosnap](https://gallery.dpcdn.pl/imgc/Tools/67000/g_-_420x350_1.5_-_x20160408135926_0.png)](https://softexe.net/win/multimedia/graphics-design/monosnap:ddbc.html)
 
 Monosnap is a "cloud" service for quickly and conveniently receiving screenshots and sending them to friends and colleagues. Allows you to take screenshots of the active window, the entire screen or part of it. It is possible to add annotations and edit the finished images. Supports hotkeys.
