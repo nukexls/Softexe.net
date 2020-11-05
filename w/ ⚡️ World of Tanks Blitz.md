@@ -1,0 +1,18 @@
+# ![](https://cdn.softexe.net/static/icon/e/world-of-tanks-blitz-10838.png) World of Tanks Blitz 4.1.0 - Free Download
+
+```sh
+World of Tanks Blitz is a computer edition of the mobile version of the popular MMO World of Tanks game. Thanks to it, we can play our mobile account using the keyboard and mouse.
+```
+[![World of Tanks Blitz](https:https://tse2.mm.bing.net/th?id=OIP.KhMW9WCB19JPPoH6Cepy7gHaEo&pid=Api)](https://softexe.net/win/games-entertainment/shooters/world-of-tanks-blitz:pRhch.html)
+
+Although World of Tanks Blitz for mobile devices is an independent, separately developed production, the mechanisms of its gameplay do not differ much from those known from the version for PCs and consoles. World of Tanks gives a unique opportunity to empathize with the role of the commander of the armored combat vehicle. However, in order to be able to direct a real monster, we first have to pass an exam of our skills on one of four available light tanks: American, French, German or Soviet. In the initial phase of the game we can experience a slight frustration resulting from the small combat capabilities of our vehicle, but as time passes and with the experience gained, we can gradually change this state of affairs mainly by buying upgrades intended for our model. 
+ Systematically and consistently we modernize the engine, chassis, turret and radio. Unfortunately, many amenities remain in the matter of micropayments, but well ... The system of improving and increasing our combat efficiency is also the so-called. technological tree, thanks to which we can activate next vehicles from the middle class, heavy class, destroyers or self-propelled guns with the aid of points gained during the fights. We can also modify them accordingly. The game also has a crew promotion system. The higher its level of experience, resulting either from the training system or from the number of skirmishes fought, the more rational behavior on the battlefield. One-time use also includes items such as first aid kits, repair kits or special fuel additives that increase engine power.
+ The game offers us the opportunity to play in up to fourteen people on one of 10 maps. In the specificity of control and gameplay on the touch screen introduces a partially mandatory, but well-prepared tutorial. It is worth getting acquainted with it in its entirety. Driving and fighting will require some practice (especially on smaller screens), but after a long training, the whole is nice.
+ Among the advantages, definitely worth mentioning are good graphics and sounds. We will find here not only a fully-translated interface, but also voice messages. They not only sound very good, but also can be helpful while playing, informing us about the condition of the vehicle and crew. Also enjoy frequent game updates. There were also extensive micropayments, which, although not mandatory, significantly diversify and facilitate fun, especially in its later stages. World of Tanks Blitz is a good proposition not only for lovers of the original, but also for people who are looking for an interesting, well-prepared MMO for mobile devices. The universal version of the game is available on all devices with Windows 10, including Mobile.
+
+
+- **Update:** Sep 12 2017
+- **File size:** 
+
+[![Download](https://cdn.softexe.net/static/img/download.png)](https://softexe.net/win/games-entertainment/shooters/world-of-tanks-blitz:pRhch.html)
+
