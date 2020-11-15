@@ -1,2 +1,5 @@
-# [![Download](https://cdn.softexe.net/static/img/download.png)]Softexe.net] - free download software
+# Softexe.net - free download software
 
+
+
+[![Softexe.net](https://cdn.softexe.net/static/logo.png)](https://softexe.net)
